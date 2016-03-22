@@ -1,0 +1,248 @@
+{
+  "page" : 0,
+  "fullPageSize" : {
+    "start" : {
+      "x" : 0,
+      "y" : 0
+    },
+    "end" : {
+      "x" : 1059,
+      "y" : 1884
+    }
+  },
+  "pageSize" : null,
+  "ayatPos" : [
+    {
+      "position" : {
+        "center" : {
+          "x" : 223,
+          "y" : 312
+        },
+        "radius" : 26
+      },
+      "verseRef" : {
+        "chapterNumber" : 5,
+        "verseNumber" : 92
+      }
+    },
+    {
+      "position" : {
+        "center" : {
+          "x" : 203,
+          "y" : 523
+        },
+        "radius" : 26
+      },
+      "verseRef" : {
+        "chapterNumber" : 5,
+        "verseNumber" : 93
+      }
+    },
+    {
+      "position" : {
+        "center" : {
+          "x" : 672,
+          "y" : 734
+        },
+        "radius" : 26
+      },
+      "verseRef" : {
+        "chapterNumber" : 5,
+        "verseNumber" : 94
+      }
+    },
+    {
+      "position" : {
+        "center" : {
+          "x" : 77,
+          "y" : 945
+        },
+        "radius" : 26
+      },
+      "verseRef" : {
+        "chapterNumber" : 5,
+        "verseNumber" : 95
+      }
+    },
+    {
+      "position" : {
+        "center" : {
+          "x" : 634,
+          "y" : 1262
+        },
+        "radius" : 26
+      },
+      "verseRef" : {
+        "chapterNumber" : 5,
+        "verseNumber" : 96
+      }
+    },
+    {
+      "position" : {
+        "center" : {
+          "x" : 79,
+          "y" : 1684
+        },
+        "radius" : 26
+      },
+      "verseRef" : {
+        "chapterNumber" : 5,
+        "verseNumber" : 97
+      }
+    }
+  ],
+  "lines" : [
+    {
+      "start" : {
+        "x" : 46,
+        "y" : 153
+      },
+      "end" : {
+        "x" : 1015,
+        "y" : 258
+      }
+    },
+    {
+      "start" : {
+        "x" : 46,
+        "y" : 258
+      },
+      "end" : {
+        "x" : 1015,
+        "y" : 363
+      }
+    },
+    {
+      "start" : {
+        "x" : 46,
+        "y" : 363
+      },
+      "end" : {
+        "x" : 1015,
+        "y" : 468
+      }
+    },
+    {
+      "start" : {
+        "x" : 46,
+        "y" : 468
+      },
+      "end" : {
+        "x" : 1015,
+        "y" : 573
+      }
+    },
+    {
+      "start" : {
+        "x" : 46,
+        "y" : 573
+      },
+      "end" : {
+        "x" : 1015,
+        "y" : 678
+      }
+    },
+    {
+      "start" : {
+        "x" : 46,
+        "y" : 678
+      },
+      "end" : {
+        "x" : 1015,
+        "y" : 783
+      }
+    },
+    {
+      "start" : {
+        "x" : 46,
+        "y" : 783
+      },
+      "end" : {
+        "x" : 1015,
+        "y" : 888
+      }
+    },
+    {
+      "start" : {
+        "x" : 46,
+        "y" : 888
+      },
+      "end" : {
+        "x" : 1015,
+        "y" : 993
+      }
+    },
+    {
+      "start" : {
+        "x" : 46,
+        "y" : 993
+      },
+      "end" : {
+        "x" : 1015,
+        "y" : 1098
+      }
+    },
+    {
+      "start" : {
+        "x" : 46,
+        "y" : 1098
+      },
+      "end" : {
+        "x" : 1015,
+        "y" : 1203
+      }
+    },
+    {
+      "start" : {
+        "x" : 46,
+        "y" : 1203
+      },
+      "end" : {
+        "x" : 1015,
+        "y" : 1308
+      }
+    },
+    {
+      "start" : {
+        "x" : 46,
+        "y" : 1308
+      },
+      "end" : {
+        "x" : 1015,
+        "y" : 1413
+      }
+    },
+    {
+      "start" : {
+        "x" : 46,
+        "y" : 1413
+      },
+      "end" : {
+        "x" : 1015,
+        "y" : 1518
+      }
+    },
+    {
+      "start" : {
+        "x" : 46,
+        "y" : 1518
+      },
+      "end" : {
+        "x" : 1015,
+        "y" : 1623
+      }
+    },
+    {
+      "start" : {
+        "x" : 46,
+        "y" : 1623
+      },
+      "end" : {
+        "x" : 1015,
+        "y" : 1728
+      }
+    }
+  ],
+  "headers" : [ ],
+  "basmallah" : [ ]
+}

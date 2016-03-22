@@ -1,0 +1,1059 @@
+{
+  "chapterNumber" : 78,
+  "nbVerses" : 40,
+  "name" : "L’Annonce",
+  "nameArabic" : "النبأ",
+  "transName" : "an-nabaʾ",
+  "verses" : [
+    {
+      "verseNumber" : 1,
+      "arabicVerse" : "عَمَّ يَتَسَاءَلُونَ",
+      "simpleTranslate" : [
+        "À propos de quoi s’interrogent-ils?"
+      ],
+      "tafsirTranslate" : [
+        "A propos de ce que demandent-ils un autre?"
+      ],
+      "tanslateWordByWord" : [
+        "Sur quoi",
+        "demandent-ils les uns des autres"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 2,
+      "arabicVerse" : "عَنِ النَّبَإِ الْعَظِيمِ",
+      "simpleTranslate" : [
+        "À propos de la grande nouvelle"
+      ],
+      "tafsirTranslate" : [
+        "Est-il sur le tiding génial"
+      ],
+      "tanslateWordByWord" : [
+        "Sur",
+        "les nouvelles",
+        "le grand"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 3,
+      "arabicVerse" : "الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ",
+      "simpleTranslate" : [
+        "qui ne cesse de les diviser !"
+      ],
+      "tafsirTranslate" : [
+        "qu'ils sont en désaccord total <N:1>?"
+      ],
+      "tanslateWordByWord" : [
+        "(A propos de",
+        "ils",
+        "(Sont) le concernant",
+        "(En) désaccord"
+      ],
+      "notes" : {
+        "1" : [
+          "[ \"The Great Nouvelles\"]: les nouvelles de la Résurrection et au-delà, que les",
+          "gens de la Mecque entendu avec étonnement, puis soulevé des questions et des",
+          "doutes à ce sujet dans leurs assemblées. Quand ils se sont rencontrés, ils",
+          "demandaient:? [ «Avez-vous jamais entendu que les morts seront ressuscités à la",
+          "vie est-il crédible que la vie sera perfusé une fois de plus dans les os qui ne",
+          "se dégradent et deviennent pourrie-t-il tenir à la raison que l'ancienne et les",
+          "dernières générations se lèveront et rassembler en un seul lieu? Est-il possible",
+          "que ces énormes montagnes qui sont si solidement fixés sur la terre vont voler au",
+          "sujet comme des flocons de laine? peut-il arriver que le soleil et la lune et les",
+          "étoiles doivent être éteints et l'ordre et le système du monde être renversées et",
+          "bouleversé? Qu'est-ce qui est arrivé à celui qui était jusqu'à hier un homme sain",
+          "d'esprit et sage parmi nous? Aujourd'hui, il nous donne étrange, nouvelles",
+          "impossible. Où était cet enfer et ? le ciel dont nous avait jamais entendu parler",
+          "de lui avant d'où ont-ils soudainement apparu afin qu'il a commencé à les",
+          "dépeindre si vivement devant nous \"] Un autre sens de fi-salut mukhtalifun peut",
+          "également être: [\"? Comme ces gens se sont pas d'accord sur une vue sur la fin du",
+          "monde FHE, ils ont des opinions à ce sujet différents. \"] Quelqu'un a été",
+          "influencée par la croyance chrétienne et croit en la vie après la mort, mais",
+          "pense que la deuxième vie ne serait pas un physique, mais seulement Vie",
+          "spirituelle. Un autre ne nie pas l'au-delà absolument, mais doute qu'il était",
+          "possible ou non. Le Coran rapporte le point de vue de ces mêmes personnes quand",
+          "il dit: [ \"Nous ne devinons que:. Nous ne sommes pas certains\"] [(AI-Jathiyah: 32",
+          "<V:45:32>)]. Et un autre dit clairement: [ «Il n'y a pas d'autre vie que la vie",
+          "présente, et nous ne doit jamais être soulevée à la vie après notre mort.\"]",
+          "[(Al-An`am: 29 <V:6:29>)]. Puis, il y avait des athées, qui a dit: [ \".. La vie",
+          "est seulement cette vie qui est le nôtre ici nous allons mourir et vivre et rien",
+          "que le changement de temps nous détruit\"] [(AI-Jathiyah: 24 <V:45:24>)]. Il y",
+          "avait quelques autres qui ne sont pas athée, mais ils considéraient la deuxième",
+          "vie comme impossible. Selon eux, il était au-delà de la puissance de Dieu pour",
+          "élever le dos morts à la vie. Ils ont dit, [ \"Qui va donner vie à ces os quand",
+          "ils sont pourris.\"] [(Ya Sin: 78 <V:36:78>)]. Leurs points de vue différents par",
+          "eux-mêmes étaient une preuve qu'ils ne connaissaient pas à cet égard; ils étaient",
+          "seulement conjecturer et deviner. ils avaient des connaissances qu'ils ont",
+          "convenu de vue ane. [(Pour de plus amples explications, voir E.N. . 6 de la",
+          "sourate Ad-Dariyat)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 4,
+      "arabicVerse" : "كَلَّا سَيَعْلَمُونَ",
+      "simpleTranslate" : [
+        "Qu’ils patientent ! Ils en seront bientôt informés !"
+      ],
+      "tafsirTranslate" : [
+        "Non en effet, <N:2> dès qu'ils viendront pour savoir; <N:3>"
+      ],
+      "tanslateWordByWord" : [
+        "Non",
+        "(Bientôt) ils sauront"
+      ],
+      "notes" : {
+        "2" : [
+          "Autrement dit, tout ce qu'ils disent à propos de l'au-delà est faux, et tous",
+          "leurs concepts à ce sujet sont fausses."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 5,
+      "arabicVerse" : "ثُمَّ كَلَّا سَيَعْلَمُونَ",
+      "simpleTranslate" : [
+        "Oui, qu’ils patientent ! Ils en seront bientôt informés !"
+      ],
+      "tafsirTranslate" : [
+        "à nouveau, sans effet; dès qu'ils viendront pour savoir."
+      ],
+      "tanslateWordByWord" : [
+        "alors",
+        "Non",
+        "(Bientôt) ils sauront"
+      ],
+      "notes" : {
+        "3" : [
+          "Autrement dit, le temps est pas loin quand la même chose au sujet de laquelle ils",
+          "expriment toutes sortes de doutes et craintes dénuées de sens, apparaît devant",
+          "eux comme une réalité. Ensuite, ils se rendront compte que ce que le Messager",
+          "avait prédit était absolument vrai et ce qu'ils disaient sur la base de la",
+          "conjecture et la spéculation avait pas de vérité en lui."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 6,
+      "arabicVerse" : "أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا",
+      "simpleTranslate" : [
+        "N’avons-Nous pas disposé la Terre comme un berceau"
+      ],
+      "tafsirTranslate" : [
+        "Nous avons pas propagé la terre comme un lit, <N:4>"
+      ],
+      "tanslateWordByWord" : [
+        "Ne pas avoir",
+        "Nous avons fait",
+        "La terre",
+        "un lieu de repos"
+      ],
+      "notes" : {
+        "4" : [
+          "assez léger a été jeté à plusieurs endroits dans la signification du Coran sur la",
+          "suprême sagesse et la puissance d'Allah qui sous-tend sa prise de la terre un",
+          "tapis, à savoir une demeure de paix parfaite et de repos. Pour plus",
+          "d'explications, voir de E.N. 73, 74, 81 An-Naml, E.N. 29 de Ya Sin, E.N. de 90,",
+          "91 de Al-Mu'min, E.N. 7 de Az-Zukhruf, E.N. 7 d'Al-Jathiyah, E.N. 18 de la",
+          "sourate Qaf."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 7,
+      "arabicVerse" : "وَالْجِبَالَ أَوْتَادًا",
+      "simpleTranslate" : [
+        "et les montagnes comme des rivets de fixation?"
+      ],
+      "tafsirTranslate" : [
+        "et fixe les montagnes comme des piquets, <N:5>"
+      ],
+      "tanslateWordByWord" : [
+        "Et les montagnes",
+        "(As) chevilles"
+      ],
+      "notes" : {
+        "5" : [
+          "Pour la sagesse de créer des montagnes sur la terre, voir E.N. 12 AnNahl, E.N. 74",
+          "An-Naml, E.N. 15 d'Al-Mursalat."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 8,
+      "arabicVerse" : "وَخَلَقْنَاكُمْ أَزْوَاجًا",
+      "simpleTranslate" : [
+        "Ne vous avons-Nous pas créés par couples,"
+      ],
+      "tafsirTranslate" : [
+        "et vous créé par paires (comme les hommes et les femmes), <N:6>"
+      ],
+      "tanslateWordByWord" : [
+        "Et Nous vous avons créés",
+        "(par deux"
+      ],
+      "notes" : {
+        "6" : [
+          "Pour une explication de la sagesse suprême qui sous-tend la création des hommes",
+          "et des femmes en paires, voir E.N. 69 AI-Furgan, de 28 à 30 Ar-Rum E. N., E.N. 31",
+          "de Ya Sin, E.N. 77 de Ash-Shura, E N.12 de Az-Zukhruf, E.N. 25 AlQiyamah."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 9,
+      "arabicVerse" : "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا",
+      "simpleTranslate" : [
+        "institué le sommeil pour votre repos,"
+      ],
+      "tafsirTranslate" : [
+        "et fait votre sommeil un moyen de repos, <N:7>"
+      ],
+      "tanslateWordByWord" : [
+        "Et Nous avons fait",
+        "ton sommeil",
+        "(Pour) reste"
+      ],
+      "notes" : {
+        "7" : [
+          "L'explication de la sagesse pour laquelle Allah Tout-Puissant a placé une envie",
+          "de dormir dans la nature de l'homme dans le but de lui faire apte au travail dans",
+          "le monde, et qui le pousse à un sommeil de quelques heures après chaque quelques",
+          "heures de travail, a été donnée dans l'eN 33 de la sourate Ar-Rum."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 10,
+      "arabicVerse" : "وَجَعَلْنَا اللَّيْلَ لِبَاسًا",
+      "simpleTranslate" : [
+        "étendu la nuit sur vous comme un manteau"
+      ],
+      "tafsirTranslate" : [
+        "et fait de la nuit un revêtement,"
+      ],
+      "tanslateWordByWord" : [
+        "Et Nous avons fait",
+        "la nuit",
+        "(As) couvrant"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 11,
+      "arabicVerse" : "وَجَعَلْنَا النَّهَارَ مَعَاشًا",
+      "simpleTranslate" : [
+        "et réservé le jour à la recherche de votre subsistance?"
+      ],
+      "tafsirTranslate" : [
+        "et fait la journée à chercher des moyens de subsistance, <N:8>"
+      ],
+      "tanslateWordByWord" : [
+        "Et Nous avons fait",
+        "le jour",
+        "(Pour) des moyens de subsistance"
+      ],
+      "notes" : {
+        "8" : [
+          "Autrement dit, [ \"La nuit a été fait sombre afin que protégé de la lumière, vous",
+          "pouvez profiter d'un sommeil- pacifique plus facilement et fait le beau jour pour",
+          "la raison que vous pourriez travailler pour votre vie avec une plus grande la",
+          "facilité et l'installation. Référence a été faite à un seul avantage sur",
+          "d'innombrables avantages de l'alternance continue de la nuit et jour",
+          "régulièrement sur la terre pour dire que tout cela ne se passe pas sans un but ou",
+          "accidentellement, mais il est la sagesse suprême sous-tend, qui a un lien profond",
+          "avec vos propres intérêts immédiats. l'obscurité qui était nécessaire pour la",
+          "paix et le repos de votre corps en raison de sa structure a été fournie dans la",
+          "nuit et la lumière qui était nécessaire pour gagner leur vie a été fourni dans la",
+          "journée . Cet arrangement qui a été faite précisément selon vos besoins par",
+          "lui-même témoigne qu'il ne pouvait pas être possible sans la sagesse d'un Sage",
+          "être. \"] [(Pour plus d'explications, voir eN 65 de Yunus, eN 32 de Ya Sin, FR 85",
+          "AI-Mu'min, FR 4 Az-Zukhruf)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 12,
+      "arabicVerse" : "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
+      "simpleTranslate" : [
+        "N’avons-Nous pas élevé au-dessus de vous sept Cieux inébranlables,"
+      ],
+      "tafsirTranslate" : [
+        "et construit au-dessus de vous sept firmaments fortes, <N:9>"
+      ],
+      "tanslateWordByWord" : [
+        "Et Nous avons construit",
+        "sur vous",
+        "Sept",
+        "fort"
+      ],
+      "notes" : {
+        "9" : [
+          "[ \"Strong\"] dans le sens où leurs limites sont si fortement enrichis qu'aucun",
+          "changement survient en eux, ni ne l'une des innombrables étoiles et des planètes",
+          "dans le ciel, la violation de ces limites, entrer en collision avec la autre, ni",
+          "tombe sur la terre. [(Pour plus d'explications, voir EN 34 de Al-Baqarah, FR 2 de",
+          "Ar Raad, FR de 8, 12 de Al-Hijr, FR 15 AI-Mu'minun, FR 13 Luqman, FR 37 Ya Sin,",
+          "FR de 5, 6 As-Saffat, eN 90 de Al-Mu'min, FR de 7, 8 de la sourate Qaf)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 13,
+      "arabicVerse" : "وَجَعَلْنَا سِرَاجًا وَهَّاجًا",
+      "simpleTranslate" : [
+        "dans lesquels Nous avons placé un flambeau éblouissant?"
+      ],
+      "tafsirTranslate" : [
+        "et placé à l'intérieur d'un chaud, brillant lampe, <N:10>"
+      ],
+      "tanslateWordByWord" : [
+        "Et Nous avons placé",
+        "une lampe",
+        "brûlant"
+      ],
+      "notes" : {
+        "10" : [
+          "[ \"A, lampe flamboyant brillant\"]: le soleil. Le mot Wahhaj utilisé pour le",
+          "soleil signifie à la fois intensément chaud et intensément lumineux. D'où notre",
+          "rendu. Dans cette courte phrase, allusion a été faite à un signe plus merveilleux",
+          "et glorieux de la puissance et de la sagesse que le soleil est d'Allah",
+          "Tout-Puissant. Son diamètre est de 109 fois supérieur à celui de la terre de et",
+          "sa taille plus de 333.000 airs celle de la Terre. Sa température est",
+          "14,000,000'C. En dépit de briller 93,000,000 miles de la terre, sa lumière et la",
+          "luminosité est éblouissante, et l'homme peut regarder à l'oeil nu seulement au",
+          "risque de perdre sa vue. Quant à sa chaleur, la température dans certaines",
+          "parties de la terre atteint 140'F. en raison de son rayonnement. Il est seulement",
+          "Allah qui par Sa sagesse a placé la terre à la bonne distance de lui, ni elle est",
+          "trop chaude pour être près de lui, ni trop froid pour être très loin d'elle. Pour",
+          "cette vie raison même de l'homme, animal et végétal est devenu possible sur elle.",
+          "trésors incommensurables de l'énergie de celui-ci atteignent la terre et le",
+          "maintien de la vie. Il aide à mûrir nos cultures pour fournir la nourriture à",
+          "toute créature; sa chaleur provoque des vapeurs à la hausse des mers, qui se",
+          "propagent à différentes parties de la terre au moyen des vents et tombent sous",
+          "forme de pluie. Dans le soleil Allah a allumé un tel four puissant qui a été",
+          "rayonnant constamment la lumière, la chaleur et les différents types de rayons à",
+          "travers l'ensemble du système solaire depuis des millions et des millions",
+          "d'années."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 14,
+      "arabicVerse" : "وَأَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا",
+      "simpleTranslate" : [
+        "Et des nuages accumulés ne faisons-Nous pas descendre une pluie abondante,"
+      ],
+      "tafsirTranslate" : [
+        "et fait descendre l'eau abondante des nuages"
+      ],
+      "tanslateWordByWord" : [
+        "Et Nous avons fait descendre",
+        "de",
+        "les nuages ​​de pluie",
+        "eau",
+        "verser abondamment"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 15,
+      "arabicVerse" : "لِنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا",
+      "simpleTranslate" : [
+        "par laquelle Nous faisons pousser des grains, des plantes"
+      ],
+      "tafsirTranslate" : [
+        "afin que nous puissions ainsi produire du grain et de la végétation,"
+      ],
+      "tanslateWordByWord" : [
+        "Que Nous enfantera",
+        "ainsi",
+        "grain",
+        "et la végétation"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 16,
+      "arabicVerse" : "وَجَنَّاتٍ أَلْفَافًا",
+      "simpleTranslate" : [
+        "et des jardins luxuriants?"
+      ],
+      "tafsirTranslate" : [
+        "et les jardins denses avec le feuillage? <N:11>"
+      ],
+      "tanslateWordByWord" : [
+        "et les jardins",
+        "(De) feuillage épais"
+      ],
+      "notes" : {
+        "11" : [
+          "Pour les détails des manifestations merveilleuses de la puissance et de la",
+          "sagesse d'Allah Tout-Puissant à prendre des dispositions pour la pluie et la",
+          "croissance de la végétation ainsi, définir E.N. 53 [(a)] de An-Nahl, E.N. 17",
+          "AI-Mu'minun, E.N. 5 de Ash-Shua'ra ', E.N. 35 de Ar-Rum E.N. 19 de Fatir E.N. 29",
+          "de Ya Sin, E.N. 20 d'Al-Mu'min, E.N. de 10, 11 de Az-Zukhruf, E.N. de 28 à 30",
+          "Al-Waqi'ah. Après avoir présenté un certain nombre de signes et de témoignages,",
+          "l'un après l'autre, dans ces versets, les deniers de la Résurrection et au-delà",
+          "ont été exhortés, de manière à dire: «Si l'on considère la terre et les montagnes",
+          "et votre propre création, votre le sommeil et l'éveil, et le système de jour et",
+          "de nuit intelligemment, et considérer le système bien fortifiée de l'univers et",
+          "le soleil brille dans le ciel, la pluie qui tombe des nuages ​​et les cultiver",
+          "des légumes ainsi, vous verrez deux choses très clairement: d'abord, que tout",
+          "cela ne pouvait ni venir à l'existence sans grande puissance, ni continuer à",
+          "exister et de fonctionner de façon régulière, d'autre part, que, dans chacun de",
+          "ces une grande sagesse qui fonctionne et rien de ce qui se passe ici est sans",
+          "objet. Maintenant, seule une personne folle pourrait dire que le Apportez qui par",
+          "sa puissance a amené ces choses à l'existence, n'a pas le pouvoir de les détruire",
+          "et de les créer à nouveau sous une autre forme, et cela pourrait aussi être dit",
+          "que par un déraisonnable personne que le Sage Apportez qui n'a rien fait sans fin",
+          "dans cet univers, a donné à l'homme dans sa compréhension du monde et de",
+          "l'intelligence, la discrimination entre le bien et le mal, la liberté d'obéir ou",
+          "de désobéir, et les pouvoirs d'appropriation sur un nombre incalculable de ses",
+          "créatures, sans un but et la conception: si l'homme utilise et emploie les choses",
+          "accordées par lui dans le bon sens ou dans le mauvais sens, il ETCD fait aucune",
+          "différence; si l'homme continue à faire du bien tout au long de la vie jusqu'à la",
+          "mort, il finira dans la poussière, ou continue de faire le mal jusqu'à la mort,",
+          "il sera également se retrouver dans la poussière; ni l'homme vertueux recevra une",
+          "récompense pour les bonnes actions, ni le mauvais homme sera tenu responsable de",
+          "ses mauvaises actions. Ces arguments mêmes de la vie après la mort et la",
+          "résurrection et au-delà ont été donnés ici et là dans le Coran, e.g. . voir E.N.",
+          "7 ArRa'd, E.N. 9 Ai-Hajj, E.N. 6 de 10 Ar-Rum, .E.N., 12 de Saba, de 8, 9 E.N. de",
+          "As-Saffat."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 17,
+      "arabicVerse" : "إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا",
+      "simpleTranslate" : [
+        "En vérité, le Jour du Règlement des comptes est inéluctable !"
+      ],
+      "tafsirTranslate" : [
+        "Certes, le Jour du Jugement a un temps fixé;"
+      ],
+      "tanslateWordByWord" : [
+        "Effectivement",
+        "(le jour",
+        "(De) l'arrêt",
+        "est",
+        "un temps fixé"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 18,
+      "arabicVerse" : "يَوْمَ يُنْفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا",
+      "simpleTranslate" : [
+        "C’est le jour où l’on soufflera dans le Clairon, où vous vous présenterez en",
+        "masses,"
+      ],
+      "tafsirTranslate" : [
+        "le jour où la trompette est soufflé, et vous sortira en foule; <N:12>"
+      ],
+      "tanslateWordByWord" : [
+        "(Le jour",
+        "(Dans laquelle) doit être dirigé",
+        "dans",
+        "la trompette",
+        "et vous sortira",
+        "(En) foules"
+      ],
+      "notes" : {
+        "12" : [ ]
+      }
+    },
+    {
+      "verseNumber" : 19,
+      "arabicVerse" : "وَفُتِحَتِ السَّمَاءُ فَكَانَتْ أَبْوَابًا",
+      "simpleTranslate" : [
+        "où le ciel s’ouvrira et présentera partout de grandes failles"
+      ],
+      "tafsirTranslate" : [
+        "et quand le ciel sera ouvert et deviendra toutes les portes;"
+      ],
+      "tanslateWordByWord" : [
+        "Et est ouvert",
+        "le paradis",
+        "et devient",
+        "passerelles"
+      ],
+      "notes" : {
+        "12" : [
+          "Cela implique la sonnerie finale de la trompette à laquelle tous les hommes morts",
+          "se lèveront à la vie immédiatement. [ «Vous»] implique non seulement ceux qui ont",
+          "été les destinataires à ce moment-là, mais tous ces humains qui sont nés depuis",
+          "le début de la création jusqu'à la Résurrection. [(Pour plus d'explications, voir",
+          "E.N. 57 d'Ibrahim, E.N. 1 de Alhajj, de E.N. 46, 47 de Ya Sin, E.N. 79 de",
+          "Az-Zumar)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 20,
+      "arabicVerse" : "وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا",
+      "simpleTranslate" : [
+        "et où les montagnes, ébranlées, deviendront un mirage."
+      ],
+      "tafsirTranslate" : [
+        "et les montagnes seront mises en mouvement et devenir un mirage. <N:13>"
+      ],
+      "tanslateWordByWord" : [
+        "Et sont déplacés",
+        "les montagnes",
+        "et devenir",
+        "un mirage"
+      ],
+      "notes" : {
+        "13" : [
+          "Il faut garder à l'esprit le fait que là aussi, comme à beaucoup d'autres",
+          "endroits dans le Coran, les différents états de la Résurrection ont été",
+          "mentionnés tous ensemble. Dans le premier verset, il est fait mention de ce qui",
+          "se passera au sondage final de la trompette et dans les deux versets de l'Etat",
+          "qui apparaîtra à la deuxième sonnerie de la trompette suivantes. Ce que nous",
+          "avons déjà expliqué dans E.N. 10 de la sourate Al-Haaqqah ci-dessus. [ \"Les cieux",
+          "sont ouverts\"] signifie: Tous les obstacles dans les cieux seront supprimés et",
+          "toutes les calamités céleste de tous les côtés seront affligent librement, comme",
+          "si toutes les portes pour elle étaient ouverts et pas de porte était restée",
+          "fermée à entraver son happening. [ \"Les montagnes seront mises en mouvement",
+          "jusqu'à ce qu'ils deviennent comme un mirage\"] signifie: En aucun temps, les",
+          "montagnes seront déracinées de leurs lieux et seront dispersés loin dans les",
+          "particules ne laissant rien mais vaste, sable vide plaines derrière. [ \"Ce même",
+          "état a été décrit dans la sourate Ta Ha, ainsi: Ils vous demandent: ainsi, où",
+          "seront les montagnes aller ce jour-là leur dire:?. Mon Seigneur les réduire en",
+          "poussière fine et le disperser loin Il aura la terre dans un niveau vide plaine,",
+          "dans laquelle vous ne voir aucune courbe ni pli. \"] (vv. 105-107 et correspondant",
+          "E. N. 83!."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 21,
+      "arabicVerse" : "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا",
+      "simpleTranslate" : [
+        "En vérité, la Géhenne sera ce jour-là à l’affût,"
+      ],
+      "tafsirTranslate" : [
+        "Certes, l'enfer est une embuscade, <N:14>"
+      ],
+      "tanslateWordByWord" : [
+        "Effectivement",
+        "enfer",
+        "est",
+        "à l'affût"
+      ],
+      "notes" : {
+        "14" : [
+          "[ \"Une embuscade\"]: un endroit arrangé pour piéger jeu par surprise. L'enfer a",
+          "été décrit comme une embuscade, parce que les rebelles de Dieu sont sans peur de",
+          "lui et apprécient la vie en pensant que le monde est un havre de bonheur pour",
+          "eux. Ils ne savent pas que l'enfer est en embuscade pour eux, qui va piéger",
+          "soudainement et les garder piégé."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 22,
+      "arabicVerse" : "لِلطَّاغِينَ مَآبًا",
+      "simpleTranslate" : [
+        "pour constituer le dernier refuge des tyrans,"
+      ],
+      "tafsirTranslate" : [
+        "une station pour les rebelles;"
+      ],
+      "tanslateWordByWord" : [
+        "Pour les transgresseurs",
+        "un lieu de retour"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 23,
+      "arabicVerse" : "لَابِثِينَ فِيهَا أَحْقَابًا",
+      "simpleTranslate" : [
+        "qui y demeureront des siècles durant,"
+      ],
+      "tafsirTranslate" : [
+        "où ils demeureront éternellement pendant des siècles, <N:15>"
+      ],
+      "tanslateWordByWord" : [
+        "(Ils) seront restants",
+        "la bride",
+        "(des lustres"
+      ],
+      "notes" : {
+        "15" : [
+          "Le mot ahqab tel qu'il est utilisé dans l'original signifie des périodes",
+          "successives de temps apparaissant en permanence l'un après l'autre. De ce mot",
+          "certaines personnes ont tenté de faire valoir qu'il y aura l'éternité dans la vie",
+          "du Paradis, mais pas l'éternité. dans la vie de l'Enfer. Aussi longtemps que ces",
+          "âges peuvent être, ils ne seront pas sans fin, mais viendra à une fin à un moment",
+          "donné. Mais cet argument est erroné pour deux raisons. Tout d'abord, que",
+          "lexicalement, le mot haqab [(. Chanterai ahqab)] contient lui-même le sens que",
+          "l'on haqab devrait être suivi de près par un autre haqab; par conséquent, ahqab",
+          "sera nécessairement utilisé que pour les périodes de temps que continuent à",
+          "apparaître successivement l'un après l'autre, et il devrait y avoir aucune",
+          "période qui est pas suivie d'une autre période. En second lieu, qu'en règle",
+          "générale, il est faux de mettre un sens sur un verset du Coran se rapportant à un",
+          "thème particulier qui se heurte à d'autres déclarations du Coran relatives au",
+          "même thème. À 34 endroits dans le Coran le mot Khulud [(éternité)] a été utilisé",
+          "sur les habitants de l'Enfer. A trois endroits non seulement le mot Khulud a été",
+          "utilisé, mais le mot abad un [(pour les siècles des siècles)] a également été",
+          "ajoutée à elle; et à un seul endroit, il a été clairement indiqué: [ \". Ils",
+          "veulent sortir de l'enfer, mais ne doivent pas être en mesure de sortir de",
+          "celui-ci et leur sont un tourment éternel\"] [(AI-Maidah: 37) ]. A un autre",
+          "endroit <V:5:37)].Aunautreendroit>, il a été dit: [ \"là ils demeureront",
+          "éternellement, tant que la terre et les cieux durer, à moins que votre Seigneur",
+          "ordonne autrement.»] Et la même chose a été dit sur les habitants du Paradis",
+          "aussi: [ \"\"] Ils habiteront dans le Paradis à jamais, aussi longtemps que la",
+          "terre et les cieux durer, à moins que votre Seigneur veut autre chose. \". [(Hud:",
+          "107-108 <V:11:107-108>)] Après ces explications, comment peut-on argumenter, sur",
+          "la base du mot abqab, que le séjour des rebelles de Dieu dans l'enfer ne sera pas",
+          "éternelle, mais il viendra à une fin à un certain stade dans le temps?"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 24,
+      "arabicVerse" : "لَا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا",
+      "simpleTranslate" : [
+        "sans jamais y goûter ni fraîcheur ni boisson agréable,"
+      ],
+      "tafsirTranslate" : [
+        "ils doivent goûter à ce pas de sang-froid, ni aucune boisson agréable"
+      ],
+      "tanslateWordByWord" : [
+        "ne pas",
+        "ils goûteront",
+        "la bride",
+        "fraîcheur",
+        "et pas",
+        "toute boisson"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 25,
+      "arabicVerse" : "إِلَّا حَمِيمًا وَغَسَّاقًا",
+      "simpleTranslate" : [
+        "hormis un breuvage fétide et bouillant,"
+      ],
+      "tafsirTranslate" : [
+        "économiser de l'eau bouillante et lavage des plaies; <N:16>"
+      ],
+      "tanslateWordByWord" : [
+        "Sauf",
+        "eau d'échaudage",
+        "et purulence"
+      ],
+      "notes" : {
+        "16" : [
+          "Le mot ghassaq tel qu'il est utilisé dans l'original applique à du pus, de sang,",
+          "de pus-sang et tous les fluides qui circulent à partir des yeux et la peau à la",
+          "suite d'un châtiment douloureux. D'ailleurs, ce mot est aussi utilisé pour une",
+          "chose qui pue et donne sur horrible odeur offensive."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 26,
+      "arabicVerse" : "جَزَاءً وِفَاقًا",
+      "simpleTranslate" : [
+        "comme juste rétribution de leurs œuvres."
+      ],
+      "tafsirTranslate" : [
+        "une récompense digne de leurs actes."
+      ],
+      "tanslateWordByWord" : [
+        "Une récompense",
+        "approprié"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 27,
+      "arabicVerse" : "إِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا",
+      "simpleTranslate" : [
+        "C’est qu’ils ne pensaient pas devoir, un jour, rendre compte de leurs actes"
+      ],
+      "tafsirTranslate" : [
+        "Car en effet, ils ne se réjouissent de toute prise en compte,"
+      ],
+      "tanslateWordByWord" : [
+        "En effet, ils",
+        "ont été",
+        "ne pas",
+        "attendant",
+        "un compte"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 28,
+      "arabicVerse" : "وَكَذَّبُوا بِآيَاتِنَا كِذَّابًا",
+      "simpleTranslate" : [
+        "et qu’ils traitaient avec insolence Nos signes de mensonges,"
+      ],
+      "tafsirTranslate" : [
+        "et carrément nié Nos signes comme faux. <N:17>"
+      ],
+      "tanslateWordByWord" : [
+        "Et ils ont nié",
+        "Nos signes",
+        "(Avec) le refus"
+      ],
+      "notes" : {
+        "17" : [
+          "Ceci est la raison pour laquelle ils méritent cette peine terrible de l'enfer.",
+          "Tout d'abord, ils ont vécu en pensant que le temps ne viendra jamais quand ils",
+          "auront à comparaître devant Dieu et rendre compte de leurs actes dans le monde;",
+          "deuxièmement, ils absolument refusé d'accepter et de reconnaître les révélations",
+          "que Dieu avait envoyé à travers Ses Prophètes pour leur instruction et de les",
+          "traiter comme mensonge."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 29,
+      "arabicVerse" : "وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ كِتَابًا",
+      "simpleTranslate" : [
+        "alors que Nous notions tout par écrit."
+      ],
+      "tafsirTranslate" : [
+        "Et tout ont Nous avons enregistré dans un livre. <N:18>"
+      ],
+      "tanslateWordByWord" : [
+        "Et chaque",
+        "chose",
+        "Nous avons dénombré ce",
+        "(En) un livre"
+      ],
+      "notes" : {
+        "18" : [
+          "Autrement dit, [ «Nous étions en train de préparer en continu un enregistrement",
+          "complet de leurs faits et gestes, leurs mouvements et leurs occupations, même de",
+          "leurs intentions. Pensées et objectifs dans la vie et rien n'a été laissé non",
+          "enregistrée, alors que les gens stupides dans leur étourderie pensaient qu'ils",
+          "vivaient dans un royaume sans loi où ils étaient libres de faire ce qu'ils",
+          "voulaient et désiraient. et il n'y avait pas le pouvoir de leur demander des",
+          "comptes. \"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 30,
+      "arabicVerse" : "فَذُوقُوا فَلَنْ نَزِيدَكُمْ إِلَّا عَذَابًا",
+      "simpleTranslate" : [
+        "«Goûtez donc ce supplice que Nous ne ferons désormais qu’aggraver !», sera-t-il",
+        "dit à ces négateurs."
+      ],
+      "tafsirTranslate" : [
+        "Donc, le goût (le fruit de vos actions). Nous allons seulement d'augmenter votre",
+        "tourment."
+      ],
+      "tanslateWordByWord" : [
+        "donc, le goût",
+        "et jamais",
+        "Nous allons vous augmenter",
+        "sauf",
+        "(En) la peine"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 31,
+      "arabicVerse" : "إِنَّ لِلْمُتَّقِينَ مَفَازًا",
+      "simpleTranslate" : [
+        "Quant aux hommes pieux, une douce félicité leur sera réservée."
+      ],
+      "tafsirTranslate" : [
+        "Certes, l'état de triomphe attend la crainte de Dieu: <N:19>"
+      ],
+      "tanslateWordByWord" : [
+        "Effectivement",
+        "pour les justes",
+        "(Est) le succès"
+      ],
+      "notes" : {
+        "19" : [
+          "Ici, le mot [ «juste»] a été utilisé contrairement à ceux qui ne vous attendez",
+          "pas toute la responsabilité et qui avait démenti les révélations d'Allah. Par",
+          "conséquent, ce mot implique inévitablement ces gens qui ont cru dans les",
+          "révélations d'Allah et vivaient dans le monde avec la compréhension qu'ils",
+          "devaient rendre compte de leurs actes en fin de compte."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 32,
+      "arabicVerse" : "حَدَائِقَ وَأَعْنَابًا",
+      "simpleTranslate" : [
+        "C’est ainsi qu’ils auront des vergers et des vignes,"
+      ],
+      "tafsirTranslate" : [
+        "jardins et de vignes,"
+      ],
+      "tanslateWordByWord" : [
+        "Jardins",
+        "et les vignes"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 33,
+      "arabicVerse" : "وَكَوَاعِبَ أَتْرَابًا",
+      "simpleTranslate" : [
+        "des jeunes femmes d’une égale jeunesse"
+      ],
+      "tafsirTranslate" : [
+        "et les jeunes filles de jeunesse de l'âge comme, <N:20>"
+      ],
+      "tanslateWordByWord" : [
+        "Et compagnons splendides",
+        "bien assorti"
+      ],
+      "notes" : {
+        "20" : [
+          "MT peut signifier qu'ils seront en âge égaux entre eux, ainsi que qu'ils seront",
+          "en âge d'égalité avec leurs maris. Ce même thème a déjà eu lieu dans la sourate",
+          "Suad 52 et Al-Waqi`ah: 37 ci-dessus."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 34,
+      "arabicVerse" : "وَكَأْسًا دِهَاقًا",
+      "simpleTranslate" : [
+        "et des coupes débordantes."
+      ],
+      "tafsirTranslate" : [
+        "et une coupelle débordante."
+      ],
+      "tanslateWordByWord" : [
+        "Et une tasse",
+        "plein"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 35,
+      "arabicVerse" : "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّابًا",
+      "simpleTranslate" : [
+        "Là, ils n’entendront ni vaines paroles ni propos mensongers."
+      ],
+      "tafsirTranslate" : [
+        "Là ils entendront pas le bavardage, ni aucun mensonge, <N:21>"
+      ],
+      "tanslateWordByWord" : [
+        "ne pas",
+        "ils entendront",
+        "la bride",
+        "tout discours vain",
+        "et pas",
+        "tout mensonge"
+      ],
+      "notes" : {
+        "21" : [
+          "À plusieurs endroits dans le Coran ce qui a été compté comme parmi les grandes",
+          "bénédictions du Paradis. oreilles humaines, il restera protégé contre le",
+          "bavardage, faux et indécent. Il n'y aura pas, commérages de sens absurde dans le",
+          "Paradis; personne ne va dire des mensonges, ni démentir les autres; il n'y en",
+          "aura toute utilisation de langage abusif, calomnier; calomnies et de fausses",
+          "accusations qui sont si fréquentes dans le monde. [(Pour de plus amples",
+          "explications, voir E.N. 28 de la sourate Maryam, E.N. de 13, 14 de AlWaqi`ah)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 36,
+      "arabicVerse" : "جَزَاءً مِنْ رَبِّكَ عَطَاءً حِسَابًا",
+      "simpleTranslate" : [
+        "Et ce sera là une récompense bien méritée et un don généreux de ton Seigneur,"
+      ],
+      "tafsirTranslate" : [
+        "une récompense de votre Seigneur et une grande récompense <N:22>"
+      ],
+      "tanslateWordByWord" : [
+        "(En tant que récompense",
+        "de",
+        "votre Seigneur",
+        "un cadeau",
+        "(Selon) compte"
+      ],
+      "notes" : {
+        "22" : [
+          "[ \"Une récompense et un cadeau suffisant»]: autrement dit, ils ne seront pas",
+          "seulement donnés leurs récompenses en raison dont ils méritent pour leurs bonnes",
+          "actions, mais au-delà de ceux-ci, ils seront donnés supplémentaires et suffisants",
+          "cadeaux et des prix ainsi. Contrairement à cela, en ce qui concerne les habitants",
+          "de l'Enfer, il a été dit: [ \"Ils seront récompensés pleinement pour leurs",
+          "méfaits.»] Autrement dit, ils ne seront ni punis moins que ce qu'ils mériteront",
+          "pour leurs crimes, ni plus. Ce thème a été longuement expliqué à de nombreux",
+          "endroits dans le Coran, par exemple, voir Yunus: 26-27, An-Naml: 89-90, Al-Qasas:",
+          "84, Saba: 33-38, Al-Mu ' min: 40."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 37,
+      "arabicVerse" : "رَبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الرَّحْمَٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًا",
+      "simpleTranslate" : [
+        "le Maître des Cieux, de la Terre et des espaces interstellaires, le",
+        "Miséricordieux auquel nul ne pourra adresser la parole."
+      ],
+      "tafsirTranslate" : [
+        "du Seigneur des cieux et de la terre et de ce qui est entre eux; le Très",
+        "Miséricordieux Seigneur devant qui ne ose prononcer un mot. <N:23>"
+      ],
+      "tanslateWordByWord" : [
+        "Seigneur",
+        "(De) les cieux",
+        "et la terre",
+        "et quelle que soit",
+        "(Est) entre les deux",
+        "le Tout Miséricordieux",
+        "ne pas",
+        "ils ont le pouvoir",
+        "de lui",
+        "(Adresser"
+      ],
+      "notes" : {
+        "23" : [
+          "Autrement dit, la Cour d'Allah Tout-Puissant sera tellement impressionnant que",
+          "personne, qu'ils appartiennent à la terre ou au ciel, osera ouvrir sa bouche de",
+          "sa propre volonté devant Allah, ni interférer dans les travaux et les procédures",
+          "de la Cour."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 38,
+      "arabicVerse" : "يَوْمَ يَقُومُ الرُّوحُ وَالْمَلَائِكَةُ صَفًّا ۖ لَا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ وَقَالَ صَوَابًا",
+      "simpleTranslate" : [
+        "Ce sera le jour où l’Esprit et les anges se présenteront silencieux et en rangs,",
+        "et où seul prendra la parole celui que le Miséricordieux aura autorisé à tenir",
+        "des propos pertinents,"
+      ],
+      "tafsirTranslate" : [
+        "Le jour où l'Esprit <N:24> et les anges sont rangés rangée sur rangée. Nul ne",
+        "parle sauf celui que le Seigneur Miséricordieux permettra; et il sera trop parler",
+        "ce qui est juste. <N:25>"
+      ],
+      "tanslateWordByWord" : [
+        "(Le jour",
+        "se tiendra",
+        "l'esprit",
+        "et les anges",
+        "(En) rangées",
+        "ne pas",
+        "ils parleront",
+        "sauf",
+        "(un qui",
+        "permis",
+        "[pour lui",
+        "le Tout Miséricordieux",
+        "et il (va) dire",
+        "(Ce qui est) correct"
+      ],
+      "notes" : {
+        "24" : [
+          "Selon la plupart des commentateurs, [ «l'Esprit»] implique l'Ange Gabriel [(la",
+          "paix soit sur lui)], qui a été mentionné séparément des anges à cause de son rang",
+          "élevé et la position d'Allah. [(Pour de plus amples explications, voir E.N. 3",
+          "d'Al-Ma`arij)]."
+        ],
+        "25" : [
+          "[ \"Pour parler\"]: pour intercéder, et l'intercession a été subordonnée à deux",
+          "choses: [(1)] Que la personne qui obtient la permission d'Allah d'intercéder pour",
+          "un pécheur sera seul autorisé d'intercéder et pour le pécheur particulière; et",
+          "[(2)] que l'intercesseur dira que ce qui est juste et bon, et rien péjoratif, et",
+          "celui pour lequel il intercède devrait avoir au moins reconnu la vérité dans le",
+          "monde. C'est, il ne devrait être un pécheur, et non pas un incroyant. [(Pour plus",
+          "d'explications, voir EN 281 de Al-Baqarah, FR 5 Yunus, EN 106 de Hud, EN 52 de",
+          "Maryam, EN de 85, 86 Ta Ha, FR 27 de Al-Anbiya, FR de 40, 41 de Saba. FR 32 de",
+          "Al-Mu'min, eN 63 de Az-Zukhruf, E N. 21 de An-Najm, eN 36 de Al-Muddaththir)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 39,
+      "arabicVerse" : "ذَٰلِكَ الْيَوْمُ الْحَقُّ ۖ فَمَنْ شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ مَآبًا",
+      "simpleTranslate" : [
+        "car ce jour-là sera le jour de la Vérité ! Et quiconque l’aura voulu trouvera",
+        "refuge auprès de son Seigneur."
+      ],
+      "tafsirTranslate" : [
+        "Ce jour-là est sûr de venir. Alors que celui qui va chercher une station avec son",
+        "Seigneur."
+      ],
+      "tanslateWordByWord" : [
+        "Cette",
+        "(Est) la Journée",
+        "la vérité",
+        "donc, quiconque",
+        "testaments",
+        "de lui laisser prendre",
+        "vers",
+        "son Seigneur",
+        "un retour"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 40,
+      "arabicVerse" : "إِنَّا أَنْذَرْنَاكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنْظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنْتُ تُرَابًا",
+      "simpleTranslate" : [
+        "En vérité, Nous vous mettons en garde contre un châtiment imminent, car, ce",
+        "jour-là, chacun sera mis en face de ses œuvres et le négateur s’écriera : «Comme",
+        "j’aurais aimé n’être que poussière !»"
+      ],
+      "tafsirTranslate" : [
+        "Lo! Nous vous avertissons d'un châtiment proche; <N:26> le jour où un homme se",
+        "penchera sur ce que ses propres mains ont, et les mécréants diront: '. Oh serait",
+        "que je devais la poussière totale » <N:27>"
+      ],
+      "tanslateWordByWord" : [
+        "En effet, nous",
+        "[Nous] vous avons prévenu",
+        "(De) une punition",
+        "près",
+        "(le jour",
+        "verra",
+        "l'homme",
+        "quelle",
+        "ont envoyé de suite",
+        "ses mains",
+        "et dira",
+        "le mécréant",
+        "O Je souhaite",
+        "j'étais",
+        "poussière"
+      ],
+      "notes" : {
+        "26" : [
+          "Apparemment, on pourrait penser que les gens qui étaient le public de ce verset",
+          "sont morts il y a quatorze siècles, et même maintenant, il ne peut pas dire",
+          "combien de centaines ou des milliers ou des millions d'années Résurrection aura à",
+          "venir. Alors, dans quel sens at-il été dit: [ \"Le tourment de laquelle vous avez",
+          "été averti, a approché à portée de main?\"] Et quel est le sens de dire au début",
+          "de la sourate: [ \"Bientôt, ils doivent savoir? \"] la réponse est que l'homme peut",
+          "avoir le sentiment de temps seulement jusqu'à ce qu'il passe une vie physique",
+          "dans le monde dans les limites de l'espace et le temps. Après la mort quand seule",
+          "l'âme survivra, il va perdre tout sentiment et de la conscience du temps, et le",
+          "Jour de la Résurrection, quand l'homme se lèvera à la vie, il se sentira comme si",
+          "quelqu'un l'avait réveillé du sommeil soudain. Il ne sera pas du tout conscient",
+          "qu'il a été ressuscité après des milliers d'années. [(Pour de plus amples",
+          "explications, voir E.N. 26 de An-Nahl, E.N. 56 de Bani Isra'il, E.N. 80 de Ta Ha,",
+          "E.N. 48 de Ya Sin)]."
+        ],
+        "27" : [
+          "[ «Plût ...... poussière»]: [ \". Would que je n'étais pas né dans le monde, ou",
+          "était devenu simple poussière après la mort, et ainsi réduit à néant»]"
+        ]
+      }
+    }
+  ],
+  "medinian" : false
+}

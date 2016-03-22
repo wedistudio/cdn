@@ -1,0 +1,4546 @@
+{
+  "chapterNumber" : 37,
+  "nbVerses" : 182,
+  "name" : "Those Who Set The Ranks, Drawn Up In Ranks, Those Ranged in Ranks",
+  "nameArabic" : "الصافات",
+  "transName" : "aṣ-ṣāffāt",
+  "verses" : [
+    {
+      "verseNumber" : 1,
+      "arabicVerse" : "وَالصَّافَّاتِ صَفًّا",
+      "simpleTranslate" : [
+        "By those [angels] lined up in rows"
+      ],
+      "tafsirTranslate" : [
+        "By those who range themselves in rows;"
+      ],
+      "tanslateWordByWord" : [
+        "By those lined",
+        "(in) rows"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 2,
+      "arabicVerse" : "فَالزَّاجِرَاتِ زَجْرًا",
+      "simpleTranslate" : [
+        "And those who drive [the clouds]"
+      ],
+      "tafsirTranslate" : [
+        "by those who reprove severely,"
+      ],
+      "tanslateWordByWord" : [
+        "And those who drive",
+        "strongly"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 3,
+      "arabicVerse" : "فَالتَّالِيَاتِ ذِكْرًا",
+      "simpleTranslate" : [
+        "And those who recite the message,"
+      ],
+      "tafsirTranslate" : [
+        "and those who recite the Exhortation; <N:1>"
+      ],
+      "tanslateWordByWord" : [
+        "And those who recite",
+        "(the) Message"
+      ],
+      "notes" : {
+        "1" : [
+          "The majority of the commentators are agreed that All these three groups imply the",
+          "groups of the angels, and the same explanation of it has been reported from",
+          "'Abdullah bin Mas'ud, Ibn `Abbas, Qatadah, Masruq Said bin Jubair, 'Ikrimah,",
+          "Mujahid, Suddi, Ibn Zaid and Rabi' bin Anas. Some commentators have given other",
+          "commentaries also, but this commentary is more in keeping with the context. The",
+          "words [\"range themselves in ranks\"] refer to the fact that all the angels who arc",
+          "administering the affairs of the universe, are the humble servants of Allah, and",
+          "are ever ready w carry out any scrvice and implement any command of His. This",
+          "theme -has been further repeated in verse 165 below, where the angels say with",
+          "regard to themselves: [\"We are the ranged servants [(of Allah)].' As for",
+          "\"]scolding and cursing[\", some commentators think that it refers to those angels",
+          "who drive the clouds and arrange the rainfall. Although this meaning is not",
+          "incorrect either, the meaning which is more relevant to the following context is",
+          "that among these angels there is also a group of those, who scold and curse the",
+          "disobedient people and the culprits, and this scolding and cursing is not merely",
+          "verbal but it rains on human beings in the form of natural disasters and",
+          "calamities. \"]To recite admonition\" implies that among these angels there are",
+          "also those, who perform the service of admonition in order to draw the people's",
+          "attention .to the Truth. This they do by bringing about natural calamities from",
+          "which the needful take heed, and by bringing down the teachings to the Prophets,",
+          "and in the form of revelations with which the pious men are blessed through them."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 4,
+      "arabicVerse" : "إِنَّ إِلَٰهَكُمْ لَوَاحِدٌ",
+      "simpleTranslate" : [
+        "Indeed, your God is One,"
+      ],
+      "tafsirTranslate" : [
+        "surely your God is One, <N:2>"
+      ],
+      "tanslateWordByWord" : [
+        "Indeed",
+        "your Lord",
+        "(is) surely One"
+      ],
+      "notes" : {
+        "2" : [
+          "This is the Truth to impress which an oath has been taken by the angels bearing",
+          "the above-mentioned qualities. In other words, what is meant to be said is: [\"The",
+          "whole system of the universe which is functioning in the scrvice of Allah, and",
+          "all those manifestations of this universe which bring the evil consequences of",
+          "deviation from the service of Allah before men, testify that the \"]Deity[\" of men",
+          "is One and only One.\"] The word [\"Ilah\"] applies to two meanings: [(1)] The deity",
+          "who is actually being served and worshipped; and [(2)] the Deity Who, in reality,",
+          "is worthy of being served and worshipped. Here, the word [\"Ilah\"]has been used in",
+          "the second meaning, for, as far as the first meaning is concerned, men have",
+          "adopted many other deities. That is why we have translated [\"Ilah\"]as the [\"real",
+          "Deity\"]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 5,
+      "arabicVerse" : "رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا وَرَبُّ الْمَشَارِقِ",
+      "simpleTranslate" : [
+        "Lord of the heavens and the earth and that between them and Lord of the sunrises."
+      ],
+      "tafsirTranslate" : [
+        "the Lord of the heavens and the earth and of whatever lies between the two, the",
+        "Lord <N:3> of the Easts. <N:4>"
+      ],
+      "tanslateWordByWord" : [
+        "Lord",
+        "(of) the heavens",
+        "and the earth",
+        "and what",
+        "(is) between both of them",
+        "and Lord",
+        "(of) each point of sunrise"
+      ],
+      "notes" : {
+        "4" : [
+          "The sun dces not always rise at the same point but at a different point every",
+          "day. Moreover, it dces not rise at one and the same time for the whole world but",
+          "rises at different times for the different parts of the earth. That is why the",
+          "plural \"]Mashariq[\" [(Easts)] has been used to indicate the different points at",
+          "which the sun rises according to the season of the year. The corresponding word",
+          "'Magharib\"] [(Wests)] has not been used because Mashariq itself points to",
+          "Magharib However, in Surah Al-Ma'arij, the word magharib also has been used along",
+          "with tnashariq: Rabb-al-mashariqi wal-magharib."
+        ],
+        "3" : [
+          "The Truth that has been conveyed in these verses is: [\"The Master and Ruler of",
+          "the Universe is the real Deity of men: He alone can be, and should be, the",
+          ".Deity. It would be utterly irrational that the Rabb [(i.e.. Master, Ruler,",
+          "Guardian and Sustainer)] of the man should be one but his Ilah [(deity)] another.",
+          "The basic reason for worship is that man should naturally bow down before and",
+          "acknowledge the superiority of him who can bring him harm and good, who can",
+          "fulfil his needs and requirements, who can make or mar his destiny and has power",
+          "over his life and survival itself. If man understands this he will automatically",
+          "understand that to worship the one who has no power and not to worship Him Who",
+          "has All the powers arc both against reason and nature. The One Who alone is",
+          "worthy of worship is He Who possesses the powers. As far as the powerless beings",
+          "are concerned, they are neither worthy of worship, nor is it in any way",
+          "profitable to worship and pray to them, for it is not in their power to take any",
+          "action whatever on man's petitions and prayers. To bow before them humbly and to",
+          "petition them would be as foolish and meaningless an act as to bow before and",
+          "petition another one who has himself gone before a ruler to make obeisance and",
+          "submit his petitions."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 6,
+      "arabicVerse" : "إِنَّا زَيَّنَّا السَّمَاءَ الدُّنْيَا بِزِينَةٍ الْكَوَاكِبِ",
+      "simpleTranslate" : [
+        "Indeed, We have adorned the nearest heaven with an adornment of stars"
+      ],
+      "tafsirTranslate" : [
+        "We have adorned the lower heaven with the adornment of the stars <N:5>"
+      ],
+      "tanslateWordByWord" : [
+        "Indeed, We",
+        "[We] adorned",
+        "the sky",
+        "[the world]",
+        "with an adornment",
+        "(of) the stars"
+      ],
+      "notes" : {
+        "5" : [
+          "[\"Lower heaven\"] : The nearer heaven which can be seen with the naked eye,",
+          "without the help of a telescope. The worlds beyond which can be seen through the",
+          "telescopes of different powers, and the worlds which have not so far been",
+          "observed through any moans, are the distant heavens. In this connection, one",
+          "should also note that [\"sama \"] is not something definite and determined, but man",
+          "generally has been using this word and its other synonyms for the heavens since",
+          "the earliest times."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 7,
+      "arabicVerse" : "وَحِفْظًا مِنْ كُلِّ شَيْطَانٍ مَارِدٍ",
+      "simpleTranslate" : [
+        "And as protection against every rebellious devil"
+      ],
+      "tafsirTranslate" : [
+        "and have protected it from every rebellious satan. <N:6>"
+      ],
+      "tanslateWordByWord" : [
+        "And (to) guard",
+        "against",
+        "every",
+        "devil",
+        "rebellious"
+      ],
+      "notes" : {
+        "6" : [
+          "That is, \"Heaven is not merely empty space so that anyone who likes may enter it,",
+          "but it has been fortified strongly, and its different regions have been bounded",
+          "by such strong barriers that it is impossible for any rebel satan to exceed them.",
+          "Every star and planet in the universe has its own circle and sphere escaping from",
+          "which is as difficult as entering it. With the naked eye one can only see empty",
+          "space, but, in reality, there are countless regions in space which have been even",
+          "more strongly fortified and protected than they could be by steel walls. One can",
+          "imagine and estimate the strength of these barriers by the difficulties man is",
+          "experiencing in the way of reaching the moon, which is our nearest neighbour in",
+          "space. Similar difficulties prevent the other creation of the earth, the jinns,",
+          "from ascending towards the heavens."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 8,
+      "arabicVerse" : "لَا يَسَّمَّعُونَ إِلَى الْمَلَإِ الْأَعْلَىٰ وَيُقْذَفُونَ مِنْ كُلِّ جَانِبٍ",
+      "simpleTranslate" : [
+        "[So] they may not listen to the exalted assembly [of angels] and are pelted from",
+        "every side,"
+      ],
+      "tafsirTranslate" : [
+        "These satans cannot listen to what transpires in the High Council for they are",
+        "pelted away from every side"
+      ],
+      "tanslateWordByWord" : [
+        "Not",
+        "they may listen",
+        "to",
+        "the assembly",
+        "[the] exalted",
+        "are pelted",
+        "from",
+        "every",
+        "side"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 9,
+      "arabicVerse" : "دُحُورًا ۖ وَلَهُمْ عَذَابٌ وَاصِبٌ",
+      "simpleTranslate" : [
+        "Repelled; and for them is a constant punishment,"
+      ],
+      "tafsirTranslate" : [
+        "and are repelled. Theirs is an unceasing chastisement."
+      ],
+      "tanslateWordByWord" : [
+        "Repelled",
+        "and for them",
+        "(is) a punishment",
+        "perpetual"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 10,
+      "arabicVerse" : "إِلَّا مَنْ خَطِفَ الْخَطْفَةَ فَأَتْبَعَهُ شِهَابٌ ثَاقِبٌ",
+      "simpleTranslate" : [
+        "Except one who snatches [some words] by theft, but they are pursued by a burning",
+        "flame, piercing [in brightness]."
+      ],
+      "tafsirTranslate" : [
+        "And if any is able to snatch a fragment, he is pursued by a piercing flame. <N:7>"
+      ],
+      "tanslateWordByWord" : [
+        "Except",
+        "(him) who",
+        "snatches",
+        "(by) theft",
+        "but follows him",
+        "a burning flame",
+        "piercing"
+      ],
+      "notes" : {
+        "7" : [
+          "To understand this one should keep in view the fact that in the time of the Holy",
+          "Prophet, soothsa ving was in great vogue in Arabia. The soothsayers used to make",
+          "predictions, give news of the unseen, tell the whereabouts of the lost properties",
+          "and articles, and the people used to visit them to know the events of their past",
+          "and future lives. These soothsayers claimed that they had some jinns and satans",
+          "under their control, who brought them all sorts of news. In this environment when",
+          "the Holy Prophet was appointed to Prophethood, and he began to recite the verses",
+          "of the Qur'an, which described the past history and contained news of the future,",
+          "and also stated that an angel brought him these verses, his opponents immediately",
+          "branded him a soothsayer and started telling others that, like the other",
+          "soothsayers, he too was associated with a satan, who brought him news from the",
+          "heavens, which he presented as revelations from Allah. To refute this accusation,",
+          "Allah says: [\"The satans have no access to heaven. They have no power to hear the",
+          "conversations of the angels and bring its news for others; if by chance a little",
+          "of it enters the ear of a satan, and he tries to bring it down, he is followed by",
+          "a flashing flame.\"] In other words, it means: [\"The grand system of the universe,",
+          "which is functioning under the agency of the angels has been firmly guarded and",
+          "secured against every interference of the satans. Not to speak of interfering in",
+          "it, they do not even have the power to obtain any kind of information about it.",
+          "\"] [(For further explanation, see AI-Hijr: 17-18 and the E.N's thereof)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 11,
+      "arabicVerse" : "فَاسْتَفْتِهِمْ أَهُمْ أَشَدُّ خَلْقًا أَمْ مَنْ خَلَقْنَا ۚ إِنَّا خَلَقْنَاهُمْ مِنْ طِينٍ لَازِبٍ",
+      "simpleTranslate" : [
+        "Then inquire of them, [O Muhammad], \"Are they a stronger [or more difficult]",
+        "creation or those [others] We have created?\" Indeed, We created men from sticky",
+        "clay."
+      ],
+      "tafsirTranslate" : [
+        "So ask them (that is, human beings): 'Were they harder to create than the objects",
+        "We created?' <N:8> We created them from sticky clay. <N:9>"
+      ],
+      "tanslateWordByWord" : [
+        "Then ask them",
+        "Are they",
+        "a stronger",
+        "creation",
+        "or",
+        "(those) whom",
+        "We have created",
+        "Indeed, We",
+        "created them",
+        "from",
+        "a clay",
+        "sticky"
+      ],
+      "notes" : {
+        "8" : [
+          "This is an answer to the suspicions of the disbelievers of Makkah, which they",
+          "presented about the Hereafter. They thought that the Hereafter was not possible,",
+          "for it is impossible that the dead men should be recreated. In answer to it,",
+          "Allah presents arguments for the possibility of the Hereafter and asks: [\"If you",
+          "think that the recreation of the dead men is a very difficult task which We do",
+          "not have the power to accomplish, do you think it is easy to create the earth and",
+          "the heavens and the countless things that they contain? Why don't you use your",
+          "common sense ? Do you think that God for Whom it was not at all difficult to",
+          "create this great Universe and Who has created you in the first instance, will",
+          "not have the power to create you once again ?\"]"
+        ],
+        "9" : [
+          "That is, [\"Man is not a difficult thing to make. He has been created from clay,",
+          "and can again be created from the same clay.\"] [\"Created man of sticky clay\"]",
+          "means that the first man was created directly from the clay and then his race was",
+          "perpetuated by means of the sperm-drop. It also means that every man has been",
+          "'created from the sticky clay, for the whole substance of man's body is obtained",
+          "from the earth. The sperm-drop of which he is created, is a product of the food,",
+          "and all the substances which make up his physical being, from the time he is",
+          "conceived till his death, are also supplied by the food. The source of the food,",
+          "whether animal flesh or vegetable, is ultimately the same earth which, in",
+          "combination with water produces corn and vegetables and fruit to become food for",
+          "man, and nourish the animals, which supply milk and flesh for the use of man.",
+          "Thus, the basis of the argument is: Man could not be living today if the earth",
+          "and clay had not become the source of life for him. And if it is possible today",
+          "to create life in it, as your own existence is a clear and definite pointer to",
+          "this possibility, why should it be impossible to bring about your re-creation",
+          "from the same earth tomorrow ?"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 12,
+      "arabicVerse" : "بَلْ عَجِبْتَ وَيَسْخَرُونَ",
+      "simpleTranslate" : [
+        "But you wonder, while they mock,"
+      ],
+      "tafsirTranslate" : [
+        "You marvel (at the wondrous creations of Allah) and they scoff at it,"
+      ],
+      "tanslateWordByWord" : [
+        "Nay",
+        "you wonder",
+        "while they mock"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 13,
+      "arabicVerse" : "وَإِذَا ذُكِّرُوا لَا يَذْكُرُونَ",
+      "simpleTranslate" : [
+        "And when they are reminded, they remember not."
+      ],
+      "tafsirTranslate" : [
+        "and when they are admonished, they pay no heed;"
+      ],
+      "tanslateWordByWord" : [
+        "And when",
+        "they are reminded",
+        "not",
+        "they receive admonition"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 14,
+      "arabicVerse" : "وَإِذَا رَأَوْا آيَةً يَسْتَسْخِرُونَ",
+      "simpleTranslate" : [
+        "And when they see a sign, they ridicule"
+      ],
+      "tafsirTranslate" : [
+        "and if they see any Sign, they laugh it away"
+      ],
+      "tanslateWordByWord" : [
+        "And when",
+        "they see",
+        "a Sign",
+        "they mock"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 15,
+      "arabicVerse" : "وَقَالُوا إِنْ هَٰذَا إِلَّا سِحْرٌ مُبِينٌ",
+      "simpleTranslate" : [
+        "And say, \"This is not but obvious magic."
+      ],
+      "tafsirTranslate" : [
+        "and say: 'This is nothing but plain sorcery. <N:10>"
+      ],
+      "tanslateWordByWord" : [
+        "And they say",
+        "Not",
+        "(is) this",
+        "except",
+        "a magic",
+        "clear"
+      ],
+      "notes" : {
+        "10" : [
+          "That is, [\"This person is talking of the world of magic in which the dead will",
+          "rise, and will be produced before a court and sent to Heaven and Hell\"] or, it",
+          "may also mean: \"This person is talking like a madman. What he talks is a clear",
+          "proof that somebody has worked magic on him; otherwise a sensible person could",
+          "not talk such things."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 16,
+      "arabicVerse" : "أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ",
+      "simpleTranslate" : [
+        "When we have died and become dust and bones, are we indeed to be resurrected?"
+      ],
+      "tafsirTranslate" : [
+        "Is it ever possible that after we die and are reduced to dust and (a skeleton of)",
+        "bones, we will be raised to life?"
+      ],
+      "tanslateWordByWord" : [
+        "Is it when",
+        "we are dead",
+        "and have become",
+        "dust",
+        "and bones",
+        "shall we then",
+        "be certainly resurrected"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 17,
+      "arabicVerse" : "أَوَآبَاؤُنَا الْأَوَّلُونَ",
+      "simpleTranslate" : [
+        "And our forefathers [as well]?\""
+      ],
+      "tafsirTranslate" : [
+        "And so also shall our forefathers of yore be raised to life?'"
+      ],
+      "tanslateWordByWord" : [
+        "Or our fathers",
+        "former"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 18,
+      "arabicVerse" : "قُلْ نَعَمْ وَأَنْتُمْ دَاخِرُونَ",
+      "simpleTranslate" : [
+        "Say, \"Yes, and you will be [rendered] contemptible.\""
+      ],
+      "tafsirTranslate" : [
+        "Tell them: 'Yes; and you are utterly helpless (against Allah).' <N:11>"
+      ],
+      "tanslateWordByWord" : [
+        "Say",
+        "Yes",
+        "and you",
+        "(will be) humiliated"
+      ],
+      "notes" : {
+        "11" : [
+          "That is, [\"Allah can make of you whatever He likes. When He willed, you came into",
+          "being forthwith; when He wills, you will die at one Command by Him; and then",
+          "whenever He wills, His one Command will raise you back to lift. \"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 19,
+      "arabicVerse" : "فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ فَإِذَا هُمْ يَنْظُرُونَ",
+      "simpleTranslate" : [
+        "It will be only one shout, and at once they will be observing."
+      ],
+      "tafsirTranslate" : [
+        "There will be a single stern rebuff and lo, they will be observing with their own",
+        "eyes (all that they had been warned against). <N:12>"
+      ],
+      "tanslateWordByWord" : [
+        "Then only",
+        "it",
+        "(will be) a cry",
+        "single",
+        "then, behold",
+        "They",
+        "will see"
+      ],
+      "notes" : {
+        "12" : [
+          "That is, [\"When the time comes for this, it will not be difficult to reestablish",
+          "the whole world. Just a single shout will be enough to make the people to wake",
+          "up. Here, the word \"]shout[\" or \"]cry[\" is very meaningful. It depicts the",
+          "Resurrection as though the people who had died since the beginning of the",
+          "creation till the last Day, were lying asleep, and a sudden command to them to",
+          "\"]wake up[\" will cause them to rise up all at once.\"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 20,
+      "arabicVerse" : "وَقَالُوا يَا وَيْلَنَا هَٰذَا يَوْمُ الدِّينِ",
+      "simpleTranslate" : [
+        "They will say, \"O woe to us! This is the Day of Recompense.\""
+      ],
+      "tafsirTranslate" : [
+        "They will then say: 'Woe for us. This is the Day of Judgement.'"
+      ],
+      "tanslateWordByWord" : [
+        "And they will say",
+        "O woe to us",
+        "This",
+        "(is the) Day",
+        "(of) the Recompense"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 21,
+      "arabicVerse" : "هَٰذَا يَوْمُ الْفَصْلِ الَّذِي كُنْتُمْ بِهِ تُكَذِّبُونَ",
+      "simpleTranslate" : [
+        "[They will be told], \"This is the Day of Judgement which you used to deny.\""
+      ],
+      "tafsirTranslate" : [
+        "'Yes, this is the Day of Final Decision that you used to deny as a lie.' <N:13>"
+      ],
+      "tanslateWordByWord" : [
+        "This",
+        "(is the) Day",
+        "(of) Judgment",
+        "which",
+        "you used to",
+        "[of it]",
+        "deny"
+      ],
+      "notes" : {
+        "13" : [
+          "It may be that this is said by the believers, or by the angels; or it may be, as",
+          "it were, the common expression of the conditions prevailing in the plain of",
+          "Resurrection or it may as well be another reaction of the people themselves. That",
+          "is, they may be saying in their hearts. [\"In the world, you lived in a way as if",
+          "no Day of Judgement would ever come. Now you have come to your doom! This is the",
+          "same Day that you used to deny ! \"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 22,
+      "arabicVerse" : "احْشُرُوا الَّذِينَ ظَلَمُوا وَأَزْوَاجَهُمْ وَمَا كَانُوا يَعْبُدُونَ",
+      "simpleTranslate" : [
+        "[The angels will be ordered], \"Gather those who committed wrong, their kinds, and",
+        "what they used to worship"
+      ],
+      "tafsirTranslate" : [
+        "(Then will the command be given): 'Muster all the wrong-doers <N:14> and their",
+        "spouses <N:15> and the deities whom they used to serve"
+      ],
+      "tanslateWordByWord" : [
+        "Gather",
+        "those who",
+        "wronged",
+        "and their kinds",
+        "and what",
+        "they used (to)",
+        "worship"
+      ],
+      "notes" : {
+        "14" : [
+          "[\"The unjust people\"] dces not only imply those who committed injustices in the",
+          "world, but as a Qur'anic term Zalim implies every such person, who might have",
+          "adopted the way of rebellion and disobedience against Allah. [\""
+        ],
+        "15" : [
+          "The word \"]azwaj\"in the original might also imply their wives, who were their",
+          "associates in this rebellion, and also all those people who were rebellious and",
+          "disobedient like them. Moreover it may also mean that the culprits of different",
+          "categories will be gathered together in separate groups."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 23,
+      "arabicVerse" : "مِنْ دُونِ اللَّهِ فَاهْدُوهُمْ إِلَىٰ صِرَاطِ الْجَحِيمِ",
+      "simpleTranslate" : [
+        "Other than Allah , and guide them to the path of Hellfire"
+      ],
+      "tafsirTranslate" : [
+        "apart from Allah, <N:16> and direct them to the path of Hell,"
+      ],
+      "tanslateWordByWord" : [
+        "Besides",
+        "Besides",
+        "Allah",
+        "then lead them",
+        "to",
+        "(the) Path",
+        "(of) the Hellfire"
+      ],
+      "notes" : {
+        "16" : [
+          "[\"Gods\"] here implies two kinds of the gods: [(1)] Those men and satans who",
+          "themselves desired that the people should worship them instead of Allah; and (21",
+          "those idols and trees and stones, etc., which have actually been worshipped in",
+          "the world. The first kind of the gods will be included among the culprits",
+          "themselves and will be led to Hell for punishment; the other kind of them will be",
+          "thrown into Hell along with their worshippers so that they constantly feel",
+          "ashamed of and continue to regret their follies. Besides, there is also a third",
+          "kind of the gods, who have been worshipped in the world, but without their own",
+          "consent and knowledge; they rather forbade the people to worship anyone but",
+          "Allah, e.g. the angels, prophets and saints. Obviously, this kind of the gods",
+          "will not be included among the gods who will be driven to Hell along with their",
+          "worshippers."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 24,
+      "arabicVerse" : "وَقِفُوهُمْ ۖ إِنَّهُمْ مَسْئُولُونَ",
+      "simpleTranslate" : [
+        "And stop them; indeed, they are to be questioned.\""
+      ],
+      "tafsirTranslate" : [
+        "and detain them there; they will be called to account."
+      ],
+      "tanslateWordByWord" : [
+        "And stop them",
+        "indeed, they",
+        "(are) to be questioned"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 25,
+      "arabicVerse" : "مَا لَكُمْ لَا تَنَاصَرُونَ",
+      "simpleTranslate" : [
+        "[They will be asked], \"What is [wrong] with you? Why do you not help each other?\""
+      ],
+      "tafsirTranslate" : [
+        "How is it that you are not helping one another?"
+      ],
+      "tanslateWordByWord" : [
+        "What",
+        "(is) for you",
+        "(Why) not",
+        "you help one another"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 26,
+      "arabicVerse" : "بَلْ هُمُ الْيَوْمَ مُسْتَسْلِمُونَ",
+      "simpleTranslate" : [
+        "But they, that Day, are in surrender."
+      ],
+      "tafsirTranslate" : [
+        "Indeed, today they are surrendering themselves completely.' <N:17>"
+      ],
+      "tanslateWordByWord" : [
+        "Nay",
+        "they",
+        "(on) that Day",
+        "(will) surrender"
+      ],
+      "notes" : {
+        "17" : [
+          "The first sentence will be addressed to the culprits, and the second to the",
+          "common spectators, who will be watching the scene of the culprits' departure for",
+          "Hell. This sentence itself tells of the general conditions at the time. It tells",
+          "how the haughty and stubborn culprits of the world will be moving towards Hell",
+          "meekly and without showing any resistance. Somewhere some kind will be seen being",
+          "pushed about, and no one from among his courtiers will come forward to rescue",
+          "[\"his majesty\"]; somewhere some conqueror of the world and some dictator will be",
+          "moving away in humiliation and disgrace, and his brave army itself will deliver",
+          "him for the punishment; somewhere some saint or some holy father will be seen",
+          "being thrown into Hell, and no one of his disciples will bother to save him froth",
+          "disgrace; somewhere some leader will be trudging helplessly towards Hell, and",
+          "those who used to glorify and applaud him in the world, will turn away their eyes",
+          "from him. So much so that the (over who was ever prepared to sacrifice everything",
+          "for the beloved in the world, will feel least concerned to save him from his",
+          "plight. By depicting this scene Allah wants to impress how the relationships of",
+          "man with man, which are based on rebellion against Allah in the world, will break",
+          "in the Hereafter, and how the pride of those who are involved in arrogance and",
+          "conceit here, will be rined."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 27,
+      "arabicVerse" : "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَاءَلُونَ",
+      "simpleTranslate" : [
+        "And they will approach one another blaming each other."
+      ],
+      "tafsirTranslate" : [
+        "They will then turn towards each other (and start wrangling)."
+      ],
+      "tanslateWordByWord" : [
+        "And will approach",
+        "some of them",
+        "to",
+        "others",
+        "questioning one another"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 28,
+      "arabicVerse" : "قَالُوا إِنَّكُمْ كُنْتُمْ تَأْتُونَنَا عَنِ الْيَمِينِ",
+      "simpleTranslate" : [
+        "They will say, \"Indeed, you used to come at us from the right.\""
+      ],
+      "tafsirTranslate" : [
+        "(The followers will say to their leaders): 'You used to come to us from the right",
+        "hand.' <N:18>"
+      ],
+      "tanslateWordByWord" : [
+        "They will say",
+        "Indeed, you",
+        "[you] used (to)",
+        "come (to) us",
+        "from",
+        "the right"
+      ],
+      "notes" : {
+        "18" : [
+          "The word yamin in Arabic is used for several meanings. It may mean use of the",
+          "force, or well-wishing, or swearing of an oath. Accordingly, the verse would",
+          "mean: [(1)] [\"You compelled us into following error and deviation\"]; or [(2)]",
+          "[\"you deceived us by posing as our well-wishers\"]; or [(3)] [\"you swore oaths to",
+          "satisfy us that what you were presenting was the very trnth.\"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 29,
+      "arabicVerse" : "قَالُوا بَلْ لَمْ تَكُونُوا مُؤْمِنِينَ",
+      "simpleTranslate" : [
+        "The oppressors will say, \"Rather, you [yourselves] were not believers,"
+      ],
+      "tafsirTranslate" : [
+        "They will say: 'Nay, you yourselves were not the ones who would believe."
+      ],
+      "tanslateWordByWord" : [
+        "They will say",
+        "Nay",
+        "not",
+        "you were",
+        "believers"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 30,
+      "arabicVerse" : "وَمَا كَانَ لَنَا عَلَيْكُمْ مِنْ سُلْطَانٍ ۖ بَلْ كُنْتُمْ قَوْمًا طَاغِينَ",
+      "simpleTranslate" : [
+        "And we had over you no authority, but you were a transgressing people."
+      ],
+      "tafsirTranslate" : [
+        "We had no power over you. You were a rebellious people,"
+      ],
+      "tanslateWordByWord" : [
+        "And not",
+        "was",
+        "for us",
+        "over you",
+        "any",
+        "authority",
+        "Nay",
+        "you were",
+        "a people",
+        "transgressing"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 31,
+      "arabicVerse" : "فَحَقَّ عَلَيْنَا قَوْلُ رَبِّنَا ۖ إِنَّا لَذَائِقُونَ",
+      "simpleTranslate" : [
+        "So the word of our Lord has come into effect upon us; indeed, we will taste",
+        "[punishment]."
+      ],
+      "tafsirTranslate" : [
+        "and so we became deserving of the Word of our Lord that we shall be made to",
+        "suffer chastisement."
+      ],
+      "tanslateWordByWord" : [
+        "So has been proved true",
+        "against us",
+        "(the) Word",
+        "(of) our Lord",
+        "indeed, we",
+        "(will) certainly taste"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 32,
+      "arabicVerse" : "فَأَغْوَيْنَاكُمْ إِنَّا كُنَّا غَاوِينَ",
+      "simpleTranslate" : [
+        "And we led you to deviation; indeed, we were deviators.\""
+      ],
+      "tafsirTranslate" : [
+        "So we led you astray; we ourselves were strayed.' <N:19>"
+      ],
+      "tanslateWordByWord" : [
+        "So we led you astray",
+        "indeed, we",
+        "were",
+        "astray"
+      ],
+      "notes" : {
+        "19" : [
+          "For explanation, see E.N's 51, 52, 53 of Surah Saba."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 33,
+      "arabicVerse" : "فَإِنَّهُمْ يَوْمَئِذٍ فِي الْعَذَابِ مُشْتَرِكُونَ",
+      "simpleTranslate" : [
+        "So indeed they, that Day, will be sharing in the punishment."
+      ],
+      "tafsirTranslate" : [
+        "On that Day, they will all share the chastisement. <N:20>"
+      ],
+      "tanslateWordByWord" : [
+        "Then indeed, they",
+        "that Day",
+        "in",
+        "the punishment",
+        "(will be) sharers"
+      ],
+      "notes" : {
+        "20" : [
+          "That is, the followers as well as the guides, misleaders as well as the misled,",
+          "All shall suffer the same torment. Neither will the followers' excuse be heeded",
+          "that they did not go astray but had been led astray, nor the guides' excuse",
+          "accepted that the people themselves were not desirous of following the right way."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 34,
+      "arabicVerse" : "إِنَّا كَذَٰلِكَ نَفْعَلُ بِالْمُجْرِمِينَ",
+      "simpleTranslate" : [
+        "Indeed, that is how We deal with the criminals."
+      ],
+      "tafsirTranslate" : [
+        "Thus do We treat the culprits."
+      ],
+      "tanslateWordByWord" : [
+        "Indeed, We",
+        "thus",
+        "We deal",
+        "with the criminals"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 35,
+      "arabicVerse" : "إِنَّهُمْ كَانُوا إِذَا قِيلَ لَهُمْ لَا إِلَٰهَ إِلَّا اللَّهُ يَسْتَكْبِرُونَ",
+      "simpleTranslate" : [
+        "Indeed they, when it was said to them, \"There is no deity but Allah ,\" were",
+        "arrogant"
+      ],
+      "tafsirTranslate" : [
+        "Whenever it was said to them: 'There is no true deity apart from Allah,' they",
+        "waxed proud"
+      ],
+      "tanslateWordByWord" : [
+        "Indeed, they",
+        "were",
+        "when",
+        "it was said",
+        "to them",
+        "(There is) no",
+        "god",
+        "except",
+        "Allah",
+        "were arrogant"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 36,
+      "arabicVerse" : "وَيَقُولُونَ أَئِنَّا لَتَارِكُو آلِهَتِنَا لِشَاعِرٍ مَجْنُونٍ",
+      "simpleTranslate" : [
+        "And were saying, \"Are we to leave our gods for a mad poet?\""
+      ],
+      "tafsirTranslate" : [
+        "and said: 'Shall we forsake our deities for the sake of a distracted poet?'"
+      ],
+      "tanslateWordByWord" : [
+        "And they say",
+        "Are we",
+        "to leave",
+        "our gods",
+        "for a poet",
+        "mad"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 37,
+      "arabicVerse" : "بَلْ جَاءَ بِالْحَقِّ وَصَدَّقَ الْمُرْسَلِينَ",
+      "simpleTranslate" : [
+        "Rather, the Prophet has come with the truth and confirmed the [previous]",
+        "messengers."
+      ],
+      "tafsirTranslate" : [
+        "(They say so although) he brought the Truth and confirmed the veracity of the",
+        "Messengers. <N:21>"
+      ],
+      "tanslateWordByWord" : [
+        "Nay",
+        "he has brought",
+        "the truth",
+        "and confirmed",
+        "the Messengers"
+      ],
+      "notes" : {
+        "21" : [
+          "Confirmation of the Messengers has three meanings and all the three are implied",
+          "here: [(1)] That he had not opposed any former Messenger so that the believers of",
+          "that Messenger could have a rational ground of prejudice against him; he had",
+          "rather confirmed all the former Messengers sent by God; [(2)] that he had not",
+          "brought any new or novel thing, but he had presented the same that the former",
+          "Messengers of God had been presenting from the very beginning; and [(3)] that he",
+          "truly fulfilled and corresponded to the predictions that the former Messengers",
+          "had made concerning him."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 38,
+      "arabicVerse" : "إِنَّكُمْ لَذَائِقُو الْعَذَابِ الْأَلِيمِ",
+      "simpleTranslate" : [
+        "Indeed, you [disbelievers] will be tasters of the painful punishment,"
+      ],
+      "tafsirTranslate" : [
+        "(They will be told): 'You shall taste the grievous chastisement."
+      ],
+      "tanslateWordByWord" : [
+        "Indeed, you",
+        "(will) surely taste",
+        "the punishment",
+        "painful"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 39,
+      "arabicVerse" : "وَمَا تُجْزَوْنَ إِلَّا مَا كُنْتُمْ تَعْمَلُونَ",
+      "simpleTranslate" : [
+        "And you will not be recompensed except for what you used to do -"
+      ],
+      "tafsirTranslate" : [
+        "You will only be recompensed according to your deeds.'"
+      ],
+      "tanslateWordByWord" : [
+        "And not",
+        "you will be recompensed",
+        "except",
+        "what",
+        "you used to",
+        "do"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 40,
+      "arabicVerse" : "إِلَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ",
+      "simpleTranslate" : [
+        "But not the chosen servants of Allah ."
+      ],
+      "tafsirTranslate" : [
+        "But Allah's chosen servants (shall be spared this woeful end)."
+      ],
+      "tanslateWordByWord" : [
+        "Except",
+        "(the) slaves",
+        "(of) Allah",
+        "the chosen ones"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 41,
+      "arabicVerse" : "أُولَٰئِكَ لَهُمْ رِزْقٌ مَعْلُومٌ",
+      "simpleTranslate" : [
+        "Those will have a provision determined -"
+      ],
+      "tafsirTranslate" : [
+        "For them awaits a known provision, <N:22>"
+      ],
+      "tanslateWordByWord" : [
+        "Those",
+        "for them",
+        "(will be) a provision",
+        "determined"
+      ],
+      "notes" : {
+        "22" : [
+          "[\"A known provision\"] : A provision All of whose characteristics have been made",
+          "known to them, which they are sure to receive, about which they have also the",
+          "full satisfaction that they will continue to receive it for ever, and about which",
+          "there is no apprehension that they may or may not get it at some time."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 42,
+      "arabicVerse" : "فَوَاكِهُ ۖ وَهُمْ مُكْرَمُونَ",
+      "simpleTranslate" : [
+        "Fruits; and they will be honored"
+      ],
+      "tafsirTranslate" : [
+        "a variety of delicious fruits; and they shall be honoured <N:23>"
+      ],
+      "tanslateWordByWord" : [
+        "Fruits",
+        "and they",
+        "(will) be honored"
+      ],
+      "notes" : {
+        "23" : [
+          "In this there is a subtle allusion to this also that in Paradise food will be",
+          "provided not to serve as food but for pleasure and delight. That is, the food",
+          "there will not be meant to replenish the bodily deficiencies through diet, for no",
+          "deficiency whatever will occur in the body in that eternal life, nor will man",
+          "have appetite, for appetite is caused by the process of assimilation in the body,",
+          "nor will the body demand food for its survival. That is why the word fawakih has",
+          "been used for the different kinds of food in Paradise, which contains the sense",
+          "of taste and pleasure more than that of nutrition."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 43,
+      "arabicVerse" : "فِي جَنَّاتِ النَّعِيمِ",
+      "simpleTranslate" : [
+        "In gardens of pleasure"
+      ],
+      "tafsirTranslate" : [
+        "in the Gardens of Bliss."
+      ],
+      "tanslateWordByWord" : [
+        "In",
+        "Gardens",
+        "(of) Delight"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 44,
+      "arabicVerse" : "عَلَىٰ سُرُرٍ مُتَقَابِلِينَ",
+      "simpleTranslate" : [
+        "On thrones facing one another."
+      ],
+      "tafsirTranslate" : [
+        "They will be seated upon couches set face to face;"
+      ],
+      "tanslateWordByWord" : [
+        "On",
+        "thrones",
+        "facing each other"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 45,
+      "arabicVerse" : "يُطَافُ عَلَيْهِمْ بِكَأْسٍ مِنْ مَعِينٍ",
+      "simpleTranslate" : [
+        "There will be circulated among them a cup [of wine] from a flowing spring,"
+      ],
+      "tafsirTranslate" : [
+        "a cup filled with wine <N:24> from its springs, <N:25> will be passed around to",
+        "them; <N:26>"
+      ],
+      "tanslateWordByWord" : [
+        "Will be circulated",
+        "among them",
+        "a cup",
+        "from",
+        "a flowing spring"
+      ],
+      "notes" : {
+        "24" : [
+          "That is, `It will not be the kind of wine that is extracted from rotten fruit and",
+          "corn in the world, but it will flow naturally from fountains like canals. In",
+          "Surah Muhammad, the same thing has been described more clearly, thus: ........and",
+          "canals will be flowing in it of wine which will be delightful for the drinkers.[\"",
+          "[(v. 15)]"
+        ],
+        "25" : [
+          "Here the word ka `s [(cup)] only has been used and there is no mention of the",
+          "wine. But in Arabic the use of ka's always implies wine. The cup which contains",
+          "milk or water, instead of wine, or is empty, is not called ka's. The word ka's is",
+          "used for a cup only when it contains wine."
+        ],
+        "26" : [
+          "Here it has not been mentioned as to who will take these cups of wine round to",
+          "the dwellers of Paradise. This has been stated at other places: `And there will",
+          "go round to them young boys, exclusively appointed for their service, who will be",
+          "as lovely as well-guarded pearls.\"] [(At-Tur :24 <V:52:24>)]. `They will be",
+          "attended by brisk-moving boys who will for ever remain boys. If you saw them, you",
+          "would think they were pearls, scattered.[\" [(Ad-Dahr: 19)]. Then, its further",
+          "details are found in the traditions related by Hadrat Anas and Hadrat Samurah bin",
+          "Jundub from the Holy Prophet, according to which: `The children of the mushrikin",
+          "will be attendants of the dwellers of Paradise.\"] [(Abu Da`ud Tayalisi, Tabarani,",
+          "Bazzar)]. Though these traditions are weak as regards their links of",
+          "transmitters, there are several other Ahadith which mean that children who died",
+          "young, before attaining maturity, will go to Paradise. Ahadith also show that the",
+          "children whose parents are blessed with Paradise, will live with them so as to be",
+          "a comfort of the eyes for them. This leaves behind those children whose parents",
+          "will not go to Paradise. Thus, with regard to them, it seems reasonable that they",
+          "will be made the attendants of the dwellers of Paradise. [(For a detailed",
+          "discussion of this, see Fath ul-Bari and 'Umdat ul-Qari: Kitab ul-Jana'iz, Bab;",
+          "Maqila fi aulad il -mushrikin; Rasa 'il-o-Masa'il, vol. III, pp. 177-187)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 46,
+      "arabicVerse" : "بَيْضَاءَ لَذَّةٍ لِلشَّارِبِينَ",
+      "simpleTranslate" : [
+        "White and delicious to the drinkers;"
+      ],
+      "tafsirTranslate" : [
+        "white, sparkling (wine), a delight to the drinkers."
+      ],
+      "tanslateWordByWord" : [
+        "White",
+        "delicious",
+        "for the drinkers"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 47,
+      "arabicVerse" : "لَا فِيهَا غَوْلٌ وَلَا هُمْ عَنْهَا يُنْزَفُونَ",
+      "simpleTranslate" : [
+        "No bad effect is there in it, nor from it will they be intoxicated."
+      ],
+      "tafsirTranslate" : [
+        "There will neither be any harm in it for their body nor will it intoxicate their",
+        "mind. <N:27>"
+      ],
+      "tanslateWordByWord" : [
+        "Not",
+        "in it",
+        "(is) bad effect",
+        "and not",
+        "they",
+        "from it",
+        "will be intoxicated"
+      ],
+      "notes" : {
+        "28" : [
+          "Probably these will be the girls who died before attaining the age of discretion",
+          "in the world, and whose parents did not deserve to enter Paradise. This can be",
+          "said on the basis of analogy that just as the boys similarly placed will be",
+          "appointed for the service of the dwellers of Paradise, and they will ever remain",
+          "hoes, so will the girls be made the houris and they will ever remain young and",
+          "beautiful. The correct knowledge, however, is with Allah."
+        ],
+        "27" : [
+          "That is, the wide of Paradise will be free from both the evils which are found in",
+          "the wine of the world. The wine of the world, first of All, afflicts man with its",
+          "stink; then it embitters his taste, upsets his stomach, affects his mind and",
+          "causes giddiness; then it affects the liver and spoils the health generally.",
+          "Then, when the intoxication is gone, it leaves behind other ill-effects on the",
+          "body. Its other evil is that man gets drunk with it, talks nonsense and brawls.",
+          "This is how the wine affects man's mind and reason. Man suffers both these evil",
+          "effects of the wine only for the sake of delight and pleasure. AIlah says that",
+          "the wine of Paradise will certainly afford and give full pleasure and delight,",
+          "but it will be free from the kinds of the evils that go with the worldly wine."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 48,
+      "arabicVerse" : "وَعِنْدَهُمْ قَاصِرَاتُ الطَّرْفِ عِينٌ",
+      "simpleTranslate" : [
+        "And with them will be women limiting [their] glances, with large, [beautiful]",
+        "eyes,"
+      ],
+      "tafsirTranslate" : [
+        "Theirs shall be wide-eyed maidens <N:28> with bashful, restrained glances, <N:29>"
+      ],
+      "tanslateWordByWord" : [
+        "And with them",
+        "(will be) companions of modest gaze",
+        "(will be) companions of modest gaze",
+        "(having) beautiful eyes"
+      ],
+      "notes" : {
+        "29" : [
+          "[\"Restraining their looks\"]: Restraining their looks from everyone except their",
+          "husbands."
+        ],
+        "30" : [
+          "The words of the Text actually mean this: [\"As if they were the hidden or well",
+          "preserved eggs.\"] The commentators have given different interpretations of these",
+          "words, but the correct commentary is the one which Hadrat Umm Salamah has related",
+          "from the Holy Prophet. She says that when she asked the meaning of this verse",
+          "from the Holy Prophet, he said: [\"Their delicacy and elegance and tenderness will",
+          "be like the thin skin which is there between the shell of the egg and its fleshy",
+          "part.\"] [(Ibn Jarir)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 49,
+      "arabicVerse" : "كَأَنَّهُنَّ بَيْضٌ مَكْنُونٌ",
+      "simpleTranslate" : [
+        "As if they were [delicate] eggs, well-protected."
+      ],
+      "tafsirTranslate" : [
+        "so delicate as the hidden peel under an egg's shell. <N:30>"
+      ],
+      "tanslateWordByWord" : [
+        "As if they were",
+        "eggs",
+        "well protected"
+      ],
+      "notes" : {
+        "30" : [ ]
+      }
+    },
+    {
+      "verseNumber" : 50,
+      "arabicVerse" : "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَاءَلُونَ",
+      "simpleTranslate" : [
+        "And they will approach one another, inquiring of each other."
+      ],
+      "tafsirTranslate" : [
+        "Then some of them will turn to others, and will ask each other."
+      ],
+      "tanslateWordByWord" : [
+        "And (will) approach",
+        "some of them",
+        "to",
+        "others",
+        "questioning one another"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 51,
+      "arabicVerse" : "قَالَ قَائِلٌ مِنْهُمْ إِنِّي كَانَ لِي قَرِينٌ",
+      "simpleTranslate" : [
+        "A speaker among them will say, \"Indeed, I had a companion [on earth]"
+      ],
+      "tafsirTranslate" : [
+        "One of them will say: 'I had a companion in the world"
+      ],
+      "tanslateWordByWord" : [
+        "Will say",
+        "a speaker",
+        "among them",
+        "Indeed, I",
+        "had",
+        "for me",
+        "a companion"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 52,
+      "arabicVerse" : "يَقُولُ أَإِنَّكَ لَمِنَ الْمُصَدِّقِينَ",
+      "simpleTranslate" : [
+        "Who would say, 'Are you indeed of those who believe"
+      ],
+      "tafsirTranslate" : [
+        "who used to say: 'Are you also one of those who confirm the Truth (of life after",
+        "death)?"
+      ],
+      "tanslateWordByWord" : [
+        "Who (would) say",
+        "Are you indeed",
+        "surely of",
+        "those who believe"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 53,
+      "arabicVerse" : "أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَدِينُونَ",
+      "simpleTranslate" : [
+        "That when we have died and become dust and bones, we will indeed be",
+        "recompensed?'\""
+      ],
+      "tafsirTranslate" : [
+        "After we are dead and have become all dust and bones shall we still be requited?'",
+        "<N:31>"
+      ],
+      "tanslateWordByWord" : [
+        "Is (it) when",
+        "we have died",
+        "and become",
+        "dust",
+        "and bones",
+        "will we",
+        "surely be brought to Judgment"
+      ],
+      "notes" : {
+        "31" : [
+          "That is, [\"Were you also one of those credulous people who put their faith in an",
+          "irrational and impossible thing like life-after-death ?\"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 54,
+      "arabicVerse" : "قَالَ هَلْ أَنْتُمْ مُطَّلِعُونَ",
+      "simpleTranslate" : [
+        "He will say, \"Would you [care to] look?\""
+      ],
+      "tafsirTranslate" : [
+        "He will say: 'Do you wish to know where he is now?'"
+      ],
+      "tanslateWordByWord" : [
+        "He (will) say",
+        "Will",
+        "you",
+        "be looking"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 55,
+      "arabicVerse" : "فَاطَّلَعَ فَرَآهُ فِي سَوَاءِ الْجَحِيمِ",
+      "simpleTranslate" : [
+        "And he will look and see him in the midst of the Hellfire."
+      ],
+      "tafsirTranslate" : [
+        "Then he will look downwards, and will see him in the depths of Hell."
+      ],
+      "tanslateWordByWord" : [
+        "Then he (will) look",
+        "and see him",
+        "in",
+        "(the) midst",
+        "(of) the Hellfire"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 56,
+      "arabicVerse" : "قَالَ تَاللَّهِ إِنْ كِدْتَ لَتُرْدِينِ",
+      "simpleTranslate" : [
+        "He will say, \"By Allah , you almost ruined me."
+      ],
+      "tafsirTranslate" : [
+        "He will say to him: 'By Allah, you almost ruined me."
+      ],
+      "tanslateWordByWord" : [
+        "He (will) say",
+        "By Allah",
+        "verily",
+        "you almost",
+        "ruined me"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 57,
+      "arabicVerse" : "وَلَوْلَا نِعْمَةُ رَبِّي لَكُنْتُ مِنَ الْمُحْضَرِينَ",
+      "simpleTranslate" : [
+        "If not for the favor of my Lord, I would have been of those brought in [to Hell]."
+      ],
+      "tafsirTranslate" : [
+        "But for Allah's favour, I should be one of those who have been mustered here.",
+        "<N:32>"
+      ],
+      "tanslateWordByWord" : [
+        "And if not",
+        "(for the) Grace",
+        "(of) my Lord",
+        "certainly, I (would) have been",
+        "among",
+        "those brought"
+      ],
+      "notes" : {
+        "32" : [
+          "This shows how powerful will be man's hearing, seeing and speaking powers in the",
+          "Hereafter. Sitting in Paradise he bends his head a little and is able to see a",
+          "person, who is undergoing torment thousands of miles away in Hell, without the",
+          "agency of a television set. Then, they not only just see each other, but also",
+          "commune with each other directly without the medium of the telephone or radio and",
+          "they speak and hear each other over vast distances."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 58,
+      "arabicVerse" : "أَفَمَا نَحْنُ بِمَيِّتِينَ",
+      "simpleTranslate" : [
+        "Then, are we not to die"
+      ],
+      "tafsirTranslate" : [
+        "So, are we not going to die,"
+      ],
+      "tanslateWordByWord" : [
+        "Then are not",
+        "we",
+        "(to) die"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 59,
+      "arabicVerse" : "إِلَّا مَوْتَتَنَا الْأُولَىٰ وَمَا نَحْنُ بِمُعَذَّبِينَ",
+      "simpleTranslate" : [
+        "Except for our first death, and we will not be punished?\""
+      ],
+      "tafsirTranslate" : [
+        "except for our first death? And shall we suffer no chastisement?'' <N:33>"
+      ],
+      "tanslateWordByWord" : [
+        "Except",
+        "our death",
+        "the first",
+        "and not",
+        "we",
+        "will be punished"
+      ],
+      "notes" : {
+        "33" : [
+          "The style clearly shows that while speaking to his friend in Hell, the dweller of",
+          "Paradise suddenly starts talking to himself. He speaks these three sentences in a",
+          "way as if he found himself in a state much better than that he ever expected and",
+          "imagined for himself, and now being beside himself with wonder and joy he is",
+          "engaged in a sort of soliloquy. In such a state the speaker does not speak to an",
+          "addressee, nor the questions he asks are meant to find out something from",
+          "somebody, but in this state the man's own feelings fmd expression through his",
+          "tongue. The dweller of Paradise, while speaking to the dweller of Hell, suddenly",
+          "starts feeling how he has been favoured by good fortune: now there is neither",
+          "death nor any torment: all troubles and distresses have come to an end and he has",
+          "been blessed with immortality. Under this very feeling he exclaims: [\"Well arc we",
+          "not to die any other than our first death ? Are we not to be punished?\"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 60,
+      "arabicVerse" : "إِنَّ هَٰذَا لَهُوَ الْفَوْزُ الْعَظِيمُ",
+      "simpleTranslate" : [
+        "Indeed, this is the great attainment."
+      ],
+      "tafsirTranslate" : [
+        "Surely this is the supreme triumph."
+      ],
+      "tanslateWordByWord" : [
+        "Indeed",
+        "this",
+        "surely",
+        "(is) the attainment",
+        "great"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 61,
+      "arabicVerse" : "لِمِثْلِ هَٰذَا فَلْيَعْمَلِ الْعَامِلُونَ",
+      "simpleTranslate" : [
+        "For the like of this let the workers [on earth] work."
+      ],
+      "tafsirTranslate" : [
+        "For the like of it should the workers work."
+      ],
+      "tanslateWordByWord" : [
+        "For (the) like",
+        "(of) this",
+        "let work",
+        "the workers"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 62,
+      "arabicVerse" : "أَذَٰلِكَ خَيْرٌ نُزُلًا أَمْ شَجَرَةُ الزَّقُّومِ",
+      "simpleTranslate" : [
+        "Is Paradise a better accommodation or the tree of zaqqum?"
+      ],
+      "tafsirTranslate" : [
+        "Is this a better hospitality or the tree of al-Zaqqum? <N:34>"
+      ],
+      "tanslateWordByWord" : [
+        "Is that",
+        "better",
+        "(as) hospitality",
+        "or",
+        "(the) tree",
+        "(of) Zaqqum"
+      ],
+      "notes" : {
+        "34" : [
+          "Zaqqum is a tree of the cactus species found in Tihamah. It is bitter in taste,",
+          "obnoxious in smell and sheds a milk like juice when cut or broken."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 63,
+      "arabicVerse" : "إِنَّا جَعَلْنَاهَا فِتْنَةً لِلظَّالِمِينَ",
+      "simpleTranslate" : [
+        "Indeed, We have made it a torment for the wrongdoers."
+      ],
+      "tafsirTranslate" : [
+        "We have made this tree a trial for the wrong-doers. <N:35>"
+      ],
+      "tanslateWordByWord" : [
+        "Indeed, We",
+        "[We] have made it",
+        "a trial",
+        "for the wrongdoers"
+      ],
+      "notes" : {
+        "35" : [
+          "That is, [\"On hearing this the disbelievers get a new opportunity to taunt the",
+          "Qur'an and mock the Holy Prophet. They ridicule it saying, `Listen another",
+          "strange thing: a tree will grow in the blazing fire of Hell'!\"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 64,
+      "arabicVerse" : "إِنَّهَا شَجَرَةٌ تَخْرُجُ فِي أَصْلِ الْجَحِيمِ",
+      "simpleTranslate" : [
+        "Indeed, it is a tree issuing from the bottom of the Hellfire,"
+      ],
+      "tafsirTranslate" : [
+        "It is a tree that grows in the nethermost part of Hell."
+      ],
+      "tanslateWordByWord" : [
+        "Indeed, it",
+        "(is) a tree",
+        "that grows",
+        "in",
+        "(the) bottom",
+        "(of) the Hellfire"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 65,
+      "arabicVerse" : "طَلْعُهَا كَأَنَّهُ رُءُوسُ الشَّيَاطِينِ",
+      "simpleTranslate" : [
+        "Its emerging fruit as if it was heads of the devils."
+      ],
+      "tafsirTranslate" : [
+        "Its spathes are like the heads of satans. <N:36>"
+      ],
+      "tanslateWordByWord" : [
+        "Its emerging fruit",
+        "(is) as if it",
+        "(was) heads",
+        "(of) the devils"
+      ],
+      "notes" : {
+        "36" : [
+          "Nobody should have the misunderstanding that since no one has seen the head of",
+          "Satan, it was no use likening the buds of zaqqum to it. This is, in fact, an",
+          "imaginative kind of the simile, and is employed in the literature of every",
+          "language. For example, in order to give an idea of the rare beauty of a woman, it",
+          "is said she is a fairy, and in order to describe her ugliness, it is said that",
+          "she is a hag or a demon. Likewise, a pious-looking person is described as an",
+          "angel and a dreadful-looking person as a devil."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 66,
+      "arabicVerse" : "فَإِنَّهُمْ لَآكِلُونَ مِنْهَا فَمَالِئُونَ مِنْهَا الْبُطُونَ",
+      "simpleTranslate" : [
+        "And indeed, they will eat from it and fill with it their bellies."
+      ],
+      "tafsirTranslate" : [
+        "(The people of Hell) will surely eat of it, filling their bellies with it."
+      ],
+      "tanslateWordByWord" : [
+        "And indeed, they",
+        "(will) surely eat",
+        "from it",
+        "and fill",
+        "with it",
+        "(their) bellies"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 67,
+      "arabicVerse" : "ثُمَّ إِنَّ لَهُمْ عَلَيْهَا لَشَوْبًا مِنْ حَمِيمٍ",
+      "simpleTranslate" : [
+        "Then indeed, they will have after it a mixture of scalding water."
+      ],
+      "tafsirTranslate" : [
+        "Then on top of it they will have a brew of boiling water."
+      ],
+      "tanslateWordByWord" : [
+        "Then",
+        "indeed",
+        "for them",
+        "in it",
+        "(is) a mixture",
+        "of",
+        "boiling water"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 68,
+      "arabicVerse" : "ثُمَّ إِنَّ مَرْجِعَهُمْ لَإِلَى الْجَحِيمِ",
+      "simpleTranslate" : [
+        "Then indeed, their return will be to the Hellfire."
+      ],
+      "tafsirTranslate" : [
+        "Then their return will be to the same blazing Hell. <N:37>"
+      ],
+      "tanslateWordByWord" : [
+        "Then",
+        "indeed",
+        "their return",
+        "(will) surely be to",
+        "the Hellfire"
+      ],
+      "notes" : {
+        "37" : [
+          "This shows that when the dwellers of Hell will be in distress due to hunger and",
+          "thirst, they will be driven to the side where there would be the zaqqum trees and",
+          "the springs of boiling water. When they will have eaten and drunk, they will be",
+          "brought back to Hell."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 69,
+      "arabicVerse" : "إِنَّهُمْ أَلْفَوْا آبَاءَهُمْ ضَالِّينَ",
+      "simpleTranslate" : [
+        "Indeed they found their fathers astray."
+      ],
+      "tafsirTranslate" : [
+        "These are the ones who found their fathers steeped in error,"
+      ],
+      "tanslateWordByWord" : [
+        "Indeed, they",
+        "found",
+        "their fathers",
+        "astray"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 70,
+      "arabicVerse" : "فَهُمْ عَلَىٰ آثَارِهِمْ يُهْرَعُونَ",
+      "simpleTranslate" : [
+        "So they hastened [to follow] in their footsteps."
+      ],
+      "tafsirTranslate" : [
+        "and they are running in their footsteps."
+      ],
+      "tanslateWordByWord" : [
+        "So they",
+        "on",
+        "their footsteps",
+        "they hastened"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 71,
+      "arabicVerse" : "وَلَقَدْ ضَلَّ قَبْلَهُمْ أَكْثَرُ الْأَوَّلِينَ",
+      "simpleTranslate" : [
+        "And there had already strayed before them most of the former peoples,"
+      ],
+      "tafsirTranslate" : [
+        "Before them a multitude of people of olden times had erred,"
+      ],
+      "tanslateWordByWord" : [
+        "And verily",
+        "went astray",
+        "before them",
+        "most",
+        "(of) the former (people)"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 72,
+      "arabicVerse" : "وَلَقَدْ أَرْسَلْنَا فِيهِمْ مُنْذِرِينَ",
+      "simpleTranslate" : [
+        "And We had already sent among them warners."
+      ],
+      "tafsirTranslate" : [
+        "and We had sent among them Messengers to warn them."
+      ],
+      "tanslateWordByWord" : [
+        "And verily",
+        "We sent",
+        "among them",
+        "warners"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 73,
+      "arabicVerse" : "فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُنْذَرِينَ",
+      "simpleTranslate" : [
+        "Then look how was the end of those who were warned -"
+      ],
+      "tafsirTranslate" : [
+        "Observe, then, what was the end of those that had been warned,"
+      ],
+      "tanslateWordByWord" : [
+        "Then see",
+        "how",
+        "was",
+        "(the) end",
+        "(of) those who were warned"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 74,
+      "arabicVerse" : "إِلَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ",
+      "simpleTranslate" : [
+        "But not the chosen servants of Allah ."
+      ],
+      "tafsirTranslate" : [
+        "except for the chosen servants of Allah? <N:38>"
+      ],
+      "tanslateWordByWord" : [
+        "Except",
+        "(the) slaves",
+        "(of) Allah",
+        "the chosen ones"
+      ],
+      "notes" : {
+        "38" : [
+          "That is, they never used their own common sense to sec whether the way their",
+          "forefathers had been following was right or wrong; they just blindly adopted the",
+          "way that they found others following."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 75,
+      "arabicVerse" : "وَلَقَدْ نَادَانَا نُوحٌ فَلَنِعْمَ الْمُجِيبُونَ",
+      "simpleTranslate" : [
+        "And Noah had certainly called Us, and [We are] the best of responders."
+      ],
+      "tafsirTranslate" : [
+        "Noah <N:39> had called upon Us (earlier). <N:40> See, how excellent We were in",
+        "answering him!"
+      ],
+      "tanslateWordByWord" : [
+        "And verily",
+        "called Us",
+        "Nuh",
+        "and Best",
+        "(are We as) Responders"
+      ],
+      "notes" : {
+        "40" : [
+          "This refers to the prayer that the Prophet Noah had at last made to Allah",
+          "Almighty, being disappointed with his people, after having preached the true",
+          "Faith to them for a very long period of time, without much success. This prayer",
+          "has been related in Surah All-Qamar, thus: [\"He called out to his Lord, saying: I",
+          "am overcome: take now Thy vengeance.\"] [(v. 10)]."
+        ],
+        "39" : [
+          "This theme is related with the preceding sentences. A study of them shows why",
+          "these stories are being narrated here."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 76,
+      "arabicVerse" : "وَنَجَّيْنَاهُ وَأَهْلَهُ مِنَ الْكَرْبِ الْعَظِيمِ",
+      "simpleTranslate" : [
+        "And We saved him and his family from the great affliction."
+      ],
+      "tafsirTranslate" : [
+        "We delivered him and his household from the great calamity; <N:41>"
+      ],
+      "tanslateWordByWord" : [
+        "And We saved him",
+        "and his family",
+        "from",
+        "the distress",
+        "the great"
+      ],
+      "notes" : {
+        "41" : [
+          "That is, from the severe distress that was being caused to him on account of the",
+          "continuous opposition and antagonism of a wicked and cruel people. This also",
+          "contains a subtle allusion that just as the Prophet Noah and his companions were",
+          "saved from the great distress, so also shall We ultimately save the Prophet",
+          "Muhammad [(upon whom be Allah's peace)] and his Companions from the great",
+          "distress that is being caused to them by the people of Makkah."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 77,
+      "arabicVerse" : "وَجَعَلْنَا ذُرِّيَّتَهُ هُمُ الْبَاقِينَ",
+      "simpleTranslate" : [
+        "And We made his descendants those remaining [on the earth]"
+      ],
+      "tafsirTranslate" : [
+        "and made his offspring the only ones to survive, <N:42>"
+      ],
+      "tanslateWordByWord" : [
+        "And We made",
+        "his offspring",
+        "[they]",
+        "the survivors"
+      ],
+      "notes" : {
+        "42" : [
+          "This can have two meanings: [(1)] That the progeny of the people who were",
+          "opposing the Prophet Noah was made extinct and the Prophet Noah's progeny alone",
+          "was allowed to survive; and [(2)] that the whole human race was made extinct, and",
+          "only the Prophet Noah's progeny was allowed to inhabit the earth after that. The",
+          "commentators generally have adopted this second meaning, but the words of the",
+          "Qur'an are not explicit in this regard and no one knows the reality except Allah."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 78,
+      "arabicVerse" : "وَتَرَكْنَا عَلَيْهِ فِي الْآخِرِينَ",
+      "simpleTranslate" : [
+        "And left for him [favorable mention] among later generations:"
+      ],
+      "tafsirTranslate" : [
+        "and We established for him a good name among posterity."
+      ],
+      "tanslateWordByWord" : [
+        "And We left",
+        "for him",
+        "among",
+        "the later generations"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 79,
+      "arabicVerse" : "سَلَامٌ عَلَىٰ نُوحٍ فِي الْعَالَمِينَ",
+      "simpleTranslate" : [
+        "\"Peace upon Noah among the worlds.\""
+      ],
+      "tafsirTranslate" : [
+        "Peace be upon Noah among all the nations. <N:43>"
+      ],
+      "tanslateWordByWord" : [
+        "Peace be",
+        "upon",
+        "Nuh",
+        "among",
+        "the worlds"
+      ],
+      "notes" : {
+        "43" : [
+          "That is there is none in the world today, who would talk coil of the Prophet",
+          "Noah. After the Flood till today the world has been praising and speaking well of",
+          "him for thousands of years."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 80,
+      "arabicVerse" : "إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
+      "simpleTranslate" : [
+        "Indeed, We thus reward the doers of good."
+      ],
+      "tafsirTranslate" : [
+        "Thus do We reward all those who do good."
+      ],
+      "tanslateWordByWord" : [
+        "Indeed, We",
+        "thus",
+        "[We] reward",
+        "the good-doers"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 81,
+      "arabicVerse" : "إِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ",
+      "simpleTranslate" : [
+        "Indeed, he was of Our believing servants."
+      ],
+      "tafsirTranslate" : [
+        "Surely he was one of Our truly believing servants."
+      ],
+      "tanslateWordByWord" : [
+        "Indeed, he",
+        "(was) of",
+        "Our slaves",
+        "believing"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 82,
+      "arabicVerse" : "ثُمَّ أَغْرَقْنَا الْآخَرِينَ",
+      "simpleTranslate" : [
+        "Then we drowned the others [i.e., disbelievers]"
+      ],
+      "tafsirTranslate" : [
+        "Thereafter We caused the others to be drowned."
+      ],
+      "tanslateWordByWord" : [
+        "Then",
+        "We drowned",
+        "the others"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 83,
+      "arabicVerse" : "وَإِنَّ مِنْ شِيعَتِهِ لَإِبْرَاهِيمَ",
+      "simpleTranslate" : [
+        "And indeed, among his kind was Abraham,"
+      ],
+      "tafsirTranslate" : [
+        "Abraham was on the self-same way (as Noah)."
+      ],
+      "tanslateWordByWord" : [
+        "And indeed",
+        "among",
+        "his kind",
+        "(was) surely Ibrahim"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 84,
+      "arabicVerse" : "إِذْ جَاءَ رَبَّهُ بِقَلْبٍ سَلِيمٍ",
+      "simpleTranslate" : [
+        "When he came to his Lord with a sound heart"
+      ],
+      "tafsirTranslate" : [
+        "When he came to his Lord with a pure heart, <N:44>"
+      ],
+      "tanslateWordByWord" : [
+        "When",
+        "he came",
+        "(to) his Lord",
+        "with a heart",
+        "sound"
+      ],
+      "notes" : {
+        "44" : [
+          "[\"Approached his Lord\"]: Turned to his Lord sincerely and exclusively; [\"with a",
+          "sound heart\"]: with a heart that was free from all kinds of moral evils and",
+          "weaknesses of faith, free from every trace of unbelief and shirk, doubt and",
+          "suspicion, from every feeling of disobedience and rebellion, from every",
+          "crookedness, confusion and complexity, and free from every evil inclination and",
+          "desire, and a heart that neither cherished any malice and jealousy and ill-will",
+          "against anyone, nor had any evil intention."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 85,
+      "arabicVerse" : "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِ مَاذَا تَعْبُدُونَ",
+      "simpleTranslate" : [
+        "[And] when he said to his father and his people, \"What do you worship?"
+      ],
+      "tafsirTranslate" : [
+        "and said to his father and his people: <N:45> 'Whom do you worship?"
+      ],
+      "tanslateWordByWord" : [
+        "When",
+        "he said",
+        "to his father",
+        "and his people",
+        "What is it",
+        "you worship"
+      ],
+      "notes" : {
+        "45" : [
+          "For further details of this story of the Prophet Abraham, please see Surah",
+          "Al-An'am: 72-90; Maryam: 41-60; AI-Anbiya: 51-75; Ash-Shu'ara; 69-89;",
+          "Al-'Ankabut: 16-17, and the E.N's thereof."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 86,
+      "arabicVerse" : "أَئِفْكًا آلِهَةً دُونَ اللَّهِ تُرِيدُونَ",
+      "simpleTranslate" : [
+        "Is it falsehood [as] gods other than Allah you desire?"
+      ],
+      "tafsirTranslate" : [
+        "Is it false deities that you want to serve rather than Allah?"
+      ],
+      "tanslateWordByWord" : [
+        "Is it falsehood ",
+        "gods",
+        "other than",
+        "Allah ",
+        "(that) you desire"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 87,
+      "arabicVerse" : "فَمَا ظَنُّكُمْ بِرَبِّ الْعَالَمِينَ",
+      "simpleTranslate" : [
+        "Then what is your thought about the Lord of the worlds?\""
+      ],
+      "tafsirTranslate" : [
+        "What do you think of the Lord of the whole Universe?' <N:46>"
+      ],
+      "tanslateWordByWord" : [
+        "Then what",
+        "(do) you think",
+        "about (the) Lord",
+        "(of) the worlds"
+      ],
+      "notes" : {
+        "46" : [
+          "That is, [\"Why have you formed such a wrong view of Allah? Do you think that the",
+          "gods that you have yourselves carved out from wood and stone can be like Him, or",
+          "can be His associates in his attributes and rights? And are you involved in the",
+          "misunderstanding that you will somehow manage to escape His punishment after you",
+          "have indulged in such blasphemy ?\"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 88,
+      "arabicVerse" : "فَنَظَرَ نَظْرَةً فِي النُّجُومِ",
+      "simpleTranslate" : [
+        "And he cast a look at the stars"
+      ],
+      "tafsirTranslate" : [
+        "Then <N:47> he looked carefully at the stars <N:48>"
+      ],
+      "tanslateWordByWord" : [
+        "Then he glanced",
+        "a glance",
+        "at",
+        "the stars"
+      ],
+      "notes" : {
+        "48" : [
+          "Ibn Abi Hatim has cited a saying of the famous commentator Qatadah, an immediate",
+          "follower of the Companions, to the effect that the Arabic idiomatic expression,",
+          "cast a glance at the stars,\" means that he pondered deeply, or that he started",
+          "thinking seriously. 'Allama Ibn Kathir has preferred this same view, and this is",
+          "also supported by the common observation: when a person is confronted by a",
+          "problem that needs serious consideration, he looks upward or to the sky for a",
+          "while, and then makes a reply, after due consideration."
+        ],
+        "47" : [
+          "The reference is to a particular incident the details of which have been given in",
+          "Surah Al-Anbiya': 71-73 and Al-`Ankabut: 16-27 above."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 89,
+      "arabicVerse" : "فَقَالَ إِنِّي سَقِيمٌ",
+      "simpleTranslate" : [
+        "And said, \"Indeed, I am [about to be] ill.\""
+      ],
+      "tafsirTranslate" : [
+        "and said: 'I am sick.' <N:49>"
+      ],
+      "tanslateWordByWord" : [
+        "And he said",
+        "Indeed, I am",
+        "sick"
+      ],
+      "notes" : {
+        "49" : [
+          "This is one of those three things concerning which it is said that the Prophet",
+          "Abraham had told three lies in his life, whereas it should be ascertained before",
+          "declaring it a lie, or anything contrary to fact, whether the Prophet Abraham at",
+          "that time was not suffering from any illness, and therefore, he had trade this",
+          "excuse only as a pretence. If there is no proof, there is no reason why it should",
+          "be regarded as a lie. For a detailed discussion, please refer to E.N. 60 of Surah",
+          "Al-Anbiya` and Rasa 'il-o-Masa'il, vol. II, pp. 35 to 39."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 90,
+      "arabicVerse" : "فَتَوَلَّوْا عَنْهُ مُدْبِرِينَ",
+      "simpleTranslate" : [
+        "So they turned away from him, departing."
+      ],
+      "tafsirTranslate" : [
+        "So turning their backs, they went away from him. <N:50>"
+      ],
+      "tanslateWordByWord" : [
+        "So they turned away",
+        "from him",
+        "departing"
+      ],
+      "notes" : {
+        "50" : [
+          "This sentence by itself shows the real state of the affairs. It appears that the",
+          "people might be going to sane fair of theirs. The family of the Prophet Abraham",
+          "might have asked him also to accompany them. He might have excused himself,",
+          "saying that he was indisposed, and therefore, could not go. Had it been something",
+          "contrary to fact, the people of the house would have said: \"You look perfectly",
+          "normal: you are making a false excuse. But when they accepted his excuse and left",
+          "him behind, it clearly shows that the Prophet Abraham must at that titre be",
+          "suffering from cough and cold or sane other such visible illness on account of",
+          "which the people of the house agreed to leave him behind."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 91,
+      "arabicVerse" : "فَرَاغَ إِلَىٰ آلِهَتِهِمْ فَقَالَ أَلَا تَأْكُلُونَ",
+      "simpleTranslate" : [
+        "Then he turned to their gods and said, \"Do you not eat?"
+      ],
+      "tafsirTranslate" : [
+        "Then he went quietly to the (temple of the deities) and said: 'What is the matter",
+        "with you, why do you not eat? <N:51>"
+      ],
+      "tanslateWordByWord" : [
+        "Then he turned",
+        "to",
+        "their gods",
+        "and said",
+        "Do not",
+        "you eat"
+      ],
+      "notes" : {
+        "51" : [
+          "This shows that there were different kinds of food placed before the idols in the",
+          "temple."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 92,
+      "arabicVerse" : "مَا لَكُمْ لَا تَنْطِقُونَ",
+      "simpleTranslate" : [
+        "What is [wrong] with you that you do not speak?\""
+      ],
+      "tafsirTranslate" : [
+        "What is the matter with you, why do you not speak?'"
+      ],
+      "tanslateWordByWord" : [
+        "What (is)",
+        "for you",
+        "not",
+        "you speak"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 93,
+      "arabicVerse" : "فَرَاغَ عَلَيْهِمْ ضَرْبًا بِالْيَمِينِ",
+      "simpleTranslate" : [
+        "And he turned upon them a blow with [his] right hand."
+      ],
+      "tafsirTranslate" : [
+        "Then he turned upon them, striking them with his right hand,"
+      ],
+      "tanslateWordByWord" : [
+        "Then he turned",
+        "upon them",
+        "striking",
+        "with the right hand"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 94,
+      "arabicVerse" : "فَأَقْبَلُوا إِلَيْهِ يَزِفُّونَ",
+      "simpleTranslate" : [
+        "Then the people came toward him, hastening."
+      ],
+      "tafsirTranslate" : [
+        "whereupon people came to him running. <N:52>"
+      ],
+      "tanslateWordByWord" : [
+        "Then they advanced",
+        "towards him",
+        "hastening"
+      ],
+      "notes" : {
+        "52" : [
+          "Here the story has been told in brief. According to the details given in Surah",
+          "Ai-Anbiya`, when they returned and found all their idols broken to pieces in the",
+          "temple, they started making investigations. Some people said that a young man,",
+          "called Abraham, had been talking such and such things against idol-worship. At",
+          "this the multitude demanded that he should be immediately seized and brought",
+          "before them. Therefore, a group of the people went running to him and brought him",
+          "before the multitude."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 95,
+      "arabicVerse" : "قَالَ أَتَعْبُدُونَ مَا تَنْحِتُونَ",
+      "simpleTranslate" : [
+        "He said, \"Do you worship that which you [yourselves] carve,"
+      ],
+      "tafsirTranslate" : [
+        "Abraham said to them: 'Do you worship what you yourselves have carved with your",
+        "own hands"
+      ],
+      "tanslateWordByWord" : [
+        "He said",
+        "Do you worship",
+        "what",
+        "you carve"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 96,
+      "arabicVerse" : "وَاللَّهُ خَلَقَكُمْ وَمَا تَعْمَلُونَ",
+      "simpleTranslate" : [
+        "While Allah created you and that which you do?\""
+      ],
+      "tafsirTranslate" : [
+        "while it is Allah Who has created you and all that you make?'"
+      ],
+      "tanslateWordByWord" : [
+        "While Allah",
+        "created you",
+        "and what",
+        "you make"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 97,
+      "arabicVerse" : "قَالُوا ابْنُوا لَهُ بُنْيَانًا فَأَلْقُوهُ فِي الْجَحِيمِ",
+      "simpleTranslate" : [
+        "They said, \"Construct for him a furnace and throw him into the burning fire.\""
+      ],
+      "tafsirTranslate" : [
+        "They spoke among themselves: 'Build him a pyre and then throw him into the",
+        "furnace.'"
+      ],
+      "tanslateWordByWord" : [
+        "They said",
+        "Build",
+        "for him",
+        "a structure",
+        "and throw him",
+        "into",
+        "the blazing Fire"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 98,
+      "arabicVerse" : "فَأَرَادُوا بِهِ كَيْدًا فَجَعَلْنَاهُمُ الْأَسْفَلِينَ",
+      "simpleTranslate" : [
+        "And they intended for him a plan, but We made them the most debased."
+      ],
+      "tafsirTranslate" : [
+        "They had contrived an evil plan against him, but We abased them all. <N:53>"
+      ],
+      "tanslateWordByWord" : [
+        "And they intended",
+        "for him",
+        "a plot",
+        "but We made them",
+        "the lowest"
+      ],
+      "notes" : {
+        "53" : [
+          "The words in Surah Al-Anbiya`: 69 are to the effect: [\"We commanded: O fire, be",
+          "cool and become safe for Abraham,\"] and in Surah AI'Ankbut: 24, it has been said:",
+          "[\"Then Allah saved him from the fire.\"] This proves that those people had",
+          "actually thrown the Prophet Abraham into the fire, and then Allah had rescued him",
+          "from it safe and sound. The words of the verse, [\"They had designed a plan",
+          "against him, but We defeated them in their plan,\"] cannot be taken to mean that",
+          "they had only intended to throw the Prophet Abraham into the fire but could not",
+          "carry their plan into effect; but when these words are read with the verses cited",
+          "above, the meaning becomes plain that they had wanted to kill him by casting him",
+          "into the fire but could not do so, and the Prophet Abraham's miraculous escape",
+          "proved his superiority and the polytheists were humbled by Allah. The real object",
+          "of relating this incident is to warn the people of the Quraish to this effect:",
+          "\"The way that you have adopted is not the way of the Prophet Abraham, whose",
+          "descendants you claim yourselves to be, but his way is the one being presented by",
+          "the Prophet Muhammad [(upon whom be Allah's peace and blessings)]. Now, if you",
+          "plot against him in order to defeat him and frustrate his mission, as the people",
+          "of the Prophet Abraham had done against him, you alone will be defeated in the",
+          "end, because you cannot defeat Muhammad [(upon whom be Allah's peace)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 99,
+      "arabicVerse" : "وَقَالَ إِنِّي ذَاهِبٌ إِلَىٰ رَبِّي سَيَهْدِينِ",
+      "simpleTranslate" : [
+        "And [then] he said, \"Indeed, I will go to [where I am ordered by] my Lord; He",
+        "will guide me."
+      ],
+      "tafsirTranslate" : [
+        "Abraham said: <N:54> 'I am going to my Lord; <N:55> He will guide me."
+      ],
+      "tanslateWordByWord" : [
+        "And he said",
+        "Indeed, I am",
+        "going",
+        "to",
+        "my Lord",
+        "He will guide me"
+      ],
+      "notes" : {
+        "54" : [
+          "The Prophet Abraham said these words on his departure after he had been delivered",
+          "safe from the fire and had decided to leave the country."
+        ],
+        "55" : [
+          "It mean: [\"I am leaving my home and country for the sake of Allah, for my people",
+          "have turned hostile to me only because of my turning to Him exclusively;",
+          "otherwise there was no worldly dispute between them and me because of which I",
+          "might have had to Leave my country. Moreover. I have no place of refuge in the",
+          "world, to which I may turn. I am leaving my home with full faith and trust only",
+          "in AIlah: I shall go wherever He leads me. \"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 100,
+      "arabicVerse" : "رَبِّ هَبْ لِي مِنَ الصَّالِحِينَ",
+      "simpleTranslate" : [
+        "My Lord, grant me [a child] from among the righteous.\""
+      ],
+      "tafsirTranslate" : [
+        "Lord, grant me a righteous son.' <N:56>"
+      ],
+      "tanslateWordByWord" : [
+        "My Lord",
+        "grant",
+        "me",
+        "of",
+        "the righteous"
+      ],
+      "notes" : {
+        "56" : [
+          "This prayer by itself shows that the Prophet Abraham at that time was childless.",
+          "From the details given at other places in the Qur'an, it becomes clear that he",
+          "had left his country with only one wife and one nephew [(the Prophet Lot)].",
+          "Therefore, he naturally desired that Allah should bless him with a righteous",
+          "child, who could be a source of comfort and consolation for him in a foreign",
+          "land."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 101,
+      "arabicVerse" : "فَبَشَّرْنَاهُ بِغُلَامٍ حَلِيمٍ",
+      "simpleTranslate" : [
+        "So We gave him good tidings of a forbearing boy."
+      ],
+      "tafsirTranslate" : [
+        "(In response to this prayer) We gave him the good news of a prudent boy; <N:57>"
+      ],
+      "tanslateWordByWord" : [
+        "So We gave him the glad tidings",
+        "of a boy",
+        "forbearing"
+      ],
+      "notes" : {
+        "57" : [
+          "From this one should not understand that this good news was given him immediately",
+          "following his prayer. In the Qur'an itself, at another place, this saying of the",
+          "Prophet Abraham has been related: [\"All praise be to Allah Who has given me sons",
+          "like Ishmael and Isaac in my old age.\"] [(Ibrahim: 39 <V:14:39>)]. This proves",
+          "that there was an interval of many years between the prayer and this good news.",
+          "The \" Bible says that at the birth of the Prophet Ishmael, the Prophet Abraham",
+          "was 86 years old [(Gen. 16: 16)] and at the birth of the Prophet Isaac a hundred",
+          "years. [(Gen. 21: 5)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 102,
+      "arabicVerse" : "فَلَمَّا بَلَغَ مَعَهُ السَّعْيَ قَالَ يَا بُنَيَّ إِنِّي أَرَىٰ فِي الْمَنَامِ أَنِّي أَذْبَحُكَ فَانْظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَا أَبَتِ افْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِي إِنْ شَاءَ اللَّهُ مِنَ الصَّابِرِينَ",
+      "simpleTranslate" : [
+        "And when he reached with him [the age of] exertion, he said, \"O my son, indeed I",
+        "have seen in a dream that I [must] sacrifice you, so see what you think.\" He",
+        "said, \"O my father, do as you are commanded. You will find me, if Allah wills, of",
+        "the steadfast.\""
+      ],
+      "tafsirTranslate" : [
+        "and when he was old enough to go about and work with him, (one day) Abraham said",
+        "to him: 'My son, I see in my dream that I am slaughtering you. <N:58> So consider",
+        "(and tell me) what you think.' <N:59> He said: 'Do as you are bidden. <N:60> You",
+        "will find me, if Allah so wills, among the steadfast.'"
+      ],
+      "tanslateWordByWord" : [
+        "Then when",
+        "he reached",
+        "the (age of) working with him",
+        "the (age of) working with him",
+        "he said",
+        "O my son",
+        "Indeed, I",
+        "have seen",
+        "in",
+        "the dream",
+        "that I am",
+        "sacrificing you",
+        "so look",
+        "what",
+        "you see",
+        "He said",
+        "O my father",
+        "Do",
+        "what",
+        "you are commanded",
+        "You will find me",
+        "if",
+        "Allah wills",
+        "Allah wills",
+        "of",
+        "the patient ones"
+      ],
+      "notes" : {
+        "58" : [
+          "One should note that the Prophet Abraham had dreamt that he was sacrificing his",
+          "son and not that he had sacrificed him. Although at that time he understood the",
+          "dream to mean that he should sacrifice his son and on that very basis, he became",
+          "ready to sacrifice him, with a cool mind, yet the fine point that Allah had in",
+          "view in making him see the dream has been explained by Himself in verse 105",
+          "below."
+        ],
+        "59" : [
+          "The object of asking this of the son was not that he would carry out Allah's",
+          "Command only if he agreed, otherwise not, but the Prophet Abraham, in fact,",
+          "wanted to find out how righteous, in actual reality, was his child for whom he",
+          "had prayed to Allah. If the son himself was found to be ready to lay down his",
+          "life for the sake of Allah's approval and pleasure, it would mean that the prayer",
+          "had been fully granted, and the son was not his offspring in the natural way only",
+          "but was morally aad spiritually also a true son."
+        ],
+        "60" : [
+          "The words clearly tell that the son had not taken the dream of his Prophet father",
+          "to be a mere dream but a Command from Allah. Had it not been a Command actually,",
+          "it was necessary that Allah should have explicitly or implicitly stated that the",
+          "son of Abraham had mistaken it for a command. But the whole context is without",
+          "any such allusion. On this very basis, there is the Islamic belief that the dream",
+          "of the Prophets is never a mere dream it is also a kind of Revelation. Obviously,",
+          "if a thing, which could become such a fundamental principle in the Divine",
+          "Shari'ah, had not been based on reality, but had been a mere misunderstanding, it",
+          "was not possible that Allah should not have refuted it. It is impossible for the",
+          "one who believes the Qur'an to be Allah's Word, to accept That such an error and",
+          "omission could emanate from Allah also."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 103,
+      "arabicVerse" : "فَلَمَّا أَسْلَمَا وَتَلَّهُ لِلْجَبِينِ",
+      "simpleTranslate" : [
+        "And when they had both submitted and he put him down upon his forehead,"
+      ],
+      "tafsirTranslate" : [
+        "When both surrendered (to Allah's command) and Abraham flung the son down on his",
+        "forehead, <N:61>"
+      ],
+      "tanslateWordByWord" : [
+        "Then when",
+        "both of them had submitted",
+        "and he put him down",
+        "upon his forehead"
+      ],
+      "notes" : {
+        "61" : [
+          "That is, [\"The Prophet Abraham did not make his son lit flat on his back but made",
+          "him lie prostrate lest while slaughtering him the sight of his face should arouse",
+          "compassion and lout and make him shaky. Therefore, he wanted to use the knife",
+          "from under the throat\"] ."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 104,
+      "arabicVerse" : "وَنَادَيْنَاهُ أَنْ يَا إِبْرَاهِيمُ",
+      "simpleTranslate" : [
+        "We called to him, \"O Abraham,"
+      ],
+      "tafsirTranslate" : [
+        "We cried out: <N:62> 'O Abraham,"
+      ],
+      "tanslateWordByWord" : [
+        "And We called out to him",
+        "that",
+        "O Ibrahim"
+      ],
+      "notes" : {
+        "62" : [
+          "One section of the grammarians says that here [\"and\"] has been use to mean",
+          "[\"then\"]; thus, the sentence would be: [\"When the two had submitted themselves",
+          "[(to Allah)] and Abraham had flung his son down on his brow, then We called out.",
+          ". . \"] But another section of them says that here the answer to the word [\"when\"]",
+          "has been omitted and left for the listener to fill; for it was better w leave",
+          "such an indescribable thing to the imagination instead of expressing it in words.",
+          "When Allah amight have seen that the old father who had got a son after long",
+          "earnest prayers, has become ready to sacrifice him only for His pleasure and",
+          "approval; and the son also had became ready to get slaughtered, His infinite",
+          "Mercy might have been aroused at the sight, and the Master might have felt great",
+          "love for the father and son. All this can only be imagined. No words would ever",
+          "describe the scene adequately."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 105,
+      "arabicVerse" : "قَدْ صَدَّقْتَ الرُّؤْيَا ۚ إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
+      "simpleTranslate" : [
+        "You have fulfilled the vision.\" Indeed, We thus reward the doers of good."
+      ],
+      "tafsirTranslate" : [
+        "you have indeed fulfilled your dream. <N:63> Thus do We reward the good-doers.'",
+        "<N:64>"
+      ],
+      "tanslateWordByWord" : [
+        "Verily",
+        "you have fulfilled",
+        "the vision",
+        "Indeed, We",
+        "thus",
+        "[We] reward",
+        "the good-doers"
+      ],
+      "notes" : {
+        "64" : [
+          "That is, [\"We do not subject the people who adopt the righteous way to trials in",
+          "order to involve them in trouble and distress and affliction just for the sake of",
+          "it, but these trials are meant to bring out their excellencies and to exalt them",
+          "to high ranks, and then We deliver them also safe and sound from the dilemma in",
+          "which We place them for the sake of the trial. Thus, your willingness and",
+          "preparation to sacrifice yow son is enough to entitle you to be exalted to the",
+          "rank that could be attained only by the one who would actually have slaughtered",
+          "his son for Our approval and pleasure. Thus, We have saved the life of yow child",
+          "as well as exalted you to this high rank. \"]"
+        ],
+        "63" : [
+          "That is, [\"We did not make you see in the dream that you had actually slaughtered",
+          "your son and he had died, but that you were slaughtering him. That Vision you",
+          "have fulfilled. Now, it is not Our will w take the life of your child: the actual",
+          "object of the vision has been fulfilled by your submission and preparation to",
+          "sacrifice him for Our sake.\"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 106,
+      "arabicVerse" : "إِنَّ هَٰذَا لَهُوَ الْبَلَاءُ الْمُبِينُ",
+      "simpleTranslate" : [
+        "Indeed, this was the clear trial."
+      ],
+      "tafsirTranslate" : [
+        "This was indeed a plain trial. <N:65>"
+      ],
+      "tanslateWordByWord" : [
+        "Indeed",
+        "this",
+        "(was) surely [it]",
+        "the trial",
+        "clear"
+      ],
+      "notes" : {
+        "65" : [
+          "That is, \"The object was not to get yow son slaughtered through you but to test",
+          "you to see that you did not hold anything of the world dearer than Us."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 107,
+      "arabicVerse" : "وَفَدَيْنَاهُ بِذِبْحٍ عَظِيمٍ",
+      "simpleTranslate" : [
+        "And We ransomed him with a great sacrifice,"
+      ],
+      "tafsirTranslate" : [
+        "And We ransomed him with a mighty sacrifice, <N:66>"
+      ],
+      "tanslateWordByWord" : [
+        "And We ransomed him",
+        "with a sacrifice",
+        "great"
+      ],
+      "notes" : {
+        "66" : [
+          "[\"A great sacrifice\"] : A ram, as mentioned in the Bible and the Islamic",
+          "traditions, that Allah's angel presented at the time before the Prophet Abraham,",
+          "so that he should sacrifice it instead of his son. This has been called [\"a great",
+          "sacrifice\"] because it was to serve as a ransom from a faithful servant like",
+          "Abraham for a patient and obedient son like Ishmael, and Allah made it a means of",
+          "fulfilling the intention of an unprecedented sacrifice. Another reason for",
+          "calling it [\"a great\"] sacrifice is that AIlah made it a tradition till the Day",
+          "of Resurrection that all the believers should offer animal sacrifice on the same",
+          "date in the entire world so as to keep fresh the memory of the great and unique",
+          "event signifying faithfulness and devotion.\""
+        ]
+      }
+    },
+    {
+      "verseNumber" : 108,
+      "arabicVerse" : "وَتَرَكْنَا عَلَيْهِ فِي الْآخِرِينَ",
+      "simpleTranslate" : [
+        "And We left for him [favorable mention] among later generations:"
+      ],
+      "tafsirTranslate" : [
+        "and We preserved for him a good name among posterity."
+      ],
+      "tanslateWordByWord" : [
+        "And We left",
+        "for him",
+        "among",
+        "the later generations"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 109,
+      "arabicVerse" : "سَلَامٌ عَلَىٰ إِبْرَاهِيمَ",
+      "simpleTranslate" : [
+        "\"Peace upon Abraham.\""
+      ],
+      "tafsirTranslate" : [
+        "Peace be upon Abraham."
+      ],
+      "tanslateWordByWord" : [
+        "Peace be",
+        "on",
+        "Ibrahim"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 110,
+      "arabicVerse" : "كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
+      "simpleTranslate" : [
+        "Indeed, We thus reward the doers of good."
+      ],
+      "tafsirTranslate" : [
+        "Thus do We reward the good-doers."
+      ],
+      "tanslateWordByWord" : [
+        "Thus",
+        "We reward",
+        "the good-doers"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 111,
+      "arabicVerse" : "إِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ",
+      "simpleTranslate" : [
+        "Indeed, he was of Our believing servants."
+      ],
+      "tafsirTranslate" : [
+        "Surely he was one of Our believing servants."
+      ],
+      "tanslateWordByWord" : [
+        "Indeed, he (was)",
+        "of",
+        "Our slaves",
+        "believing"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 112,
+      "arabicVerse" : "وَبَشَّرْنَاهُ بِإِسْحَاقَ نَبِيًّا مِنَ الصَّالِحِينَ",
+      "simpleTranslate" : [
+        "And We gave him good tidings of Isaac, a prophet from among the righteous."
+      ],
+      "tafsirTranslate" : [
+        "And We gave him the good news of Isaac, <N:67> a Prophet and among the righteous",
+        "ones. <N:68>"
+      ],
+      "tanslateWordByWord" : [
+        "And We gave him glad tidings",
+        "of Isaac",
+        "a Prophet",
+        "among",
+        "the righteous"
+      ],
+      "notes" : {
+        "68" : [
+          "This sentence throws light on the real object for which this event of the Prophet",
+          "Abraham's sacrifice has been related here. From the race of his two sons arose",
+          "two great nations in the world. First, the children of Israel, from whose house",
+          "two major religions [(Judaism and Christianity)] emerged, which dominated and won",
+          "over large human populations. Second, the children of Ishmael, who were the",
+          "religious leaders and guides of All the Arabs at the time of the revelation of",
+          "the Qur'an, and the tribe of Quraish of Makkah at that time held the most",
+          "important position among them. Whatever eminence these two branches of the",
+          "offspring of the Prophet Abraham attained became possible only on account of",
+          "their connection and relation with the Prophet Abraham and his two illustrious",
+          "sons; otherwise, God alone knows how many such families have arisen in the world",
+          "and been assigned to oblivion. Now, Allah relates the most glorious event of the",
+          "history of this family and makes both its branches realize that whatever honour",
+          "and eminence they have attained in the world, has been due actually to the great",
+          "traditions of God-worship and sincerity and obedience, which were set by their",
+          "ancestors, the Prophets Abraham and Ishmael and Isaac [(may peace be upon them",
+          "all)]. He tells them: `The great blessings which We bestowed on them, were not",
+          "bestowed arbitrarily and haphazardly: We did not just pick out a person and his",
+          "two sons blindly and blessed them, but they gave definite proofs of their loyalty",
+          "and faithfulness to their real Master and then became deserving of His favours.",
+          "Now, you cannot become entitled to those favours merely on the basis of your",
+          "pride of descent, for We shall see who among you is righteous and who is wicked",
+          "and then deal with him accordingly.\""
+        ],
+        "67" : [
+          "Here, the question arises: Who was the son whom the Prophet Abraham had got ready",
+          "to offer as a sacrifice, and who had willingly offered himself to be slaughtered",
+          "as a sacrifice? The first answer to this question is given by the Bible; and it",
+          "is this: [\"And it came to pass after these things, that God did tempt Abraham,",
+          "and said unto him, Abraham: . . . Take now thy son thine only son Isaac, whom",
+          "thou lovest, and get thee into the land of Moriah; and offer him there for a",
+          "burnt offering upon one of the mountains which I will tell thee of.\"] [(Gen. 22:",
+          "1-2)]. In this statement, on the one hand, it is being said that Allah had asked",
+          "for the offering of the Prophet Isaac, and on the other, that he was Abraham's",
+          "only son, whereas the Bible itself, at other places, conclusively states that the",
+          "Prophet Isaac was. not the only son of the Prophet Abraham.Consider the following",
+          "statements of the Bible: [\"Now Sarai, Abram's wife bore him no children: and she",
+          "had an handmaid, an Egyptian, whose name was Hagar. And Sarai said unto Abraham,",
+          "Behold now, the Lord hath restrained me from bearing: I pray thee, go in unto my",
+          "maid; it may be that I may obtain children by her. And Abraham hearkened to the",
+          "voice of Sarai. And Sarai Abraham's wife took Hagar her maid the Egyptian, after",
+          "Abraham had dwelt ten years in the land of Canaan, and gave her husband Abram to",
+          "be his wife. And he went in unto Hagar, and she conceived.\"] [(Gen .16: 1-4)]",
+          "[\"And the angel of the Lord said unto her, Behold thou art with child, and shalt",
+          "bear a son, and shalt call his name Ishmael.\"] [(16: 11)] [\"And Abraham was",
+          "fourscore and six years old, when Hagar bore Ishmael to Abraham.\"] [(16: 16)].",
+          "[\"And God said unto Abraham, `As for Sarai thy wife, ..... I will bless her and",
+          "give thee a son also of her: . . . . . and thou shalt call his name Isaac . . ..",
+          ". . which Sarah shall bear unto thee at this set time in the next year And",
+          "Abraham took Ishmael his son and ......every male among the men of Abraham's",
+          "house; and . .. . . circumcised the flesh of their foreskin in the selfsame day,",
+          "as God had said unto him. And Abraham was ninety years old and nine, when he was",
+          "circumcised in the flesh of his foreskin. And Ishmael his son was thirteen years",
+          "old, when he was circumcised in the flesh of his foreskin. \"] [(Gen. 17: 15-25)].",
+          "[\"And Abraham was an hundred years old, when his son Isaac was born unto him. \"]",
+          "[(Gen. 21: 5)]. This brings out the contradictions of the Bible. It is evident",
+          "that for 14 years the Prophet Ishmael was the only son of the Prophet Abraham.",
+          "Now if the offering had been asked of the only son, it was not of Isaac but of",
+          "Ishmael, for he alone was the only son; and if the offering of Isaac had been",
+          "asked, it would be wrong to say that the offering of the only son had been asked.",
+          "Now let us consider the Islamic traditions, and they contain great differences.",
+          "According to traditions cited by the commentators from the Companions and their",
+          "immediate followers, one group of them is of the opinion that the son was the",
+          "Prophet Isaac, and this group contains the following names: Hadrat `Umar, `Hadrat",
+          "`Ali, `Hadrat `Abdullah bin Mas'ud, Hadrat `Abbas bin `Abdul Muttalib, Hadrat",
+          "`Abdullah bin `Abbas, Hadrat Abu Hurairah, Qatadah, `Ikrimah, Hasan Basri, Said",
+          "bin Jubair, Mujahid, Sha`bi, Masruq, Makhul, Zuhri, `Ata, Muqatil, Suddi, Ka'b",
+          "Ahbar, Zaid bin Aslam, and others. The other group says that it was the Prophet",
+          "Ishmael, and this group contains the names of the following authorities: Hadrat",
+          "Abu Bakr, Hadrat 'Ali, Hadrat `Abdullah bin `Umar, Hadrat 'Abdullah bin 'Abbas,",
+          "Hadrat Abu Hurairah, Hadrat Mu'awiyah, `Ikrimah, Mujahid, Yusuf bin Mahran, Hasan",
+          "Basri, Muhammad bin Ka`b al-Qurzi, Sha`bi, Said bin al-Musayyab, Dahhak, Muhammad",
+          "bin 'Ali bin Husain [(Muhammad alBaqir)], Rabi` bin Anas, Ahmed bin Hanbal, and",
+          "others. When compared, the two lists will be seen to contain several common",
+          "names: this is due to the reason that from the same person two different views",
+          "have been reported. For example, from Hadrat 'Abdullah bin `Abbas, `Ikrimiah has",
+          "related the saying that the son was the Prophet Isaac, but from him again `Ata'",
+          "bin Abi Rabah relates: [\"The Jews claim that it was Isaac, but the Jews tell a",
+          "tie. \"] Likewise. from Hadrat Hasan Basri, one tradition is to the effect that",
+          "the Prophet Isaac was the son meant to be made the offering, but `Umar bin `Ubaid",
+          "says that Hasan Basri had no doubt regarding that the son whom the Prophet",
+          "Abraham had been commanded to offer as a sacrifice was the Prophet Ishmael",
+          "[(peace be upon him)]. This diversity of tradition has resulted in the diversity",
+          "of opinion among the scholars of Islam. Some of them e.g. Ibn Jarir and Qadi",
+          "`Iyad, have expressed the firm opinion that the son was the Prophet Isaac.",
+          "Others, like Ibn Kathir have given the verdict that it were the Prophet Ishmael.",
+          "There ware others who are un-certain and wavering, e.g. Jalaluddin Suyuti.",
+          "However, a deep inquiry into the question establishes the fact that the son",
+          "intended to be offered as a sacrifice was the Prophet Ishmael. The following are",
+          "the arguments: [(1)] As stated by the Qur'an above, at the time of his emigration",
+          "from the country, the Prophet Abraham had prayed for a righteous son and in",
+          "answer to it, Allah had given him the good news of a clement boy. The context",
+          "shows that this prayer was made at a time when he was childless, and the boy",
+          "whose good news was given was his first-born child. Then, this also becomes",
+          "obvious froth the Qur'anic story that when the child grew up to boyhood, he was",
+          "inspired to offer him as an offering. Now, it is established beyond any doubt",
+          "that the Prophet Abraham's first-born son was the Prophet Ishmael and not the",
+          "Prophet Isaac. The Qur'an itself has stated the order between the two sons, thus:",
+          "[\"All praise be to Allah Who has given me sons like Ishmael and Isaac in my old",
+          "age.\"] [(Ibrahim: 39 <V:14:39>)]. [(2)] The words used in the Qur'an with regard",
+          "to the Prophet Isaac while giving the good news of his birth are: [\"And they gave",
+          "him the good news of the birth of a son, possessing knowledge, [('alim)]. \"]",
+          "[(AdhDhariyat: 28 [\"Do not be afraid: we give you the good news of a son",
+          "<V:51:28[\"Donotbeafraid:wegiveyouthegoodnewsofason>, possessing knowledge.\"]",
+          "(AI-Hijr: 53)]. But the son, the good news of whose birth has been given here;",
+          "has been called a clement [(halim)] son. This shows that the two sons had",
+          "distinctive qualities, and the offering had been asked of the clement son and not",
+          "of the son possessing knowledge. [(3)] Along with giving the good news of the",
+          "birth of the Prophet Isaac in the Qur'an, the good news of the birth of a",
+          "grandson like Jacob was also given: 'Then We gave her the good news of Isaac, and",
+          "after Isaac of Jacob.[\" [(Hud: 71 <V:11:71>)]. Now obviously, if about the son",
+          "along with the news of whose birth the news of a worthy son to be born to him had",
+          "also been given, the Prophet Abraham was shown a vision that he was sacrificing",
+          "him, he would never have understood that he was being inspired to offer that very",
+          "son as an offering. 'Allama Ibn Jarir contends that the Prophet Abraham might",
+          "have been shown this vision at a time when Jacob had already been born to the",
+          "Prophet Isaac. But this is, in. fact, a very weak reply to the argument. The",
+          "Qur'an says: 'When the boy became able to work with his father,\"] then he was",
+          "shown the vision Anyone who reads these words with an unbiased mind will have the",
+          "image of an 8 to 10 years lad beforc him. No one can imagine that these words had",
+          "been used about a young man having children. [(4)] Allah, at the end of the",
+          "story, says: [\"We gave him the good news of Isaac, a Prophet among the",
+          "righteous.\"] This clearly shows that it was not the same son, whom he had been",
+          "inspired to offer as a sacrifice; but before this the good news of some other son",
+          "had been given; then when he grew up and became able to work with his father, it",
+          "was commanded to sacrifice him. Afterwards, when the Prophet Abraham came through",
+          "this test successfully, he was given the good news of the birth of another son,",
+          "the Prophet Isaac [(may peace be upon him)]. This order of the events",
+          "conclusively proves that the son whom the Prophet Abraham had been commanded to",
+          "sacrifice was not Isaac but another son who had been born several years beforc",
+          "him, 'Allama Ibn Jarir rejects this express argument, saying that in the",
+          "beginning only the good news of the birth of the Prophet Isaac had been given.",
+          "Then, when he became ready to be scarificed for the sake of Allah's approval and",
+          "pleasure, it was rewarded in the form of the good news of his Prophethood. But",
+          "this reply to the argument is weaker still. If it had really been so, AIlah would",
+          "not have said: 'We gavc him the good news of Isaac, a Prophet among the",
+          "righteous,[\" but \"]We gave him the good news that this same son of yours would be",
+          "a Prophet among the righteous.[\" [(5)] Authentic traditions confirm that the",
+          "horns of the ram which was slaughtered as a ransom for the Prophet Ishmael",
+          "remained preserved in the Holy Ka'bah till the time of Hadrat 'Abdullah bin",
+          "Zubair. Afterwards when Hajjaj bin Yusuf besieged Ibn Zubair in the Ka'bah and",
+          "demolished the Kab'bah, the horns also were destroyed. Both Ibn 'Abbas and 'Amir",
+          "Sha'bi; testify that they had seen the horns in the Ka'bah. [(Ibn Kathir)]. This",
+          "is a proof of the fact that the event of the sacrifice had taken place in Makkah",
+          "and not in Syria, and concerned the Prophet Ishmael. That is why a relic of it",
+          "had been preserved in the Holy Ka'bah built by the Prophets Abraham and Ishmael.",
+          "[(6)] The Arab traditions confirmed that this event of the sacrifice had taken",
+          "place in Mina [(near Makkah)], and it was not only a tradition but practically",
+          "also it had been a part of the Hajj rites for centuries. Even until the time of",
+          "the Holy Prophet people used to offer the animal sacrifice in Mina at the place",
+          "where the Prophet Abraham had offered the sacrifice. Afterwards when the Holy",
+          "Prophet was raised as a Prophet, he also maintained and continued the same",
+          "tradition; so that even till today sacrifices are offcrcd in Mina on the 10th of",
+          "Dhil-Hajj. This continual practice of 4,500 years or so is an undeniable proof of",
+          "the fact that the heirs to the tradition of sacrifice made by the Prophet Abraham",
+          "have been the descendents of the Prophet Ishmael and not of the Prophet Isaac.",
+          "There has never been any such tradition among the descendents of the Prophet",
+          "Isaac according to which the whole community might have offered the sacrifice at",
+          "one and the same time and regarded it as a continuation of the sacrifice made by",
+          "the Prophet Abraham. In the face of such arguments it appears strange how the",
+          "idea of the Prophet Isaac's being the son offered as the sacrifice spread among",
+          "the Muslim community itself. If the Jews might have tried to attribute the honour",
+          "to their ancestor, the Prophet Isaac, by depriving the Prophet Ishmael of it, it",
+          "would be understandable. But the question is: How did a large number of the",
+          "Muslims come to accept this wrong notion? A very satisfactory answer to this",
+          "question has been given by 'Allama Ibn Kathir in his commentary. He says: \"]The",
+          "reality is known to Allah alone but it appears that all the sayings [(in which",
+          "the Prophet Isaac has been mentioned as the son offered as a sacrifice)] are",
+          "related from Ka`b Ahbar. This man, when he became a Muslim in the time of Hadrat",
+          "'Umar, used to relate before him the contents of the ancient Jewish and Christian",
+          "scriptures, and Hadrat 'Umar would hear them. On this basis, the other people",
+          "also began to listen to him, andstarted relating every mixture of the truth and",
+          "falsehood that they heard from him, whereas this Ummah did not stand in need of",
+          "anything whatever from the store of his knowledge and information.' This thing is",
+          "further explained by a tradition from Muhammad bin Ka'b al-Kurzi He says that",
+          "once during his presence the question whether the son offered as a sacrifice was",
+          "the Prophet Isaac or the Prophet Ishmael arose before Hadrat 'Umar bin 'Abdul",
+          "`Aziz. Among them at that time was a person who had been a Jewish scholar but had",
+          "become a sincere Muslim afterwards. He said, [\"O Commander of the Faithful! By",
+          "God it was Ishmael, and the Jews know it, but claim on account of their jealousy",
+          "of the Arabs that it was the Prophet Isaac.\"] [(Ibn Jarir)]. When the two things",
+          "are put side by side, it becomes evident that actuaul it was the Jewish",
+          "propaganda that spread among the Muslims who have always been unbiased in",
+          "scholastic literary matters, a large number of them accepted the statements of",
+          "the Jews as a historic truth, which they presented as historical traditions with",
+          "reference to the ancient scriptures, and did not realize that these were based on",
+          "prejudice instead of knowledge."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 113,
+      "arabicVerse" : "وَبَارَكْنَا عَلَيْهِ وَعَلَىٰ إِسْحَاقَ ۚ وَمِنْ ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِنَفْسِهِ مُبِينٌ",
+      "simpleTranslate" : [
+        "And We blessed him and Isaac. But among their descendants is the doer of good and",
+        "the clearly unjust to himself."
+      ],
+      "tafsirTranslate" : [
+        "And We blessed him and Isaac. Among the offspring of the two some did good and",
+        "some plainly wronged themselves."
+      ],
+      "tanslateWordByWord" : [
+        "And We blessed",
+        "him",
+        "and [on]",
+        "Isaac",
+        "And of",
+        "their offspring",
+        "(are) good-doers",
+        "and unjust",
+        "to himself",
+        "clear"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 114,
+      "arabicVerse" : "وَلَقَدْ مَنَنَّا عَلَىٰ مُوسَىٰ وَهَارُونَ",
+      "simpleTranslate" : [
+        "And We did certainly confer favor upon Moses and Aaron."
+      ],
+      "tafsirTranslate" : [
+        "Verily We bestowed Our favours on Moses and Aaron"
+      ],
+      "tanslateWordByWord" : [
+        "And verily",
+        "We conferred Favor",
+        "upon",
+        "Musa",
+        "and Harun"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 115,
+      "arabicVerse" : "وَنَجَّيْنَاهُمَا وَقَوْمَهُمَا مِنَ الْكَرْبِ الْعَظِيمِ",
+      "simpleTranslate" : [
+        "And We saved them and their people from the great affliction,"
+      ],
+      "tafsirTranslate" : [
+        "and We delivered both of them and their people from the great calamity. <N:69>"
+      ],
+      "tanslateWordByWord" : [
+        "And We saved both of them",
+        "and their people",
+        "from",
+        "the distress",
+        "the great"
+      ],
+      "notes" : {
+        "69" : [
+          "[\"A great distress\"]: the distress in which they were involved at the hands of",
+          "Pharaoh and his people"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 116,
+      "arabicVerse" : "وَنَصَرْنَاهُمْ فَكَانُوا هُمُ الْغَالِبِينَ",
+      "simpleTranslate" : [
+        "And We supported them so it was they who overcame."
+      ],
+      "tafsirTranslate" : [
+        "We succoured them, and they gained the upper hand (against their enemies)."
+      ],
+      "tanslateWordByWord" : [
+        "And We helped them",
+        "so they became",
+        "so they became",
+        "the victors"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 117,
+      "arabicVerse" : "وَآتَيْنَاهُمَا الْكِتَابَ الْمُسْتَبِينَ",
+      "simpleTranslate" : [
+        "And We gave them the explicit Scripture,"
+      ],
+      "tafsirTranslate" : [
+        "We granted them a Clear Book,"
+      ],
+      "tanslateWordByWord" : [
+        "And We gave both of them",
+        "the Book",
+        "the clear"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 118,
+      "arabicVerse" : "وَهَدَيْنَاهُمَا الصِّرَاطَ الْمُسْتَقِيمَ",
+      "simpleTranslate" : [
+        "And We guided them on the straight path."
+      ],
+      "tafsirTranslate" : [
+        "and showed them the Straight Way,"
+      ],
+      "tanslateWordByWord" : [
+        "And We guided both of them",
+        "(to) the Path",
+        "the Straight"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 119,
+      "arabicVerse" : "وَتَرَكْنَا عَلَيْهِمَا فِي الْآخِرِينَ",
+      "simpleTranslate" : [
+        "And We left for them [favorable mention] among later generations:"
+      ],
+      "tafsirTranslate" : [
+        "and preserved for them a good name among posterity."
+      ],
+      "tanslateWordByWord" : [
+        "And We left",
+        "for both of them",
+        "among",
+        "the later generations"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 120,
+      "arabicVerse" : "سَلَامٌ عَلَىٰ مُوسَىٰ وَهَارُونَ",
+      "simpleTranslate" : [
+        "\"Peace upon Moses and Aaron.\""
+      ],
+      "tafsirTranslate" : [
+        "Peace be upon Moses and Aaron."
+      ],
+      "tanslateWordByWord" : [
+        "Peace be",
+        "upon",
+        "Musa",
+        "and Harun"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 121,
+      "arabicVerse" : "إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
+      "simpleTranslate" : [
+        "Indeed, We thus reward the doers of good."
+      ],
+      "tafsirTranslate" : [
+        "Thus do We reward the good-doers."
+      ],
+      "tanslateWordByWord" : [
+        "Indeed, We",
+        "thus",
+        "reward",
+        "the good-doers"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 122,
+      "arabicVerse" : "إِنَّهُمَا مِنْ عِبَادِنَا الْمُؤْمِنِينَ",
+      "simpleTranslate" : [
+        "Indeed, they were of Our believing servants."
+      ],
+      "tafsirTranslate" : [
+        "Surely both of them were among Our believing servants."
+      ],
+      "tanslateWordByWord" : [
+        "Indeed, both of them",
+        "(were) of",
+        "Our slaves",
+        "believing"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 123,
+      "arabicVerse" : "وَإِنَّ إِلْيَاسَ لَمِنَ الْمُرْسَلِينَ",
+      "simpleTranslate" : [
+        "And indeed, Elias was from among the messengers,"
+      ],
+      "tafsirTranslate" : [
+        "Surely, Elias too was among the Messengers. <N:70>"
+      ],
+      "tanslateWordByWord" : [
+        "And indeed",
+        "Elijah",
+        "(was) surely of",
+        "the Messengers"
+      ],
+      "notes" : {
+        "70" : [
+          "The Prophet Elias was from among the Israelite Prophets. He has been mentioned",
+          "only twice in the Qur'an, here and in Surah AI-An'am: 85. The present-day",
+          "scholars have determined his period between 875 and 850 B.C. He was an inhabitant",
+          "of Gilead, which in ancient days was the territory now under the northern",
+          "districts of the modern state of Jordan, to the south of the River Yarmuk. In the",
+          "Bible he has been mentioned as Elijah the Tishbite. Here is briefly his",
+          "lifestory: After the death of the Prophet Solomon the Israelite kingdom was",
+          "broken up into two parts due mainly to the unworthiness of his son, Rehoboam. One",
+          "part which consisted of Jerusalem and southern Palestine remained with the",
+          "descendants of the Prophet David, while in the second, which comprised northern",
+          "Palestine, an independent state by the name of Israel was established with",
+          "Samaria as its capital. Although conditions in both the states were very bad, the",
+          "state of Israel, from the very beginning, followed the path of depravity due to",
+          "which the evils of polytheism and idol-worship and tyranny and wickedness went on",
+          "increasing and multiplying in it endlessly; so much so that when Ahab, the king",
+          "of Israel, married Jezebel, the daughter of the king of Sidon [(mod., Lebanon)],",
+          "the mischief reached its extremity. Under the influence of this polytheistic",
+          "princess Ahab himself became a polytheist. He built a temple and altar to Baal in",
+          "Samaria, tried his very best to introduce and popularise Baal-worship instead of",
+          "the worship of One God. and consequently, offerings began to be made publicly in",
+          "the name of Baal in the Israelite towns and cities. This was the time when the",
+          "Prophet Elijah [(peace be upon him)] appeared on the scene. He came from Gilead",
+          "and gave Ahab a notice that in consequence of his sins, the land of Israel would",
+          "go without rain, even without the dew. This word of the Prophet of AIlah proved",
+          "to be literally true and there fell no rain in Israel for thee and a half years.",
+          "At last, Ahab came to his senses and he got the Prophet Elijah searched out But",
+          "Elijah, before praying for the rain, thought it necessary to snake the",
+          "distinction between Allah, Lord of the worlds, and Baal plain before the people",
+          "of Israel. For this purpose, he commanded that the priests of Baal would make an",
+          "offering in the name of their deity, and he also would make an offering in the",
+          "name of AIlah, Lord of the worlds, in front of the assembled people. Then the one",
+          "whose offering would be consumed by a fire from heaven, without the agency of the",
+          "human hand, the truth of his deity would be established beyond doubt. Ahab",
+          "accepted this proposal. Thus, 850 of the priests of Baal assembled on Mt. Carmel",
+          "to answer the challenge given by the Prophet Elijah. In this encounter the Ba'al",
+          "worshippers were defeated, and the Prophet Elijah proved that Baal was 'a false",
+          "god, and the real God is the One God alone who had appointed him as His Prophet.",
+          "After this, Elijah got the priests of Baal slaughtered in front of the same",
+          "assembly of the people; then he prayed for the rain, and his prayer was",
+          "immediately answered and the whole land of Israel was saturated with water But,",
+          "despite these miracles, Ahab could not shake off the influence of his",
+          "polytheistic wife. Jezebel turned hostile to the Prophet Elijah and she swop that",
+          "he would be put to death just as the Baal worshippers had been put to death.",
+          "Under the circumstances the Prophet Elijah was compelled to leave the country and",
+          "he remained lodged in a cave at the foot of Mt. Sinai for several years. The",
+          "lamentation that he made to Allah, on this occasion, has been related in the",
+          "Bible, in these words: 'The children of Israel have forsaken thy covenant, thrown",
+          "down thine altars, and slain thy prophets with the sword; and I, even I only, am",
+          "left; and they seek my life, to take it away.[\" [(I Kings, 19: 10)]. About",
+          "thesame time Jehoram, the ruler of the Jewish state of Jerusalem, married the",
+          "daughter of Ahab, the king of Israel, and under her polytheistic influence the",
+          "same evilsthat had spread in Israel also began to spread in Judah. The Prophet",
+          "Elijah carried out his prophetic duty againand wrote a letter to Jehoram, the",
+          "following words of which have been reported in the Bible: \"]Thus saith the Lord",
+          "God of David thy father, Because thou hast not walked in the ways of Jehoshaphat",
+          "thy father, nor in the ways of Asa king of Judah. But hast walked in the way of",
+          "the kings of Israel, and hast made Judah and the inhabitants of Jerusalem to go a",
+          "whoring, like to the whoredoms of the house of Ahab, and also hast slain thy",
+          "brethren of thy father's house, which were better than thyself: Behold,with a",
+          "great plague will the Lord smite thy people, and thy children, andthy wives, and",
+          "all thy goods: And thou shalt have great sickness by disease of thy bowels, until",
+          "thy bowels fall out by reason of the sickness day by day.\" [(2 Chronicles, 21:",
+          "12-15)]. Whatever the Prophet Elijah had prophesied in this letter proved true.",
+          "First, the kingdom of Jehoram was destroyed by the external invaders, and the",
+          "enemies even carried away his wives, then he himself died of the disease of the",
+          "bowels. A few years later the Prophet Elijah again went to Israel and constantly",
+          "tried hard to bring Ahab, and after him his son, Ahaziah, to the right path, but",
+          "the evil that had taken root in the house of the royal family of Samaria could",
+          "not be eradicated. At last, due to the curse of the Prophet the family of Ahab",
+          "met its doom, and then AIlah recalled his Prophet from the world. For details,",
+          "see the following books of the Bible: I Kings, chs., 17, 18, 19, 21; 2 Kings,",
+          "chs.; 1, 2; 2 Chronicles, ch. 21."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 124,
+      "arabicVerse" : "إِذْ قَالَ لِقَوْمِهِ أَلَا تَتَّقُونَ",
+      "simpleTranslate" : [
+        "When he said to his people, \"Will you not fear Allah ?"
+      ],
+      "tafsirTranslate" : [
+        "(Call to mind) when he said to his people: 'Will you not fear Allah?"
+      ],
+      "tanslateWordByWord" : [
+        "When",
+        "he said",
+        "to his people",
+        "Will not",
+        "you fear"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 125,
+      "arabicVerse" : "أَتَدْعُونَ بَعْلًا وَتَذَرُونَ أَحْسَنَ الْخَالِقِينَ",
+      "simpleTranslate" : [
+        "Do you call upon Ba'l and leave the best of creators -"
+      ],
+      "tafsirTranslate" : [
+        "Do you call upon Baal <N:71> and forsake the Best of the Creators?"
+      ],
+      "tanslateWordByWord" : [
+        "Do you call",
+        "Baal",
+        "and you forsake",
+        "(the) Best",
+        "(of) Creators "
+      ],
+      "notes" : {
+        "71" : [
+          "Lexically, ba al means master, chief and possessor. This word was also used for",
+          "husband, and has been used in this sense at several places in the Qur'an itself,",
+          "e.g. in Surah AI-Baqarah: 228, An-Nisa': 127, Hud: 72 and An-Nur: 31. However; in",
+          "the ancient times the Semetic nations used it in the meaning of deity or lord;",
+          "they had even given the name of Baal to a special god. The chief male god of the",
+          "Phoenicians, in particular, was Baal and their chief goddess was Ashtoreth, his",
+          "wife. The scholars differ as to whether Baal meant the sun or Jupiter, and",
+          "Ashtoreth the moon or Venus. In any case, historically it is certain that Baal",
+          "worship was prevalent from Babylon to Egypt throughout the Middle East, and the",
+          "polytheistic communities of the Lebanon and Syria and Palestine, in particular,",
+          "had become its devotees. When the Israelites settled in Palestine and Jordan",
+          "after they came out from Egypt, they started contracting marriage and other",
+          "social relations with the polytheistic nations round about them, in violation of",
+          "the strict prohibitive injunctions of the Torah, the disease of idol-worship",
+          "began to spread among them, too. According to the Bible, this moral and religious",
+          "decline had started appearing among the Israelites soon after the death of",
+          "Joshua, son of Nun, who was the first caliph of the Prophet Moses: 'And the",
+          "children of Israel did evil in the sight of the Lord, and served Baalim ......",
+          "And they forsook the Lord, and served Baal and Ashtoreth.\" [(Judges, 2: 11-13)].",
+          "And the children of Israel dwelt among the Canaanites, Hittites, and Amorites,",
+          "and Perizzites and Hivites, and Jebusites. And they took their daughters to be",
+          "their wives, and gave their daughters to their sons, and served their gods.'",
+          "[(Judges, 3: 5-6)]. At that time worship of Baal had so deeply affected the",
+          "Israelites that, according to the Bible, in one of their habitations a public",
+          "altar had been built at which offerings were made to Baal. A God-worshipping",
+          "Israelite could not bear the sight; so he pulled down the altar one night. Next",
+          "morning a great multitude of the people gathered together and demanded that the",
+          "man who had cast down the altar he put to death. [(Judges, 6:25-32)]. This evil,",
+          "at last, was put to an end by . Samuel, Saul and the Prophets David and Solomon",
+          "[(peace be upon them)]; they not only reformed the Israelites generally but also",
+          "eradicated polytheism and idolworship from their kingdom. But after the death of",
+          "the Prophet Solomon the mischief was again revived and the Israelite state of",
+          "northern Palestine was swept away in the Hood of Baal-worship."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 126,
+      "arabicVerse" : "اللَّهَ رَبَّكُمْ وَرَبَّ آبَائِكُمُ الْأَوَّلِينَ",
+      "simpleTranslate" : [
+        "Allah , your Lord and the Lord of your first forefathers?\""
+      ],
+      "tafsirTranslate" : [
+        "Allah is your Lord and the Lord of your ancestors of yore.'"
+      ],
+      "tanslateWordByWord" : [
+        "Allah",
+        "your Lord",
+        "and (the) Lord",
+        "(of) your forefathers",
+        "(of) your forefathers"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 127,
+      "arabicVerse" : "فَكَذَّبُوهُ فَإِنَّهُمْ لَمُحْضَرُونَ",
+      "simpleTranslate" : [
+        "And they denied him, so indeed, they will be brought [for punishment],"
+      ],
+      "tafsirTranslate" : [
+        "But they denounced him as a liar, so they will surely be arraigned (for",
+        "punishment),"
+      ],
+      "tanslateWordByWord" : [
+        "But they denied him",
+        "so indeed, they",
+        "(will) surely be brought"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 128,
+      "arabicVerse" : "إِلَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ",
+      "simpleTranslate" : [
+        "Except the chosen servants of Allah ."
+      ],
+      "tafsirTranslate" : [
+        "except Allah's chosen servants. <N:72>"
+      ],
+      "tanslateWordByWord" : [
+        "Except",
+        "(the) slaves",
+        "(of) Allah",
+        "the chosen ones"
+      ],
+      "notes" : {
+        "72" : [
+          "That is [\"Only those people will be made an exception from the punishment, who",
+          "did not belie the Prophet Elijah, and whom Allah chose from among the nation for",
+          "His worship. \"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 129,
+      "arabicVerse" : "وَتَرَكْنَا عَلَيْهِ فِي الْآخِرِينَ",
+      "simpleTranslate" : [
+        "And We left for him [favorable mention] among later generations:"
+      ],
+      "tafsirTranslate" : [
+        "We preserved a good name for him among posterity. <N:73>"
+      ],
+      "tanslateWordByWord" : [
+        "And We left",
+        "for him",
+        "among",
+        "the later generations"
+      ],
+      "notes" : {
+        "73" : [
+          "The treatment that the Israelites meted out to the Prophet Elijah in his life has",
+          "been referred to above, but after his death they became so enamoured of him that",
+          "they held him in the highest esteem and reverence after the Prophet Moses. They",
+          "formed the belief that Elijah [(peace be upon him)] had been taken up alive into",
+          "heaven by a whirlwind [(2 Kings, ch. 2)], and that he will come back to the world",
+          "again. Thus, in Malachi [(O.T.)] it is written: [\"Behold, I will send you Elijah",
+          "the Prophet before the coming of the great and dreadful day of the Lord.\"] [(4:",
+          "5)]. At the tune the Prophets John and Jesus [(peace be upon them)] appeared, the",
+          "Jews were awaiting the advent of these three men: the Prophet Elias, the Christ",
+          "and [\"that Prophet\"] [(i.e. the Holy Prophet Muhammad)]. When the ministry of the",
+          "Prophet John began and he slatted baptizing the people, the Jews sent priests to",
+          "him to ask, [\"Are you the Christ ?\"] And he said that he was not the Christ. Then",
+          "they asked, [\"Are you Elijah ?\"] And he answered that he was not Elias; then they",
+          "asked, [\"Are you 'that Prophet'?\"] And he answered that he was not [\"that",
+          "Prophet\"] either. Thereupon they said, [\"If you arc neither the Christ, nor",
+          "Elias, nor that Prophet, why do you then baptize ?\"] [(John, 1: 19-2G; j.",
+          "Afterwards when the name of the Prophet Jesus spread among the people, the Jews",
+          "thought that perhaps the Prophet Elias had come. (Mark, 6: 14-15)]. Even among",
+          "the disciples of Jesus themselves the idea was common that Elias the Prophet",
+          "would come, but Jesus removed their misunderstanding, saying, 'Elias is come",
+          "already, and they knew him not, but have done unto him whatever they listed.\"",
+          "Then the disciples understood that he spoke to them of John the Baptist and not",
+          "of Elias who had appeared tight hundred years earlier. [(Matthew. 11: 14; and 17:",
+          "10-131.)]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 130,
+      "arabicVerse" : "سَلَامٌ عَلَىٰ إِلْ يَاسِينَ",
+      "simpleTranslate" : [
+        "\"Peace upon Elias.\""
+      ],
+      "tafsirTranslate" : [
+        "Peace be upon Elias. <N:74>"
+      ],
+      "tanslateWordByWord" : [
+        "Peace be",
+        "upon",
+        "Elijah",
+        null
+      ],
+      "notes" : {
+        "74" : [
+          "The words in the original are: Salam-un 'ala El-ya-sin. Some commentators say",
+          "that EI ya-sin is the other name of the Prophet Elias, just as Abraham is the",
+          "other name of the Prophet Ibrahim; some others say that different versions of the",
+          "Hebrew names were prevalent among the Arabs, e.g. one and the same angel was",
+          "called Michal and Micha'il and Micha'in. The same has been the case with the name",
+          "of the Prophet Elias also. In the Qur'an itself the same mountain has been called",
+          "Tur Sina' and Tur Sinin."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 131,
+      "arabicVerse" : "إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
+      "simpleTranslate" : [
+        "Indeed, We thus reward the doers of good."
+      ],
+      "tafsirTranslate" : [
+        "Thus do We reward the good-doers."
+      ],
+      "tanslateWordByWord" : [
+        "Indeed, We",
+        "thus",
+        "reward",
+        "the good-doers"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 132,
+      "arabicVerse" : "إِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ",
+      "simpleTranslate" : [
+        "Indeed, he was of Our believing servants."
+      ],
+      "tafsirTranslate" : [
+        "He was one of Our believing servants."
+      ],
+      "tanslateWordByWord" : [
+        "Indeed, he (was)",
+        "of",
+        "Our slaves",
+        "believing"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 133,
+      "arabicVerse" : "وَإِنَّ لُوطًا لَمِنَ الْمُرْسَلِينَ",
+      "simpleTranslate" : [
+        "And indeed, Lot was among the messengers."
+      ],
+      "tafsirTranslate" : [
+        "And Lot too was one of the Messengers."
+      ],
+      "tanslateWordByWord" : [
+        "And indeed",
+        "Lut",
+        "(was) of",
+        "the Messengers"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 134,
+      "arabicVerse" : "إِذْ نَجَّيْنَاهُ وَأَهْلَهُ أَجْمَعِينَ",
+      "simpleTranslate" : [
+        "[So mention] when We saved him and his family, all,"
+      ],
+      "tafsirTranslate" : [
+        "(Call to mind) when We delivered him and all his kinsfolk,"
+      ],
+      "tanslateWordByWord" : [
+        "When",
+        "We saved him",
+        "and his family",
+        "all"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 135,
+      "arabicVerse" : "إِلَّا عَجُوزًا فِي الْغَابِرِينَ",
+      "simpleTranslate" : [
+        "Except his wife among those who remained [with the evildoers]."
+      ],
+      "tafsirTranslate" : [
+        "except for an old woman who was among those that stayed behind. <N:75>"
+      ],
+      "tanslateWordByWord" : [
+        "Except",
+        "an old woman",
+        "(was) among",
+        "those who remained behind"
+      ],
+      "notes" : {
+        "75" : [
+          "This implies the wife of the Prophet Lot, who did not migrate with her",
+          "illustrious husband, but remained behind with her people and was punished."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 136,
+      "arabicVerse" : "ثُمَّ دَمَّرْنَا الْآخَرِينَ",
+      "simpleTranslate" : [
+        "Then We destroyed the others."
+      ],
+      "tafsirTranslate" : [
+        "Then We utterly destroyed the rest of them."
+      ],
+      "tanslateWordByWord" : [
+        "Then",
+        "We destroyed",
+        "the others"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 137,
+      "arabicVerse" : "وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِمْ مُصْبِحِينَ",
+      "simpleTranslate" : [
+        "And indeed, you pass by them in the morning"
+      ],
+      "tafsirTranslate" : [
+        "You pass by their desolate habitations in the morning <N:76>"
+      ],
+      "tanslateWordByWord" : [
+        "And indeed, you",
+        "surely pass",
+        "by them",
+        "(in the) morning"
+      ],
+      "notes" : {
+        "76" : [
+          "The reference is to the mined habitations of the people of Lot by which the",
+          "Quraishite merchants passed day and night during their trade journeys to Syria",
+          "and Palestine."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 138,
+      "arabicVerse" : "وَبِاللَّيْلِ ۗ أَفَلَا تَعْقِلُونَ",
+      "simpleTranslate" : [
+        "And at night. Then will you not use reason?"
+      ],
+      "tafsirTranslate" : [
+        "and at night. Do you still not understand?"
+      ],
+      "tanslateWordByWord" : [
+        "And at night",
+        "Then will not",
+        "you use reason"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 139,
+      "arabicVerse" : "وَإِنَّ يُونُسَ لَمِنَ الْمُرْسَلِينَ",
+      "simpleTranslate" : [
+        "And indeed, Jonah was among the messengers."
+      ],
+      "tafsirTranslate" : [
+        "And Jonah too was one of the Messengers. <N:77>"
+      ],
+      "tanslateWordByWord" : [
+        "And indeed",
+        "Yunus",
+        "(was) surely of",
+        "the Messengers"
+      ],
+      "notes" : {
+        "77" : [
+          "This is the third place where the Prophet Jonah [(peace be upon him)] has been",
+          "mentioned in the Qur'an. Before this he has already been mentioned in Surah Yunus",
+          "and Surah Al-Anbiya`. [(For reference, please see yunus: 98 and AI-Anbiya`: 87-88",
+          "and the E.N.'s thereof <V:10:98andAI-Anbiya`:87-88andtheE.N.'sthereof>)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 140,
+      "arabicVerse" : "إِذْ أَبَقَ إِلَى الْفُلْكِ الْمَشْحُونِ",
+      "simpleTranslate" : [
+        "[Mention] when he ran away to the laden ship."
+      ],
+      "tafsirTranslate" : [
+        "Call to mind when he fled to the laden ship, <N:78>"
+      ],
+      "tanslateWordByWord" : [
+        "When",
+        "he ran away",
+        "to",
+        "the ship",
+        "laden"
+      ],
+      "notes" : {
+        "78" : [
+          "The word ebaqe in Arabic is used for the flight and escape of a slave from his",
+          "master's house."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 141,
+      "arabicVerse" : "فَسَاهَمَ فَكَانَ مِنَ الْمُدْحَضِينَ",
+      "simpleTranslate" : [
+        "And he drew lots and was among the losers."
+      ],
+      "tafsirTranslate" : [
+        "cast lots, and was among the losers."
+      ],
+      "tanslateWordByWord" : [
+        "Then he drew lots",
+        "and was",
+        "of",
+        "the losers"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 142,
+      "arabicVerse" : "فَالْتَقَمَهُ الْحُوتُ وَهُوَ مُلِيمٌ",
+      "simpleTranslate" : [
+        "Then the fish swallowed him, while he was blameworthy."
+      ],
+      "tafsirTranslate" : [
+        "Then a fish swallowed him, and he was blameworthy. <N:79>"
+      ],
+      "tanslateWordByWord" : [
+        "Then swallowed him",
+        "the fish",
+        "while he",
+        "(was) blameworthy"
+      ],
+      "notes" : {
+        "79" : [
+          "This is what one understands from a study of these sentences: [(1)] The vessel",
+          "which the Prophet Jonah boarded was already overloaded. [(2)] Lots were drawn in",
+          "the vessel probably at a time when during the voyage it was felt that the lives",
+          "of the passengers had been endangered due to the overloading; therefore, lots",
+          "were cast to pick oat a person to be thrown overboard. [(3)] The lot fell on the",
+          "Prophet Jonah, and so he was thrown into the sea. and a fish swallowed him. [(4)]",
+          "The Prophet Jonah was so afflicted because he had fled and abandoned the place of",
+          "his mission without the permission of his Master [(Allah Almighty)]. This meaning",
+          "is confirmed by the word abaqa as has been explained in E.N. 78 above, and also",
+          "by the word mulim. Mulim IS a blameworthy person, who becomes worthy of blame by",
+          "himself because of his sin and error, whether somebody else blames himfor it or",
+          "not. [(Ibn Jarir)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 143,
+      "arabicVerse" : "فَلَوْلَا أَنَّهُ كَانَ مِنَ الْمُسَبِّحِينَ",
+      "simpleTranslate" : [
+        "And had he not been of those who exalt Allah ,"
+      ],
+      "tafsirTranslate" : [
+        "Had he not been one of those who glorify Allah, <N:80>"
+      ],
+      "tanslateWordByWord" : [
+        "And if not",
+        "that he",
+        "was",
+        "of",
+        "those who glorify"
+      ],
+      "notes" : {
+        "80" : [
+          "It has two meanings and both are implied: [(1)] That the Prophet Jonah was not of",
+          "the people who are heedless of God, but was of those who glorify and adore Allah",
+          "constantly and perpetually; and [(2)] that when he went inside the fish, he",
+          "turned to AIlah alone and glorified Him. In Surah AI-Anbiya' it has been said: He",
+          "invoked Us from the depths of the darkness, saying: `There is no god but You:",
+          "Glory be to You: I am indeed blameworthy.' ' [(v. 87)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 144,
+      "arabicVerse" : "لَلَبِثَ فِي بَطْنِهِ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+      "simpleTranslate" : [
+        "He would have remained inside its belly until the Day they are resurrected."
+      ],
+      "tafsirTranslate" : [
+        "he would certainly have remained in its belly till the Day of Resurrection.",
+        "<N:81>"
+      ],
+      "tanslateWordByWord" : [
+        "Certainly, he (would have) remained",
+        "in",
+        "its belly",
+        "until",
+        "the Day",
+        "they are resurrected"
+      ],
+      "notes" : {
+        "81" : [
+          "This does not mean that the fish would have lived till Resurrection and the",
+          "Prophet Jonah would have remained alive in its belly till then, but that the",
+          "fish's belly would have become his grave till Resurrection. The famous",
+          "commentator Qatadah has given this same meaning of this verse. [(Ibn Jarir)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 145,
+      "arabicVerse" : "فَنَبَذْنَاهُ بِالْعَرَاءِ وَهُوَ سَقِيمٌ",
+      "simpleTranslate" : [
+        "But We threw him onto the open shore while he was ill."
+      ],
+      "tafsirTranslate" : [
+        "But We threw him on a wide bare tract of land while he was ill; <N:82>"
+      ],
+      "tanslateWordByWord" : [
+        "But We cast him",
+        "onto the open shore",
+        "while he",
+        "(was) ill"
+      ],
+      "notes" : {
+        "82" : [
+          "That is, [\"When the Prophet Jonah confessed his fault, and began to glorify AIlah",
+          "like a true and sincere believer, the fish spat him up on the beach by Allah's",
+          "Command. The beach was a bare plain, without any vegetation on it, or anything to",
+          "provide him shade, or any means of food.\"] . Here, the rationalists have been",
+          "heard expressing the misgiving that it is impossible for a tnan to come out alive",
+          "from the belly of a fish. But, towards the end of the last century, an event took",
+          "place near the sea-shores of England [(the centre of this so-called",
+          "rationalism)], which belies this claim. In August, 1891, some fishermen went to",
+          "the high sea to hunt whales in a ship called Star of the East. There they injured",
+          "a great fish which was 20 feet long, 5 feet wide and weighed a hundred tons, but",
+          "during the struggle the fish swallowed a fisherman, .lames Bartley, in front of",
+          "the very eyes of his companions. Next day the same fish was found dead on the",
+          "sea. The fishermen hauled it up on board and when they cut open its belly, James",
+          "Bartley came out alive. He had remained in the fish's belly for full 60 hours.",
+          "[(Urdu Digest, February, 1964)]. Obviously, when such a thing is possible in",
+          "normal circumstances naturally, wiry should it be impossible under abnormal",
+          "conditions as a miracle of God?"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 146,
+      "arabicVerse" : "وَأَنْبَتْنَا عَلَيْهِ شَجَرَةً مِنْ يَقْطِينٍ",
+      "simpleTranslate" : [
+        "And We caused to grow over him a gourd vine."
+      ],
+      "tafsirTranslate" : [
+        "and caused a gourd tree <N:83> to grow over him,"
+      ],
+      "tanslateWordByWord" : [
+        "And We caused to grow",
+        "over him",
+        "a plant",
+        "of",
+        "gourd"
+      ],
+      "notes" : {
+        "83" : [
+          "The Arabic word yaqtin applies to a tree which does not stand on a stem but grows",
+          "and spreads like a creeper, e.g. a pumpkin, cucumber, water-melon, etc. In any",
+          "case, a creeper was produced miraculously, so that its leaves should provide",
+          "shade to the Prophet Jonah and its fruit should serve him both as food and as",
+          "shade."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 147,
+      "arabicVerse" : "وَأَرْسَلْنَاهُ إِلَىٰ مِائَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+      "simpleTranslate" : [
+        "And We sent him to [his people of] a hundred thousand or more."
+      ],
+      "tafsirTranslate" : [
+        "and We sent him forth to a nation of a hundred thousand or more, <N:84>"
+      ],
+      "tanslateWordByWord" : [
+        "And We sent him",
+        "to",
+        "a hundred",
+        "thousand",
+        "or",
+        "more"
+      ],
+      "notes" : {
+        "84" : [
+          "The mention of [\"a hundred thousand people or more\"] does not mean that Allah had",
+          "any doubt about their number, but it means that a casual observer would have",
+          "estimated the population to be more than a hundred thousand people in any case.",
+          "Probably it was the same place which the Prophet Jonah had left and fled. After",
+          "his departure when the people of the place saw the scourge approaching they",
+          "believed, but this was only a kind of repentance which was accepted and the",
+          "scourge averted. Now, the Prophet Jonah was again sent .to them so drat the",
+          "people should believe in him as a Prophet and become Muslims formally. To",
+          "understand this, one should keep in view verse 98 of Surah Yunus."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 148,
+      "arabicVerse" : "فَآمَنُوا فَمَتَّعْنَاهُمْ إِلَىٰ حِينٍ",
+      "simpleTranslate" : [
+        "And they believed, so We gave them enjoyment [of life] for a time."
+      ],
+      "tafsirTranslate" : [
+        "and they believed. So We let them enjoy life for a while. <N:85>"
+      ],
+      "tanslateWordByWord" : [
+        "And they believed",
+        "so We gave them enjoyment",
+        "for",
+        "a while"
+      ],
+      "notes" : {
+        "85" : [
+          "Some people have taken exception to what we have written concerning this story of",
+          "the Prophet Jonah in our commentary of Surahs Yunus and AI-Anbiya'. It would",
+          "therefore be proper that we should reproduce here the explanations given by the",
+          "other commentators in this regard. The famous commentator Qatadah in his",
+          "commentary of verse 98 of Surah Yunus says: There has been no habitation which",
+          "disbelieved and might have believed after the arrival of the scourge, and then",
+          "might have been left unpunished. The only exception were the people of the",
+          "Prophet Jonah. When they searched for their Prophet and did not find him, and",
+          "felt that the scourge had approached near at hand, Allah put repentance in their",
+          "hearts. [\" [(Ibn Kathir, vol. II, p. 433)]. Commenting on the same verse 'Allama",
+          "Alusi; says: \"]The Prophet Jonah [(peace be upon him)] had been sent to the",
+          "people of Nineveh in the land of Mosul. They were polytheistic people. The",
+          "Prophet Jonah invited them to believe in Allah, the One, and to give up",
+          "idol-worship. They refused to believe and belied him. Jonah gave them the news",
+          "that they would be visited by a scourge after three days and he left the place at",
+          "midnight before the expiry of the three days. Then, in the day time when the",
+          "scourge approached...... and the people realized that they would alI perish, they",
+          "began to search for the Prophet but did not find him. At last, they took their",
+          "families and their cattle and came out in the desert and expressed belief and",
+          "repentance.......So, AIlah showed them mercy and accepted their prayer. [\" [(Ruh",
+          "al-Ma ani, vol. XI, p. 170)]. Commenting on v. 87 of Surah Al-Anbiya', `Allama",
+          "Alusi writes: \"]The Prophet Jonah's forsaking his people in anger was an act of",
+          "migration, but he had not been commanded to do so.[\" [(Ruh al-Ma'ani, vol. XVII,",
+          "p. 77)]. Then he explains the meaning of the sentence, \"]Inna kun-tu",
+          "min-az-zalimin [\", of Jonah's prayer, thus:`That is, I was blameworthy in that I",
+          "hastened to migrate, against The way of the Prophets, before receiving the",
+          "command for it. \"] This was, in fact, a confession of his sin and expression of",
+          "repentance so that Allah might remove his affliction. [(Ruh al-Ma'ani, vol.",
+          ":XVII, p. 78)]. Maulana Ashraf `Ali Thanwi's note on this verse is: [\"He became",
+          "angry with his people when they did not believe, and forsook them, and did not",
+          "return to them of his own accord when the scourge had been averted, and did not",
+          "await Our Command for the migration.\"] [(Bayan al-Qur'an)]. Maulana Shabbir Ahmad",
+          "'Uthmani writes in his note on this verse: [\"Vexed at the misconduct of his",
+          "people he left the city in anger, did not await the Divine Command and threatened",
+          "the people that they would be visited by a torment after three days......lnni",
+          "kun-tu min az-Zalimin: He confessed his error that he had made haste and left the",
+          "habitation without awaiting Allah's Command., \"]Explaining these verses of Surah",
+          "Saaffat, Imam Razi writes: [\"The Prophet Jonah's fault was that when Allah",
+          "threatened to destroy the people who had belied him, he thought that the scourge",
+          "would inevitably befall them. Therefore, he did not show patience and abandoned",
+          "his mission and left the place, whereas he ought to have continued the work of",
+          "his mission, for there was a possibility that Allah might not destroy those",
+          "people.\"] [(Tafsir Kabir, vol. VII, p. 158)]. Explaining the verse Idh",
+          "abaqa......, Allama .Alusi writes: `Literally, abaqa means the escape of a slave",
+          "from his master's house. Since Jonah had run away from his people without Allah's",
+          "leave, the word has been rightly used about him.[\" Then he writes: \"]When the",
+          "third day came, the Prophet Jonah left the place without Allah's permission.",
+          "Thus, when his people did not find him, they came out along with their young and",
+          "old people and their cattle, and they implored Allah and begged for His",
+          "forgiveness and Allah forgave them.' [(Ruh al-Ma 'ani, vol. XXII, p. 13)].",
+          "Maulana Shabbir Ahmad 'Uthmani has explained the words wa huwa mulim thus: `The",
+          "accusation against him was that he had left the city because of an error of",
+          "judgement, without awaiting the Divine Command, and even specified the day for",
+          "the coming of the scourge.[\" Then Maulana Shabbir Ahmad's note on v. 48 of Surah",
+          "AI-Qalam is: \"]Do not be perplexed and agitated with regard to the deniers like",
+          "the Man of the Fish [(i.e. the Prophet Jonah)].[\" And about the sentence: wa huwa",
+          "makzum of the same verse, he writes: \"]That is, he was full of anger against his",
+          "people, so he prayed for the tomunt, rather foretold it, in fretful haste.\" These",
+          "explanations by the commentators clearly show that there were three offences on",
+          "account of which the Prophet Jonah was made to suffer Allah's displeasure: [(1)]",
+          "That he himself fixed the day of the torment, whereas Allah had not made any",
+          "declaration in this regard; [(2)] that he emigrated from the city even before the",
+          "day came; whereas a Prophet should not leave the place of his mission until Allah",
+          "commands him to do so; and [(3)] that he did not return to his people after the",
+          "tomunt had been averted from them."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 149,
+      "arabicVerse" : "فَاسْتَفْتِهِمْ أَلِرَبِّكَ الْبَنَاتُ وَلَهُمُ الْبَنُونَ",
+      "simpleTranslate" : [
+        "So inquire of them, [O Muhammad], \"Does your Lord have daughters while they have",
+        "sons?"
+      ],
+      "tafsirTranslate" : [
+        "So ask their opinion: <N:86> '(Are you convinced) that your Lord should have",
+        "daughters and you should have sons? <N:87>"
+      ],
+      "tanslateWordByWord" : [
+        "Then ask them",
+        "Does your Lord",
+        "(have) daughters",
+        "while for them",
+        "(are) sons"
+      ],
+      "notes" : {
+        "86" : [
+          "Another theme starts from here. In the preceding theme that started from v. 11,",
+          "the Quraish had been put this question: [\"Ask them: what is more difficult: their",
+          "own creation or of those things that We have created?\"] Now, they are being asked",
+          "this second question. The object of the first question was to warn the",
+          "disbelievers of their deviation because of which they regarded life-after-death",
+          "and the meting out of rewards and punishments as impossible, and therefore,",
+          "mocked the Holy Prophet for it. Now they are being asked this second question to",
+          "warn them of their ignorance due to which they attributed children to Allah and",
+          "would join anybody with Allah in any relationship they liked on mere conjecture.",
+          "\n >"
+        ],
+        "87" : [
+          "Traditions show that in Arabia the tribes of Quraish, Juhainah, Bani Salimah,",
+          "Khuza'ah, Bani Mulaih, etc., held the belief that the angels were Allah's",
+          "daughters. This belief of their ignorance has been referred to at several places",
+          "in the Qur'an, e.g. in An-Nisa': 117, An-Nahl: 57-58, Bani Isra'il: 40,",
+          "Az-Zukhruf: 16; 19, An-Najm: 21-27."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 150,
+      "arabicVerse" : "أَمْ خَلَقْنَا الْمَلَائِكَةَ إِنَاثًا وَهُمْ شَاهِدُونَ",
+      "simpleTranslate" : [
+        "Or did We create the angels as females while they were witnesses?\""
+      ],
+      "tafsirTranslate" : [
+        "Did We create the angels as females the while they witnessed?'"
+      ],
+      "tanslateWordByWord" : [
+        "Or",
+        "did We create",
+        "the Angels",
+        "females",
+        "while they",
+        "(were) witnesses"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 151,
+      "arabicVerse" : "أَلَا إِنَّهُمْ مِنْ إِفْكِهِمْ لَيَقُولُونَ",
+      "simpleTranslate" : [
+        "Unquestionably, it is out of their [invented] falsehood that they say,"
+      ],
+      "tafsirTranslate" : [
+        "Behold, it is one of their fabrications that they say:"
+      ],
+      "tanslateWordByWord" : [
+        "No doubt",
+        "indeed, they",
+        "of",
+        "their falsehood",
+        "[they] say"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 152,
+      "arabicVerse" : "وَلَدَ اللَّهُ وَإِنَّهُمْ لَكَاذِبُونَ",
+      "simpleTranslate" : [
+        "\" Allah has begotten,\" and indeed, they are liars."
+      ],
+      "tafsirTranslate" : [
+        "'Allah has begotten.' They are liars!"
+      ],
+      "tanslateWordByWord" : [
+        "Allah has begotten",
+        "Allah has begotten",
+        "and indeed, they",
+        "surely (are) liars"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 153,
+      "arabicVerse" : "أَصْطَفَى الْبَنَاتِ عَلَى الْبَنِينَ",
+      "simpleTranslate" : [
+        "Has He chosen daughters over sons?"
+      ],
+      "tafsirTranslate" : [
+        "Did He choose daughters rather than sons?"
+      ],
+      "tanslateWordByWord" : [
+        "Has He chosen",
+        "[the] daughters",
+        "over",
+        "sons"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 154,
+      "arabicVerse" : "مَا لَكُمْ كَيْفَ تَحْكُمُونَ",
+      "simpleTranslate" : [
+        "What is [wrong] with you? How do you make judgement?"
+      ],
+      "tafsirTranslate" : [
+        "What is the matter with you that you make such strange judgements?"
+      ],
+      "tanslateWordByWord" : [
+        "What is with you",
+        "What is with you",
+        "How",
+        "you judge"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 155,
+      "arabicVerse" : "أَفَلَا تَذَكَّرُونَ",
+      "simpleTranslate" : [
+        "Then will you not be reminded?"
+      ],
+      "tafsirTranslate" : [
+        "Will you then not take heed?"
+      ],
+      "tanslateWordByWord" : [
+        "Then will not",
+        "you pay heed"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 156,
+      "arabicVerse" : "أَمْ لَكُمْ سُلْطَانٌ مُبِينٌ",
+      "simpleTranslate" : [
+        "Or do you have a clear authority?"
+      ],
+      "tafsirTranslate" : [
+        "Do you have any clear authority for such claims?"
+      ],
+      "tanslateWordByWord" : [
+        "Or",
+        "(is) for you",
+        "an authority",
+        "clear"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 157,
+      "arabicVerse" : "فَأْتُوا بِكِتَابِكُمْ إِنْ كُنْتُمْ صَادِقِينَ",
+      "simpleTranslate" : [
+        "Then produce your scripture, if you should be truthful."
+      ],
+      "tafsirTranslate" : [
+        "Bring your Book, if you are truthful. <N:88>"
+      ],
+      "tanslateWordByWord" : [
+        "Then bring",
+        "your book",
+        "if",
+        "you are",
+        "truthful"
+      ],
+      "notes" : {
+        "88" : [
+          "That is, [\"There can be only two bases for regarding the angels as the daughters",
+          "of Allah: Either such a thing could be said on the basis of observation, or the",
+          "one who asserted it should possess a Divine book in which Allah Himself might",
+          "have stated that the angels were His daughters. Now, if those who held such",
+          "belief could neither make a claim to have observed such a thing nor did they",
+          "possess any divine book that might contain such a thing, there could be no",
+          "greater stupidity than this that one should base one's religious belief on mere",
+          "conjecture, and attribute to AIlah, Lord of the worlds, such things as were",
+          "patently ridiculous. \"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 158,
+      "arabicVerse" : "وَجَعَلُوا بَيْنَهُ وَبَيْنَ الْجِنَّةِ نَسَبًا ۚ وَلَقَدْ عَلِمَتِ الْجِنَّةُ إِنَّهُمْ لَمُحْضَرُونَ",
+      "simpleTranslate" : [
+        "And they have claimed between Him and the jinn a lineage, but the jinn have",
+        "already known that they [who made such claims] will be brought to [punishment]."
+      ],
+      "tafsirTranslate" : [
+        "They have established a kinship between Allah and the angels; <N:89> and the",
+        "angels know well that these people will be arraigned (as culprits)."
+      ],
+      "tanslateWordByWord" : [
+        "And they have made",
+        "between Him",
+        "and between",
+        "the jinn",
+        "a relationship",
+        "but certainly",
+        "know",
+        "the jinn",
+        "that they",
+        "(will) surely be brought"
+      ],
+      "notes" : {
+        "89" : [
+          "Though the word used is al jinnah instead of al-mala'ikah, some major",
+          "commentators have opined that here the word jinn has been used for mala ikah in",
+          "its literal sense [(of hidden creation)]; mala ikah [(angels)] also are, in",
+          "reality, a hidden creation, and the following theme also demands that al jinnah",
+          "here be taken in the sense of al-mala'ikah"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 159,
+      "arabicVerse" : "سُبْحَانَ اللَّهِ عَمَّا يَصِفُونَ",
+      "simpleTranslate" : [
+        "Exalted is Allah above what they describe,"
+      ],
+      "tafsirTranslate" : [
+        "(They say): 'Exalted be Allah above what they attribute to Him,"
+      ],
+      "tanslateWordByWord" : [
+        "Glory be",
+        "(to) Allah",
+        "above what",
+        "they attribute"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 160,
+      "arabicVerse" : "إِلَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ",
+      "simpleTranslate" : [
+        "Except the chosen servants of Allah [who do not share in that sin]."
+      ],
+      "tafsirTranslate" : [
+        "all of them except the chosen servants of Allah."
+      ],
+      "tanslateWordByWord" : [
+        "Except",
+        "(the) slaves",
+        "(of) Allah",
+        "the chosen"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 161,
+      "arabicVerse" : "فَإِنَّكُمْ وَمَا تَعْبُدُونَ",
+      "simpleTranslate" : [
+        "So indeed, you [disbelievers] and whatever you worship,"
+      ],
+      "tafsirTranslate" : [
+        "So you and your deities"
+      ],
+      "tanslateWordByWord" : [
+        "So indeed, you",
+        "and what",
+        "you worship"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 162,
+      "arabicVerse" : "مَا أَنْتُمْ عَلَيْهِ بِفَاتِنِينَ",
+      "simpleTranslate" : [
+        "You cannot tempt [anyone] away from Him"
+      ],
+      "tafsirTranslate" : [
+        "shall not be able to tempt anyone away from Allah"
+      ],
+      "tanslateWordByWord" : [
+        "Not",
+        "you",
+        "from Him",
+        "can tempt away (anyone)"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 163,
+      "arabicVerse" : "إِلَّا مَنْ هُوَ صَالِ الْجَحِيمِ",
+      "simpleTranslate" : [
+        "Except he who is to [enter and] burn in the Hellfire."
+      ],
+      "tafsirTranslate" : [
+        "except him who shall roast in the Blazing Fire. <N:90>"
+      ],
+      "tanslateWordByWord" : [
+        "Except",
+        "who",
+        "he",
+        "(is) to burn",
+        "(in) the Hellfire"
+      ],
+      "notes" : {
+        "90" : [
+          "Another translation of this verse can be: [\"Therefore, you and your worship: on",
+          "this you cannot tempt into mischief anyone except him . . . \"] According to this",
+          "second translation, the meaning would be: [\"O you who have gone astray, by this",
+          "worship that you arc performing before us, and regarding us as the children of",
+          "Allah, Lord of the worlds, you cannot tempt us into mischief. By this you can",
+          "only beguile a fool who might be working for his own doom. So, we refuse to fall",
+          "into the trap that you have set for us.\"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 164,
+      "arabicVerse" : "وَمَا مِنَّا إِلَّا لَهُ مَقَامٌ مَعْلُومٌ",
+      "simpleTranslate" : [
+        "[The angels say], \"There is not among us any except that he has a known position."
+      ],
+      "tafsirTranslate" : [
+        "As for us, there is none but has an appointed station. <N:91>"
+      ],
+      "tanslateWordByWord" : [
+        "And not",
+        "among us",
+        "except",
+        "for him",
+        "(is) a position",
+        "known"
+      ],
+      "notes" : {
+        "91" : [
+          "That is, [\"Not to speak of being Allah's children, we do not have the power to",
+          "exceed in any way or degree the place and position and status appointed for each",
+          "of us by Allah. \"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 165,
+      "arabicVerse" : "وَإِنَّا لَنَحْنُ الصَّافُّونَ",
+      "simpleTranslate" : [
+        "And indeed, we are those who line up [for prayer]."
+      ],
+      "tafsirTranslate" : [
+        "Verily we range ourselves in rows (as humble servants)"
+      ],
+      "tanslateWordByWord" : [
+        "And indeed, we",
+        "surely, [we]",
+        "stand in rows"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 166,
+      "arabicVerse" : "وَإِنَّا لَنَحْنُ الْمُسَبِّحُونَ",
+      "simpleTranslate" : [
+        "And indeed, we are those who exalt Allah .\""
+      ],
+      "tafsirTranslate" : [
+        "and we are of those who glorify Allah.'"
+      ],
+      "tanslateWordByWord" : [
+        "And indeed, we",
+        "surely, [we]",
+        "glorify (Allah)"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 167,
+      "arabicVerse" : "وَإِنْ كَانُوا لَيَقُولُونَ",
+      "simpleTranslate" : [
+        "And indeed, the disbelievers used to say,"
+      ],
+      "tafsirTranslate" : [
+        "They used to say before:"
+      ],
+      "tanslateWordByWord" : [
+        "And indeed",
+        "they used to",
+        "say"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 168,
+      "arabicVerse" : "لَوْ أَنَّ عِنْدَنَا ذِكْرًا مِنَ الْأَوَّلِينَ",
+      "simpleTranslate" : [
+        "\"If we had a message from [those of] the former peoples,"
+      ],
+      "tafsirTranslate" : [
+        "'If only we had the Reminder which had been granted to the people of yore"
+      ],
+      "tanslateWordByWord" : [
+        "If",
+        "that",
+        "we had",
+        "a reminder",
+        "from",
+        "the former (people)"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 169,
+      "arabicVerse" : "لَكُنَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ",
+      "simpleTranslate" : [
+        "We would have been the chosen servants of Allah .\""
+      ],
+      "tafsirTranslate" : [
+        "we would surely have been Allah's chosen servants.' <N:92>"
+      ],
+      "tanslateWordByWord" : [
+        "Certainly, we (would) have been",
+        "slaves",
+        "(of) Allah",
+        "the chosen"
+      ],
+      "notes" : {
+        "92" : [
+          "This same thing has already been mentioned in Surah Fatir: 42 above."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 170,
+      "arabicVerse" : "فَكَفَرُوا بِهِ ۖ فَسَوْفَ يَعْلَمُونَ",
+      "simpleTranslate" : [
+        "But they disbelieved in it, so they are going to know."
+      ],
+      "tafsirTranslate" : [
+        "But when it came to them, they rejected it. They shall soon come to know (the end",
+        "of such an attitude)."
+      ],
+      "tanslateWordByWord" : [
+        "But they disbelieved",
+        "in it",
+        "so soon",
+        "they will know"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 171,
+      "arabicVerse" : "وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا الْمُرْسَلِينَ",
+      "simpleTranslate" : [
+        "And Our word has already preceded for Our servants, the messengers,"
+      ],
+      "tafsirTranslate" : [
+        "We have already given Our promise to Our Messengers"
+      ],
+      "tanslateWordByWord" : [
+        "And verily",
+        "has preceded",
+        "Our Word",
+        "for Our slaves",
+        "the Messengers"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 172,
+      "arabicVerse" : "إِنَّهُمْ لَهُمُ الْمَنْصُورُونَ",
+      "simpleTranslate" : [
+        "[That] indeed, they would be those given victory"
+      ],
+      "tafsirTranslate" : [
+        "that they shall certainly be succoured,"
+      ],
+      "tanslateWordByWord" : [
+        "Indeed they",
+        "surely they",
+        "(would be) the victorious"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 173,
+      "arabicVerse" : "وَإِنَّ جُنْدَنَا لَهُمُ الْغَالِبُونَ",
+      "simpleTranslate" : [
+        "And [that] indeed, Our soldiers will be those who overcome."
+      ],
+      "tafsirTranslate" : [
+        "and that Our hosts shall triumph. <N:93>"
+      ],
+      "tanslateWordByWord" : [
+        "And indeed",
+        "Our host",
+        "surely, they",
+        "(will be) those who overcome"
+      ],
+      "notes" : {
+        "93" : [
+          "[\"Allah's army\"]: implies the believers who obey Allah's Messenger and side with",
+          "him. This also includes those unseen powers by which Allah helps the followers of",
+          "the truth. This help and domination dces not necessarily mean that in every age",
+          "every Prophet of Allah and his followers must attain political dominance, but",
+          "this dominance has many forms, one of which is political rule as well. Wherever",
+          "the Prophets of Allah did not attain any such dominance, they did establish their",
+          "moral superiority even in those places. The nations which did not accept their",
+          "message and adopted a way contrary to their teachings, were ultimately doomed to",
+          "destruction. Whatever philosophies of error and misguidance the people invented",
+          "and whatever corrupt and evil practices of life they, enforced died out",
+          "ultimately after they had their sway for some time. But the truths preached by",
+          "the Prophets of Allah for thousands of years have been unalterable before as they",
+          "are unalterable today. No one has been able to disprove them in any way."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 174,
+      "arabicVerse" : "فَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍ",
+      "simpleTranslate" : [
+        "So, [O Muhammad], leave them for a time."
+      ],
+      "tafsirTranslate" : [
+        "So, (O Prophet), leave them alone for a while,"
+      ],
+      "tanslateWordByWord" : [
+        "So turn away",
+        "from them",
+        "until",
+        "a time"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 175,
+      "arabicVerse" : "وَأَبْصِرْهُمْ فَسَوْفَ يُبْصِرُونَ",
+      "simpleTranslate" : [
+        "And see [what will befall] them, for they are going to see."
+      ],
+      "tafsirTranslate" : [
+        "and see, and soon they too shall see. <N:94>"
+      ],
+      "tanslateWordByWord" : [
+        "And see them",
+        "so soon",
+        "they will see"
+      ],
+      "notes" : {
+        "94" : [
+          "That is. `It will not take long when they will see their defeat and your victory",
+          "with their own eyes.\" This proved to be true as it had been foretold. Hardly 14",
+          "to 15 years had passed after the revelation of these vases when the pagans of",
+          "Makkah witnessed the Holy Prophet enter their city as a conqueror, and then a few",
+          "years later the same people saw that Islam had overwhelmed not only Arabia but",
+          "the mighty empires of Rome and Iran as well."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 176,
+      "arabicVerse" : "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ",
+      "simpleTranslate" : [
+        "Then for Our punishment are they impatient?"
+      ],
+      "tafsirTranslate" : [
+        "Do they seek to hasten Our chastisement?"
+      ],
+      "tanslateWordByWord" : [
+        "Then is (it) for Our punishment",
+        "they hasten"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 177,
+      "arabicVerse" : "فَإِذَا نَزَلَ بِسَاحَتِهِمْ فَسَاءَ صَبَاحُ الْمُنْذَرِينَ",
+      "simpleTranslate" : [
+        "But when it descends in their territory, then evil is the morning of those who",
+        "were warned."
+      ],
+      "tafsirTranslate" : [
+        "When that chastisement will descend upon their courtyard, evil shall that Day be",
+        "for those who had been warned."
+      ],
+      "tanslateWordByWord" : [
+        "But when",
+        "it descends",
+        "in their territory",
+        "then evil (will be)",
+        "(the) morning",
+        "(for) those who were warned"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 178,
+      "arabicVerse" : "وَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍ",
+      "simpleTranslate" : [
+        "And leave them for a time."
+      ],
+      "tafsirTranslate" : [
+        "Leave them alone for a while,"
+      ],
+      "tanslateWordByWord" : [
+        "So turn away",
+        "from them",
+        "for",
+        "a time"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 179,
+      "arabicVerse" : "وَأَبْصِرْ فَسَوْفَ يُبْصِرُونَ",
+      "simpleTranslate" : [
+        "And see, for they are going to see."
+      ],
+      "tafsirTranslate" : [
+        "and see; and they too shall soon see."
+      ],
+      "tanslateWordByWord" : [
+        "And see",
+        "so soon",
+        "they will see"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 180,
+      "arabicVerse" : "سُبْحَانَ رَبِّكَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُونَ",
+      "simpleTranslate" : [
+        "Exalted is your Lord, the Lord of might, above what they describe."
+      ],
+      "tafsirTranslate" : [
+        "Exalted be your Lord, the Lord of Glory, above what they attribute to Him,"
+      ],
+      "tanslateWordByWord" : [
+        "Glory",
+        "(be to) your Lord",
+        "(the) Lord",
+        "(of) Honor",
+        "above what",
+        "they attribute"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 181,
+      "arabicVerse" : "وَسَلَامٌ عَلَى الْمُرْسَلِينَ",
+      "simpleTranslate" : [
+        "And peace upon the messengers."
+      ],
+      "tafsirTranslate" : [
+        "and peace be upon the Messengers,"
+      ],
+      "tanslateWordByWord" : [
+        "And peace be",
+        "upon",
+        "the Messengers"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 182,
+      "arabicVerse" : "وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "simpleTranslate" : [
+        "And praise to Allah , Lord of the worlds."
+      ],
+      "tafsirTranslate" : [
+        "and all praise be to Allah, the Lord of the Universe."
+      ],
+      "tanslateWordByWord" : [
+        "And all praise",
+        "(be) to Allah",
+        "(the) Lord",
+        "(of) the worlds"
+      ],
+      "notes" : { }
+    }
+  ],
+  "medinian" : false
+}

@@ -1,0 +1,2669 @@
+{
+  "chapterNumber" : 15,
+  "nbVerses" : 99,
+  "name" : "Al-hijr",
+  "nameArabic" : "الحجر",
+  "transName" : "al-ḥijr",
+  "verses" : [
+    {
+      "verseNumber" : 1,
+      "arabicVerse" : "الر ۚ تِلْكَ آيَاتُ الْكِتَابِ وَقُرْآنٍ مُبِينٍ",
+      "simpleTranslate" : [
+        "Alif - Lâm - Râ. Voici les versets du Livre et d’un Coran édifiant."
+      ],
+      "tafsirTranslate" : [
+        "Alif Lam Ra. Ce sont les versets du Livre Divin et le Coran lucide. <N:1>"
+      ],
+      "tanslateWordByWord" : [
+        "Alif Laam Ra",
+        "Ces",
+        "(Sont) les Versets",
+        "(du livre",
+        "et le Coran",
+        "clair"
+      ],
+      "notes" : {
+        "1" : [
+          "Ce verset est la brève introduction à la Surah, et immédiatement après cela",
+          "commence son thème. [ «Ce sont les versets du Coran lucide»]: Ce sont les versets",
+          "du Coran que ce qui rend son sens lucide et compréhensible."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 2,
+      "arabicVerse" : "رُبَمَا يَوَدُّ الَّذِينَ كَفَرُوا لَوْ كَانُوا مُسْلِمِينَ",
+      "simpleTranslate" : [
+        "Au Jour du Jugement, les négateurs regretteront peut-être de n’avoir pas été",
+        "musulmans."
+      ],
+      "tafsirTranslate" : [
+        "\"! Nous voulons nous avions cédé à elle« Le temps est pas loin lorsque les mêmes",
+        "personnes qui ont aujourd'hui refusé d'accepter (le Message de l'Islam)",
+        "regretteront et dire,"
+      ],
+      "tanslateWordByWord" : [
+        "peut-être",
+        "souhaiteront",
+        "ceux qui",
+        "pas foi",
+        "si",
+        "Ils ont été",
+        "les musulmans"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 3,
+      "arabicVerse" : "ذَرْهُمْ يَأْكُلُوا وَيَتَمَتَّعُوا وَيُلْهِهِمُ الْأَمَلُ ۖ فَسَوْفَ يَعْلَمُونَ",
+      "simpleTranslate" : [
+        "Laisse-les faire bonne chère, s’adonner aux plaisirs de la vie et se bercer",
+        "d’illusions. Ils connaîtront bientôt la Vérité."
+      ],
+      "tafsirTranslate" : [
+        "Laissez-les manger, boire et être joyeux et d'être trompés par de faux espoirs.",
+        "Ils vont bientôt réaliser."
+      ],
+      "tanslateWordByWord" : [
+        "Laisse-les",
+        "(manger",
+        "et apprécie",
+        "et les détourné",
+        "l'espoir",
+        "puis bientôt",
+        "ils viennent à connaître"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 4,
+      "arabicVerse" : "وَمَا أَهْلَكْنَا مِنْ قَرْيَةٍ إِلَّا وَلَهَا كِتَابٌ مَعْلُومٌ",
+      "simpleTranslate" : [
+        "Nous n’avons anéanti aucune cité qui n’ait eu son terme fixé en un Écrit connu",
+        "d’avance."
+      ],
+      "tafsirTranslate" : [
+        "Nous avions prévu un répit pour chaque habitation que nous avons détruit avant",
+        "que ce <N:2>"
+      ],
+      "tanslateWordByWord" : [
+        "Et pas",
+        "Nous avons détruit",
+        "tout",
+        "ville",
+        "mais",
+        "(Il y en a) pour qu'il",
+        "un décret",
+        "connu"
+      ],
+      "notes" : {
+        "2" : [
+          "Ceci est de réfuter l'argument fallacieux des disblievers que Muhammad [(la paix",
+          "d'Allah soit sur lui)] était pas un vrai prophète parce qu'ils avaient reçu",
+          "aucune punition rapide pour leur incrédulité. Il est comme ceci: «Nous avons",
+          "jamais saisi une communauté à la première commital de kufr. \n Nous prescrivons",
+          "une limite pour chaque communauté d'entendre et de comprendre le message et de",
+          "réformer ses manières. Puis Nous tolérons sa malice et de mauvaises actions",
+          "jusqu'à cette limite et lui permettre une pleine liberté de le faire comme il",
+          "aime, et lui donne un répit jusqu'à l'expiration du terme. Voilà pourquoi nous",
+          "tolérons leur attitude du ridicule et de déni. [(Pour la pleine signification de",
+          "répit, s'il vous plaît se référer à E.N. 18 de la sourate Ibrehim)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 5,
+      "arabicVerse" : "مَا تَسْبِقُ مِنْ أُمَّةٍ أَجَلَهَا وَمَا يَسْتَأْخِرُونَ",
+      "simpleTranslate" : [
+        "Et aucune communauté ne saurait avancer ni retarder le terme qui lui est assigné."
+      ],
+      "tafsirTranslate" : [
+        "Aucune communauté est détruit avant l'expiration de son répit, ni il est permis",
+        "de survivre."
+      ],
+      "tanslateWordByWord" : [
+        "ne pas",
+        "(Peut) faire avancer",
+        "tout",
+        "nation",
+        "son mandat",
+        "et pas",
+        "(Peut) retarder"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 6,
+      "arabicVerse" : "وَقَالُوا يَا أَيُّهَا الَّذِي نُزِّلَ عَلَيْهِ الذِّكْرُ إِنَّكَ لَمَجْنُونٌ",
+      "simpleTranslate" : [
+        "Les négateurs disent : «Ô toi à qui le Coran a été révélé ! Tu n’es en vérité",
+        "qu’un possédé !"
+      ],
+      "tafsirTranslate" : [
+        "Ils disent: «Vous, à qui la parole divine <N:3> a été envoyé vers le bas, sont",
+        "sûrement fou."
+      ],
+      "tanslateWordByWord" : [
+        "Et ils disent",
+        "O vous",
+        "(à qui",
+        "a été envoyé vers le bas",
+        "[sur lui]",
+        "Rappel",
+        "en effet, vous",
+        "(Sont) sûrement folle"
+      ],
+      "notes" : {
+        "3" : [
+          "Le mot [(Zikr)] signifie littéralement [ \"causer de se rappeler,\"] d'avertir [",
+          "\"et\"] pour donner des conseils [ \". Mais le Coran a utilisé comme un terme",
+          "technique pour \"] Admonition\", qui vient comme un précepte. ainsi, tous les",
+          "livres qui avaient été envoyés vers les messagers étaient Zikr, et le Coran est",
+          "aussi Zikr."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 7,
+      "arabicVerse" : "لَوْ مَا تَأْتِينَا بِالْمَلَائِكَةِ إِنْ كُنْتَ مِنَ الصَّادِقِينَ",
+      "simpleTranslate" : [
+        "Pourquoi n’es-tu pas accompagné d’anges, si ce que tu dis est la vérité?»"
+      ],
+      "tafsirTranslate" : [
+        "Pourquoi ne pas apporter les anges devant nous, si ce que vous dites est vrai »?"
+      ],
+      "tanslateWordByWord" : [
+        "Pourquoi",
+        "ne pas",
+        "vous nous apporter",
+        "les anges",
+        "si",
+        "tu es",
+        "de",
+        "la vérité"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 8,
+      "arabicVerse" : "مَا نُنَزِّلُ الْمَلَائِكَةَ إِلَّا بِالْحَقِّ وَمَا كَانُوا إِذًا مُنْظَرِينَ",
+      "simpleTranslate" : [
+        "Nous n’envoyons les anges que pour porter des arrêts ; et alors, aucun répit ne",
+        "sera plus accordé aux impies."
+      ],
+      "tafsirTranslate" : [
+        "Nous ne faisons descendre les anges de cette façon. Quand ils viennent vers le",
+        "bas, <N:4> ils descendent avec la vérité, et alors les gens ne sont pas donnés de",
+        "répit. <N:5>"
+      ],
+      "tanslateWordByWord" : [
+        "ne pas",
+        "Nous faisons descendre",
+        "les anges",
+        "sauf",
+        "avec la vérité",
+        "et pas",
+        "ils seraient",
+        "puis",
+        "répit donné"
+      ],
+      "notes" : {
+        "4" : [
+          "Ce fut une remarque sarcastique qui a été faite par les adversaires, car ils ne",
+          "reconnaissent que la [ «admonestation»] avait été envoyé vers le bas pour le",
+          "Saint Prophète: sinon ils ne pouvaient pas dire qu'il était [ \" fou\"]. Qu'est-ce",
+          "qu'ils ont vraiment entendu par cette remarque était: [ «Vous, qui prétendent que",
+          "le\"] Admonition [ \"a été envoyé vers vous, êtes fou\"]. Une remarque similaire a",
+          "également été faite par le Pharaon concernant Prophète Moïse. Adressant à ses",
+          "courtisans, dit-il, [ «Le Messager qui a été envoyé pour vous est fou\"]. [(XXVI:",
+          "27 <V:26:27>)]"
+        ],
+        "5" : [
+          "[ «Nous ne faisons descendre les anges dans cette voie\"]: Nous ne faisons",
+          "descendre les anges pour le simple plaisir de la chose en réponse à la demande du",
+          "peuple: ils ne sont pas envoyés à dévoiler la réalité devant eux dans le but de",
+          "montrer à eux tous les [ \"invisibles\"] des choses auxquelles les messagers les",
+          "inviter à croire. En fait, les anges sont envoyés vers le bas à cette occasion,",
+          "quand il est décrété de porter un jugement sur les méchants sains. A cette",
+          "époque, le jugement entre en fonctionnement sans prolonger. toute invitation aux",
+          "personnes condamnées à accepter le message, pour leur période de répit se termine",
+          "dès que le [ \"Reality\"] est dévoilé devant eux. \n [ \"...... Ils descendent avec",
+          "la vérité\"]: [ \"...... ils faire baisser la vérité avec eux\"]. Voilà qu'ils",
+          "descendent pour éradiquer le mensonge et pour établir la vérité à sa place. Ou,",
+          "en d'autres termes, cela signifie, ..... ils viennent vers le bas pour mettre en",
+          "vigueur le jugement d'Allah \"."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 9,
+      "arabicVerse" : "إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ",
+      "simpleTranslate" : [
+        "C’est Nous, en vérité, qui avons révélé le Coran, et c’est Nous qui en assurons",
+        "l’intégrité."
+      ],
+      "tafsirTranslate" : [
+        "En ce qui concerne cette admonition, il est Nous qui avons fait descendre, et",
+        "nous-mêmes se préserver <N:6>."
+      ],
+      "tanslateWordByWord" : [
+        "En effet, nous",
+        "nous",
+        "ont fait descendre",
+        "Rappel",
+        "et en effet, nous",
+        "de celui-ci",
+        "(Sont) sûrement Gardiens"
+      ],
+      "notes" : {
+        "6" : [
+          "Autrement dit, [ \"Il faut noter bien qu'il est Nous qui avons fait cette` Parole",
+          "'. Ainsi, il est pas Notre messager que vous appelez `fous' mais en fait cette",
+          "remarque abusive vaut pour . Nous en outre, vous devriez savoir qu'il est notre",
+          "«Parole» et nous préservons il, par conséquent, vous pouvez ne pas nuire à elle,",
+          "ni peut vous discréditer par vos burlas, railleries et objections: il ne peut",
+          "vous gêner sa progression, tout ce que vous pouvez faire contre elle: ni personne",
+          "soit toujours en mesure de changer ou d'altérer avec elle \"]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 10,
+      "arabicVerse" : "وَلَقَدْ أَرْسَلْنَا مِنْ قَبْلِكَ فِي شِيَعِ الْأَوَّلِينَ",
+      "simpleTranslate" : [
+        "Et Nous avons déjà, avant toi, envoyé des messagers aux peuples anciens ;"
+      ],
+      "tafsirTranslate" : [
+        "(O Muhammad!) Nous avons déjà envoyé des messagers avant toi parmi un grand",
+        "nombre de peuples anciens."
+      ],
+      "tanslateWordByWord" : [
+        "Et certainement",
+        "Nous (avions) envoyé",
+        "Avant toi",
+        "Avant toi",
+        "dans",
+        "les sectes",
+        "(De) l'ancien (personnes)"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 11,
+      "arabicVerse" : "وَمَا يَأْتِيهِمْ مِنْ رَسُولٍ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+      "simpleTranslate" : [
+        "mais aucun messager ne s’est présenté à eux sans qu’ils l’aient tourné en",
+        "dérision."
+      ],
+      "tafsirTranslate" : [
+        "Mais ils se moquaient à chacun des messagers qui sont venus à eux."
+      ],
+      "tanslateWordByWord" : [
+        "Et pas",
+        "est venu à eux",
+        "tout",
+        "Messager",
+        "mais",
+        "ils ont fait",
+        "lui",
+        "moquer"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 12,
+      "arabicVerse" : "كَذَٰلِكَ نَسْلُكُهُ فِي قُلُوبِ الْمُجْرِمِينَ",
+      "simpleTranslate" : [
+        "C’est ainsi que Notre message ne fera qu’effleurer le cœur des criminels sans y",
+        "laisser aucune trace,"
+      ],
+      "tafsirTranslate" : [
+        "Bien que nous causons il (Admonition) pour entrer dans leur cœur (comme une",
+        "tige),"
+      ],
+      "tanslateWordByWord" : [
+        "Ainsi",
+        "Nous laissons entrer",
+        "dans",
+        "(les) coeurs",
+        "(De) les criminels"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 13,
+      "arabicVerse" : "لَا يُؤْمِنُونَ بِهِ ۖ وَقَدْ خَلَتْ سُنَّةُ الْأَوَّلِينَ",
+      "simpleTranslate" : [
+        "et sans qu’ils y croient, car le sort réservé aux peuples anciens ne les a point",
+        "édifiés."
+      ],
+      "tafsirTranslate" : [
+        "ils ne croient. <N:7> Et même a été la façon de ces personnes depuis les temps",
+        "anciens."
+      ],
+      "tanslateWordByWord" : [
+        "ne pas",
+        "ils croient",
+        "en ce",
+        "et, en vérité",
+        "ont réussi",
+        "les chemins)",
+        "(De) l'ancien (personnes)"
+      ],
+      "notes" : {
+        "7" : [
+          "La majorité des traducteurs et des commentateurs sont d'avis que le pronom `il",
+          "'dans [\" .... car il \"] dans v. 12, se réfère à leur [\" moquerie \"], se",
+          "produisant . en version 11, et .... ne serait pas croire [ \". en v 13, se réfère",
+          "à la\"] Admonition [ \"apparaissant dans v 9. Puis vv 12-13 sera rendu comme",
+          "ceci:..\" ] nous causons Ainsi raillerie entrer dans les cœurs des criminels et",
+          "ils ne croient pas dans le Admonition .... [ \"Bien que grammaticalement il n'y a",
+          "rien de mal avec cette version, mais notre version de\"] il [ \"sera mieux encore",
+          "grammaticalement . Selon cette v. 12 signifiera \"] Lorsque le Admonition entre",
+          "dans les cœurs des croyants, il leur donne la tranquillité d'esprit et le confort",
+          "du cœur. Mais quand même entre dans le cœur des criminels, il devient un hot rod,",
+          "et brûle leurs esprits et les cœurs »."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 14,
+      "arabicVerse" : "وَلَوْ فَتَحْنَا عَلَيْهِمْ بَابًا مِنَ السَّمَاءِ فَظَلُّوا فِيهِ يَعْرُجُونَ",
+      "simpleTranslate" : [
+        "Et même si Nous leur ouvrions une porte sur le Ciel, et qu’ils pussent à chaque",
+        "instant y monter,"
+      ],
+      "tafsirTranslate" : [
+        "Même si nous avions ouvert une porte pour eux dans le ciel, et ils avaient",
+        "commencé à monter à travers elle plus élevée pendant la journée,"
+      ],
+      "tanslateWordByWord" : [
+        "Et (même) si",
+        "Nous avons ouvert",
+        "pour eux",
+        "une porte",
+        "de",
+        "le paradis",
+        "et ils devaient se poursuivre",
+        "la bride",
+        "(Grimper"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 15,
+      "arabicVerse" : "لَقَالُوا إِنَّمَا سُكِّرَتْ أَبْصَارُنَا بَلْ نَحْنُ قَوْمٌ مَسْحُورُونَ",
+      "simpleTranslate" : [
+        "ils diraient encore : «C’est une hallucination, ou plutôt nous sommes sous",
+        "l’effet d’un envoûtement !»"
+      ],
+      "tafsirTranslate" : [
+        "ils l'auraient dit. «Nos yeux ont été éblouis; non, nous avons été ensorcelé.\""
+      ],
+      "tanslateWordByWord" : [
+        "Ils diront très certainement:",
+        "Seulement",
+        "ont été éblouis",
+        "nos yeux",
+        "Non",
+        "nous",
+        "(Sont) un peuple",
+        "enchanté"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 16,
+      "arabicVerse" : "وَلَقَدْ جَعَلْنَا فِي السَّمَاءِ بُرُوجًا وَزَيَّنَّاهَا لِلنَّاظِرِينَ",
+      "simpleTranslate" : [
+        "Nous avons placé dans le ciel des constellations zodiacales et Nous l’avons",
+        "embelli pour le plaisir de ceux qui veulent le contempler,"
+      ],
+      "tafsirTranslate" : [
+        "Il est Nous qui avons divisé les cieux dans de nombreux domaines fortifiés <N:8>",
+        "pour le bien de l'administration et parée et les parée juste pour les",
+        "spectateurs, <N:9>"
+      ],
+      "tanslateWordByWord" : [
+        "Et en vérité,",
+        "Nous avons placé",
+        "dans",
+        "Le Paradis",
+        "constellations",
+        "et Nous avons embelli",
+        "pour les observateurs"
+      ],
+      "notes" : {
+        "8" : [
+          "Dans les versets précédents [(14-15)], il a été déclaré que les incroyants",
+          "étaient devenus si endurcis contre le Coran qu'ils n'y auraient pas cru en elle,",
+          "même si elles avaient remonté le Ciel et vu leur propres yeux les signes",
+          "mentionnés. Maintenant en vv.16-22, une partie de l'arc signes étant cité pour y",
+          "convaincre de sa trurth. \n [ \"Sphères fortifiées\"] [(Buruj)] sont des signes de",
+          "AIlah car il est impossible de passer à travers une sphère du ciel dans un autre,",
+          "que chaque sphère de l'espace a été fortifiée par des frontières invisibles. A",
+          "cet égard, il convient de noter que la lettre du mot arabe BURJ moyen [ «une",
+          "place forte\"] mais comme un terme technique de l'astronomie ancienne c'était pour",
+          "chacun des douze signes du zodiaque, qui a marqué le chemin du soleil à travers",
+          "les cieux . Cela a conduit certains commentateurs à former l'opinion que, dans ce",
+          "verset le mot Buruj fait référence à la même chose. Mais il y a d'autres qui",
+          "pensent que cela signifie [ \"planètes\"]. Cependant, si l'on considère ce mot dans",
+          "le contexte de v. 19, nous sommes amenés à la conclusion que, probablement, il",
+          "est synonyme de [ «sphères»]."
+        ],
+        "9" : [
+          "[ «Nous avons orné et parée des\"] sphères fortifiées [ \":\"]. Nous avons placé une",
+          "étoile ou d'une planète qui brille dans chacune de ces sphères et faites paraître",
+          "belle [ \"En d'autres termes, cela signifie; »] Nous avons pas fait l'univers",
+          "infini morne, désolé et effrayant, mais si beau que l'on trouve l'ordre et",
+          "l'harmonie merveilleux partout, et les sites qui y sont. si attrayant que chacun",
+          "de ces charmes cœurs et les esprits. Cette magnifique structure de l'univers est",
+          "une preuve évidente du fait que son Créateur est non seulement grand et Sage,",
+          "mais est aussi un artiste parfait [ \"Le Coran a également déclaré cet aspect du",
+          "Créateur dans XXXII:. 7: \"] [(AIIah est)] que Dieu qui a créé en parfait beauté",
+          "tout ce qu'Il a créé.\""
+        ]
+      }
+    },
+    {
+      "verseNumber" : 17,
+      "arabicVerse" : "وَحَفِظْنَاهَا مِنْ كُلِّ شَيْطَانٍ رَجِيمٍ",
+      "simpleTranslate" : [
+        "et Nous l’avons mis hors d’atteinte de tout démon maudit."
+      ],
+      "tafsirTranslate" : [
+        "et les gardée de tous Satan maudit. <N:10> Non Satan peut passer à travers eux"
+      ],
+      "tanslateWordByWord" : [
+        "Et Nous avons protégé ce",
+        "de",
+        "chaque",
+        "diable",
+        "maudit"
+      ],
+      "notes" : {
+        "10" : [
+          "Autrement dit, «Ces sphères sont tellement fortifiées qu'ils sont au-delà de la",
+          "portée de chaque Satan, pour tous les Satans, y compris ceux des djinns, ont été",
+          "confinés à cette sphère dans laquelle la Terre a été placé et ils profiter pas",
+          "plus accès à visiter d'autres sphères que les autres habitants de ce domaine.",
+          "cela a été mentionné afin d'éliminer un malentendu commun. les gens ordinaires",
+          "ont cru, .et croient encore, que Satan et ses descendants ont un accès libre à",
+          "tous les endroits l'univers. au contraire, le Coran dit que Satans ne peut pas",
+          "aller au-delà d'une certaine limite et ils ont pas le pouvoir illimité de",
+          "l'ascension."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 18,
+      "arabicVerse" : "إِلَّا مَنِ اسْتَرَقَ السَّمْعَ فَأَتْبَعَهُ شِهَابٌ مُبِينٌ",
+      "simpleTranslate" : [
+        "Celui qui s’en approche pour voler quelque secret, aussitôt une flamme",
+        "éblouissante le poursuit."
+      ],
+      "tafsirTranslate" : [
+        "sauf qu'un avant-toits compte-gouttes peut entendre quelque chose <N:11>, mais",
+        "une flamme ardente poursuit que les avant-toits-gouttes. <N:12>"
+      ],
+      "tanslateWordByWord" : [
+        "Sauf",
+        "(un qui",
+        "vole",
+        "l'audience",
+        "puis le suit",
+        "une flamme",
+        "clair"
+      ],
+      "notes" : {
+        "12" : [
+          "En arabe, le mot shihab-i-Mubin signifie littéralement [ \"flammes de feu\"]. En",
+          "XXXVII: 10, la même chose a été appelé shihab-i-thaqib [([ \"flamme qui perce à",
+          "travers l'obscurité\"])]. «Cela peut ou peut ne pas être nécessairement une [\"",
+          "météore \"] car il est tout à fait possible que ce peut être un certain type de",
+          "rayons tels que [\" rayons cosmiques \"] ou même un type plus fort que nous avons",
+          "pas été en mesure de découvrir encore . Quoi qu'il en soit, si le [ \"flammes de",
+          "feu\"] qui poursuit Satans peut être considéré comme un météore, un nombre",
+          "incalculable de ceux-ci peuvent former une fortification autour de notre sphère",
+          "de l'univers. Les observations scientifiques faites à l'aide du télescope ont",
+          "montré que des milliards de ces météores se précipitent de l'espace dans la masse",
+          "de [ \"précipitations\"] vers l'atmosphère de la terre. Une telle scène a été",
+          "témoin dans un pan est de l'Amérique du Nord, le 13 Novembre, 1833. Cela est si",
+          "forte une fortification qu'il peut empêcher Satans de passer à travers toutes les",
+          "sphères fortifiée. \n Avec l'aide de ce qui précède, on peut former une image",
+          "mentale des [ \"sphères fortifiées\"]. Bien qu'il n'y ait pas visible [ \"mur\"] pour",
+          "maintenir distincte une sphère des autres, Allah a solidement protégée chacune de",
+          "ces sphères par invisibles [ «murs»] contre l'autre. Voilà pourquoi notre [",
+          "\"planète\"] est restée sûre en dépit de l'occasionnel [ \"précipitations\"]",
+          "d'innombrables météores. Car dès qu'ils traversent la paroi de protection de",
+          "notre sphère, ils sont réduits en cendres. Mais parfois, une météorite atteint la",
+          "terre de l'espace, comme pour avertir les habitants de cette planète de",
+          "l'existence de la [ \"pouvoir\"] du Créateur. Par exemple, le plus grand d'entre",
+          "eux pèse 645 livres et il est évident à partir de ce que si la terre n'a pas été",
+          "fait sûr et sécurisé au moyen de [ \"sphères fortifiées\"] la pluie des étoiles",
+          "filantes aurait complètement anéanti longtemps il y a longtemps . Ce sont ces [",
+          "\"sphères fortifiées\"] que le Coran appelle [ \"Buruj\"]."
+        ],
+        "11" : [
+          "Ceci est la réponse à la fausse déclaration des devins, des devins, des ermites,",
+          "prestidigitateurs et autres qui prétendaient recevoir des communications du ciel.",
+          "Le Coran dit que, en fait, ils ne possèdent pas de moyens d'obtenir des",
+          "informations sur les choses invisibles. Satans, cependant, essayer de gouttière",
+          "goutte parce qu'ils sont par nature plus comme des anges que les êtres humains,",
+          "mais en réalité, ils réussissent à obtenir de très peu d'informations à ce sujet."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 19,
+      "arabicVerse" : "وَالْأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنْبَتْنَا فِيهَا مِنْ كُلِّ شَيْءٍ مَوْزُونٍ",
+      "simpleTranslate" : [
+        "Nous avons étendu la terre, y avons implanté des montagnes et y avons fait",
+        "pousser toute chose dans une proportion mesurée."
+      ],
+      "tafsirTranslate" : [
+        "Nous étendit la Terre, et réglez montagnes fermement sur elle, et fait pousser",
+        "des toutes sortes de légumes dans une mesure équilibrée. <N:13>"
+      ],
+      "tanslateWordByWord" : [
+        "Et la terre",
+        "Nous l'avons étendue",
+        "et [nous] cast",
+        "la bride",
+        "montagnes fermes",
+        "et [Nous] fait pousser",
+        "la bride",
+        "de",
+        "chaque",
+        "chose",
+        "équilibré"
+      ],
+      "notes" : {
+        "13" : [
+          "La croissance de chaque type de plante dans une mesure limitée est un autre signe",
+          "de la sagesse et la puissance d'Allah. Pour la puissance génératrice de toutes",
+          "les plantes de légumes est si grande que si la croissance libre avait été",
+          "autorisé à égaliser un type de plante, il aurait couvert toute la surface de la",
+          "Terre. Mais il est par la conception du Sage et Tout-Puissant Créateur que chaque",
+          "type de légume est produit dans une mesure équilibrée. Un autre aspect de la vie",
+          "végétale. Chaque type de celui-ci est autorisé à croître qu'à un fixe la taille,",
+          "la hauteur et l'épaisseur, ce qui est une preuve du fait que le Créateur lui-même",
+          "prescrit la structure, la forme, la taille, la hauteur, les feuilles et les",
+          "branches, et le nombre de chaque plante, et aucune plante est autorisé à aller",
+          "au-delà l'une de ces limites fixées."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 20,
+      "arabicVerse" : "وَجَعَلْنَا لَكُمْ فِيهَا مَعَايِشَ وَمَنْ لَسْتُمْ لَهُ بِرَازِقِينَ",
+      "simpleTranslate" : [
+        "Nous l’avons dotée d’éléments nutritifs pour vous, et pour tant d’autres",
+        "créatures dont vous n’êtes pas les nourriciers."
+      ],
+      "tafsirTranslate" : [
+        "Et Nous y fourni des moyens de subsistance pour vous et pour beaucoup d'autres",
+        "créatures pour qui vous ne fournissez pas."
+      ],
+      "tanslateWordByWord" : [
+        "Et Nous avons fait",
+        "pour toi",
+        "la bride",
+        "des moyens de vie",
+        "et que",
+        "tu n'es pas",
+        "pour lui",
+        "les fournisseurs"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 21,
+      "arabicVerse" : "وَإِنْ مِنْ شَيْءٍ إِلَّا عِنْدَنَا خَزَائِنُهُ وَمَا نُنَزِّلُهُ إِلَّا بِقَدَرٍ مَعْلُومٍ",
+      "simpleTranslate" : [
+        "Et il n’est rien dont Nous ne détenions les trésors. Mais Nous ne les faisons",
+        "descendre qu’en quantité déterminée."
+      ],
+      "tafsirTranslate" : [
+        "Il n'y a pas une chose dont les trésors ne sont pas avec nous, et nous envoyer en",
+        "bas de chaque chose en mesure appropriée. <N:14>"
+      ],
+      "tanslateWordByWord" : [
+        "Et pas",
+        "(Est) tout",
+        "chose",
+        "mais",
+        "avec nous",
+        "(Sont) ses trésors",
+        "et pas",
+        "Nous envoyons vers le bas",
+        "sauf",
+        "dans une certaine mesure",
+        "connu"
+      ],
+      "notes" : {
+        "14" : [
+          "C'est de ramener à la maison le fait qu'il ne soit pas la vie végétale seule qui",
+          "a une limite fixe à sa croissance, etc: La même chose est vraie de tout ce qui",
+          "existe, que ce soit l'air, l'eau, la lumière, chaleur, froid, minéral, végétal.",
+          "animal ou la puissance ou de l'énergie, en bref, chaque chose existe dans la",
+          "quantité prescrite, numéro, etc., que ni baisse ni augmentation. Il est présent [",
+          "\"bien sûr déterminé\"], dans chaque chose, qui a produit l'équilibre et proportion",
+          "appropriée dans l'ensemble du système de l'univers à une telle perfection que",
+          "l'on est amené à la conclusion inévitable que le tout a été conçu par son",
+          "Créateur Tout-Sage. Car, avait l'univers venu à l'existence par un simple",
+          "accident ou il avait été créé par de nombreux dieux, il était impossible d'avoir",
+          "un tel équilibre parfait et la proportion appropriée avec consistance perpétuelle",
+          "dans tant de choses et de pouvoirs différents."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 22,
+      "arabicVerse" : "وَأَرْسَلْنَا الرِّيَاحَ لَوَاقِحَ فَأَنْزَلْنَا مِنَ السَّمَاءِ مَاءً فَأَسْقَيْنَاكُمُوهُ وَمَا أَنْتُمْ لَهُ بِخَازِنِينَ",
+      "simpleTranslate" : [
+        "Nous envoyons des vents fécondants et Nous faisons descendre du ciel une eau avec",
+        "laquelle Nous étanchons votre soif, et que vous n’aviez pas vous-mêmes",
+        "emmagasinée."
+      ],
+      "tafsirTranslate" : [
+        "Il est Nous qui envoyons les vents fertilisantes: alors nous envoyons \"descendre",
+        "l'eau du ciel, puis nous vous le donner à boire; et il est pas toi qui tient la",
+        "boutique de cette richesse."
+      ],
+      "tanslateWordByWord" : [
+        "Et Nous avons envoyé",
+        "les vents",
+        "fertilisation",
+        "et Nous avons fait descendre",
+        "de",
+        "Le ciel",
+        "eau",
+        "et Nous lui avons donné à vous de boire",
+        "Et pas",
+        "toi",
+        "de celui-ci",
+        "(Sont) de retenue"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 23,
+      "arabicVerse" : "وَإِنَّا لَنَحْنُ نُحْيِي وَنُمِيتُ وَنَحْنُ الْوَارِثُونَ",
+      "simpleTranslate" : [
+        "C’est Nous qui donnons la vie et la mort et c’est Nous qui sommes l’Héritier de",
+        "l’Univers."
+      ],
+      "tafsirTranslate" : [
+        "Il est Nous qui donne la vie et la mort et nous serons les héritiers de tous.",
+        "<N:15>"
+      ],
+      "tanslateWordByWord" : [
+        "Et en effet, Nous",
+        "sûrement [Nous]",
+        "Nous donnons la vie",
+        "et nous causer la mort",
+        "et nous",
+        "(Sont) les Héritiers"
+      ],
+      "notes" : {
+        "15" : [
+          "Il est d'impressionner ceci: [ \"votre vie mondaine et tout ce que vous possédez",
+          "sont transitoires et temporaires, et Allah seul est éternel Votre fin viendra tôt",
+          "ou tard, et vous est tout quitter ce monde. , qui sera à nouveau devenir une",
+          "partie de notre trésor. \"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 24,
+      "arabicVerse" : "وَلَقَدْ عَلِمْنَا الْمُسْتَقْدِمِينَ مِنْكُمْ وَلَقَدْ عَلِمْنَا الْمُسْتَأْخِرِينَ",
+      "simpleTranslate" : [
+        "Certes, Nous connaissons parmi vous les générations révolues et Nous connaissons",
+        "les générations à venir."
+      ],
+      "tafsirTranslate" : [
+        "Nous avons connaissance de ceux qui ont vécu avant vous, et nous gardons un oeil",
+        "sur leurs successeurs."
+      ],
+      "tanslateWordByWord" : [
+        "Et en vérité,",
+        "Nous savons",
+        "les précédentes",
+        "parmi vous",
+        "et, en vérité",
+        "Nous savons",
+        "les plus tardifs"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 25,
+      "arabicVerse" : "وَإِنَّ رَبَّكَ هُوَ يَحْشُرُهُمْ ۚ إِنَّهُ حَكِيمٌ عَلِيمٌ",
+      "simpleTranslate" : [
+        "Et c’est ton Seigneur qui les rassemblera toutes, car Il est Sage et Omniscient."
+      ],
+      "tafsirTranslate" : [
+        "La plupart ton Seigneur qui les rassemblera, car Il est Sage et Omniscient.",
+        "<N:16>"
+      ],
+      "tanslateWordByWord" : [
+        "Et en effet",
+        "votre Seigneur",
+        "Il",
+        "je les rassemblerai",
+        "En effet, il",
+        "(Est) All-Wise",
+        "Omniscient"
+      ],
+      "notes" : {
+        "16" : [
+          "[ \"Il est Sage\"], donc sa sagesse exige qu'il devrait rassembler l'ensemble de",
+          "l'humanité et de récompenser ou de punir chaque individu en fonction de ses",
+          "actes. Et [ \"Il est Omniscient\"]: donc aucun individu, quel qu'il soit, ne peut",
+          "lui échapper. Comme chaque particule de chaque individu est dans sa connaissance,",
+          "il est en mesure d'apporter l'ensemble de l'humanité à la vie dans l'au-delà.",
+          "Ainsi quiconque nie [ \"Life-in-the-delà\"] est vraiment ignorant la sagesse",
+          "d'Allah; et toute personne qui estime qu'il est impossible que les particules du",
+          "corps humain, qui wen tout éparpillée, pourraient à nouveau être réunis sous la",
+          "forme du corps qui était vivant, est ignorant de la connaissance AllComprehensive",
+          "et la puissance d'Allah."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 26,
+      "arabicVerse" : "وَلَقَدْ خَلَقْنَا الْإِنْسَانَ مِنْ صَلْصَالٍ مِنْ حَمَإٍ مَسْنُونٍ",
+      "simpleTranslate" : [
+        "Nous avons créé l’homme d’une argile extraite d’un limon fétide,"
+      ],
+      "tafsirTranslate" : [
+        "Nous avons créé l'homme à partir d'argile séchée de terre pourrie: <N:17>"
+      ],
+      "tanslateWordByWord" : [
+        "Et en vérité,",
+        "Nous avons créé",
+        "humanité",
+        "(en dehors de",
+        "argile de sondage",
+        "de",
+        "boue noire",
+        "modifié"
+      ],
+      "notes" : {
+        "17" : [
+          "Le mot arabe [ \"Salsal\"] signifie l'argile séchée qui produit un bruit comme la",
+          "poterie. [ \" \n \"] Hams [\" est \"] la boue noire qui est devenue si pourri que",
+          "d'être dans un état fermenté. [\" \n \"] Masnun [\" a un double sens: [(a)] \"] argile",
+          "pourrie qui est devenue grasse [\" [(b)] l'argile qui a été moulé en forme de \"]",
+          "Il ressort clairement de la formulation de. le texte à d'abord l'image de l'homme",
+          "a été fait d'argile de la terre pourrie et quand il sécha, l'âme a été insufflé.",
+          "Ainsi, le Coran réfute positivement la théorie darwinienne de l'évolution que",
+          "l'homme est entré en existence après avoir traversé en continu génétique",
+          "adaptations. Il sera, par conséquent, être une tentative futile, comme certains",
+          "commentateurs modernisés ont fait, pour prouver que la théorie du Coran."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 27,
+      "arabicVerse" : "وَالْجَانَّ خَلَقْنَاهُ مِنْ قَبْلُ مِنْ نَارِ السَّمُومِ",
+      "simpleTranslate" : [
+        "alors que Nous avions, auparavant, formé les djinns d’un feu subtil."
+      ],
+      "tafsirTranslate" : [
+        "et devant lui, nous avions créé Jinn de la flamme de la chaleur. <N:18>"
+      ],
+      "tanslateWordByWord" : [
+        "Et les djinns",
+        "Nous l'avons créé",
+        "avant",
+        "avant",
+        "de",
+        "Feu",
+        "brûlant"
+      ],
+      "notes" : {
+        "18" : [
+          "Comme `samum 'est pas du vent,` nar-i-samum [ \"signifie\"] flamme de la chaleur [",
+          "\"[(\"] chaleur intense [ \")] et non de\"] fin. \" Telle est l'explication de ces",
+          "passages dans lesquels il a été déclaré que les djinns ont été créés par le feu."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 28,
+      "arabicVerse" : "وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِنْ صَلْصَالٍ مِنْ حَمَإٍ مَسْنُونٍ",
+      "simpleTranslate" : [
+        "Un jour, ton Seigneur dit aux anges : «Je vais créer un être humain avec de",
+        "l’argile extraite d’un limon fétide."
+      ],
+      "tafsirTranslate" : [
+        "Puis rappeler à l'esprit le moment où votre Seigneur dit aux anges: «Je vais",
+        "créer un homme d'argile séchée de terre pourrie."
+      ],
+      "tanslateWordByWord" : [
+        "Et quand",
+        "ton Seigneur dit",
+        "ton Seigneur dit",
+        "aux anges",
+        "En effet, je",
+        "(créera",
+        "un être humain",
+        "(en dehors de",
+        "argile",
+        "de",
+        "boue noire",
+        "modifié"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 29,
+      "arabicVerse" : "فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِنْ رُوحِي فَقَعُوا لَهُ سَاجِدِينَ",
+      "simpleTranslate" : [
+        "Lorsque Je lui aurai donné sa forme et insufflé en lui de Mon Esprit, vous vous",
+        "jetterez devant lui et vous vous prosternerez !»"
+      ],
+      "tafsirTranslate" : [
+        "Quand je l'ai amené à la perfection et insufflé de Mon Esprit <N:19> en lui, vous",
+        "devez incliner devant lui tous ensemble »."
+      ],
+      "tanslateWordByWord" : [
+        "Donc quand",
+        "Je l'ai façonné",
+        "et [I] respirais",
+        "en lui",
+        "de",
+        "Mon esprit",
+        "puis tomber",
+        "à lui",
+        "prosternant"
+      ],
+      "notes" : {
+        "19" : [
+          "[ \".... [(quand je l'ai)] insufflé de Mon Esprit en lui ....\"]: [ \".... [(quand",
+          "je l'ai)] jeter un reflet de Mes caractéristiques divines sur lui .... \"] Cela",
+          "montre que l'âme de Tnan implique [« la vie, la connaissance, la puissance, la",
+          "volonté, la discrétion et d'autres caractéristiques humaines dans l'ensemble. Ce",
+          "sont en réalité une légère réflexion des caractéristiques divines qui a été jeté",
+          "sur le corps humain, qui a été créé à l'origine à partir d'argile séchée. et il",
+          "est cette réflexion divine sur le corps humain qui l'a élevé à la position du",
+          "vice-gérant d'Allah et fait de lui le digne être devant qui les anges et chaque",
+          "chose terrestre devrait se prosterner. \n En fait, la source de chaque",
+          "caractéristique de tout est une caractéristique divine ou l'autre, comme cela est",
+          "pris en charge par une tradition: `Allah divise Mercy en cent parties: alors il",
+          "réservé quatre-vingt dix-neuf parties pour lui-même et envoyé vers le bas d'une",
+          "partie restante de la Terre. Il est à cause de cela une partie que les créatures",
+          "montrent miséricorde les uns aux autres. Tant et si bien que cela est dû à ce que",
+          "un refrains d'animaux de placer le sabot sur ses jeunes. \"] \n A cet égard, on",
+          "doit être en garde stricte contre l'idée que la possession d'une partie des",
+          "montants caractéristiques divines à la possession d'une partie de la Divinité. En",
+          "effet, la Divinité est absolument hors de portée de chaque création."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 30,
+      "arabicVerse" : "فَسَجَدَ الْمَلَائِكَةُ كُلُّهُمْ أَجْمَعُونَ",
+      "simpleTranslate" : [
+        "Tous les anges se prosternèrent ;"
+      ],
+      "tafsirTranslate" : [
+        "Par conséquent tous les anges se prosternèrent"
+      ],
+      "tanslateWordByWord" : [
+        "Alors prosterné",
+        "les anges",
+        "tous",
+        "ensemble"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 31,
+      "arabicVerse" : "إِلَّا إِبْلِيسَ أَبَىٰ أَنْ يَكُونَ مَعَ السَّاجِدِينَ",
+      "simpleTranslate" : [
+        "seul Satan refusa de le faire."
+      ],
+      "tafsirTranslate" : [
+        "sauf Iblis: il a refusé de se joindre à ceux qui se prosterna <N:20>."
+      ],
+      "tanslateWordByWord" : [
+        "Sauf",
+        "Iblis",
+        "Il a refusé",
+        "à",
+        "être",
+        "avec",
+        "ceux qui prosterna"
+      ],
+      "notes" : {
+        "20" : [
+          "S'il vous plaît comparer ce passage [(vv 30-43).] Avec II: 30-39, IV: 117-120 et",
+          "Vll: 11-25 et voir aussi E.N. de joint à ceux-ci."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 32,
+      "arabicVerse" : "قَالَ يَا إِبْلِيسُ مَا لَكَ أَلَّا تَكُونَ مَعَ السَّاجِدِينَ",
+      "simpleTranslate" : [
+        "Dieu lui dit alors : «Pourquoi n’es-tu pas parmi ceux qui se prosternent?»"
+      ],
+      "tafsirTranslate" : [
+        "Le Seigneur dit: \"O Iblis! Quel est le problème avec vous que vous ne l'avez pas",
+        "rejoint ceux qui ont courbé?\""
+      ],
+      "tanslateWordByWord" : [
+        "Il a dit",
+        "O Iblis",
+        "Quelle",
+        "(est pour toi",
+        "qui ne",
+        "tu es",
+        "avec",
+        "ceux qui prosterna"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 33,
+      "arabicVerse" : "قَالَ لَمْ أَكُنْ لِأَسْجُدَ لِبَشَرٍ خَلَقْتَهُ مِنْ صَلْصَالٍ مِنْ حَمَإٍ مَسْنُونٍ",
+      "simpleTranslate" : [
+        "Satan répondit : «Je n’ai pas à me prosterner devant un être que Tu as tiré d’une",
+        "argile extraite d’un limon fétide.»"
+      ],
+      "tafsirTranslate" : [
+        "Il a répondu: «Il ne me appartient pas de se prosterner devant cet homme que vous",
+        "avez créé à partir d'argile séchée de terre pourrie.\""
+      ],
+      "tanslateWordByWord" : [
+        "Il a dit",
+        "je ne suis pas",
+        "je ne suis pas",
+        "(Un) se prosterner",
+        "à un être humain",
+        "que Tu as créé",
+        "(en dehors de",
+        "argile",
+        "de",
+        "boue noire",
+        "modifié"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 34,
+      "arabicVerse" : "قَالَ فَاخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ",
+      "simpleTranslate" : [
+        "– «Hors d’ici !, ordonna le Seigneur. Tu es à jamais maudit !"
+      ],
+      "tafsirTranslate" : [
+        "Le Seigneur dit: \"sortir d'ici, pour que vous êtes devenu maudit:"
+      ],
+      "tanslateWordByWord" : [
+        "Il a dit",
+        "Puis sortir",
+        "de celui-ci",
+        "car en effet, vous",
+        "(Sont) expulsés"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 35,
+      "arabicVerse" : "وَإِنَّ عَلَيْكَ اللَّعْنَةَ إِلَىٰ يَوْمِ الدِّينِ",
+      "simpleTranslate" : [
+        "Que la malédiction te poursuive jusqu’au Jugement dernier !»"
+      ],
+      "tafsirTranslate" : [
+        "la malédiction reposera sur vous jusqu'à ce que le Jour de la Rétribution. «",
+        "<N:21>."
+      ],
+      "tanslateWordByWord" : [
+        "Et en effet",
+        "sur vous",
+        "(Sera) la malédiction",
+        "jusqu'à",
+        "(le jour",
+        "(De) [le] Arrêt"
+      ],
+      "notes" : {
+        "21" : [
+          "Autrement dit, [ «Vous restez accusé jusqu'à la Résurrection. Ensuite, vous serez",
+          "puni pour votre désobéissance au Jour du Jugement.\"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 36,
+      "arabicVerse" : "قَالَ رَبِّ فَأَنْظِرْنِي إِلَىٰ يَوْمِ يُبْعَثُونَ",
+      "simpleTranslate" : [
+        "– «Seigneur, dit Satan, accorde-moi un répit jusqu’au Jour où les morts seront",
+        "ressuscités.»"
+      ],
+      "tafsirTranslate" : [
+        "A cela, il a demandé: «Mon Seigneur! Puis me donner un répit jusqu'à ce que le",
+        "jour où l'humanité est ressuscité.\""
+      ],
+      "tanslateWordByWord" : [
+        "Il a dit",
+        "O mon Seigneur",
+        "Alors donnez-moi un répit",
+        "jusqu'à",
+        "(le jour",
+        "ils sont élevés"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 37,
+      "arabicVerse" : "قَالَ فَإِنَّكَ مِنَ الْمُنْظَرِينَ",
+      "simpleTranslate" : [
+        "– «Soit, répondit le Seigneur, tu seras parmi ceux qui attendront,"
+      ],
+      "tafsirTranslate" : [
+        "Allah a dit: «Eh bien! Vous êtes donné un répit"
+      ],
+      "tanslateWordByWord" : [
+        "Il a dit",
+        "Alors, en effet vous",
+        "(sont de",
+        "ceux donnés répit"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 38,
+      "arabicVerse" : "إِلَىٰ يَوْمِ الْوَقْتِ الْمَعْلُومِ",
+      "simpleTranslate" : [
+        "jusqu’au délai fixé.»"
+      ],
+      "tafsirTranslate" : [
+        "jusqu'au jour de temps prédestinée. \""
+      ],
+      "tanslateWordByWord" : [
+        "jusqu'à",
+        "le jour",
+        "(du temps",
+        "bien connu"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 39,
+      "arabicVerse" : "قَالَ رَبِّ بِمَا أَغْوَيْتَنِي لَأُزَيِّنَنَّ لَهُمْ فِي الْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+      "simpleTranslate" : [
+        "– «Seigneur, dit Satan, puisque Tu m’as égaré, je m’emploierai à égarer les",
+        "hommes, en embellissant, à leurs yeux, la vie sur Terre,"
+      ],
+      "tafsirTranslate" : [
+        "Iblis répondit: «Seigneur, parce que Tu me séduisit, je vais créer séductions",
+        "pour eux <N:22> et les séduire"
+      ],
+      "tanslateWordByWord" : [
+        "Il a dit",
+        "Mon Seigneur",
+        "Car",
+        "Vous me trompé",
+        "sûrement, je vais faire (mal) fair-semblant",
+        "pour eux",
+        "dans",
+        "La terre",
+        "et je les induire en erreur",
+        "tout"
+      ],
+      "notes" : {
+        "22" : [
+          "Autrement dit, [ \"Tu me séduisit par moi ordonnant de se prosterner devant une",
+          "créature qui est inférieur à moi:. Car il est évident que je ne pouvais pas obéir",
+          "à un tel ordre Par conséquent, je vais maintenant Beguile eux et désobéir à toi.",
+          "\"] En d'autres termes, Iblis voulait dire, [« Je vais rendre la vie mondaine, ses",
+          "jouissances et ses avantages transitoires si séduisant pour l'homme qu'il va",
+          "oublier les responsabilités du vice-gérant d'Allah, et qu'il aura à rendre son",
+          "compte dans l'au-delà. ils seront également te oublier ar te désobéir, même si",
+          "ils professent de se rappeler toi. \"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 40,
+      "arabicVerse" : "إِلَّا عِبَادَكَ مِنْهُمُ الْمُخْلَصِينَ",
+      "simpleTranslate" : [
+        "excepté les fidèles que Tu auras élus.»"
+      ],
+      "tafsirTranslate" : [
+        ", sauf ceux de tes serviteurs que tu as choisi pour toi-même parmi eux. \""
+      ],
+      "tanslateWordByWord" : [
+        "Sauf",
+        "Vos esclaves",
+        "parmi eux",
+        "ceux qui sont sincères"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 41,
+      "arabicVerse" : "قَالَ هَٰذَا صِرَاطٌ عَلَيَّ مُسْتَقِيمٌ",
+      "simpleTranslate" : [
+        "– «Voici une règle qui sera souveraine, dit le Seigneur."
+      ],
+      "tafsirTranslate" : [
+        "Allah répondit: «Ceci est le droit chemin qui m'a atteint. <N:23>"
+      ],
+      "tanslateWordByWord" : [
+        "Il a dit",
+        "Ce",
+        "(est la route",
+        "pour moi",
+        "tout droit"
+      ],
+      "notes" : {
+        "23" : [
+          "Ce verset [(41)] peut avoir un autre sens: [ \"Ceci est la bonne chose. Je vais",
+          "aussi tenir à cette\"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 42,
+      "arabicVerse" : "إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ إِلَّا مَنِ اتَّبَعَكَ مِنَ الْغَاوِينَ",
+      "simpleTranslate" : [
+        "Tu n’auras aucune prise sur Mes serviteurs, excepté ceux qui te suivront parmi",
+        "les dévoyés"
+      ],
+      "tafsirTranslate" : [
+        "En effet, tu auras aucun pouvoir sur Mes serviteurs sincères. Tu vas réussir que",
+        "dans séduisant ceux qui te suivre, <N:24>"
+      ],
+      "tanslateWordByWord" : [
+        "Effectivement",
+        "Mes esclaves",
+        "ne pas",
+        "tu as",
+        "au dessus d'eux",
+        "toute autorité",
+        "sauf",
+        "ceux qui",
+        "te suivre",
+        "de",
+        "ceux qui égarent"
+      ],
+      "notes" : {
+        "24" : [
+          "Ce verset [(42)] peut aussi avoir un autre sens:. [ \"Vous aurez aucun pouvoir sur",
+          "Mes serviteurs [(peuple)] pour les forcer à me désobéir Cependant, nous allons",
+          "donner la liberté d'action pour ceux qui volontairement ou délibérément vous",
+          "suivre, et nous n'empêche pas de force à partir de votre chemin, si elles visent",
+          "à vous suivre. \"] \n Selon le premier rendu, ces versets signifient ceci:. [ «La",
+          "façon suivie par Mes sincères serviteurs est la seule façon directement à Me",
+          "atteindre Satan n'a aucun pouvoir sur ceux qui le suivent, car je les choisis",
+          "pour être mon propres serviteurs. \"] Satan lui-même admis qu'il ne sera pas en",
+          "mesure de les attirer. Au contraire, il réussira à séduisant ces gens, qui",
+          "eux-mêmes s'écarter de la voie de l'obéissance. Ils seront ensuite errer loin et",
+          "plus loin après ses tentations et séductions. \n Selon le second sens, le passage",
+          "signifie ceci: [ «Quand Satan a contesté qu'il beguile gens de la Voie d'Allah en",
+          "faisant de cette vie mondaine très tentant pour eux, Allah a accepté son défi,",
+          "mais fait clair pour lui qu'il était être autorisé que pour tromper les gens avec",
+          "la tentation, mais n'a pas été étant donné le pouvoir de les forcer à dévier du",
+          "droit chemin. A cela, Satan a précisé que son défi n'a pas appliqué à ces",
+          "personnes que Allah choisira pour lui-même. Comme cette exception aurait pu",
+          "conduire à un malentendu qu'Allah peut choisir des personnes pour lui-même pour",
+          "les garder en sécurité de la portée de Satan, Allah a précisé, en disant \"] Seule",
+          "cette personne va vous suivre, qui lui-même sera dévier du droit chemin. [ \"Comme",
+          "corollaire à cela,\"] Cette personne, qui ne sera pas dévier du droit chemin ne",
+          "sera pas vous suivre, et, devenir ainsi notre serviteur, que nous choisirons pour",
+          "Notre-soi »."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 43,
+      "arabicVerse" : "وَإِنَّ جَهَنَّمَ لَمَوْعِدُهُمْ أَجْمَعِينَ",
+      "simpleTranslate" : [
+        "et qui se retrouveront tous dans la Géhenne.»"
+      ],
+      "tafsirTranslate" : [
+        "et ils seront tous destinés à l'Enfer. « <N:25>"
+      ],
+      "tanslateWordByWord" : [
+        "Et en effet",
+        "enfer",
+        "(Est) sûrement l'endroit promis pour eux",
+        "tout"
+      ],
+      "notes" : {
+        "25" : [
+          "Dans. Afin de comprendre la raison pour laquelle l'histoire du Prophète Adam et",
+          "Satan a été rapporté ici, nous devrions garder à l'esprit le contexte dans lequel",
+          "cela a eu lieu. Dans les versets précédents [(1-25)], il a été déclaré que les",
+          "incroyants suivaient les voies de déviation qui les conduiraient à la perdition.",
+          "Cette histoire a été liée pour les avertir que les moyens qu'ils suivaient",
+          "étaient les voies de Satan, leur éternel ennemi, afin de dire, [ \"Vous devez",
+          "comprendre les conséquences de suivre Satan, qui vous a attiré dans ce piège, et",
+          "est vous menant dans les profondeurs de la dégradation à cause de cette inimitié",
+          "et la jalousie. contrairement à cela, notre Prophète fait de son mieux avec vous",
+          "libérer de son piège et vous conduire à la hauteur du succès, qui, comme un",
+          "homme, vous devriez désirer pour atteindre . Mais il est dommage que vous au",
+          "sujet de votre ennemi [(Satan)] comme votre ami et votre ami [(Our)] comme votre",
+          "ennemi. \"] \n En second lieu, l'histoire fait également tout à fait clair pour eux",
+          "cette chose: \n [ «Il n'y a qu'une seule voie du salut et qui est la voie de",
+          "l'obéissance à Allah. Si vous défaussez de cette façon, tous les autres moyens",
+          "sera un moyen de Satan qui vous mènera directement à l'enfer.\"] \n Que cette",
+          "histoire est destinée à ramener à la maison pour les ce fait: Vous vous êtes",
+          "responsable de vos mauvaises actions et pas Satan; car, le plus qu'il peut faire",
+          "est de vous tromper de l'obéissance d'Allah et maintenez les tentations avant Il",
+          "est donc, votre préoccupation et la responsabilité d'être séduits ou non à être",
+          "séduits par Satan. \""
+        ]
+      }
+    },
+    {
+      "verseNumber" : 44,
+      "arabicVerse" : "لَهَا سَبْعَةُ أَبْوَابٍ لِكُلِّ بَابٍ مِنْهُمْ جُزْءٌ مَقْسُومٌ",
+      "simpleTranslate" : [
+        "Cette dernière aura sept portes, dont chacune d’elles sera destinée à une",
+        "catégorie de damnés."
+      ],
+      "tafsirTranslate" : [
+        "Cet enfer (avec laquelle les adeptes de Iblis ont été menacés) a sept portes, et",
+        "chaque porte a été spécifié pour un groupe distinct d'eux. <N:26>"
+      ],
+      "tanslateWordByWord" : [
+        "Pour ça",
+        "(Sont) sept",
+        "portes",
+        "pour chaque",
+        "porte",
+        "parmi eux",
+        "(Est) une partie",
+        "attribué"
+      ],
+      "notes" : {
+        "26" : [
+          "Sinners seront divisés en différents groupes en fonction de leurs différents",
+          "péchés pour leur entrée en enfer de sept portes différentes spécifiées pour",
+          "chaque péché différent. Par exemple, le groupe d'athées entre en enfer par l'une",
+          "des sept portes spécifiées pour leur groupe. De même, polythéistes, hypocrites,",
+          "selfseekers, jouisseurs, des tyrans, les propagandistes et les dirigeants de",
+          "l'incrédulité, etc., etc., doivent chacun entre en enfer par les portes prévues",
+          "pour leur groupe."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 45,
+      "arabicVerse" : "إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَعُيُونٍ",
+      "simpleTranslate" : [
+        "Certes, les pieux auront accès à des Jardins et à des sources."
+      ],
+      "tafsirTranslate" : [
+        "Contrairement à eux les gens pieux <N:27> se rendre dans les jardins et",
+        "fontaines."
+      ],
+      "tanslateWordByWord" : [
+        "Effectivement",
+        "les justes",
+        "(sera en",
+        "Jardins",
+        "et sources d'eau"
+      ],
+      "notes" : {
+        "27" : [
+          "Les gens pieux sont ceux qui ne suivent Satan mais craint Allah et a vécu une vie",
+          "d'obéissance à Lui."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 46,
+      "arabicVerse" : "ادْخُلُوهَا بِسَلَامٍ آمِنِينَ",
+      "simpleTranslate" : [
+        "«Entrez-y en paix et en toute confiance !», leur sera-t-il dit."
+      ],
+      "tafsirTranslate" : [
+        "(il sera dit à eux), \"Entrez dans ceux-ci dans la paix et la sécurité.\""
+      ],
+      "tanslateWordByWord" : [
+        "Entrez-le",
+        "en paix",
+        "garantir"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 47,
+      "arabicVerse" : "وَنَزَعْنَا مَا فِي صُدُورِهِمْ مِنْ غِلٍّ إِخْوَانًا عَلَىٰ سُرُرٍ مُتَقَابِلِينَ",
+      "simpleTranslate" : [
+        "Leurs cœurs auront été purgés de toute haine. Ils y vivront en frères, se tenant",
+        "face à face sur leurs trônes."
+      ],
+      "tafsirTranslate" : [
+        "Nous allons retirer de leur cœur même le peu de dépit qui y être, <N:28> et ils",
+        "deviendront comme des frères, et s'asseoir face à face sur des canapés."
+      ],
+      "tanslateWordByWord" : [
+        "Et nous (allons) supprimer",
+        "quelle",
+        "(est dans",
+        "leurs seins",
+        "de",
+        "rancune",
+        "(Ils seront) frères",
+        "sur",
+        "trônes",
+        "l'un face à l'autre"
+      ],
+      "notes" : {
+        "28" : [
+          "Autrement dit, [ \"Si malgré pourrait avoir été causé dans leur cœur dans ce monde",
+          "à cause de malentendus entre les gens pieux, il doit être enlevé au moment de",
+          "leur entrée dans le paradis et ils porteront pas de mauvais sentiments là-bas les",
+          "uns contre les autres. \"] [(S'il vous plaît se référer également à la norme eN",
+          "320 de Al-A'araf.)]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 48,
+      "arabicVerse" : "لَا يَمَسُّهُمْ فِيهَا نَصَبٌ وَمَا هُمْ مِنْهَا بِمُخْرَجِينَ",
+      "simpleTranslate" : [
+        "Toute souffrance leur sera épargnée et nul ne pourra jamais les déloger."
+      ],
+      "tafsirTranslate" : [
+        "Il n'y aura aucun labeur pour les fatiguer ils ne seront pas chassés de là.",
+        "<N:29>"
+      ],
+      "tanslateWordByWord" : [
+        "ne pas",
+        "va les toucher",
+        "la bride",
+        "fatigue",
+        "et pas",
+        "ils",
+        "à partir de cela",
+        "sera supprimé"
+      ],
+      "notes" : {
+        "29" : [
+          "Ce verset est expliqué par la tradition suivante: [ \"Il sera annoncé aux",
+          "habitants des jardins,` Maintenant, vous restera hale et chaleureux pour toujours",
+          "et ne jamais tomber malade: maintenant, vous apprécierez éternelle vie et ne",
+          "mourra jamais: maintenant vous allez rester jeune pour toujours et ne vieillira",
+          "jamais, et maintenant, vous resterez à jamais dans le paradis et tu ne jamais",
+          "avoir à se déplacer loin de ' \"] il arc d'autres traditions qui élucident la",
+          "portance dans le Paradis. à cet effet: [ \"Les habitants doivent avoir aucun",
+          "labeur à effectuer pour leurs moyens de subsistance et les nécessités de levage",
+          "Ils auront tout sans aucun travail que ce soit.\".]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 49,
+      "arabicVerse" : "نَبِّئْ عِبَادِي أَنِّي أَنَا الْغَفُورُ الرَّحِيمُ",
+      "simpleTranslate" : [
+        "Informe Mes serviteurs que Je suis le Clément, le Miséricordieux"
+      ],
+      "tafsirTranslate" : [
+        "(O Prophète!) Dis à Mes serviteurs, «Je suis Pardonneur et Miséricordieux,"
+      ],
+      "tanslateWordByWord" : [
+        "Informer",
+        "Mes esclaves",
+        "que je",
+        "je suis",
+        "le Pardonneur",
+        "le Très Miséricordieux"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 50,
+      "arabicVerse" : "وَأَنَّ عَذَابِي هُوَ الْعَذَابُ الْأَلِيمُ",
+      "simpleTranslate" : [
+        "et que, quand Je sévis, Je le fais avec rigueur."
+      ],
+      "tafsirTranslate" : [
+        ", mais en même temps, mon châtiment est aussi un chatisement sévère. \""
+      ],
+      "tanslateWordByWord" : [
+        "Et cela",
+        "Mon châtiment",
+        "il",
+        "(Est) la punition",
+        "le plus douloureux"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 51,
+      "arabicVerse" : "وَنَبِّئْهُمْ عَنْ ضَيْفِ إِبْرَاهِيمَ",
+      "simpleTranslate" : [
+        "Rappelle-leur l’histoire des hôtes d’Abraham ,"
+      ],
+      "tafsirTranslate" : [
+        "Et leur raconter l'histoire des invités d'Abraham. <N:30>"
+      ],
+      "tanslateWordByWord" : [
+        "Et les informer",
+        "sur",
+        "(les invités",
+        "(De) Ibrahim"
+      ],
+      "notes" : {
+        "30" : [
+          "L'histoire des Prophètes Abraham et Lot a été lié à dire aux mécréants de la",
+          "Mecque comment les anges descendent avec la vérité. Ce fut en réponse à leur",
+          "demande. [ \"Pourquoi ne pas apporter les anges devant nous, si ce que vous dites",
+          "est vrai?\"] [(V. 7)]. Alors, que cette brève réponse a été donnée: [ \". Nous ne",
+          "faisons descendre les anges de cette façon quand ils descendent, ils descendent",
+          "avec la vérité\"] [(v. 8)]. Or, ces deux événements arc cité sous deux formes",
+          "concrètes de [la «vérité»] avec laquelle les anges sont venus, comme pour lui",
+          "demander les mécréants, [ \"Maintenant décider pour vous-mêmes, qui de ces deux",
+          "formes de la vérité que vous voulez anges pour vous apporter. Il est évident que",
+          "vous ne méritez pas que \"] la vérité [\" qui a été envoyé au Prophète Abraham.",
+          "avez-vous alors que le désir `vérité»] que les anges apporté au «peuple du",
+          "Prophète Lot?\""
+        ]
+      }
+    },
+    {
+      "verseNumber" : 52,
+      "arabicVerse" : "إِذْ دَخَلُوا عَلَيْهِ فَقَالُوا سَلَامًا قَالَ إِنَّا مِنْكُمْ وَجِلُونَ",
+      "simpleTranslate" : [
+        "qui s’étaient introduits chez lui en le saluant. «En vérité, vous me faites peur",
+        "!», leur dit-il."
+      ],
+      "tafsirTranslate" : [
+        "Quand ils sont venus à lui, ils ont dit: «La paix soit avec vous\". Mais il a",
+        "répondu: «Nous avons peur de vous.\" <N:31>"
+      ],
+      "tanslateWordByWord" : [
+        "Quand",
+        "ils entrèrent",
+        "sur lui",
+        "et dit",
+        "Paix",
+        "Il a dit",
+        "En effet, nous",
+        "(Sont) de vous",
+        "peur"
+      ],
+      "notes" : {
+        "31" : [
+          "S'il vous plaît comparer cette histoire du prophète Abraham avec celle contenue",
+          "dans XI: 6 9-76."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 53,
+      "arabicVerse" : "قَالُوا لَا تَوْجَلْ إِنَّا نُبَشِّرُكَ بِغُلَامٍ عَلِيمٍ",
+      "simpleTranslate" : [
+        "– «N’aie crainte !, dirent les hôtes. Nous venons t’annoncer une bonne nouvelle,",
+        "celle de la naissance d’un garçon plein de savoir.»"
+      ],
+      "tafsirTranslate" : [
+        "Ils dirent: «Ne pas avoir peur de nous. Nous vous donnons les bonnes nouvelles",
+        "d'un fils sagace.\" <N:32>"
+      ],
+      "tanslateWordByWord" : [
+        "Ils ont dit",
+        "(Ne pas",
+        "avoir peur",
+        "en effet, nous",
+        "[Nous] porter la bonne nouvelle à vous",
+        "d'un garçon",
+        "appris"
+      ],
+      "notes" : {
+        "32" : [
+          "[ \"... un fils sagace\"]: Prophète Isaac. Son nom a été mentionné dans le cadre de",
+          "ces bonnes nouvelles dans le XI: 71."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 54,
+      "arabicVerse" : "قَالَ أَبَشَّرْتُمُونِي عَلَىٰ أَنْ مَسَّنِيَ الْكِبَرُ فَبِمَ تُبَشِّرُونَ",
+      "simpleTranslate" : [
+        "– «Et vous m’annoncez cette bonne nouvelle, dit Abraham, au moment où je ne suis",
+        "plus qu’un vieillard? Quelle étrange annonce !»"
+      ],
+      "tafsirTranslate" : [
+        "Abraham dit: «Quoi! Me donnez-vous les bonnes nouvelles d'un fils dans ma",
+        "vieillesse? Il suffit de considérer ce genre de bonnes nouvelles que vous me",
+        "donnez.\""
+      ],
+      "tanslateWordByWord" : [
+        "Il a dit",
+        "Avez-vous me donner de bonnes nouvelles",
+        "Avez-vous me donner de bonnes nouvelles",
+        "bien que",
+        "m'a dépassé",
+        "vieillesse",
+        "Ensuite, au sujet de ce",
+        "vous donnez de bonnes nouvelles"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 55,
+      "arabicVerse" : "قَالُوا بَشَّرْنَاكَ بِالْحَقِّ فَلَا تَكُنْ مِنَ الْقَانِطِينَ",
+      "simpleTranslate" : [
+        "– «Nous t’annonçons la vérité. Ne sois donc point de ceux qui désespèrent !»,",
+        "dirent-ils."
+      ],
+      "tafsirTranslate" : [
+        "Ils ont répondu: «Nous vous donnons une véritable bonnes nouvelles, vous ne",
+        "devriez pas être de ceux qui désespèrent\"."
+      ],
+      "tanslateWordByWord" : [
+        "Ils ont dit",
+        "Nous vous donnons la bonne nouvelle",
+        "en vérité",
+        "Donc ne le fais pas",
+        "être",
+        "de",
+        "le désespoir"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 56,
+      "arabicVerse" : "قَالَ وَمَنْ يَقْنَطُ مِنْ رَحْمَةِ رَبِّهِ إِلَّا الضَّالُّونَ",
+      "simpleTranslate" : [
+        "– «Mais qui désespérerait de la grâce de son Seigneur, reprit Abraham, hormis les",
+        "égarés?»"
+      ],
+      "tafsirTranslate" : [
+        "Abraham répondit, seuls ceux qui se égarent, le désespoir de la Miséricorde de",
+        "leur Seigneur?"
+      ],
+      "tanslateWordByWord" : [
+        "Il a dit",
+        "Et qui",
+        "désespoirs",
+        "de",
+        "(La) Mercy",
+        "(De) son Seigneur",
+        "sauf",
+        "ceux qui sont égarés"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 57,
+      "arabicVerse" : "قَالَ فَمَا خَطْبُكُمْ أَيُّهَا الْمُرْسَلُونَ",
+      "simpleTranslate" : [
+        "Et il ajouta : «Quel est le but de votre visite, ô messagers?»"
+      ],
+      "tafsirTranslate" : [
+        "Puis il leur dit: «Messagers O d'Allah! Qu'est-ce que l'expédition pour laquelle",
+        "vous avez été envoyé?\" <N:33>"
+      ],
+      "tanslateWordByWord" : [
+        "Il a dit",
+        "Alors qu'est-ce",
+        "(Est) votre entreprise",
+        "messagers O",
+        "messagers O"
+      ],
+      "notes" : {
+        "33" : [
+          "Il ressort de la question du Prophète Abraham que les anges sont envoyés dans la",
+          "forme humaine que dans des occasions extraordinaires et une expédition",
+          "importante."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 58,
+      "arabicVerse" : "قَالُوا إِنَّا أُرْسِلْنَا إِلَىٰ قَوْمٍ مُجْرِمِينَ",
+      "simpleTranslate" : [
+        "– «Nous sommes envoyés, dirent-ils, pour sévir contre un peuple criminel."
+      ],
+      "tafsirTranslate" : [
+        "Ils dirent: «Nous avons été envoyés à (punir) un peuple criminel <N:34>"
+      ],
+      "tanslateWordByWord" : [
+        "Ils ont dit",
+        "En effet, nous",
+        "[Nous] avons été envoyés",
+        "à",
+        "un peuple",
+        "les criminels"
+      ],
+      "notes" : {
+        "34" : [
+          "Le fait que les anges ne citer que les gens du Lot, mais simplement mentionnés à",
+          "eux comme [ \"les méchants\"], montre que ces gens étaient devenus si connus pour",
+          "leurs mauvaises actions qu'il n'y avait pas besoin de les mentionner par leur nom",
+          "avant le Prophète Abraham, qui connaissait bien la condition morale de tous les",
+          "gens autour de lui."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 59,
+      "arabicVerse" : "إِلَّا آلَ لُوطٍ إِنَّا لَمُنَجُّوهُمْ أَجْمَعِينَ",
+      "simpleTranslate" : [
+        "Seule la famille de Loth sera épargnée tout entière,"
+      ],
+      "tafsirTranslate" : [
+        "à l'exception de la famille de Lot; nous sauver tous"
+      ],
+      "tanslateWordByWord" : [
+        "Sauf",
+        "la famille",
+        "de Lut",
+        "en effet, nous",
+        "sûrement les sauver",
+        "tout"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 60,
+      "arabicVerse" : "إِلَّا امْرَأَتَهُ قَدَّرْنَا ۙ إِنَّهَا لَمِنَ الْغَابِرِينَ",
+      "simpleTranslate" : [
+        "excepté sa femme.» Nous avions décidé, en effet, qu’elle serait du nombre des",
+        "réprouvés."
+      ],
+      "tafsirTranslate" : [
+        "à l'exception de sa femme, qui (Allah dit) a été destiné à rester avec ceux qui",
+        "restent derrière. \""
+      ],
+      "tanslateWordByWord" : [
+        "Sauf",
+        "sa femme",
+        "Nous avons décrété",
+        "qu'elle",
+        "(Est) sûrement de",
+        "ceux qui restent"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 61,
+      "arabicVerse" : "فَلَمَّا جَاءَ آلَ لُوطٍ الْمُرْسَلُونَ",
+      "simpleTranslate" : [
+        "Et lorsque les messagers se présentèrent chez la famille de Loth,"
+      ],
+      "tafsirTranslate" : [
+        "Ensuite, lorsque ces envoyés sont venus à la maison de Lot, <N:35>"
+      ],
+      "tanslateWordByWord" : [
+        "Et quand",
+        "venu",
+        "(À la) famille",
+        "(De) Lut",
+        "les messagers"
+      ],
+      "notes" : {
+        "35" : [
+          "S'il vous plaît comparer avec VII: 80-84 et XI: 77-83."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 62,
+      "arabicVerse" : "قَالَ إِنَّكُمْ قَوْمٌ مُنْكَرُونَ",
+      "simpleTranslate" : [
+        "ce dernier leur dit : «Votre visite me surprend, étrangers !»"
+      ],
+      "tafsirTranslate" : [
+        ", il dit: «Vous semblez être des étrangers.» <N:36>"
+      ],
+      "tanslateWordByWord" : [
+        "Il a dit",
+        "En effet, vous",
+        "(Sont) un peuple",
+        "inconnu"
+      ],
+      "notes" : {
+        "36" : [
+          "Ici, l'histoire a été liée en bref. Mais nous apprenons de XI: 77-83 que le",
+          "Prophète Lot était fortement perturbé et en détresse lors de la visite des anges.",
+          "Il se dit, [ \"Ceci est un jour de malheur.\"] La raison pour laquelle il était en",
+          "détresse, comme le laisse entendre dans le Coran et explicitement exprimé dans",
+          "les Traditions, a été que les anges étaient venus au Prophète Lot en forme de",
+          "beaux garçons, et il savait comment pervers et méchant son peuple étaient. Il",
+          "était en détresse car il ne pouvait pas les renvoyer parce qu'ils étaient ses",
+          "invités, et parce qu'il ne savait pas comment les protéger contre ces méchants."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 63,
+      "arabicVerse" : "قَالُوا بَلْ جِئْنَاكَ بِمَا كَانُوا فِيهِ يَمْتَرُونَ",
+      "simpleTranslate" : [
+        "– «Ne sois pas surpris, dirent-ils, nous venons réaliser ce dont ton peuple a",
+        "toujours douté."
+      ],
+      "tafsirTranslate" : [
+        "Ils répondirent: \"Non, mais nous sommes venus à vous avec ce sujet desquels ces",
+        "gens avaient des doutes."
+      ],
+      "tanslateWordByWord" : [
+        "Ils ont dit",
+        "Non",
+        "nous sommes venus pour vous",
+        "avec quoi",
+        "ils étaient",
+        "en ce",
+        "contestant"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 64,
+      "arabicVerse" : "وَأَتَيْنَاكَ بِالْحَقِّ وَإِنَّا لَصَادِقُونَ",
+      "simpleTranslate" : [
+        "Nous t’apportons la Vérité et nous sommes de bonne foi."
+      ],
+      "tafsirTranslate" : [
+        "Nous vous dis la vérité que nous sommes venus à vous avec la vérité."
+      ],
+      "tanslateWordByWord" : [
+        "Et nous en sommes venus à vous",
+        "avec la vérité",
+        "et en effet, nous",
+        "sûrement (sont) la vérité"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 65,
+      "arabicVerse" : "فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِنَ اللَّيْلِ وَاتَّبِعْ أَدْبَارَهُمْ وَلَا يَلْتَفِتْ مِنْكُمْ أَحَدٌ وَامْضُوا حَيْثُ تُؤْمَرُونَ",
+      "simpleTranslate" : [
+        "Sauve-toi avec les membres de ta famille à la fin de la nuit ! Tiens-toi derrière",
+        "eux et veille à ce qu’aucun d’entre vous ne se retourne ! Dirigez-vous là où il",
+        "vous sera ordonné !»"
+      ],
+      "tafsirTranslate" : [
+        "Vous devez donc partir avec votre peuple dans les dernières heures de la nuit et",
+        "vous vous devez les suivre dans leur arrière »; <N:37> Que nul de vous retourner",
+        "pour regarder derrière; <N:38> aller directement où vous êtes conviés \"."
+      ],
+      "tanslateWordByWord" : [
+        "donc Voyage",
+        "avec ta famille",
+        "dans une partie",
+        "de",
+        "la nuit",
+        "et suivre",
+        "le dos",
+        "et pas",
+        "laisser regarder en arrière",
+        "parmi vous",
+        "n'importe qui",
+        "et aller sur",
+        "où",
+        "vous commandé"
+      ],
+      "notes" : {
+        "37" : [
+          "Autrement dit, [ «Vous devez marcher derrière votre peuple afin que personne",
+          "d'entre eux doit rester derrière\"]."
+        ],
+        "38" : [
+          "Il ne voulait pas dire: [ \"ne regarde pas derrière toi ... .lest tu ne",
+          "périsses...\"] Comme indiqué dans la Bible. Mais il signifiait simplement pour les",
+          "avertir: [ \"Aucun d'entre vous doit se retourner pour voir ce qui se passait",
+          "derrière eux de peur que vous devriez arrêter de voir le plaisir, quand vous avez",
+          "entendu les cris du peuple épris Car il est ni le temps de profiter. \"] fun [\",",
+          "ni de verser des larmes de regret. Si vous arrêtez même pour une minute sur le",
+          "territoire du peuple épris vous pourriez également vous blesser de la pluie de",
+          "pierres. \"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 66,
+      "arabicVerse" : "وَقَضَيْنَا إِلَيْهِ ذَٰلِكَ الْأَمْرَ أَنَّ دَابِرَ هَٰؤُلَاءِ مَقْطُوعٌ مُصْبِحِينَ",
+      "simpleTranslate" : [
+        "Et Nous lui signifiâmes alors cet arrêt, à savoir que son peuple serait anéanti,",
+        "à la pointe du jour, jusqu’au dernier."
+      ],
+      "tafsirTranslate" : [
+        "Et Nous l'avons informé de notre décret qu'ils seront entièrement détruits par le",
+        "lendemain matin."
+      ],
+      "tanslateWordByWord" : [
+        "Et Nous avons fait part",
+        "à lui",
+        "[cette]",
+        "la question",
+        "cette",
+        "(la racine",
+        "(De) ceux-ci",
+        "serait coupé",
+        "(Par) tôt le matin"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 67,
+      "arabicVerse" : "وَجَاءَ أَهْلُ الْمَدِينَةِ يَسْتَبْشِرُونَ",
+      "simpleTranslate" : [
+        "Les gens de la ville étaient déjà chez Loth, tout joyeux."
+      ],
+      "tafsirTranslate" : [
+        "Et les gens de la ville se sont précipités joie à la maison du Lot. <N:39>"
+      ],
+      "tanslateWordByWord" : [
+        "Et il est venu",
+        "(les gens",
+        "(de la ville",
+        "réjouissance"
+      ],
+      "notes" : {
+        "39" : [
+          "Cela montre que ces gens étaient allés au plus profond de l'immoralité. A peine",
+          "ont-ils entendu les nouvelles de l'arrivée des beaux étrangers dans leur ville",
+          "qu'ils se sont précipités joie à la maison du Prophète Lot et impudemment exigé",
+          "qu'il devrait remettre ses invités à eux pour la satisfaction de leurs désirs. Le",
+          "malheur est qu'il y était resté pas une seule personne parmi eux pour faire une",
+          "protestation contre un tel péché odieux. De plus, cela montre que chacun d'entre",
+          "eux, en tant que communauté, avait totalement perdu tout sens de la décence, et",
+          "ils avaient pas honte du tout de faire une telle demande de wickcd sur lui",
+          "ouvertement. Le fait même, qu'ils se sentaient pas hésité à faire une telle",
+          "demande méchant brazen- facedly d'un homme pieux et saint comme prophète Lot,",
+          "montre que le crime odieux était si commun parmi eux qu'ils ne seraient pas",
+          "épargner personne. \n Le Talmud rapporte de nombreux cas de tous azimuts morale",
+          "dégradation du peuple de Lot. Une fois un étranger traversait leur territoire. Il",
+          "a été forcé en venant l'obscurité pour passer la nuit près de Sodome. Comme il",
+          "avait ses propres dispositions avec lui, il ne fait pas obstacle à tout besoin de",
+          "l'aide de la ville-folk; de sorte qu'il gisait sous un arbre pour y passer la",
+          "nuit. Mais un sodomite le supplia de l'accompagner dans sa maison. Pendant la",
+          "nuit, il a supprimé le cul et de marchandises de l'étranger. Quand il a commencé",
+          "à crier au secours dans la matinée, la ville-folk y est venu de ne pas l'empêcher",
+          "de lui voler ce qui avait été laissé avec lui. \n À une occasion Hadrat Sarah",
+          "envoya son esclave à Sodome pour en savoir davantage après la maison du Prophète",
+          "Lot. Lorsque l'esclave est entré dans la ville, il a vu qu'un sodomite battait un",
+          "étranger. Naturellement l'esclave de Hadrat Sarah a essayé de réveiller son sens",
+          "de la décence, en disant: [ \"pourquoi ne vous maltraitez des étrangers sans",
+          "défense comme ça?\"] En réponse à cet appel, sa tête était cassée en public. \n Une",
+          "autre fois un pauvre homme qui est arrivé à venir à Sodome, mais personne ne lui",
+          "a donné quelque chose à manger. Quand il était à moitié mort de faim, il est",
+          "tombé au sol dans une situation d'impuissance. Une fille du Prophète Lot l'a vu",
+          "et a envoyé de la nourriture pour lui. A ce Sodomites reprochèrent Prophète Loth",
+          "et sa fille et a menacé de les expulser de là, si elles ne seraient pas éviter de",
+          "tels actes \"[\"]! \n Après avoir cité plusieurs incidents similaires, le Talmud dit",
+          "que ces gens étaient devenus si cruel, donc trompeur et donc malhonnête dans",
+          "leurs relations qu'aucun voyageur pourrait passer en toute sécurité à travers",
+          "leur territoire ne pouvait attendre une personne pauvre de la nourriture ou de",
+          "l'aide de leur part. Maintes fois il arriva qu'un pauvre étranger est venu là, et",
+          "il est mort de faim. Ensuite, ils dépouillent les vêtements de son corps et",
+          "l'enterrer nu! Si un étranger a commis l'erreur de visiter leur territoire, ils",
+          "le feraient publiquement lui voler tout, et faire fou de lui, s'il a fait appel à",
+          "eux pour réparer le tort. Puis ils ouvertement commettre des actes impudiques",
+          "dans les jardins où ils avaient grandi dans leur vallée parce qu'il n'y avait",
+          "personne pour les réprimander sauf le Prophète Loth. Le Coran a résumé l'ensemble",
+          "de leur histoire méchant en deux phrases concises: [(1)] [ \"... Ils avaient déjà",
+          "été commis des actes très méchants\"] XI: 78, et [(2)] [ \"Vous Gratify votre soif",
+          "avec les hommes: vous dépouillent les voyageurs, et vous vous engagez actions",
+          "wickcd publiquement dans vos assemblées \"]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 68,
+      "arabicVerse" : "قَالَ إِنَّ هَٰؤُلَاءِ ضَيْفِي فَلَا تَفْضَحُونِ",
+      "simpleTranslate" : [
+        "Loth leur dit : «Ces gens sont mes hôtes. Ne me déshonorez pas !"
+      ],
+      "tafsirTranslate" : [
+        "Il a dit: «Mes frères Ce sont mes invités: par conséquent, ne me déshonore pas."
+      ],
+      "tanslateWordByWord" : [
+        "Il a dit",
+        "Effectivement",
+        "ces",
+        "(Sont) mes invités",
+        "Donc ne le fais pas",
+        "honte me"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 69,
+      "arabicVerse" : "وَاتَّقُوا اللَّهَ وَلَا تُخْزُونِ",
+      "simpleTranslate" : [
+        "Craignez Dieu ! Épargnez-moi cette honte !»"
+      ],
+      "tafsirTranslate" : [
+        "Craignez Dieu et ne me met pas à la honte \"."
+      ],
+      "tanslateWordByWord" : [
+        "Et la peur",
+        "Allah",
+        "et (faire) pas",
+        "me déshonorez"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 70,
+      "arabicVerse" : "قَالُوا أَوَلَمْ نَنْهَكَ عَنِ الْعَالَمِينَ",
+      "simpleTranslate" : [
+        "– «Ne t’avons-nous pas défendu, répliquèrent-ils, de recevoir des étrangers chez",
+        "toi?»"
+      ],
+      "tafsirTranslate" : [
+        "Ils répondirent: «Avons-nous pas interdit de plaider pour tout le monde?\""
+      ],
+      "tanslateWordByWord" : [
+        "Ils ont dit",
+        "N'a pas",
+        "nous vous interdisons",
+        "de",
+        "le monde"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 71,
+      "arabicVerse" : "قَالَ هَٰؤُلَاءِ بَنَاتِي إِنْ كُنْتُمْ فَاعِلِينَ",
+      "simpleTranslate" : [
+        "– «Voici mes filles en mariage, reprit Loth, si vous tenez à assouvir vos désirs",
+        "!»"
+      ],
+      "tafsirTranslate" : [
+        "A Lot dernière a plaidé, \"Voici mes filles, <N:40> si vous êtes penché sur elle.\""
+      ],
+      "tanslateWordByWord" : [
+        "Il a dit",
+        "Ces",
+        "(Sont) mes filles",
+        "si",
+        "tu serais",
+        "faiseurs"
+      ],
+      "notes" : {
+        "40" : [
+          "Dans E.N. 87 de la sourate Hud, il a été expliqué ce que le Prophète Loth voulait",
+          "dire par là. Il peut également être ajouté que des mots tels que ceux-ci ont été",
+          "prononcées par un homme honorable comme lui dans le dernier recours, lorsque",
+          "toutes ses prières et demandes sérieuses avaient échoué à empêcher les gens de",
+          "leurs mauvais desseins envers ses clients. \n Ici, il sera intéressant de dégager",
+          "la signification des mots qui ont été prononcés par le Prophète Lot comme ils se",
+          "produisent dans la sourate Hud [(v. 78)]. Quand il supplia ces gens méchants ne",
+          "pas molester ses invités, en disant: [ \"Voici mes filles ....\"], il ne savait pas",
+          "que ses clients étaient des anges dans le déguisement de beaux garçons. Les anges",
+          "ont révélé leur identité que lorsque la foule méchante réunis à la résidence de",
+          "ses invités et a commencé à les menacer avec leurs mauvais desseins, et le",
+          "Prophète Loth se mit à pleurer, [ «Je voudrais avoir le pouvoir de vous mettre à",
+          "droite ou je pourrais trouver un soutien solide pour refuge. \"] Ce fut alors que",
+          "les anges se sont révélés, en disant: [« Nous sommes envoyés envoyés par votre",
+          "Seigneur .... \"] Cette séquence d'événements montre que le Prophète Loth avait",
+          "fait que [« offre »] seulement quand il avait senti d'être totalement impuissant.",
+          "\n Il est très important de garder cette perspective parce que les séquences",
+          "d'événements dans cette sourate est différente de celle dans la sourate Hud. Un",
+          "est susceptible d'avoir un malentendu quant à la raison pour laquelle le Prophète",
+          "Loth gémissait et se lamentait alors qu'il savait tout le temps que ses invités",
+          "étaient des anges et pourraient se défendre contre ces gens méchants. \n En ce qui",
+          "concerne la différence apparente entre les deux séquences, on peut relever que",
+          "ici la chose importante à faire valoir est que les anges viennent avec la vérité.",
+          "Par conséquent, cette partie de l'histoire [(vv. 61-66)] a été lié en premier",
+          "afin de faire le point plus important."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 72,
+      "arabicVerse" : "لَعَمْرُكَ إِنَّهُمْ لَفِي سَكْرَتِهِمْ يَعْمَهُونَ",
+      "simpleTranslate" : [
+        "Mais ces gens, dans leur délire, avaient perdu tout contrôle sur eux-mêmes."
+      ],
+      "tafsirTranslate" : [
+        "Par votre vie, O Prophète, ils ont été à cette époque tellement ivre de désir",
+        "pour être tout à fait hors d'eux avec passion."
+      ],
+      "tanslateWordByWord" : [
+        "Par votre vie",
+        "en effet, ils",
+        "étaient en",
+        "leur ivresse",
+        "errant aveuglément"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 73,
+      "arabicVerse" : "فَأَخَذَتْهُمُ الصَّيْحَةُ مُشْرِقِينَ",
+      "simpleTranslate" : [
+        "Aussi furent-ils saisis par le cri terrifiant au lever du jour."
+      ],
+      "tafsirTranslate" : [
+        "Enfin une explosion sévère, les saisit à l'aube."
+      ],
+      "tanslateWordByWord" : [
+        "Ainsi, les saisies",
+        "le cri terrible",
+        "au lever du soleil"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 74,
+      "arabicVerse" : "فَجَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهِمْ حِجَارَةً مِنْ سِجِّيلٍ",
+      "simpleTranslate" : [
+        "Et Nous mîmes alors la ville sens dessus dessous et Nous fîmes pleuvoir sur elle",
+        "des pierres brûlantes d’argile."
+      ],
+      "tafsirTranslate" : [
+        "Puis nous avons tourné leurs habitations up-side-down et nous a plu pierres",
+        "d'argile sur eux. <N:41>"
+      ],
+      "tanslateWordByWord" : [
+        "Et Nous avons fait",
+        "son plus haut (partie)",
+        "son plus bas",
+        "et Nous avons fait pleuvoir",
+        "sur eux",
+        "des pierres",
+        "de",
+        "Terre cuite"
+      ],
+      "notes" : {
+        "41" : [
+          "Ces [ \"pierres d'argile\"] aurait pu douches météoriques ou d'éruptions",
+          "volcaniques qui ont volé et pleuvaient sur eux, ou ceux-ci peuvent avoir été",
+          "soufflé par un vent fort."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 75,
+      "arabicVerse" : "إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِلْمُتَوَسِّمِينَ",
+      "simpleTranslate" : [
+        "Il y a bien en cela des signes pour ceux qui savent en méditer la leçon."
+      ],
+      "tafsirTranslate" : [
+        "Il y a de grands signes dans ces événements pour les hommes de compréhension."
+      ],
+      "tanslateWordByWord" : [
+        "Effectivement",
+        "dans",
+        "cette",
+        "(Sont) les signes",
+        "pour ceux qui discernent"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 76,
+      "arabicVerse" : "وَإِنَّهَا لَبِسَبِيلٍ مُقِيمٍ",
+      "simpleTranslate" : [
+        "Les ruines de cette ville sont encore visibles sur un chemin bien fréquenté."
+      ],
+      "tafsirTranslate" : [
+        "Et le territoire frappé se trouve toujours sur la grande route. <N:42>"
+      ],
+      "tanslateWordByWord" : [
+        "Et en effet, il",
+        "(Is) sur une route",
+        "établi"
+      ],
+      "notes" : {
+        "42" : [
+          "Autrement dit, [ «Ce territoire frappé se trouve sur la grande route de Hijaz",
+          "[(Arabie)] en Syrie et en Egypte\"]. Les voyageurs viennent à travers ces signes",
+          "de destruction qui sont très importants dans le territoire qui se trouve au",
+          "sud-est de la mer Morte. Les géographes sont d'avis qu'il n'y a pas d'autres",
+          "terres sur la surface de la Terre qui a l'air désolé que ce territoire, en",
+          "particulier sa partie sud."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 77,
+      "arabicVerse" : "إِنَّ فِي ذَٰلِكَ لَآيَةً لِلْمُؤْمِنِينَ",
+      "simpleTranslate" : [
+        "N’y a-t-il pas là un véritable signe pour les croyants?"
+      ],
+      "tafsirTranslate" : [
+        "En effet, il est un avertissement en elle pour les vrais croyants."
+      ],
+      "tanslateWordByWord" : [
+        "Effectivement",
+        "dans",
+        "cette",
+        "sûrement (est) un signe",
+        "pour les croyants"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 78,
+      "arabicVerse" : "وَإِنْ كَانَ أَصْحَابُ الْأَيْكَةِ لَظَالِمِينَ",
+      "simpleTranslate" : [
+        "Les habitants d’al-Ayka étaient également injustes."
+      ],
+      "tafsirTranslate" : [
+        "Comme les gens d'Al Aikah <N:43> étaient injustes,"
+      ],
+      "tanslateWordByWord" : [
+        "Et étaient",
+        "Et étaient",
+        "(les) compagnons",
+        "(De) le bois",
+        "les malfaiteurs sûrement"
+      ],
+      "notes" : {
+        "43" : [
+          "Les habitants de Al-Aikah étaient les canmunity du Prophète Shu`aib et ont été",
+          "appelés Madianites après le nom de leur capitale et leur territoire. En ce qui",
+          "concerne AI-Aikah, il était l'ancien nom de Tabuk et signifie littéralement [",
+          "\"épaisse forêt\"]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 79,
+      "arabicVerse" : "فَانْتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍ مُبِينٍ",
+      "simpleTranslate" : [
+        "Aussi les avons-Nous châtiés. Et leur cité al-Ayka, comme l’autre Sodome, se",
+        "trouve sur un chemin bien fréquenté."
+      ],
+      "tafsirTranslate" : [
+        "Nous avons pris la vengeance sur eux. Et les habitations en ruines de ces deux",
+        "communautés se trouvent sur la route ouverte. <N:44>"
+      ],
+      "tanslateWordByWord" : [
+        "Nous avons donc pris la rétribution",
+        "d'eux",
+        "et en effet, ils ont tous deux",
+        "(Étaient) sur une route",
+        "clair"
+      ],
+      "notes" : {
+        "44" : [
+          "Madian se trouvait sur la route de Hijaz en Palestine et en Syrie."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 80,
+      "arabicVerse" : "وَلَقَدْ كَذَّبَ أَصْحَابُ الْحِجْرِ الْمُرْسَلِينَ",
+      "simpleTranslate" : [
+        "Quant aux habitants de Hijr qui avaient traité les prophètes de menteurs"
+      ],
+      "tafsirTranslate" : [
+        "Les habitants de Al Hijr <N:45> a également traité les Messagers comme imposteurs"
+      ],
+      "tanslateWordByWord" : [
+        "Et certainement",
+        "dénié",
+        "(les) compagnons",
+        "(De) Rocky Tract",
+        "les messagers"
+      ],
+      "notes" : {
+        "45" : [
+          "AI-Hijr a été la capitale du peuple de Thamud, et ses ruines se trouvent à",
+          "proximité de la ville moderne d'Al-'Ula 'qui est au nord-ouest de Al-Madinah, et",
+          "se trouve sur la route de AI-Madinah à Tabuk. Bien que les caravanes devaient",
+          "passer par la vallée de Al-Hijr, le Saint Prophète avait interdit aux musulmans",
+          "de rester dans la vallée, sur leur voyage. \n Quand Ibn Battûta y arriva au VIIIe",
+          "siècle de l'Hégire sur son chemin à la Mecque, il a écrit: [ \"J'ai vu les",
+          "bâtiments de Thamud taillées dans des montagnes rouges, les peintures ont l'air",
+          "si brillant que si elles ont été mises sur que récemment .... et les os pourris",
+          "d'êtres humains se trouvent en eux, même aujourd'hui. \"] [(Voir eN 57 VII.)]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 81,
+      "arabicVerse" : "وَآتَيْنَاهُمْ آيَاتِنَا فَكَانُوا عَنْهَا مُعْرِضِينَ",
+      "simpleTranslate" : [
+        "et qui s’étaient détournés de Nos signes, quand Nous les leur avions fait",
+        "parvenir,"
+      ],
+      "tafsirTranslate" : [
+        "et nous avons envoyé nos révélations et montré Nos signes pour eux, mais ils sont",
+        "allés à ignorer toutes ces choses."
+      ],
+      "tanslateWordByWord" : [
+        "Et Nous leur avons donné",
+        "Nos signes",
+        "mais ils étaient",
+        "d'eux",
+        "se détourner"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 82,
+      "arabicVerse" : "وَكَانُوا يَنْحِتُونَ مِنَ الْجِبَالِ بُيُوتًا آمِنِينَ",
+      "simpleTranslate" : [
+        "se contentant de creuser leurs demeures dans le roc des montagnes en toute",
+        "sécurité,"
+      ],
+      "tafsirTranslate" : [
+        "Ils taillaient leurs demeures dans les montagnes <N:46> et apparemment vécu en",
+        "toute sécurité."
+      ],
+      "tanslateWordByWord" : [
+        "Et ils ont utilisé (pour)",
+        "tailler",
+        "de",
+        "les montagnes",
+        "Maisons",
+        "garantir"
+      ],
+      "notes" : {
+        "46" : [
+          "Autrement dit, [ «Leurs bâtiments solides et sûrs, qu'ils avaient taillées dans",
+          "les montagnes, ne pouvait pas les protéger de l'explosion.\"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 83,
+      "arabicVerse" : "فَأَخَذَتْهُمُ الصَّيْحَةُ مُصْبِحِينَ",
+      "simpleTranslate" : [
+        "eux aussi furent saisis par le cri terrifiant au lever du jour,"
+      ],
+      "tafsirTranslate" : [
+        "Mais enfin, une explosion violente sur eux a pris avec l'approche de la matinée,"
+      ],
+      "tanslateWordByWord" : [
+        "Mais les saisies",
+        "le cri terrible",
+        "(At) tôt le matin"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 84,
+      "arabicVerse" : "فَمَا أَغْنَىٰ عَنْهُمْ مَا كَانُوا يَكْسِبُونَ",
+      "simpleTranslate" : [
+        "et tout ce qu’ils possédaient ne leur a en rien servi."
+      ],
+      "tafsirTranslate" : [
+        "et tout ce qu'ils avaient obtenu prouvé d'aucune utilité"
+      ],
+      "tanslateWordByWord" : [
+        "Et pas",
+        "prévalue",
+        "leur",
+        "quelle",
+        "ils avaient l'habitude)",
+        "gagner"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 85,
+      "arabicVerse" : "وَمَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ ۗ وَإِنَّ السَّاعَةَ لَآتِيَةٌ ۖ فَاصْفَحِ الصَّفْحَ الْجَمِيلَ",
+      "simpleTranslate" : [
+        "Nous n’avons créé les Cieux, la Terre et les espaces interstellaires qu’en toute",
+        "vérité. L’Heure du Jugement approche, fais donc preuve d’une noble indulgence,"
+      ],
+      "tafsirTranslate" : [
+        "Nous ne sommes pas sur la base de la création de la Terre et les Cieux et tout,",
+        "mais la vérité, <N:47> et notre jugement est sûr de venir. Alors O Muhammad,",
+        "donnent. (Leur mauvaise conduite) d'une manière gracieuse."
+      ],
+      "tanslateWordByWord" : [
+        "Et pas",
+        "Nous avons créé",
+        "Le Paradis",
+        "et la terre",
+        "et quelle que soit",
+        "(Est) entre eux",
+        "sauf",
+        "en vérité",
+        "Et en effet",
+        "l'heure",
+        "(Est) sûrement,",
+        "donc négliger",
+        "(Avec) le pardon",
+        "gracieux"
+      ],
+      "notes" : {
+        "47" : [
+          "C'était de rassurer le Saint Prophète que finalement il serait sorti avec succès",
+          "parce qu'il propageait la vérité, et l'ensemble de l'univers a été fondée sur la",
+          "vérité. Une telle assurance a été urgent parce que la dîme mensonge semble être",
+          "triomphante sur la Vérité. Cela implique, [ \"O Prophète, ne vous inquiétez pas du",
+          "tout à l'apparent\"] succès [ \"du mensonge pour cela est temporaire. De même, les",
+          "difficultés, les obstacles et les troubles dans le chemin de la vérité ne sont",
+          "pas permanentes. Prenez courage, et ont confiance dans la cause de la vérité et",
+          "vous triompher sur le mensonge, car l'ensemble du système de l'miverse est",
+          "semblable à la vérité et aversion pour le mensonge. Par conséquent, la vérité est",
+          "permanente et le mensonge est périssable \"] [(S'il vous plaît se référer à la",
+          "norme eN de 25 26,35-39 de la sourate Ibrahim)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 86,
+      "arabicVerse" : "إِنَّ رَبَّكَ هُوَ الْخَلَّاقُ الْعَلِيمُ",
+      "simpleTranslate" : [
+        "car c’est ton Seigneur qui est le Créateur et le Connaisseur par excellence."
+      ],
+      "tafsirTranslate" : [
+        "En effet, votre Seigneur est le Créateur de tout et est Omniscient. <N:48>"
+      ],
+      "tanslateWordByWord" : [
+        "Effectivement",
+        "votre Seigneur",
+        "Il",
+        "(Est) le Créateur",
+        "l'Omniscient"
+      ],
+      "notes" : {
+        "48" : [
+          "Ces attributs d'Allah ont été mentionnés pour rassurer le Saint Prophète, comme",
+          "pour dire, [ \"Comme Allah est le Créateur, Il a le pouvoir absolu sur toutes ses",
+          "créatures, et personne ne peut échapper à son châtiment . de plus, Il est",
+          "Omniscient. Il est pleinement conscient que vous exercez votre plus grand pour",
+          "leur réforme, et il sait aussi leurs mauvais machinations contre vos efforts de",
+          "réforme par conséquent, ne vous inquiétez pas sur ce compte, mais vous devez",
+          "attendre patiemment et avec confiance que le moment venu, ils seront traités avec",
+          "justice.? \"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 87,
+      "arabicVerse" : "وَلَقَدْ آتَيْنَاكَ سَبْعًا مِنَ الْمَثَانِي وَالْقُرْآنَ الْعَظِيمَ",
+      "simpleTranslate" : [
+        "Nous t’avons donné les sept versets qu’on répète à chaque salât, ainsi que le",
+        "Coran sublime."
+      ],
+      "tafsirTranslate" : [
+        "Nous vous avons donné sept versets qui sont dignes de la récitation maintes et",
+        "maintes fois, * 49 et Nous avons également donné à vous le glorieux Coran. * 50"
+      ],
+      "tanslateWordByWord" : [
+        "Et certainement",
+        "Nous vous avons donné",
+        "Sept",
+        "de",
+        "l'souvent répétée",
+        "et le Coran",
+        "Génial"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 88,
+      "arabicVerse" : "لَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِنْهُمْ وَلَا تَحْزَنْ عَلَيْهِمْ وَاخْفِضْ جَنَاحَكَ لِلْمُؤْمِنِينَ",
+      "simpleTranslate" : [
+        "Ne te laisse donc pas éblouir par les richesses dont Nous avons doté quelques",
+        "couples parmi les impies ! Ne t’afflige point à leur sujet ! Sois bienveillant à",
+        "l’égard des croyants !"
+      ],
+      "tafsirTranslate" : [
+        "ne regardent même pas à la richesse du monde, nous avons donné à des personnes",
+        "différentes, parmi eux, ni deuil à leur condition. <N:51> Laissez-les tranquilles",
+        "et assister aux croyants."
+      ],
+      "tanslateWordByWord" : [
+        "(Ne pas",
+        "étendre",
+        "tes yeux",
+        "vers",
+        "quelle",
+        "Nous avons attribué",
+        "Avec ça",
+        "(À) catégories",
+        "d'eux",
+        "et (faire) pas",
+        "chagriner",
+        "au dessus d'eux",
+        "Et inférieure",
+        "votre aile",
+        "aux croyants"
+      ],
+      "notes" : {
+        "51" : [
+          "Autrement dit, [ «Ne vous affligez pas qu'ils vous considèrent comme leur ennemi,",
+          "si vous .Êtes leur bien-intentionnée sincère, qu'ils considèrent leurs vices que",
+          "leurs vertus, qu'ils ne sont pas seulement eux-mêmes suivant, mais conduisant",
+          "leurs partisans sur ce chemin qui conduit inévitablement à la destruction: non,",
+          "ils sont en train de faire leur pire à opposer aux efforts réformatrices de celui",
+          "qui leur montre le chemin de la paix \"]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 89,
+      "arabicVerse" : "وَقُلْ إِنِّي أَنَا النَّذِيرُ الْمُبِينُ",
+      "simpleTranslate" : [
+        "Dis : «Je suis l’avertisseur explicite.»"
+      ],
+      "tafsirTranslate" : [
+        "Tell (les incroyants), «Je suis un avertisseur clair seulement."
+      ],
+      "tanslateWordByWord" : [
+        "Et dis",
+        "En effet, je",
+        "[Je suis",
+        "un warner",
+        "clair"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 90,
+      "arabicVerse" : "كَمَا أَنْزَلْنَا عَلَى الْمُقْتَسِمِينَ",
+      "simpleTranslate" : [
+        "De même Nous avons infligé un châtiment aux dissociateurs"
+      ],
+      "tafsirTranslate" : [
+        "Cet avertissement est comme l'avertissement Nous avons envoyé aux schismatiques,"
+      ],
+      "tanslateWordByWord" : [
+        "Comme",
+        "Nous avons fait descendre",
+        "sur",
+        "ceux qui divise"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 91,
+      "arabicVerse" : "الَّذِينَ جَعَلُوا الْقُرْآنَ عِضِينَ",
+      "simpleTranslate" : [
+        "qui ont qualifié le Coran de «fragments décousus» !"
+      ],
+      "tafsirTranslate" : [
+        "qui ont causé des divisions dans leur Coran \" <N:52>"
+      ],
+      "tanslateWordByWord" : [
+        "Ceux qui",
+        "ont fait",
+        "Le Coran",
+        "(En) parties"
+      ],
+      "notes" : {
+        "52" : [
+          "Les schismatiques étaient les Juifs car ils avaient divisé leur religion dans de",
+          "nombreuses régions et ont provoqué la division en elle. Ils ont cru en certaines",
+          "parties et a rejeté les autres parties, et ont nui certaines choses de lui et a",
+          "ajouté d'autres pour lui. Ainsi, ils ont été divisés en plusieurs groupes",
+          "sectaires, qui se sont opposés les uns aux autres. \n [ \"Ils ont coupé leur Coran",
+          "[(Torah)] en morceaux\"]: [ \"Ils croient en certaines parties de celui-ci et",
+          "rejettent d'autres parties.\"] La même chose a été mentionnée au II: 85 comme",
+          "ceci: [ \".... croyez-vous donc dans une partie de l'Écriture et rejetez les",
+          "autres parties ....\"] \n [ \".... Cet avertissement est comme l'avertissement Nous",
+          "avons envoyé aux schismatiques [(Juifs)]\"]. 'Ceci est destiné à avertir les",
+          "incroyants qu'ils devraient apprendre une leçon du sort des Juifs qui ont négligé",
+          "l'avertissement qui a été donné à que par Dieu, et a persisté dans leurs",
+          "mauvaises façons, comme pour dire, [ \"Vous arc Observant les la dégradation des",
+          "Juifs. aimez-vous rencontrer le même but en négligeant cet avertissement? \"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 92,
+      "arabicVerse" : "فَوَرَبِّكَ لَنَسْأَلَنَّهُمْ أَجْمَعِينَ",
+      "simpleTranslate" : [
+        "Par ton Seigneur ! Nous les soumettrons tous à un interrogatoire sévère"
+      ],
+      "tafsirTranslate" : [
+        "Donc par votre Seigneur, Nous allons sûrement tenir compte d'eux"
+      ],
+      "tanslateWordByWord" : [
+        "Donc, par votre Seigneur",
+        "Nous allons sûrement les interroger",
+        "tout"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 93,
+      "arabicVerse" : "عَمَّا كَانُوا يَعْمَلُونَ",
+      "simpleTranslate" : [
+        "au sujet de leurs agissements."
+      ],
+      "tafsirTranslate" : [
+        "concering ce qu'ils avaient fait."
+      ],
+      "tanslateWordByWord" : [
+        "Sur quoi",
+        "ils avaient l'habitude)",
+        "faire"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 94,
+      "arabicVerse" : "فَاصْدَعْ بِمَا تُؤْمَرُ وَأَعْرِضْ عَنِ الْمُشْرِكِينَ",
+      "simpleTranslate" : [
+        "Proclame donc hautement les ordres que tu as reçus et détourne-toi des idolâtres",
+        "!"
+      ],
+      "tafsirTranslate" : [
+        "Donc, (O Prophète), annoncez publiquement ce que vous êtes ordonné, et il ne",
+        "dérange ceux qui pratiquent le shirk."
+      ],
+      "tanslateWordByWord" : [
+        "Alors proclamer",
+        "de quoi",
+        "vous commandé",
+        "détournez",
+        "de",
+        "les polythéistes"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 95,
+      "arabicVerse" : "إِنَّا كَفَيْنَاكَ الْمُسْتَهْزِئِينَ",
+      "simpleTranslate" : [
+        "En vérité, Nous Nous chargeons des persifleurs,"
+      ],
+      "tafsirTranslate" : [
+        "Nous suffit en votre nom à prendre à la tâche"
+      ],
+      "tanslateWordByWord" : [
+        "En effet, nous",
+        "[Nous] sommes suffisantes pour vous",
+        "(Contre) les railleurs"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 96,
+      "arabicVerse" : "الَّذِينَ يَجْعَلُونَ مَعَ اللَّهِ إِلَٰهًا آخَرَ ۚ فَسَوْفَ يَعْلَمُونَ",
+      "simpleTranslate" : [
+        "ceux qui associent une autre divinité au Seigneur et qui seront un jour mis en",
+        "face de leurs erreurs !"
+      ],
+      "tafsirTranslate" : [
+        "ceux qui ont mis en place d'autres dieux avec Allah: ils viennent à connaître peu",
+        "de temps (leur folie)."
+      ],
+      "tanslateWordByWord" : [
+        "Ceux qui",
+        "installer",
+        "avec",
+        "Allah",
+        "Dieu",
+        "un autre",
+        "Mais bientôt",
+        "ils viennent à connaître"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 97,
+      "arabicVerse" : "وَلَقَدْ نَعْلَمُ أَنَّكَ يَضِيقُ صَدْرُكَ بِمَا يَقُولُونَ",
+      "simpleTranslate" : [
+        "Nous savons bien que leurs dénigrements t’oppressent le cœur."
+      ],
+      "tafsirTranslate" : [
+        "Nous savons que votre cœur est affligé de ce qu'ils disent contre vous."
+      ],
+      "tanslateWordByWord" : [
+        "Et en vérité,",
+        "Nous savons",
+        "que vous]",
+        "(Est) s'irriter",
+        "ta poitrine",
+        "par quoi",
+        "ils disent"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 98,
+      "arabicVerse" : "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَكُنْ مِنَ السَّاجِدِينَ",
+      "simpleTranslate" : [
+        "Célèbre donc les louanges de ton Seigneur et sois du nombre de Ses adorateurs !"
+      ],
+      "tafsirTranslate" : [
+        "(Ceci est le remède :) vous devriez glorifier ton Seigneur par Sa louange, et",
+        "tomber dans la prostration devant Lui,"
+      ],
+      "tanslateWordByWord" : [
+        "glorifie donc",
+        "avec la louange",
+        "(De) votre Seigneur",
+        "et être",
+        "de",
+        "ceux qui se prosternent"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 99,
+      "arabicVerse" : "وَاعْبُدْ رَبَّكَ حَتَّىٰ يَأْتِيَكَ الْيَقِينُ",
+      "simpleTranslate" : [
+        "Et adore ton Seigneur jusqu’à ce que te parvienne la certitude !"
+      ],
+      "tafsirTranslate" : [
+        "et servir votre Seigneur, jusqu'à ce que la dernière heure, ce qui est sûr de",
+        "venir. <N:53>"
+      ],
+      "tanslateWordByWord" : [
+        "Et le culte",
+        "votre Seigneur",
+        "jusqu'à",
+        "vient à vous",
+        "la certitude"
+      ],
+      "notes" : {
+        "53" : [
+          "C'est Salat et le culte de votre Seigneur sont les seuls moyens qui peuvent",
+          "générer en vous que la puissance de nourriture qui est nécessaire pour tenir",
+          "resolutley contre les troubles et les afflictions vous allez inévitablement",
+          "rencontrer dans la propagation du message de la Vérité et de la réforme de",
+          "l'humanité. Cela vous réconforter, vous remplissez avec courage et vous permettre",
+          "d'accomplir cette mission divine sur laquelle vous avez été envoyé dans le visage",
+          "de la violence, la dérision et les obstacles \"."
+        ]
+      }
+    }
+  ],
+  "medinian" : false
+}

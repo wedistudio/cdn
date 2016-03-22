@@ -1,0 +1,524 @@
+{
+  "chapterNumber" : 88,
+  "nbVerses" : 26,
+  "name" : "The Overwhelming Event, The Overshadowing Event, The Pall",
+  "nameArabic" : "الغاشية",
+  "transName" : "al-ġāšiya",
+  "verses" : [
+    {
+      "verseNumber" : 1,
+      "arabicVerse" : "هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ",
+      "simpleTranslate" : [
+        "Has there reached you the report of the Overwhelming [event]?"
+      ],
+      "tafsirTranslate" : [
+        "Has the news of the overwhelming event reached you? <N:1>"
+      ],
+      "tanslateWordByWord" : [
+        "Has",
+        "(there) come to you",
+        "(the) news",
+        "(of) the Overwhelming"
+      ],
+      "notes" : {
+        "1" : [
+          "[\"The over-shadowing calamity\"]: the Resurrection which will overshadow the whole",
+          "world. One should know that here the Hereafter as a whole is being depicted,",
+          "which comprehends aII the stages from the upsetting of the present system to the",
+          "resurrection of all human beings and the dispensation of rewards and punishments",
+          "from the Divine Court."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 2,
+      "arabicVerse" : "وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ",
+      "simpleTranslate" : [
+        "[Some] faces, that Day, will be humbled,"
+      ],
+      "tafsirTranslate" : [
+        "Some faces <N:2> that Day shall be downcast with fear,"
+      ],
+      "tanslateWordByWord" : [
+        "Faces",
+        "that Day",
+        "(will be) humbled"
+      ],
+      "notes" : {
+        "2" : [
+          "Some faces : some persons, so said for the face is the most conspicuous part of",
+          "the human body by which man s personality is judged and which reflects the good",
+          "or bad states through which man passes."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 3,
+      "arabicVerse" : "عَامِلَةٌ نَاصِبَةٌ",
+      "simpleTranslate" : [
+        "Working [hard] and exhausted."
+      ],
+      "tafsirTranslate" : [
+        "be toiling and worn-out;"
+      ],
+      "tanslateWordByWord" : [
+        "Laboring",
+        "exhausted"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 4,
+      "arabicVerse" : "تَصْلَىٰ نَارًا حَامِيَةً",
+      "simpleTranslate" : [
+        "They will [enter to] burn in an intensely hot Fire."
+      ],
+      "tafsirTranslate" : [
+        "they shall burn in a Scorching Fire;"
+      ],
+      "tanslateWordByWord" : [
+        "They will burn",
+        "(in) a Fire",
+        "intensely hot"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 5,
+      "arabicVerse" : "تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ",
+      "simpleTranslate" : [
+        "They will be given drink from a boiling spring."
+      ],
+      "tafsirTranslate" : [
+        "their drink shall be from a boiling spring."
+      ],
+      "tanslateWordByWord" : [
+        "They will be given to drink",
+        "from",
+        "a spring",
+        "boiling"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 6,
+      "arabicVerse" : "لَيْسَ لَهُمْ طَعَامٌ إِلَّا مِنْ ضَرِيعٍ",
+      "simpleTranslate" : [
+        "For them there will be no food except from a poisonous, thorny plant"
+      ],
+      "tafsirTranslate" : [
+        "They shall have no food except bitter dry thorns <N:3>"
+      ],
+      "tanslateWordByWord" : [
+        "Not is",
+        "for them",
+        "food",
+        "except",
+        "from",
+        "a bitter thorny plant"
+      ],
+      "notes" : {
+        "3" : [
+          "At some places in the Qur'an it has been stated that the dwellers of Hell will be",
+          "given zaqqum to eat; at another place it has been said that they will have no",
+          "other food but glhislin [(washing from wounds)], and here that [\"their only food",
+          "will he thorny, dry grass.\"] There is, in fact, no contradiction between these",
+          "statements. This may as welt mean that Hell will have many different compartment",
+          "in which different categories of the criminals will be lodged according to their",
+          "crimes, and subjected to different punishments. This may also mean that if they",
+          "try to avoid zaqqum they will be given ghislin, and if they try to avoid even",
+          "that, they will only get thorny grass. In short, they would get nothing to suit",
+          "their taste."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 7,
+      "arabicVerse" : "لَا يُسْمِنُ وَلَا يُغْنِي مِنْ جُوعٍ",
+      "simpleTranslate" : [
+        "Which neither nourishes nor avails against hunger."
+      ],
+      "tafsirTranslate" : [
+        "that will neither nourish nor satisfy their hunger."
+      ],
+      "tanslateWordByWord" : [
+        "Not",
+        "it nourishes",
+        "and not",
+        "it avails",
+        "from",
+        "hunger"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 8,
+      "arabicVerse" : "وُجُوهٌ يَوْمَئِذٍ نَاعِمَةٌ",
+      "simpleTranslate" : [
+        "[Other] faces, that Day, will show pleasure."
+      ],
+      "tafsirTranslate" : [
+        "On that very Day some faces shall be radiant with joy,"
+      ],
+      "tanslateWordByWord" : [
+        "Faces",
+        "that Day",
+        "(will be) joyful"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 9,
+      "arabicVerse" : "لِسَعْيِهَا رَاضِيَةٌ",
+      "simpleTranslate" : [
+        "With their effort [they are] satisfied"
+      ],
+      "tafsirTranslate" : [
+        "well-pleased with their striving. <N:4>"
+      ],
+      "tanslateWordByWord" : [
+        "With their effort",
+        "satisfied"
+      ],
+      "notes" : {
+        "4" : [
+          "That is. they will be overjoyed to see the best results in the Hereafter of their",
+          "endeavours and deeds in the world; they will be satisfied to see that they had,",
+          "in fact, made a profitable bargain in that they had adopted a life of faith,",
+          "virtue and piety, by sacrificing the desires of the flesh, undergone hardships in",
+          "carrying out their obligations, endured afflictions in obeying the Divine",
+          "Commands, incurred losses and suffered deprivation of benefits and pleasures",
+          "while trying to avoid sins and acts of disobedience."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 10,
+      "arabicVerse" : "فِي جَنَّةٍ عَالِيَةٍ",
+      "simpleTranslate" : [
+        "In an elevated garden,"
+      ],
+      "tafsirTranslate" : [
+        "They will be in a lofty Garden"
+      ],
+      "tanslateWordByWord" : [
+        "In",
+        "a garden",
+        "elevated"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 11,
+      "arabicVerse" : "لَا تَسْمَعُ فِيهَا لَاغِيَةً",
+      "simpleTranslate" : [
+        "Wherein they will hear no unsuitable speech."
+      ],
+      "tafsirTranslate" : [
+        "wherein they shall hear no vain talk. <N:5>"
+      ],
+      "tanslateWordByWord" : [
+        "Not",
+        "they will hear",
+        "therein",
+        "vain talk"
+      ],
+      "notes" : {
+        "5" : [
+          "This thing has been mentioned at several places in the Qur'an as a major blessing",
+          "of Paradise. [(For explanation, see E.N. 38 of Maryam, E.N. 18 of At-Tur, E.N. 13",
+          "of Al-Wiiqi`ah, E.N. 21 of An-Naba)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 12,
+      "arabicVerse" : "فِيهَا عَيْنٌ جَارِيَةٌ",
+      "simpleTranslate" : [
+        "Within it is a flowing spring."
+      ],
+      "tafsirTranslate" : [
+        "In it there shall be a flowing spring,"
+      ],
+      "tanslateWordByWord" : [
+        "Therein",
+        "(will be) a spring",
+        "flowing"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 13,
+      "arabicVerse" : "فِيهَا سُرُرٌ مَرْفُوعَةٌ",
+      "simpleTranslate" : [
+        "Within it are couches raised high"
+      ],
+      "tafsirTranslate" : [
+        "and couches raised high,"
+      ],
+      "tanslateWordByWord" : [
+        "Therein",
+        "(will be) thrones",
+        "raised high"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 14,
+      "arabicVerse" : "وَأَكْوَابٌ مَوْضُوعَةٌ",
+      "simpleTranslate" : [
+        "And cups put in place"
+      ],
+      "tafsirTranslate" : [
+        "and goblets laid out, <N:6>"
+      ],
+      "tanslateWordByWord" : [
+        "And cups",
+        "put in place"
+      ],
+      "notes" : {
+        "6" : [
+          "That is, filled goblets already supplied so that they do not have to ask for",
+          "them."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 15,
+      "arabicVerse" : "وَنَمَارِقُ مَصْفُوفَةٌ",
+      "simpleTranslate" : [
+        "And cushions lined up"
+      ],
+      "tafsirTranslate" : [
+        "and cushions arrayed in rows,"
+      ],
+      "tanslateWordByWord" : [
+        "And cushions",
+        "lined up"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 16,
+      "arabicVerse" : "وَزَرَابِيُّ مَبْثُوثَةٌ",
+      "simpleTranslate" : [
+        "And carpets spread around."
+      ],
+      "tafsirTranslate" : [
+        "and rich carpets levelled out."
+      ],
+      "tanslateWordByWord" : [
+        "And carpets",
+        "spread out"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 17,
+      "arabicVerse" : "أَفَلَا يَنْظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ",
+      "simpleTranslate" : [
+        "Then do they not look at the camels - how they are created?"
+      ],
+      "tafsirTranslate" : [
+        "Do (these unbelievers) not observe the camels: how they were created?"
+      ],
+      "tanslateWordByWord" : [
+        "Then do not",
+        "they look",
+        "towards",
+        "the camels",
+        "how",
+        "they are created"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 18,
+      "arabicVerse" : "وَإِلَى السَّمَاءِ كَيْفَ رُفِعَتْ",
+      "simpleTranslate" : [
+        "And at the sky - how it is raised?"
+      ],
+      "tafsirTranslate" : [
+        "And the sky: how it was raised high?"
+      ],
+      "tanslateWordByWord" : [
+        "And towards",
+        "the sky",
+        "how",
+        "it is raised"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 19,
+      "arabicVerse" : "وَإِلَى الْجِبَالِ كَيْفَ نُصِبَتْ",
+      "simpleTranslate" : [
+        "And at the mountains - how they are erected?"
+      ],
+      "tafsirTranslate" : [
+        "And the mountains: how they were fixed?"
+      ],
+      "tanslateWordByWord" : [
+        "And towards",
+        "the mountains",
+        "how",
+        "they are fixed"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 20,
+      "arabicVerse" : "وَإِلَى الْأَرْضِ كَيْفَ سُطِحَتْ",
+      "simpleTranslate" : [
+        "And at the earth - how it is spread out?"
+      ],
+      "tafsirTranslate" : [
+        "And the earth: how it was spread out? <N:7>"
+      ],
+      "tanslateWordByWord" : [
+        "And towards",
+        "the earth",
+        "how",
+        "it is spread out"
+      ],
+      "notes" : {
+        "7" : [
+          "That is, [\"If they deny the possibility of the Hereafter, have they never looked",
+          "around themselves and considered how the camels were created, how the heaven was",
+          "raised high, how the mountains were firmly set and how the earth was spread out?",
+          "When aII these things could be created, and exist before them in their finished",
+          "form, why can the Resurrection not take place? Why cannot a new world come about,",
+          "and why cannot .Hell and Heaven be possible'? Only a foolish and thoughtless",
+          "person would think that the coming into existing of only those things which he",
+          "has found existing on opening his eyes in the world, is possible. bacause they",
+          "already exist. As for the things, which he has not yet observed and experienced,",
+          "he should thoughtlessly pass the judgement that their coming into being is",
+          "impossible. If he has any common sense, he should think as to how he things which",
+          "already exist, carne into being? How did the camel possessing precisely the same",
+          "Characteristics as needed for the beast required by the desert dwellers of Arabia",
+          "come into being'' How did the sky whose atmosphere is filled with air to breathe",
+          "in, whose clouds bring rain, whose sun provides light and warmth in the day,",
+          "whose moon and stars shine at night, come into being'' How did the earth spread",
+          "out on which man lives and passes his life, whose products fulfil aII his needs",
+          "and requirements on whose springs and wells his life depends? How did the",
+          "mountains rise up from the surface of the earth, which stand fixed with earth and",
+          "stones of different colours and a variety of minerals in them '? Has all this",
+          "happened without the artistic skill of an AlI-Powerful, AI-Wise Designer No",
+          "thinking and intellingent mind can answer this question in the negative. Unless",
+          "it is stubborn and obstinate, it will have to acknowledge that each one of these",
+          "things was impossible, had an Omnipotent; Wise Being not made it possible. And",
+          "when an All-Powerful, Wise Being created these things, there is no reason why the",
+          "Hereafter should be regarded as remote from reason and impossible.\"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 21,
+      "arabicVerse" : "فَذَكِّرْ إِنَّمَا أَنْتَ مُذَكِّرٌ",
+      "simpleTranslate" : [
+        "So remind, [O Muhammad]; you are only a reminder."
+      ],
+      "tafsirTranslate" : [
+        "So render good counsel, for you are simply required to counsel,"
+      ],
+      "tanslateWordByWord" : [
+        "So remind",
+        "only",
+        "you",
+        "(are) a reminder"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 22,
+      "arabicVerse" : "لَسْتَ عَلَيْهِمْ بِمُصَيْطِرٍ",
+      "simpleTranslate" : [
+        "You are not over them a controller."
+      ],
+      "tafsirTranslate" : [
+        "and are not invested with the authority to compel them. <N:8>"
+      ],
+      "tanslateWordByWord" : [
+        "You are not",
+        "over them",
+        "a controller"
+      ],
+      "notes" : {
+        "8" : [
+          "That is, [\"If a person does not listen to reason, he may not. You have not been",
+          "appointed to force the will of the deniers: your only task is to distinguish the",
+          "right from the wrong for the people and warn them of the consequences of",
+          "following the wrong way; so this is the task you should continue to perform.\"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 23,
+      "arabicVerse" : "إِلَّا مَنْ تَوَلَّىٰ وَكَفَرَ",
+      "simpleTranslate" : [
+        "However, he who turns away and disbelieves -"
+      ],
+      "tafsirTranslate" : [
+        "But whoever will turn away (from the Truth),"
+      ],
+      "tanslateWordByWord" : [
+        "But",
+        "whoever",
+        "turns away",
+        "and disbelieves"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 24,
+      "arabicVerse" : "فَيُعَذِّبُهُ اللَّهُ الْعَذَابَ الْأَكْبَرَ",
+      "simpleTranslate" : [
+        "Then Allah will punish him with the greatest punishment."
+      ],
+      "tafsirTranslate" : [
+        "Allah will chastise him with the most terrible chastisement."
+      ],
+      "tanslateWordByWord" : [
+        "Then will punish him",
+        "Allah",
+        "(with) the punishment",
+        "greatest"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 25,
+      "arabicVerse" : "إِنَّ إِلَيْنَا إِيَابَهُمْ",
+      "simpleTranslate" : [
+        "Indeed, to Us is their return."
+      ],
+      "tafsirTranslate" : [
+        "Surely to Us is their return;"
+      ],
+      "tanslateWordByWord" : [
+        "Indeed",
+        "to Us",
+        "(will be) their return"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 26,
+      "arabicVerse" : "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُمْ",
+      "simpleTranslate" : [
+        "Then indeed, upon Us is their account."
+      ],
+      "tafsirTranslate" : [
+        "and then it is for Us to call them to account."
+      ],
+      "tanslateWordByWord" : [
+        "Then",
+        "indeed",
+        "upon Us",
+        "(is) their account"
+      ],
+      "notes" : { }
+    }
+  ],
+  "medinian" : false
+}

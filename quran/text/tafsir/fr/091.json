@@ -1,0 +1,553 @@
+{
+  "chapterNumber" : 91,
+  "nbVerses" : 15,
+  "name" : "Le soleil",
+  "nameArabic" : "الشمس",
+  "transName" : "aš-šams",
+  "verses" : [
+    {
+      "verseNumber" : 1,
+      "arabicVerse" : "وَالشَّمْسِ وَضُحَاهَا",
+      "simpleTranslate" : [
+        "Par le Soleil et son premier éclat,"
+      ],
+      "tafsirTranslate" : [
+        "Par le soleil et sa chaleur et de la luminosité, <N:1>"
+      ],
+      "tanslateWordByWord" : [
+        "Par le soleil",
+        "et sa brillance"
+      ],
+      "notes" : {
+        "1" : [
+          "Le mot duha tel qu'il est utilisé dans l'original vaut tant pour la lumière du",
+          "soleil et à sa chaleur. Bien en arabe son sens bien connu est le temps entre le",
+          "lever et le méridien quand le soleil a augmenté de haut, à cette hauteur, il ne",
+          "donne pas seulement la lumière, mais aussi la chaleur. Par conséquent, lorsque le",
+          "mot duha est attribué au soleil, son sens peut être exprimée de façon plus",
+          "appropriée par sa luminosité rayonnante que par sa lumière, ou par le moment de",
+          "la journée qu'il indique."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 2,
+      "arabicVerse" : "وَالْقَمَرِ إِذَا تَلَاهَا",
+      "simpleTranslate" : [
+        "par la Lune quand elle lui succède,"
+      ],
+      "tafsirTranslate" : [
+        "et par la lune qui suit;"
+      ],
+      "tanslateWordByWord" : [
+        "Et la lune",
+        "quand",
+        "il suit"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 3,
+      "arabicVerse" : "وَالنَّهَارِ إِذَا جَلَّاهَا",
+      "simpleTranslate" : [
+        "par le jour quand il éclaire le monde,"
+      ],
+      "tafsirTranslate" : [
+        "et par le jour comme il affiche la gloire du soleil,"
+      ],
+      "tanslateWordByWord" : [
+        "Et la journée",
+        "quand",
+        "il l'affiche"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 4,
+      "arabicVerse" : "وَاللَّيْلِ إِذَا يَغْشَاهَا",
+      "simpleTranslate" : [
+        "par la nuit quand elle l’obscurcit,"
+      ],
+      "tafsirTranslate" : [
+        "et de la nuit, comme il enveloppe le soleil; <N:2>"
+      ],
+      "tanslateWordByWord" : [
+        "Et la nuit",
+        "quand",
+        "elle recouvre"
+      ],
+      "notes" : {
+        "2" : [
+          "qui est, quand vient la nuit, les peaux de soleil et sa lumière reste cachée",
+          "pendant toute la nuit. Cet état a été décrit, en disant que la nuit couvre le",
+          "soleil, pour la nuit signifie réellement se cache le soleil derrière l'horizon en",
+          "raison de laquelle sa lumière ne peut pas atteindre cette partie de la terre où",
+          "la nuit est tombée."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 5,
+      "arabicVerse" : "وَالسَّمَاءِ وَمَا بَنَاهَا",
+      "simpleTranslate" : [
+        "par le Ciel et son édification,"
+      ],
+      "tafsirTranslate" : [
+        "et par le ciel et par celui qui a fait; <N:3>"
+      ],
+      "tanslateWordByWord" : [
+        "Et le ciel",
+        "et (Il) qui",
+        "construit il"
+      ],
+      "notes" : {
+        "3" : [
+          "[ \"Qui a créé ce\"]: Qui a établi comme une voûte sur la terre. Dans ce verset, et",
+          "dans les deux versets suivants, le mot a été utilisé ma. Une partie des",
+          "commentateurs a pris cette ma comme un infinitif, et interprété ces versets pour",
+          "signifier [ \"Par le ciel et son être établi, par la terre et de son être étalé,",
+          "et par le moi humain et de son être équilibré.\"] Mais ce sens ne correspond pas à",
+          "la raison pour laquelle la phrase suivante: [ \"alors inspiré avec sa méchanceté",
+          "et de sa piété»], ne rentre pas dans le contexte. D'autres commentateurs ont pris",
+          "ma ici dans le sens de mun ou alladhi et ils interpréter la phrase comme",
+          "signifiant: [ \". Qui a créé le ciel, qui a étendu la terre, et qui a équilibré le",
+          "moi humain\"] Ce second sens est correct dans notre vue, et nul ne peut objecter",
+          "que ma en arabe est utilisé des choses sans vie et des créatures irrationnelles,",
+          "Car dans le Coran lui-même, il y a de nombreux cas que ma a été utilisé dans le",
+          "sens de mun, par exemple nous la antum `abiduna ma` un bourgeon [([ \"ni sont vous",
+          "les adorateurs de Lui que j'adore\"])], fankihu mA taba Lakun ~ -mia-un-nisa `[([\"",
+          "donc, marions parmi les les femmes ceux que vous aimez \"])] .wa la tanlkihu ma",
+          "nakaha abaa ukum min-nisa '[([\" ne se marient pas les femmes que vos pères",
+          "avaient épousé \"])]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 6,
+      "arabicVerse" : "وَالْأَرْضِ وَمَا طَحَاهَا",
+      "simpleTranslate" : [
+        "par la Terre et son nivellement,"
+      ],
+      "tafsirTranslate" : [
+        "et par la terre et par celui qui l'étendit;"
+      ],
+      "tanslateWordByWord" : [
+        "Et la terre",
+        "et par (He) Qui",
+        "répandre"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 7,
+      "arabicVerse" : "وَنَفْسٍ وَمَا سَوَّاهَا",
+      "simpleTranslate" : [
+        "par l’âme et Celui qui l’a façonnée harmonieusement"
+      ],
+      "tafsirTranslate" : [
+        "et par l'âme et par Celui qui parfaitement proportionné elle, <N:4>"
+      ],
+      "tanslateWordByWord" : [
+        "Et (la) âme",
+        "et (Il) qui",
+        "proportionné il"
+      ],
+      "notes" : {
+        "4" : [
+          "[ \"Balanced it\"]: a donné l'homme un tel organisme qui, en vertu de sa stature",
+          "dressée, ses mains et ses pieds, et son cerveau était le plus approprié pour lui",
+          "de vivre comme homme dans le monde. Il le bénit avec les sens de la vue, l'ouïe,",
+          "le toucher, le goût et l'odorat qui, en raison de leur combinaison et leurs",
+          "caractéristiques pourraient devenir le meilleur moyen d'obtenir des connaissances",
+          "pour lui. Il l'a doté des facultés de pensée et de raisonnement, l'imagination,",
+          "la mémoire, la discrimination, le jugement, la volonté et les autres pouvoirs",
+          "mentaux en vertu de laquelle il est capable de remplir les fonctions propres à",
+          "l'homme dans le monde. En outre, l'équilibre signifie également que l'homme n'a",
+          "pas été créé un pécheur de naissance et un criminel par instinct, mais sur le",
+          "droit et la nature sonore, anti n'a pas été caractérisée par de tortuosité innées",
+          "en raison de laquelle il peut être incapable d'adopter la bonne voie, même s'il",
+          "voulu le faire. Cette même chose a été exprimée dans la sourate Ar-Rum, en",
+          "disant: [ \". Soyez ferme sur la nature, après quoi Dieu a créé l'humanité\"] [(v.",
+          "30)], et la même chose a été expliqué par le Saint Prophète [(sur lesquels la",
+          "paix)] dans un Hadith, en disant: [ «Chaque enfant nouveau-né est né sur la vraie",
+          "nature humaine, ce sont ses parents qui font de lui un \"] Juif ou un chrétien ou",
+          "un mage après. Son exemple est d'un don naissance des animaux à remplir et à",
+          "paraître jeune. ?. Ne trouvez-vous une avec une oreille déchirée ou fente [",
+          "\"[(Bukhari, Muslim)] C'est, ce sont les gens polythéistes qui, en raison de leurs",
+          "superstitions de l'ignorance à la déchirure et fendues les oreilles des animaux",
+          "après pupilles, sinon Dieu ne provoque pas un animal à naître avec des oreilles",
+          "déchirées du ventre de sa mère Dans un autre Hadith, le Saint Prophète a dit: \"]",
+          "Mon Seigneur dit:. J'avais créé tous mes serviteurs, sur la vraie foi [(ie sur la",
+          "nature du son)]; puis les satans sont venus et les ont égarés de leur foi [(ie.",
+          "la vraie foi naturelle)] et fait illégale ce que j'avais rendu licite pour eux,",
+          "et leur commanda de s'associer avec moi ceux pour qui je l'avais fait descendre",
+          "aucune autorité. \" [(Musnad Ahmad et Mouslim aussi a raconté un dicton du Saint",
+          "Prophète dans des mots similaires)]. ."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 8,
+      "arabicVerse" : "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا",
+      "simpleTranslate" : [
+        "et qui lui a inspiré son libertinage et sa piété !"
+      ],
+      "tafsirTranslate" : [
+        "et imprégnée avec (la conscience) son mal et sa piété: <N:5>"
+      ],
+      "tanslateWordByWord" : [
+        "Et il a inspiré",
+        "(À distinguer) sa méchanceté",
+        "et sa justice"
+      ],
+      "notes" : {
+        "5" : [
+          "Le mot ilham est dérivé de Jahm qui signifie à avaler. Selon ce sens très",
+          "basique, le mot ilham est utilisé terminologiquement pour Allah inspirer un homme",
+          "avec un concept ou une idée inconsciemment. Inspirer le moi humain avec sa",
+          "méchanceté et de sa piété et de la vertu a deux significations: [(1)] Que le",
+          "Créateur a placé en elle des tendances à la fois bien et le mal, ce qui est la",
+          "chose que chaque homme se sent en lui-même. [(2)] Ce qu'Allah a doté l'esprit",
+          "inconscient de chaque homme avec le concept qu'il y a un bon moral et il y a un",
+          "mal moral, que les bonnes mœurs et les actes et les mauvaises mœurs et les actes",
+          "ne sont pas égaux et semblables; fujur [(l'immoralité)] est une chose mauvaise et",
+          "Taqva [(abstention de maux)] une bonne chose. Ces concepts sont pot nouvelle à",
+          "l'homme; il est conscient de ces par la nature, et le Créateur l'a doté de la",
+          "capacité de distinguer entre le bien et le mal naturellement. Cette même chose a",
+          "été dit dans la sourate Al-Balad: [ \". Nous lui deux routes du bien et du mal a",
+          "montré\"] v. dix); et dans la sourate Ad Dahr, ainsi: [ \"Nous lui avons montré le",
+          "chemin, que ce soit d'être reconnaissant ou mécréant\"] [(v. 3)]; et la même chose",
+          "a été exprimée dans la sourate Al-Qiyamah, en disant: [ \"Chez l'homme, il est le",
+          "moi de reproche [(conscience)] qui lui reproche quand il commet le mal [(v",
+          "2.)],\"] et [ «L'homme sait son propre meilleur, même si il peut offrir beaucoup",
+          "d'excuses. \"] [(. w 1415)]. Ici, il faut aussi bien comprendre que Dieu a béni",
+          "chaque créature avec l'inspiration naturelle en fonction de sa position et la",
+          "nature, comme cela a été souligné dans la sourate Ta Ha: [ \"Qui a donné une forme",
+          "distinctive de tout, puis l'a dirigée.\" ] [(v. 50)]. Par exemple, toutes les",
+          "espèces d'animaux a été donné connaissance d'inspiration en fonction de ses",
+          "besoins en vertu de laquelle le poisson apprend à nager, l'oiseau de voler,",
+          "l'abeille pour rendre la ruche et le tisserand oiseau pour construire le nid",
+          "instinctivement. L'homme aussi, compte tenu de ses capacités différentes a été",
+          "accordé types distincts de connaissances d'inspiration. Sa seule capacité est",
+          "qu'il est un être animal; en tant que telle l'instance la plus importante de la",
+          "connaissance d'inspiration qui lui a été donné est que l'enfant humain commence à",
+          "sucer le lait de la mère dès la naissance. que personne ne pouvait l'enseigner,",
+          "il avait, pas été enseigné instinctivement par Dieu. Une autre position de",
+          "l'homme est que 6e est un être rationnel. En tant que tel Dieu a boon le",
+          "bénissant avec. conseils d'inspiration en continu depuis l'époque de sa création,",
+          "en vertu de laquelle il a été de découvrir des choses et de faire des inventions",
+          "pour développer sa civilisation. Quiconque étudie l'histoire de ces découvertes",
+          "et les inventions se rendre compte qu'il n'y avait pratiquement pas de ce qui",
+          "pourrait être le résultat de l'effort ou de la pensée de l'homme, mais surtout il",
+          "arriva que tout à coup une idée a frappé une personne et il a découvert ou",
+          "inventé quelque chose. Outre ces deux, une autre position de l'homme est qu'il",
+          "est un être moral. Dans cette position trop Allah a béni par l'inspiration de la",
+          "discrimination entre le bien et le mal et de la réalisation du bien d'être bon et",
+          "du mal à être mal. Ce sentiment de discrimination et de réalisation est une",
+          "vérité universelle à cause de laquelle aucune société humaine dans le monde a",
+          "même été sans les notions de bien et le mal; il n'a jamais été dans l'histoire,",
+          "ni est là maintenant, une société qui ne peut pas être d'avoir une sorte de",
+          "système de récompenser les bons et punir le mal. . ce fait étant répandue dans",
+          "chaque âge, à chaque endroit, et à chaque étape de la civilisation est une preuve",
+          "évidente de son être naturel et inné. En outre, cela est également la preuve",
+          "qu'un Sage Créateur possédait des connaissances a endued la nature de l'homme",
+          "avec lui, dans les éléments dont l'homme est constitué et les lois qui régissent",
+          "le système de matériel du monde, pas d'origine humaine de la morale peut être",
+          "tracée en dehors."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 9,
+      "arabicVerse" : "قَدْ أَفْلَحَ مَنْ زَكَّاهَا",
+      "simpleTranslate" : [
+        "En vérité, l’homme qui purifie son âme sera sauvé"
+      ],
+      "tafsirTranslate" : [
+        "Celui qui purifie va prospérer,"
+      ],
+      "tanslateWordByWord" : [
+        "Effectivement",
+        "il réussit",
+        "qui",
+        "purifie"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 10,
+      "arabicVerse" : "وَقَدْ خَابَ مَنْ دَسَّاهَا",
+      "simpleTranslate" : [
+        "et celui qui la corrompt sera réprouvé !"
+      ],
+      "tafsirTranslate" : [
+        "et celui qui la supprime sera ruiné. <N:6>"
+      ],
+      "tanslateWordByWord" : [
+        "Et en effet",
+        "il échoue",
+        "qui",
+        "enterre"
+      ],
+      "notes" : {
+        "6" : [
+          "Ceci est pour laquelle un serment a été prêté par les choses mentionnées dans les",
+          "versets ci-dessus. Voyons maintenant comment ces choses portent sur elle. La",
+          "règle selon laquelle Allah a suivi dans le Coran est que, pour rendre témoignage",
+          "aux vérités qu'il veut impressionner sur l'esprit humain, il cite quelques-uns",
+          "des plus remarquables, lieux communs choses que tout homme voit dans ses",
+          "environs, ou dans sa propre auto. En conséquence ici, des paires de choses",
+          "contradictoires ont été cités, chaque différence de l'autre dans ses effets et",
+          "les résultats, plutôt opposé et inverser. La première paire est du soleil et de",
+          "la lune. La lumière du soleil est intensément lumineux et aussi chaud. Par contre",
+          "il la lune n'a pas sa propre lumière. Même si elle est là dans le ciel quand le",
+          "soleil brille, il est sans lumière. Il brille quand le soleil se cache, et même",
+          "alors, sa lumière est ni si brillant qu'il peut changer la nuit en jour, ni",
+          "est-il une chaleur en elle qu'elle peut avoir le même effet que la lumière du",
+          "soleil. Néanmoins, elle a ses propres effets qui sont tout à fait différents des",
+          "effets du soleil. De même, il est le couple de la journée et la nuit. Chacun",
+          "d'eux est l'inverse de l'autre. Les effets et les résultats de chacun sont",
+          "tellement différent de l'autre, que personne ne peut dire qu'ils se ressemblent;",
+          "si bien que même une personne la plus stupide ne peut peut-être dire que le jour",
+          "du être le jour ou la nuit est d'être les ETCD de nuit ne font aucune différence.",
+          "De même, il y a la paire du ciel et de la terre; l'ancien a été soulevée haute",
+          "par le Créateur et celui-ci se répandit comme un tapis en dessous. Bien que les",
+          "deux sont au service du même univers, son système et opportunisme, mais il y a un",
+          "monde de différence entre leurs fonctions et de leurs effets et résultats. Après",
+          "avoir cité ces évidences universelles, propre de l'homme a été considéré, et il a",
+          "été dit que, après équilibrage avec combinaison appropriée des membres, les sens",
+          "et les pouvoirs mentaux et les facultés du Créateur a placé en elle des",
+          "tendances, des inclinaisons et des motifs à la fois bon et mal, qui sont",
+          "contradictoires les uns aux autres, et lui fit comprendre par l'inspiration, la",
+          "distinction entre les deux: celui-là est fujur, ce qui est mal, et l'autre est",
+          "tagva, ce qui est bon. Maintenant, si le soleil et la lune, le jour et la nuit,",
+          "la terre et le ciel, ne se ressemblent pas, mais nécessairement différents les",
+          "uns des autres dans leurs effets et les résultats, comment Fújur ​​et Taqva de",
+          "soi être semblables en dépit d'être inverser les uns des autres? homme lui-même",
+          "dans ce monde ne considère pas et reconnaître le bien et le mal comme égaux, peu",
+          "importe ce que les critères du bien et du mal qu'il aurait mis au point pour",
+          "lui-même selon ses philosophies auto-défendue. Dans tous les cas, sur tout ce",
+          "qu'il considère comme bon, il est d'avis qu'il est appréciable et digne de",
+          "louange, la récompense et la récompense. Au contraire, à propos de ce qu'il",
+          "considère comme le mal, il est sa propre opinion objective qu'il est digne de",
+          "condamnation et de la peine. Mais le jugement réel ne réside pas avec l'homme; il",
+          "appartient au Créateur, qui a inspiré l'homme avec son fujur et Taqva. Le fujur",
+          "est celui qui est fujur aux yeux du Créateur et de la tagva ce qui est tagva à",
+          "ses yeux, et les deux ont des résultats séparés dans la vue du Créateur. Le",
+          "résultat de l'une est que celui qui purifie son auto, devrait atteindre au succès",
+          "éternel, et le résultat de l'autre est que celui qui supprime son auto, devrait",
+          "être un échec. \n Tazkiyah signifie pour purifier, développer et cultiver. Dans le",
+          "contexte, il gémit clairement celui qui purifie son auto de fujur et elle se",
+          "développe au niveau de tagva et cultive en elle la bonne, atteindra au succès",
+          "éternel. Par contre cela; le mot dassaha a été utilisé, l'infinitif qui est",
+          "tadsiyah, ce qui signifie pour supprimer, cacher, séduire et égarer. La",
+          "signification de cela devient également clair à partir du contexte; je. e. celui",
+          "qui supprime la tendance dans son auto vers le bien au lieu de développer et de",
+          "cultiver, qui séduit en faisant le mal, et fait fujur dominent sur Taqva afin de",
+          "le couvrir complètement comme le corps mort qui est enterré et recouvert de",
+          "terre, sera un échec. Certains commentateurs ont interprété ce verset signifie: [",
+          "\"Vraiment succès était celui que [(dont auto)] Allah purifié .et un échec celui",
+          "que [(dont l'auto)] Allah supprimé.\"] Mais ce commentaire est, d'une part,",
+          "contrairement à le style du Coran en vue de la langue, car si Allah avait voulu",
+          "dire cela, il aurait dit: [ \"Vraiment réussie était le moi qui Allah purifié et",
+          "un échec du soi qui Allah supprimé;\"] d'autre part, le présent commentaire",
+          "affrontements avec les autres déclarations du Coran sur ce sujet. Dans la sourate",
+          "Al-A`la, Allah dit: [ \". Vraiment réussie est celui qui a adopté la pureté»] [(v",
+          "14).]. Dans la sourate `Abasa, Allah a adressé son Saint Messenger, en disant:",
+          "[\". Et vous ne seriez pas responsable s'il n'a pas adopté la pureté »] Dans ces",
+          "deux versets, l'adoption de la pureté a été considérée comme un acte de l'homme.",
+          "D'ailleurs, la vérité a déclaré à de nombreux endroits dans le Coran est que",
+          "l'homme dans ce monde est mis à l'épreuve. Par exemple, dans la sourate Ad-Dahr,",
+          "il est dit: [ \". Nous avons créé l'homme d'une goutte de sperme mélangé, pour",
+          "l'éprouver, et ainsi nous fîmes capable d'entendre et de voir\"] [(v 2).] Dans",
+          "Surah Al-Mulk, il est dit: [ «qui a créé la mort et la vie afin qu'il vous",
+          "essayer de voir ce qui vous convient le mieux dans les faits [(v 2.)] maintenant,",
+          "évidemment, si l'examinateur au départ encourage un candidat et décourage.",
+          "l'autre, le test aurait-il une farce. par conséquent, le bon commentaire est",
+          "celui qui Qatadah, `Ikrima, Mujahid et Sa`īd bin Jubayr ont donné, en disant que",
+          "le sujet zakkaha et dassaha est homme et non Dieu. Quant au Hadith Ibn Abi Hatim",
+          "a raconté sur l'autorité de Juwaybir bin Sa`īd de Dahhak d'Ibn `Abbas, en disant",
+          "que le Saint Prophète [(sur lui la paix)] lui-même interprété ce verset",
+          "signifie:\"] Vraiment réussie était l'auto qui le Tout-Puissant Allah purifié [ \",",
+          "ce dicton est pas confirmé être du Saint Prophète, pour son seul journaliste",
+          "Juwaybir, a été rejetée en tant que narrateur de Hadith et Dahhak ne répondait",
+          "pas à Ibn` Abbas. . Cependant, le Hadith qui Imam Ahmad, Muslim, Nasa'i et Ibn",
+          "Abi Shaibah ont porté sur l'autorité de Hadrat Zaid bin Arqam, est correcte, qui",
+          "dit que le Saint Prophète avait l'habitude de prier: \"] Ô Allah, accorde-moi-même",
+          "son Taqva et le purifier. Vous seul êtes le meilleur pour le purifier; Vous êtes",
+          "seul son tuteur et maître \"En termes presque similaires, cette supplication du",
+          "Saint Prophète a été rapporté par Tabarani Ibn Marduyah et lbn al-Mundhir de",
+          "Hadrat` Abdullah bin `Abbas et de l'imam Ahmad de Hadrat` A'ishah. Cela signifie",
+          "en fait que l'homme ne peut désirer et chercher tagva et tazkiyah; que pour sa",
+          "réalisation, cela dépend dans tous les cas sur la grâce d'Allah et, favoriser",
+          "seul. Et la même chose est aussi nous de tadsiyah: Allah ne supprime pas une auto",
+          "de force, mais quand un homme est résolu sur l'iniquité, Allah le prive de la",
+          "grâce de tagva et tazbyab », et le laisse seul pour réprimer et enterrer son auto",
+          "sous nay tas d'ordures qu'il aime."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 11,
+      "arabicVerse" : "كَذَّبَتْ ثَمُودُ بِطَغْوَاهَا",
+      "simpleTranslate" : [
+        "Les Thamûd ont repoussé Nos signes par arrogance,"
+      ],
+      "tafsirTranslate" : [
+        "Dans leur insolence présomptueuse l'Thamud <N:7> appelle la vérité un mensonge",
+        "<N:8>"
+      ],
+      "tanslateWordByWord" : [
+        "dénié",
+        "Thamud",
+        "par leur transgression"
+      ],
+      "notes" : {
+        "8" : [
+          "[ \"démentait la vérité\"]: démentait la Prophétie du Prophète Salih, qui a été",
+          "envoyé pour leurs conseils. En raison de leur attitude rebelle, ils ne sont pas",
+          "prêts à renoncer à la fujur dans lequel ils ont été impliqués, et ils ne sont pas",
+          "enclins à accepter le tagva auquel le Prophète Salih les appelait. Pour plus de",
+          "détails, voir Al-Araf, 73-76, Hud: 61-62, Ash-Shu`ara ': 141-153, An-Naml: 45-49,",
+          "Al-Qamar: 23-25."
+        ],
+        "7" : [
+          "Les choses énoncées, en principe, dans les versets ci-dessus, sont maintenant",
+          "expliquées par un précédent historique ou comme ce qu'il est un précédent et",
+          "comment il se rapporte à ce qui a été dit ci-dessus, on doit considérer bien .le.",
+          "la lumière des autres déclarations du Coran les deux Les vérités fondamentales",
+          "qui ont été exprimées dans w. 7-10. \n Tout d'abord, dans ceux-ci il a été déclaré",
+          "que attar créant le moi humain sur la nature équilibrée et saine, Allah a inspiré",
+          "avec son fujur et son tagva. Le Coran ainsi affirmant cette vérité rend aussi",
+          "explicite que cette connaissance inspirée de fujur et tagva ne suffit pas pour",
+          "chaque homme qu'il peut, par lui-même obtenir des conseils détaillés à partir,",
+          "mais à cet effet Allah a donné des indications détaillées aux prophètes à travers",
+          "l'Apocalypse dans lequel il a été expliqué ce qui est fujur et ce qu'elle",
+          "applique à qui il faut éviter, et ce qui est tagva que l'on doit atteindre et de",
+          "développer, si l'homme n'accepte pas et reconnaître cette orientation claire et",
+          "définitive envoyé à travers l'Apocalypse, il ne peut ni éviter fujur ne trouve",
+          "pas le moyen de Taqva. \n En second lieu, dans ces versets, il a été déclaré que,",
+          "les récompenses et les punitions sont les résultats nécessaires qui découlent de",
+          "l'adoption de l'une fujur ou Taqva Le résultat de clieansing l'auto de fujur et",
+          "de le développer, avec Taqva est le succès éternel aad le résultat de la",
+          "suppression ses bonnes tendances et l'amenant à être submergés par fujur",
+          "is.failure, la ruine et la destruction. \n Pour faire comprendre à l'homme cette",
+          "vérité un précédent historique est cité et pour cela la tribu de Thamud a été",
+          "prise à titre d'illustration, pour les différentes tribus détruites dans",
+          "l'antiquité le territoire de la Thamud était plus proche de la Mecque. Dans le",
+          "nord du Hijaz ses ruines historiques étaient existantes. que les gens de la",
+          "Mecque passaient cours de leurs voyages commerciaux vers la Syrie, auf la façon",
+          "dont cette tribu a été fréquemment mentionnés dans la poésie pré-islamique montre",
+          "que sa destruction était un sujet commun de conversation parmi les Arabes."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 12,
+      "arabicVerse" : "إِذِ انْبَعَثَ أَشْقَاهَا",
+      "simpleTranslate" : [
+        "le jour où le plus pervers d’entre eux se dressa pour accomplir son forfait."
+      ],
+      "tafsirTranslate" : [
+        "lorsque leur grand criminel se leva rage."
+      ],
+      "tanslateWordByWord" : [
+        "Quand",
+        "(A) il envoya",
+        "(La) plus méchant d'entre eux"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 13,
+      "arabicVerse" : "فَقَالَ لَهُمْ رَسُولُ اللَّهِ نَاقَةَ اللَّهِ وَسُقْيَاهَا",
+      "simpleTranslate" : [
+        "«C’est la chamelle de Dieu, leur cria le Messager de Dieu. Laissez-la se",
+        "désaltérer !»"
+      ],
+      "tafsirTranslate" : [
+        "Alors le Messager d'Allah les a mis en garde: '! Hands off la chamelle et son",
+        "drink' <N:9>"
+      ],
+      "tanslateWordByWord" : [
+        "Mais ladite",
+        "pour eux",
+        "(le Messager",
+        "(De) Allah",
+        "(Il est) chamelle",
+        "(De) Allah",
+        "et sa boisson"
+      ],
+      "notes" : {
+        "9" : [
+          "À d'autres endroits dans le Coran les détails suivants sont donnés: Les habitants",
+          "de Thamud ont contesté le Prophète Salih à présenter un signe [(un miracle)] s'il",
+          "était véridique. Alors le Prophète a présenté une chamelle miraculeusement devant",
+          "eux et les a mis en garde à l'effet:.. [ \"Ceci est la chamelle d'Allah Elle",
+          "brouter à volonté dans la terre Un jour sera pour elle à boire et un jour pour",
+          "vous et votre bétail. Si vous la molester, vous serez punis avec un fléau. \"] Ce",
+          "fut un facteur dissuasif pour un certain temps. Ensuite, ils ont fait appel à",
+          "leur plus méchant et rebelle, chef de mettre un terme à la chamelle, et il a pris",
+          "la responsabilité et la tuèrent. [(AI-A`raf 73, Ash-Shu`ara: 134156",
+          "<V:26:134156>, Al-Qamar: 29 <V:54:29>)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 14,
+      "arabicVerse" : "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْبِهِمْ فَسَوَّاهَا",
+      "simpleTranslate" : [
+        "Mais ils le traitèrent d’imposteur et coupèrent les jarrets de la chamelle. Ce",
+        "péché attira sur eux le courroux de leur Seigneur qui les a tous anéantis,"
+      ],
+      "tafsirTranslate" : [
+        "Mais ils ont rejeté sa déclaration comme un mensonge et tuèrent la chamelle.",
+        "<N:10> Pour que le crime leur Seigneur grondait sur eux, tout à fait les raser au",
+        "sol."
+      ],
+      "tanslateWordByWord" : [
+        "Mais ils lui ont refusé",
+        "et ils la tuèrent",
+        "Alors détruit",
+        "leur",
+        "leur Seigneur",
+        "pour leur péché",
+        "et les nivelé"
+      ],
+      "notes" : {
+        "10" : [
+          "Selon la sourate Al-A`raf: 77, après avoir tué la chamelle, le peuple de Thamud",
+          "dirent au Prophète Salih: [ \". Apportez le fléau avec lequel vous nous menacé\"]",
+          "Et selon Hud: 65, le Prophète Salih leur dit: [ \"Eh bien, vous avez seulement",
+          "trois jours de plus pour vous amuser dans vos maisons Ceci est une limite qui ne",
+          "mentira pas.\"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 15,
+      "arabicVerse" : "وَلَا يَخَافُ عُقْبَاهَا",
+      "simpleTranslate" : [
+        "sans crainte de représailles."
+      ],
+      "tafsirTranslate" : [
+        "Il n'a pas peur de sa suite. <N:11>"
+      ],
+      "tanslateWordByWord" : [
+        "Et pas",
+        "Il craint",
+        "ses conséquences"
+      ],
+      "notes" : {
+        "11" : [
+          "Autrement dit, Allah est pas comme les rois du monde et les dirigeants des",
+          "gouvernements, qui, quand ils veulent prendre des mesures contre un peuple, sont",
+          "obligés de considérer quelles seront les conséquences de leur action . La",
+          "puissance d'Allah est suprême. Il avait pas de crainte qu'une puissance d'appui",
+          "de la Thamud sortirait pour se venger de lui."
+        ]
+      }
+    }
+  ],
+  "medinian" : false
+}

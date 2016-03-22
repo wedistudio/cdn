@@ -1,0 +1,3033 @@
+{
+  "chapterNumber" : 19,
+  "nbVerses" : 98,
+  "name" : "Marie",
+  "nameArabic" : "مريم",
+  "transName" : "Maryam",
+  "verses" : [
+    {
+      "verseNumber" : 1,
+      "arabicVerse" : "كهيعص",
+      "simpleTranslate" : [
+        "Kâf - Hâ - Yâ - Ayn - Sâd."
+      ],
+      "tafsirTranslate" : [
+        "Kaf Ha Ya `Ain Sad."
+      ],
+      "tanslateWordByWord" : [
+        "Kaaf Ha Ya Ain Sad"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 2,
+      "arabicVerse" : "ذِكْرُ رَحْمَتِ رَبِّكَ عَبْدَهُ زَكَرِيَّا",
+      "simpleTranslate" : [
+        "Ceci est l’évocation de la grâce que ton Seigneur fit à Son serviteur Zacharie,"
+      ],
+      "tafsirTranslate" : [
+        "Voici un compte <N:1> de la miséricorde de ton Seigneur a montré à Son serviteur",
+        "Zacharie <N:2>"
+      ],
+      "tanslateWordByWord" : [
+        "(A) mention",
+        "(De la) Mercy",
+        "(De) votre Seigneur",
+        "(À) Son serviteur",
+        "Zakariya"
+      ],
+      "notes" : {
+        "1" : [
+          "A titre de comparaison s'il vous plaît voir l'histoire de Zacharie comme indiqué",
+          "dans vv. 3457 d'Al-i-`Imran [(III)] et le E.N. est là de."
+        ],
+        "2" : [
+          "Pour comprendre la position détenue par Hadrat Zachariah, un descendant »du",
+          "Prophète Aaron, il faut se familiariser avec le système de la prêtrise parmi les",
+          "enfants d'Israël. \n Après la conquête de la Palestine, toute la terre a été",
+          "divisée entre les 12 tribus des descendants du Prophète Jacob comme héritage, et",
+          "la tribu 13 [(les Lévites)] ont été confiés à des services et des devoirs",
+          "religieux. Même parmi les Lévites, la maison qui a été séparé [ \"sanctifier les",
+          "choses les plus saintes .... pour brûler de l'encens devant le Seigneur, pour le",
+          "servir, et pour bénir en son nom pour toujours\"] était la maison du Prophète",
+          "Aaron . Les autres Lévites étaient pas autorisés à entrer dans le Temple? [",
+          "\"Parce que leur bureau était d'attendre sur les fils d'Aaron pour le service de",
+          "la maison du Seigneur, dans les tribunaux et dans les chambres, et dans la",
+          "purification de toutes les choses saintes, et le travail du service de la maison",
+          "du Dieu .... et d'offrir à tous les sacrifices pour le Seigneur dans les sabbats,",
+          "à la nouvelle lune, et sur les festivals ensemble. \"] les descendants d'Aaron ont",
+          "été divisés en 24 familles, qui sont venus pour servir la maison de le Seigneur",
+          "tour à tour. Une de ces familles était de Abiah dont le chef était Zachariah.",
+          "Ainsi, il était du devoir de Zachariah d'entrer dans la maison sur le tour de sa",
+          "famille et de brûler de l'encens devant le Seigneur. [(Pour plus de détails, voir",
+          "I Chroniques, chapitres 23, 24)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 3,
+      "arabicVerse" : "إِذْ نَادَىٰ رَبَّهُ نِدَاءً خَفِيًّا",
+      "simpleTranslate" : [
+        "lorsque celui-ci Lui avait adressé en secret cette prière :"
+      ],
+      "tafsirTranslate" : [
+        "quand il invoque son Seigneur à voix."
+      ],
+      "tanslateWordByWord" : [
+        "Quand",
+        "il a appelé",
+        "(À) son Seigneur",
+        "un appel",
+        "secret"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 4,
+      "arabicVerse" : "قَالَ رَبِّ إِنِّي وَهَنَ الْعَظْمُ مِنِّي وَاشْتَعَلَ الرَّأْسُ شَيْبًا وَلَمْ أَكُنْ بِدُعَائِكَ رَبِّ شَقِيًّا",
+      "simpleTranslate" : [
+        "«Seigneur, dit-il, mes forces déclinent, ma chevelure s’illumine de blancheur. Et",
+        "jamais, Seigneur, je n’ai été déçu en T’adressant mes prières."
+      ],
+      "tafsirTranslate" : [
+        "Il a prié, \"Ô mon Seigneur, mes os sont devenus pourris, et ma tête est luisante",
+        "avec l'âge Mon Seigneur ne m'a jamais déçu dans ma prière pour toi!.!."
+      ],
+      "tanslateWordByWord" : [
+        "Il a dit",
+        "Mon Seigneur",
+        "En effet, [I]",
+        "(Ont) affaibli",
+        "mes os",
+        "mes os",
+        "et évasée",
+        "(ma tête",
+        "(Avec) blanc",
+        "et pas",
+        "j'ai été",
+        "dans (mon) supplication (à) Vous",
+        "mon Seigneur",
+        "unblessed"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 5,
+      "arabicVerse" : "وَإِنِّي خِفْتُ الْمَوَالِيَ مِنْ وَرَائِي وَكَانَتِ امْرَأَتِي عَاقِرًا فَهَبْ لِي مِنْ لَدُنْكَ وَلِيًّا",
+      "simpleTranslate" : [
+        "Je crains la parentèle, après ma mort, car ma femme est stérile. Accorde-moi, par",
+        "un effet de Ta grâce, un successeur,"
+      ],
+      "tafsirTranslate" : [
+        "Je crains maintenant (les conséquences de) les mauvaises voies de mes parents",
+        "après moi, <N:3> et ma femme est stérile! Par conséquent, je te prie de me bénir",
+        "par ta grâce avec un successeur,"
+      ],
+      "tanslateWordByWord" : [
+        "Et en effet, je",
+        "[Je crains",
+        "les successeurs",
+        "après moi",
+        "après moi",
+        "et est",
+        "ma femme",
+        "stérile",
+        "Alors, donnez",
+        "[pour moi",
+        "de",
+        "Toi même",
+        "Un héritier"
+      ],
+      "notes" : {
+        "3" : [
+          "Autrement dit, [ «Je ne vois personne parmi mes parents, la famille de Abiah, qui",
+          "est religieusement et moralement saine et capable de porter sur les travaux de la",
+          "mission qui a été confiée à moi.\"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 6,
+      "arabicVerse" : "يَرِثُنِي وَيَرِثُ مِنْ آلِ يَعْقُوبَ ۖ وَاجْعَلْهُ رَبِّ رَضِيًّا",
+      "simpleTranslate" : [
+        "qui héritera de moi et de la famille de Jacob. Et fais, Seigneur, qu’il soit",
+        "agréé de Toi !»"
+      ],
+      "tafsirTranslate" : [
+        "qui peut hériter mon héritage et celui des descendants de Jacob; <N:4> et O",
+        "Seigneur, fais de lui une personne désirable »."
+      ],
+      "tanslateWordByWord" : [
+        "Qui me hériteront",
+        "et d'hériter",
+        "de",
+        "(la famille",
+        "(De) Yaqub",
+        "Et lui faire",
+        "mon Seigneur",
+        "plaisant"
+      ],
+      "notes" : {
+        "4" : [
+          "Autrement dit, [ «Je ne prie pas pour un successeur à me hériter seul, mais un",
+          "successeur qui peut hériter des bonnes manières de la maison de Jacob.\"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 7,
+      "arabicVerse" : "يَا زَكَرِيَّا إِنَّا نُبَشِّرُكَ بِغُلَامٍ اسْمُهُ يَحْيَىٰ لَمْ نَجْعَلْ لَهُ مِنْ قَبْلُ سَمِيًّا",
+      "simpleTranslate" : [
+        "– «Ô Zacharie, lui fut-il dit, Nous te faisons l’annonce d’un garçon qui portera",
+        "le nom de Jean et auquel Nous n’avons pas donné d’homonyme auparavant.»"
+      ],
+      "tafsirTranslate" : [
+        "(La réponse était:) \"O Zachariah, Nous vous donnons les bonnes nouvelles d'un",
+        "fils, qui sera appelé Yahya (Jean) Nous avons pas créé un autre homme de ce nom",
+        "avant.\". <N:5>"
+      ],
+      "tanslateWordByWord" : [
+        "O Zakariya",
+        "En effet, nous",
+        "[Nous] vous donner de bonnes nouvelles",
+        "d'un garçon",
+        "son nom",
+        "(Sera) Yahya",
+        "ne pas",
+        "Nous (ont) attribué",
+        "[pour ça",
+        "avant",
+        "avant",
+        "(Ce nom"
+      ],
+      "notes" : {
+        "5" : [
+          "Dans Luc les mots sont: [ \". Il n'y a personne de ta parenté qui soit appelé de",
+          "ce nom\"] [(I: 61 <V:1:61>)]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 8,
+      "arabicVerse" : "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِي غُلَامٌ وَكَانَتِ امْرَأَتِي عَاقِرًا وَقَدْ بَلَغْتُ مِنَ الْكِبَرِ عِتِيًّا",
+      "simpleTranslate" : [
+        "– «Comment, Seigneur, pourrais-je, dit Zacharie, avoir un fils, quand mon épouse",
+        "est stérile et que moi-même j’ai atteint l’âge de la décrépitude?»"
+      ],
+      "tafsirTranslate" : [
+        "Il a dit: «Seigneur, comment puis-je attribuer un fils, quand ma femme est",
+        "stérile et que je suis devenu impuissant à cause de la vieillesse?\""
+      ],
+      "tanslateWordByWord" : [
+        "Il a dit",
+        "Mon Seigneur",
+        "Comment",
+        "pouvez",
+        "j'ai",
+        "un garçon",
+        "tout est",
+        "ma femme",
+        "stérile",
+        "et en effet",
+        "Je suis arrivé",
+        "de",
+        "la vieillesse",
+        "extrême"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 9,
+      "arabicVerse" : "قَالَ كَذَٰلِكَ قَالَ رَبُّكَ هُوَ عَلَيَّ هَيِّنٌ وَقَدْ خَلَقْتُكَ مِنْ قَبْلُ وَلَمْ تَكُ شَيْئًا",
+      "simpleTranslate" : [
+        "Il lui fut répondu : «Ton Seigneur a dit : “Il en sera ainsi ! Rien de plus",
+        "facile pour Moi. Et toi-même, tu n’étais rien quand Je t’ai créé !”«"
+      ],
+      "tafsirTranslate" : [
+        "En réponse, il a été dit: «Il en sera de ton Seigneur dit:` C'est facile pour",
+        "moi, comme je vous créé avant cela, quand vous étiez rien du tout. \". <N:6>"
+      ],
+      "tanslateWordByWord" : [
+        "Il a dit",
+        "Ainsi",
+        "dit",
+        "votre Seigneur",
+        "'Il",
+        "(Est) facile pour moi",
+        "(Est) facile pour moi",
+        "et certainement",
+        "I (a) que vous avez créé",
+        "avant",
+        "avant",
+        "tout en ne",
+        "vous étiez",
+        "n'importe quoi.'"
+      ],
+      "notes" : {
+        "6" : [
+          "Ce dialogue vise à impressionner que Dieu est capable de faire tout ce qu'il veut",
+          "et peut faire un homme impuissant et une femme stérile donne naissance à un",
+          "enfant, et de même une vierge peut être fait pour concevoir un enfant."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 10,
+      "arabicVerse" : "قَالَ رَبِّ اجْعَلْ لِي آيَةً ۚ قَالَ آيَتُكَ أَلَّا تُكَلِّمَ النَّاسَ ثَلَاثَ لَيَالٍ سَوِيًّا",
+      "simpleTranslate" : [
+        "– «Seigneur, reprit Zacharie, donne-moi un signe de cet événement.» – «Ton signe,",
+        "lui fut-il dit, sera que tu ne pourras pas parler aux gens durant trois jours,",
+        "quoique bien portant.»"
+      ],
+      "tafsirTranslate" : [
+        "Zachariah a dit: «Seigneur, nommer un signe pour moi.\" Il dit: «Le signe pour",
+        "vous est que vous ne pouvez pas parler aux gens pendant trois jours consécutifs.\""
+      ],
+      "tanslateWordByWord" : [
+        "Il a dit",
+        "Mon Seigneur",
+        "Faire",
+        "pour moi",
+        "un panneau",
+        "Il a dit",
+        "Votre signe",
+        "(Is) qui ne",
+        "vous parlerez",
+        "(À) les personnes",
+        "(pour trois",
+        "nuits",
+        "sonner"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 11,
+      "arabicVerse" : "فَخَرَجَ عَلَىٰ قَوْمِهِ مِنَ الْمِحْرَابِ فَأَوْحَىٰ إِلَيْهِمْ أَنْ سَبِّحُوا بُكْرَةً وَعَشِيًّا",
+      "simpleTranslate" : [
+        "Zacharie quitta alors le sanctuaire et, se dirigeant vers les siens, il les",
+        "invita à prier matin et soir."
+      ],
+      "tafsirTranslate" : [
+        "Après cela, il est sorti du sanctuaire <N:7> à son peuple, et fait des signes,",
+        "leur demandant, \"Glorfy Dieu matin et soir.» <N:8>"
+      ],
+      "tanslateWordByWord" : [
+        "Puis il est sorti",
+        "à",
+        "son peuple",
+        "de",
+        "la chambre de prière",
+        "et il a signalé",
+        "pour eux",
+        "à",
+        "glorifier (Allah)",
+        "(du matin",
+        "et dans la soirée"
+      ],
+      "notes" : {
+        "8" : [
+          "Ci-dessous, nous reproduisons les détails de cet événement comme indiqué dans",
+          "l'Evangile de Luc afin que le. lecteur peut étudier et comparer le Coran avec la",
+          "version chrétienne. Les références et les additions dans les crochets sont les",
+          "nôtres: \n [ \"Il y avait dans les jours d'Hérode, roi de Judée, [(voir Bani",
+          "Isra'il (XVII)]: FR 9) un sacrificateur, nommé Zacharie, de cours de Abiah: et sa",
+          "femme était des filles de Aaron, et son nom wag Elisabeth. et ils étaient tous",
+          "deux justes devant Dieu, marchant dans tous les commandements et les ordonnances",
+          "du Seigneur, sans reproche. et ils ont eu pas d'enfant, parce qu'Elisabeth était",
+          "stérile, et ils étaient tous deux avancé en âge. Et il arriva que, tandis qu'il",
+          "exécute le bureau du prêtre devant Dieu dans l'ordre de son cours, selon la",
+          "coutume du bureau du prêtre, son sort était de brûler de l'encens quand il entra",
+          "dans le temple du Seigneur. Et l'ensemble la multitude du peuple était dehors en",
+          "prière au moment de l'encens. et il lui apparut un ange du Seigneur qui se tenait",
+          "sur le côté droit de l'autel de l'encens. et Zacharie le vit, il fut troublé, et",
+          "la peur est tombé sur lui. Mais l'ange lui dit: ne crains point, Zacharie; car ta",
+          "prière est exaucée; [(il n'y a aucune mention de la prière de Zacharie partout",
+          "dans la Bible)] et ta femme Élisabeth te enfantera un fils, et tu lui donneras le",
+          "nom John [(qui est, Yahia)]. Et tu auras joie et allégresse; et beaucoup se",
+          "réjouiront de sa naissance. Car il sera grand devant le Seigneur [(Sayyidan: un",
+          "grand leader selon le Coran, III: 39 <V:3:39>)], et ne boira ni vin ni boisson",
+          "forte [(la version coranique:. Taqiyynr pieux et pur )]; et il sera rempli du",
+          "Saint-Esprit, même à partir de sa mère ventre de [(le Coran dit: `Nous lui avons",
+          "la chance d'avoir\"] jugement [ \"alors qu'il était encore un enfant»)]. Et la",
+          "plupart des enfants d'Israël, il se tourner vers le Seigneur leur Dieu. Et il ira",
+          "devant lui dans l'esprit de la puissance d'Élie, pour ramener les coeurs des",
+          "pères vers les enfants, et les rebelles à la sagesse des justes; pour faire un",
+          "peuple prêt préparés pour le Seigneur. \n \"] Et Zacharie dit à l'ange: A quoi",
+          "dois-je le sais car je suis un vieil homme, et ma femme est avancée en âge Et le",
+          "répondeur ange lui dit: Je suis Gabriel, qui se tiennent dans la présence de",
+          "Dieu;. Et je suis envoyé pour te parler, et pour te annoncer cette bonne",
+          "nouvelle. et voici, tu seras muet, et tu ne pourras parler jusqu'au jour où ces",
+          "choses arriveront, parce que tu crois pas mes paroles, qui doit être remplies",
+          "dans leur saison. [(Ceci est différent du Coran, ce qui lui donne, comme un",
+          "signe, alors que selon Luc, il était une punition. en outre, le Coran mentionne",
+          "que le silence pour `trois jours consécutifs» , mais Luc dit que Zacharie est",
+          "resté muet jusqu'à la naissance de Jean)] et le peuple .waited Zacharie,",
+          "émerveillé de ce qu'il restait si longtemps dans le temple et quand il est sorti,",
+          "il ne pouvait pas leur parler.. et ils aperçut qu'il avait eu une vision dans le",
+          "temple; car il leur faisait des signes, et resta sans voix \". [(Luc, I: 5-22",
+          "<V:1:5-22>)]."
+        ],
+        "7" : [
+          "Pour l'explication du mihrab [(sanctuaire)], voir E.N. 36 d'Al-i-`Imran"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 12,
+      "arabicVerse" : "يَا يَحْيَىٰ خُذِ الْكِتَابَ بِقُوَّةٍ ۖ وَآتَيْنَاهُ الْحُكْمَ صَبِيًّا",
+      "simpleTranslate" : [
+        "«Ô Jean ! Applique-toi à l’étude du Livre avec ferveur !» Et Nous lui donnâmes",
+        "dès son enfance la sagesse,"
+      ],
+      "tafsirTranslate" : [
+        "Pour John Nous dit: «Observez le Livre Divin avec une volonté ferme. <N:9>\""
+      ],
+      "tanslateWordByWord" : [
+        "O Yahya",
+        "Tenir",
+        "l'Ecriture",
+        "avec une force",
+        "Et Nous lui avons donné",
+        "[la sagesse",
+        "(quand il était petit"
+      ],
+      "notes" : {
+        "9" : [
+          "Les détails concernant la naissance du prophète Jean, selon la volonté divine, et",
+          "sa majorité, ont été laissés de côté. Ici, en une phrase, la mission de la",
+          "Prophétie qui lui est confiée sur l'atteinte de la maturité a été dit, ce qui",
+          "était [ «d'observer et de suivre la Torah dans la lettre et de l'esprit, et",
+          "d'exhorter les Israélites et à faire de même.\"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 13,
+      "arabicVerse" : "وَحَنَانًا مِنْ لَدُنَّا وَزَكَاةً ۖ وَكَانَ تَقِيًّا",
+      "simpleTranslate" : [
+        "ainsi que la tendresse et la pureté, par un effet de Notre grâce. Il craignait",
+        "Dieu,"
+      ],
+      "tafsirTranslate" : [
+        "Nous lui avons la chance d'avoir «jugement» <N:10> alors qu'il était encore un",
+        "enfant, et lui conféra tendresse de cœur <N:11> et de la pureté de Nous-même; et",
+        "il était très pieux"
+      ],
+      "tanslateWordByWord" : [
+        "Et de l'affection",
+        "de",
+        "Nous",
+        "et la pureté",
+        "et il était",
+        "vertueux"
+      ],
+      "notes" : {
+        "10" : [
+          "Le mot hukm arabe implique la capacité [(1)] pour prendre des décisions, [(2)]",
+          "pour former des opinions de droite, [(3)] pour interpréter la loi divine, [(4)]",
+          "pour résoudre problèmes, et [(5)], cela signifie aussi `autorité d'Allah pour",
+          "décider des affaires»."
+        ],
+        "11" : [
+          "Le mot arabe Hanan est presque synonyme de `amour de mère». En d'autres termes,",
+          "le Prophète John portait dans son cœur le même genre d'amour intense pour les",
+          "serviteurs d'Allah en tant que mère a pour son enfant."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 14,
+      "arabicVerse" : "وَبَرًّا بِوَالِدَيْهِ وَلَمْ يَكُنْ جَبَّارًا عَصِيًّا",
+      "simpleTranslate" : [
+        "il était plein de piété filiale pour ses parents et il n’était ni violent ni",
+        "désobéissant."
+      ],
+      "tafsirTranslate" : [
+        "et dévoué envers ses parents, et il ne fut ni arrogante ni désobéissant."
+      ],
+      "tanslateWordByWord" : [
+        "Et obéissante",
+        "à ses parents",
+        "et pas",
+        "il était",
+        "un tyran",
+        "désobéissant"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 15,
+      "arabicVerse" : "وَسَلَامٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا",
+      "simpleTranslate" : [
+        "Que la paix soit sur lui le jour où il naquit, le jour où il mourra et le jour où",
+        "il sera ressuscité !"
+      ],
+      "tafsirTranslate" : [
+        "La paix était sur lui le jour où il est né et le jour où il est mort, et la paix",
+        "sera sur lui le jour où il sera _raised à la vie. <N:12>"
+      ],
+      "tanslateWordByWord" : [
+        "Et la paix soit",
+        "sur lui",
+        "(le jour",
+        "il est né",
+        "et la journée",
+        "il meurt",
+        "et la journée",
+        "il sera ressuscité",
+        "vivant"
+      ],
+      "notes" : {
+        "12" : [
+          "Afin d'avoir une meilleure compréhension de la mission et le caractère pur du",
+          "Prophète John, dont de brèves références ont été faites dans cette sourate et la",
+          "sourate Al-i-`Imran, il sera utile d'étudier cette histoire comme indiqué dans",
+          "les différents livres du Nouveau Testament dans l'ordre suivant: \n Selon Luc, le",
+          "Prophète John était plus âgé que le Prophète Jésus de six mois et leurs mères",
+          "étaient cousins. Il a été nommé un prophète à l'âge de 30 ans, et selon",
+          "l'Evangile de Jean, il a commencé sa mission d'inviter les gens vers Dieu en",
+          "Jordanie. Il disait: [ \".. Je suis la voix de celui qui crie dans le désert:",
+          "Aplanissez le chemin du Seigneur\"] [(Jean, I: 23 <V:1:23>)] \n Selon Mark, [ \"John",
+          "baptisait dans le désert, et prêchez la Baptizm de repentir pour la rémission des",
+          "péchés. Et il sortit lui tout le pays de Judée, et ils de Jérusalem, et ont tous",
+          "été baptisés par lui dans le fleuve du Jourdain, confessant leurs péchés \"]",
+          "[(Marc, I: 45).]. Il est venu ainsi à être connu comme Jean-Baptiste, et les",
+          "Israélites le tenait pour un prophète. [(Mat. 21: 26)]. Prophète Jésus a dit à",
+          "propos de John: [ «Parmi ceux qui sont nés de femmes, il en a point paru un homme",
+          "plus grand que Jean-Baptiste.\"] [(Mat. 11: 11)] \n [ \"Jean avait un vêtement de",
+          "poils de chameau, et une ceinture de cuir autour des reins, et se nourrissait de",
+          "sauterelles et de miel sauvage.\"] [(Mat 3: 4.)]. Il disait: [ \"Repentez-vous, car",
+          "le royaume des cieux est à portée de main.\"] [(Mat 3: 2).]. Par là, il voulait",
+          "dire que très bientôt le Prophète Jésus allait commencer sa mission de la",
+          "Prophétie. La même chose a été dit sur lui dans le Coran: [ \"il [(Jean)] viendra",
+          "confirmer une commande d'Allah...\".] [(III: 39 <V:3:39>)]. Pour la même raison,",
+          "il a été appelé `un signe ou pointeur vers Prophète Jésus. \n Il a exhorté les",
+          "gens à observer le jeûne et de prières. [(Mat 9:. 14, Luke, 5: 33, I1: 1)]. Il",
+          "serait également leur dire; [(Luc 3: 11)] [ «Celui qui a deux tuniques, qu'il",
+          "-impart à celui qui a pas et celui qui a la viande, fasse de même....\"]. Lorsque",
+          "les collecteurs d'impôts ont demandé, [ «Maître, que ferons-nous?»] Il leur dit:",
+          "[ \"Exact pas plus que ce qui vous a été ordonné.\"] [(12-13)], et quand les",
+          "soldats ont cherché sa direction, il a dit: [ «ne commettez pas l'homme, ni",
+          "extorsion ni fraude envers personne, et contentez vous de votre solde.»] [(Luc,",
+          "3: 14)] ' \n Quand les savants corrompus, pharisiens et des sadducéens des",
+          "Israélites, est venu à être baptisé par lui, il les menaça, disant: [ «Ô",
+          "génération de vipères, qui vous a appris à fuir la colère à venir .. ne pensez",
+          "pas à dire en vous-mêmes: Nous avons Abraham pour père ... maintenant la cognée",
+          "est mise à la racine des arbres:. tout arbre donc qui ne produit pas de bons",
+          "fruits est coupé et jeté au feu \"] [(Mat- 3: 7-10)] \n La règle juive de son",
+          "temps, Hérode Antipas, dans dont tetrarchy il effectuait sa mission d'inviter les",
+          "gens à la vérité, avait été si profondément influencé par la civilisation romaine",
+          "qu'il était à l'origine péché et du mal à se répandre librement dans le pays. Il",
+          "avait gardé Hérodias, femme de son frère Philippe, illégalement dans sa maison;",
+          "quand le Prophète John lui reprocha pour cela et a élevé sa voix contre d'autres",
+          "maux commis par lui, Hérode a obtenu l'a arrêté et envoyé en prison. Cependant,",
+          "il le tenait en haute estime pour sa piété et la justice, et même le craignait à",
+          "cause du grand respect dont il jouissait parmi le peuple. Au contraire, Hérodiade",
+          "pensait que la conscience morale que le Prophète John produisait parmi le peuple",
+          "était directement destiné aux femmes comme elle et en les tirant vers le bas aux",
+          "yeux du public. Ainsi, elle nourri une rancune contre lui et l'aurait tué, mais",
+          "ne pouvait pas. Bientôt l'occasion est venue son chemin. Sur le banquet",
+          "d'anniversaire d'Hérode, sa fille a dansé et si heureux Hérode et d'autres que le",
+          "roi lui dit: «Demande-moi ce que tu voudras, et je te le donnera. La jeune fille",
+          "a demandé à sa mère ce qu'elle devrait demander. La mère a dit, `Demandez la tête",
+          "de Jean-Baptiste». La jeune fille est retournée au roi et a demandé d'y avoir,",
+          "puis la tête de Jean-Baptiste sur un plat. Hérode était désolé d'entendre cela,",
+          "mais ne pouvait pas rejeter la demande de la fille de sa bien-aimée. Il a obtenu",
+          "à la fois prophète Jean tué dans la prison et a présenté sa tête sur un plat à la",
+          "fille de danse. [(Mat. 14: 3-12, Mark, 6: 17-29, Luc 3: 19-20)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 16,
+      "arabicVerse" : "وَاذْكُرْ فِي الْكِتَابِ مَرْيَمَ إِذِ انْتَبَذَتْ مِنْ أَهْلِهَا مَكَانًا شَرْقِيًّا",
+      "simpleTranslate" : [
+        "Rappelle aussi l’histoire de Marie, telle qu’il est fait mention dans le Coran,",
+        "lorsqu’elle se retira en un endroit situé à l’est, loin de sa famille,"
+      ],
+      "tafsirTranslate" : [
+        "Et, ô Muhammad, rapportent dans ce livre l'histoire de Marie: <N:13> comment elle",
+        "avait pris sa retraite dans la solitude de son peuple à la côte orientale"
+      ],
+      "tanslateWordByWord" : [
+        "Et mentionne",
+        "dans",
+        "le livre",
+        "Maryam",
+        "quand",
+        "elle se retira",
+        "de",
+        "sa famille",
+        "(À) un lieu",
+        "est"
+      ],
+      "notes" : {
+        "13" : [
+          "A titre de comparaison, voir Al-i-`Imran [(III)]: 34-57, et An-Nina [(IV)]: 156",
+          "et E.N. de celui-ci."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 17,
+      "arabicVerse" : "فَاتَّخَذَتْ مِنْ دُونِهِمْ حِجَابًا فَأَرْسَلْنَا إِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرًا سَوِيًّا",
+      "simpleTranslate" : [
+        "et étendit un voile entre elle et les siens. C’est alors que Nous lui envoyâmes",
+        "Notre Esprit qui se présenta à elle sous la forme d’un homme accompli."
+      ],
+      "tafsirTranslate" : [
+        "et avait accroché vers le bas d'un écran pour se cacher d'eux. <N:14> Nous lui",
+        "envoyâmes Notre Esprit ( «un ange») et il a comparu devant elle sous la forme",
+        "d'un homme parfait."
+      ],
+      "tanslateWordByWord" : [
+        "Puis elle a pris",
+        "d'eux",
+        "d'eux",
+        "un écran",
+        "Ensuite, Nous envoyâmes",
+        "à elle",
+        "Notre Esprit",
+        "puis il a pris pour elle la ressemblance",
+        "puis il a pris pour elle la ressemblance",
+        "(De) un homme",
+        "bien proportionné"
+      ],
+      "notes" : {
+        "14" : [
+          "Le sanctuaire où elle avait pris sa retraite pour la dévotion était une chambre",
+          "orientale dans le Temple, et comme il était d'usage, elle avait accroché un",
+          "rideau pour se cacher des gens. Il ne peut pas être Nazareth comme certaines",
+          "personnes ont mal pris d'être, parce que Nazareth est au nord de Jérusalem."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 18,
+      "arabicVerse" : "قَالَتْ إِنِّي أَعُوذُ بِالرَّحْمَٰنِ مِنْكَ إِنْ كُنْتَ تَقِيًّا",
+      "simpleTranslate" : [
+        "Elle lui dit : «Je cherche refuge contre toi auprès du Tout-Miséricordieux, si",
+        "tant est que tu Le craignes.»"
+      ],
+      "tafsirTranslate" : [
+        "Mary cria involontairement, «Je cherche le refuge de Dieu de vous, si vous êtes",
+        "un homme pieux.\""
+      ],
+      "tanslateWordByWord" : [
+        "Dit-elle",
+        "En effet, je",
+        "[I] chercher refuge",
+        "avec le Tout Miséricordieux",
+        "de toi",
+        "si",
+        "tu es",
+        "craignant Dieu"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 19,
+      "arabicVerse" : "قَالَ إِنَّمَا أَنَا رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَامًا زَكِيًّا",
+      "simpleTranslate" : [
+        "– «Je ne suis, dit-il, qu’un envoyé de ton Seigneur, chargé de te faire présent",
+        "d’un garçon immaculé.»"
+      ],
+      "tafsirTranslate" : [
+        "Il a répondu: «Je suis un simple messager de ton Seigneur et ai été envoyé pour",
+        "vous donner un fils pur.\""
+      ],
+      "tanslateWordByWord" : [
+        "Il a dit",
+        "Seulement",
+        "je suis",
+        "un Messager",
+        "(De) votre Seigneur",
+        "que je (peux) donner",
+        "sur toi",
+        "un fils",
+        "pur"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 20,
+      "arabicVerse" : "قَالَتْ أَنَّىٰ يَكُونُ لِي غُلَامٌ وَلَمْ يَمْسَسْنِي بَشَرٌ وَلَمْ أَكُ بَغِيًّا",
+      "simpleTranslate" : [
+        "– «Comment, s’étonna-t-elle, pourrais-je avoir un enfant alors qu’aucun être",
+        "humain ne m’a jamais touchée et que je n’ai jamais été une femme de mœurs",
+        "légères?»"
+      ],
+      "tafsirTranslate" : [
+        "Marie dit: \"Comment puis-je un fils, quand aucun homme ne m'a touchée, et je ne",
+        "suis pas une femme prostituée?\""
+      ],
+      "tanslateWordByWord" : [
+        "Dit-elle",
+        "Comment",
+        "peut être",
+        "pour moi",
+        "un fils",
+        "si non",
+        "m'a touché",
+        "un homme",
+        "et pas",
+        "je suis",
+        "impudique"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 21,
+      "arabicVerse" : "قَالَ كَذَٰلِكِ قَالَ رَبُّكِ هُوَ عَلَيَّ هَيِّنٌ ۖ وَلِنَجْعَلَهُ آيَةً لِلنَّاسِ وَرَحْمَةً مِنَّا ۚ وَكَانَ أَمْرًا مَقْضِيًّا",
+      "simpleTranslate" : [
+        "Il lui fut répondu : «Ainsi en a décidé ton Seigneur qui a dit : “Rien n’est plus",
+        "facile pour Moi. Nous ferons de cet enfant un signe pour les hommes et une",
+        "miséricorde émanant de Nous.”« Et il en fut ainsi."
+      ],
+      "tafsirTranslate" : [
+        "L'ange répondit: \"Il en sera. Votre Seigneur dit:` Ceci est une chose facile à",
+        "faire pour moi, et nous allons le faire afin de rendre ce garçon un signe pour",
+        "les gens <N:15> et une bénédiction de nous, et cela doit se produire. \""
+      ],
+      "tanslateWordByWord" : [
+        "Il a dit",
+        "Ainsi",
+        "dit",
+        "votre Seigneur",
+        "'Il",
+        "(est pour moi",
+        "facile",
+        "et que nous ferons de lui",
+        "un panneau",
+        "pour l'humanité",
+        "et une miséricorde",
+        "de notre part",
+        "Et c'est",
+        "une matière",
+        "décrété.'"
+      ],
+      "notes" : {
+        "15" : [
+          "Le mot [ «Il en sera\"] sont très importants comme cela a été indiqué dans E.N. 6.",
+          "Le sens ordinaire est la suivante: [ «Un fils pur est né pour vous, tout comme",
+          "ton Seigneur a décrété, même si personne ne vous a touché.\"] La même chose a été",
+          "la réponse au prophète Zacharie comme indiqué dans v 9 ci-dessus. . Et il est une",
+          "perversion pure de l'interpréter comme: [ \"Il en sera qu'un homme vous touchera",
+          "et un fils sera né pour vous.\"] Car, si elle devait dire: [ «Tu enfanteras un",
+          "fils comme toutes les autres femmes du monde, \"] les deux prochaines phrases: [\"",
+          "Votre Seigneur dit: «Ceci est une chose facile à faire pour moi, et nous ferons",
+          "ce garçon un signe pour les gens\", \"] auraient plus de sens : avait cette",
+          "naissance eu une naissance ordinaire comme la naissance de tous les autres",
+          "enfants, il n'y aurait pas eu l'occasion de se vanter:. [ \"il est une chose",
+          "facile, et que ce sera un signe [(miracle)] ce sera parce que l'enfant parlera",
+          "dans le berceau. \"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 22,
+      "arabicVerse" : "فَحَمَلَتْهُ فَانْتَبَذَتْ بِهِ مَكَانًا قَصِيًّا",
+      "simpleTranslate" : [
+        "Elle devint donc enceinte de l’enfant et se retira avec lui en un lieu éloigné."
+      ],
+      "tafsirTranslate" : [
+        "En conséquence, Marie a conçu l'enfant, et avec elle, elle alla à un endroit",
+        "éloigné. <N:16>"
+      ],
+      "tanslateWordByWord" : [
+        "Alors, elle l'a conçu",
+        "et elle se retire",
+        "avec lui",
+        "(À) un lieu",
+        "éloigné"
+      ],
+      "notes" : {
+        "16" : [
+          "Quand elle a conçu l'enfant, elle a quitté le sanctuaire et est allé à un endroit",
+          "éloigné [(Bethlehem)] afin d'échapper à la critique amère du peuple. Ils auraient",
+          "dit, [ «Regardez la vierge, fille de la maison pieuse d'Aaron! Elle a conçu un",
+          "enfant et que, aussi, dans le sanctuaire où elle avait pris sa retraite pour la",
+          "dévotion!\"] Ainsi, elle réussit temporairement à dissimuler la honte de la",
+          "conception, mais cet événement lui-même est une preuve que prophète Jésus est né",
+          "sans père. Mary avait été marié et avait un mari, elle ne serait pas quitté la",
+          "maison de ses parents par elle-même et choisi un endroit éloigné dans le but de",
+          "la livraison."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 23,
+      "arabicVerse" : "فَأَجَاءَهَا الْمَخَاضُ إِلَىٰ جِذْعِ النَّخْلَةِ قَالَتْ يَا لَيْتَنِي مِتُّ قَبْلَ هَٰذَا وَكُنْتُ نَسْيًا مَنْسِيًّا",
+      "simpleTranslate" : [
+        "Puis, saisie par les douleurs de l’accouchement, elle s’adossa au tronc d’un",
+        "palmier en s’écriant : «Plût à Dieu que je fusse morte et oubliée bien avant cet",
+        "instant !»"
+      ],
+      "tafsirTranslate" : [
+        "Puis les affres de l'enfantement l'a exhorté à se réfugier sous un palmier",
+        "dattier. Là, elle a commencé à crier: «Oh! Que je fusse morte avant cet et sombré",
+        "dans l'oubli.\" <N:17>"
+      ],
+      "tanslateWordByWord" : [
+        "Puis elle a conduit",
+        "les douleurs de l'accouchement",
+        "à",
+        "(le coffre",
+        "(De) la date-palm",
+        "Dit-elle",
+        "O! je souhaite",
+        "I (a) est mort",
+        "avant",
+        "ce",
+        "et j'étais",
+        "(Dans) l'oubli",
+        "oublié"
+      ],
+      "notes" : {
+        "17" : [
+          "Les mots [ «Serait-ce ...\"] montrer l'état extrême de l'anxiété dans laquelle",
+          "Marie se trouvait à l'époque. Elle n'a pas prononcé ces mots à cause des douleurs",
+          "du travail, mais en raison des affres de la douleur à la façon dont elle",
+          "masquerait l'enfant de son peuple. Les paroles de l'ange --- [ \"Grieve pas du",
+          "tout»] - expliquer pourquoi elle avait dit ces paroles désespérées. Quand une",
+          "fille mariée honore son premier bébé, elle pourrait être en train de mourir avec",
+          "des douleurs, mais elle ne l'est jamais triste et affligé."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 24,
+      "arabicVerse" : "فَنَادَاهَا مِنْ تَحْتِهَا أَلَّا تَحْزَنِي قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا",
+      "simpleTranslate" : [
+        "Une voix l’appela alors de dessous d’elle : «Ne t’afflige point ! Ton Seigneur a",
+        "fait jaillir un ruisseau à tes pieds."
+      ],
+      "tafsirTranslate" : [
+        "A ce l'ange au pied de son lit la consola, en disant: «Grieve pas du tout, pour",
+        "votre Seigneur a mis un ressort sous vous, comme pour votre nourriture,"
+      ],
+      "tanslateWordByWord" : [
+        "Donc, cria à son",
+        "de",
+        "sous sa",
+        "Ce (ne) pas",
+        "chagriner",
+        "en vérité",
+        "(A) placé",
+        "votre Seigneur",
+        "dessous de vous",
+        "un courant"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 25,
+      "arabicVerse" : "وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ تُسَاقِطْ عَلَيْكِ رُطَبًا جَنِيًّا",
+      "simpleTranslate" : [
+        "Secoue vers toi le tronc du palmier, il en tombera sur toi des dattes mûres et",
+        "succulentes."
+      ],
+      "tafsirTranslate" : [
+        "secouer le tronc de cet arbre et des dattes fraîches et mûres tomberont pour",
+        "vous;"
+      ],
+      "tanslateWordByWord" : [
+        "Secoue",
+        "vers vous",
+        "(le coffre",
+        "(De) la date-palm",
+        "il fera tomber",
+        "sur vous",
+        "dattes fraîches",
+        "mûr"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 26,
+      "arabicVerse" : "فَكُلِي وَاشْرَبِي وَقَرِّي عَيْنًا ۖ فَإِمَّا تَرَيِنَّ مِنَ الْبَشَرِ أَحَدًا فَقُولِي إِنِّي نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًا فَلَنْ أُكَلِّمَ الْيَوْمَ إِنْسِيًّا",
+      "simpleTranslate" : [
+        "Mange, bois et réjouis-toi ! S’il t’arrive de voir quelqu’un, dis-lui : “J’ai",
+        "fait vœu d’un jeûne au Tout-Miséricordieux. Je ne parlerai donc aujourd’hui à",
+        "aucun être humain.”«"
+      ],
+      "tafsirTranslate" : [
+        "donc manger et boire et rafraîchir vos yeux; et si vous voyez un homme, lui dire,",
+        "`Comme je l'ai promis d'observer le jeûne (du silence) pour le bien du",
+        "Miséricordieux, je wi l l ne parler à personne aujourd'hui. « <N:18>"
+      ],
+      "tanslateWordByWord" : [
+        "Alors, mangez",
+        "et boire",
+        "et frais",
+        "(tes yeux",
+        "Et si",
+        "tu vois",
+        "de",
+        "être humain",
+        "n'importe qui",
+        "alors dire",
+        "En effet, je",
+        "[I] ai juré",
+        "le Tout Miséricordieux",
+        "un jeûne",
+        "afin de ne pas",
+        "je parlerai",
+        "aujourd'hui",
+        "(L'une) être humain"
+      ],
+      "notes" : {
+        "18" : [
+          "Autrement dit, [ \"Vous ne devez pas dire quoi que ce soit à l'égard de l'enfant.",
+          "Il est maintenant de notre responsabilité de répondre aux critiques.\"] Cela",
+          "indique aussi pourquoi Marie était si triste et affligé. Elle avait été mariée et",
+          "donné naissance à son premier enfant comme toute autre mère, il n'y avait pas",
+          "l'occasion de lui dire d'observer [ \"un jeûne de silence\"], même si elle était",
+          "une coutume courante chez les Juifs."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 27,
+      "arabicVerse" : "فَأَتَتْ بِهِ قَوْمَهَا تَحْمِلُهُ ۖ قَالُوا يَا مَرْيَمُ لَقَدْ جِئْتِ شَيْئًا فَرِيًّا",
+      "simpleTranslate" : [
+        "Puis elle revint auprès des siens avec l’enfant dans ses bras. «Ô Marie, lui",
+        "dirent-ils, quel acte monstrueux as-tu commis là !"
+      ],
+      "tafsirTranslate" : [
+        "Puis elle a introduit l'enfant à son peuple. Ils dirent: «Ô Marie! Ceci est un",
+        "grand péché que vous avez commis."
+      ],
+      "tanslateWordByWord" : [
+        "Puis elle est venue",
+        "avec lui",
+        "(À) son peuple",
+        "le portant",
+        "Ils ont dit",
+        "O Maryam",
+        "Certainement",
+        "vous (ont) apporté",
+        "une chose étonnante",
+        "une chose étonnante"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 28,
+      "arabicVerse" : "يَا أُخْتَ هَارُونَ مَا كَانَ أَبُوكِ امْرَأَ سَوْءٍ وَمَا كَانَتْ أُمُّكِ بَغِيًّا",
+      "simpleTranslate" : [
+        "Ô sœur d’Aaron ! Ton père n’a jamais été un homme dépravé ni ta mère une femme",
+        "prostituée !»"
+      ],
+      "tafsirTranslate" : [
+        "O soeur d'Aaron! <N:19> ton père était pas un méchant homme, ni votre mère un de",
+        "woman19a impudique. \""
+      ],
+      "tanslateWordByWord" : [
+        "O soeur",
+        "(De) Harun",
+        "ne pas",
+        "était",
+        "ton père",
+        "un homme mauvais",
+        "un homme mauvais",
+        "et pas",
+        "était",
+        "ta mère",
+        "impudique"
+      ],
+      "notes" : {
+        "19" : [ ]
+      }
+    },
+    {
+      "verseNumber" : 29,
+      "arabicVerse" : "فَأَشَارَتْ إِلَيْهِ ۖ قَالُوا كَيْفَ نُكَلِّمُ مَنْ كَانَ فِي الْمَهْدِ صَبِيًّا",
+      "simpleTranslate" : [
+        "Marie leur fit signe de s’adresser à l’enfant. «Est-il possible,",
+        "s’étonnèrent-ils, de parler à un enfant encore au berceau?»"
+      ],
+      "tafsirTranslate" : [
+        "(En réponse à cette) Mary simplement pointé vers l'enfant. Les gens disaient:",
+        "«Comment allons-nous parler avec lui, qui est, mais un bébé dans le berceau\"",
+        "<N:20>?"
+      ],
+      "tanslateWordByWord" : [
+        "Puis elle a",
+        "à lui",
+        "Ils ont dit",
+        "Comment",
+        "(pouvons nous parler",
+        "(À un) qui",
+        "est",
+        "dans",
+        "le berceau",
+        "un enfant"
+      ],
+      "notes" : {
+        "20" : [
+          "Les gens qui interprètent mal le Coran traduisent ce verset comme: [ \"? Comment",
+          "allons-nous parler avec lui, qui est, mais un enfant d'hier\"]. Ils attribuent ces",
+          "mots aux personnes âgées des Juifs , qui a dit des années plus tard, quand Jésus",
+          "était un garçon grandi, qu'ils ne pouvaient pas avoir un dialogue utile avec un",
+          "simple enfant. Mais la personne qui conserve tout le contexte en vue, va se",
+          "rendre compte que cette interprétation est absurde et a été donnée uniquement",
+          "pour éviter le miracle. En fait, le dialogue a eu lieu quand les gens",
+          "condamnaient Mary qui, étant célibataire, avait fait naître un enfant, et non pas",
+          "quand l'enfant avait grandi à l'âge adulte. V. 46 AI-i-`Imran [(III)] et v. 110",
+          "d'Al-Maidah [(V)] soutenir également l'idée que le Prophète Jésus avait prononcé",
+          "ces mots comme un bébé dans le berceau et non pas quand adulte. Dans le premier",
+          "verset, l'ange tout en donnant les bonnes nouvelles d'un fils à Marie, dit: [ «Il",
+          "parlera aux gens de même quand dans le berceau et quand grandi\"]; dans l'autre",
+          "verset, Allah Lui-même dit au Prophète Jésus: [ \"....... vous avez parlé aux",
+          "gens, même dans le berceau que vous avez parlé lorsque vous étiez grandi.\"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 30,
+      "arabicVerse" : "قَالَ إِنِّي عَبْدُ اللَّهِ آتَانِيَ الْكِتَابَ وَجَعَلَنِي نَبِيًّا",
+      "simpleTranslate" : [
+        "– «Je suis, dit l’enfant, un serviteur de Dieu. Il m’a donné l’Écriture et a fait",
+        "de moi un prophète."
+      ],
+      "tafsirTranslate" : [
+        "Alors l'enfant est prononcé, «Je suis un serviteur d'Allah: Il m'a donné le Livre",
+        "et il m'a nommé un prophète,"
+      ],
+      "tanslateWordByWord" : [
+        "Il a dit",
+        "En effet, je suis",
+        "un esclave",
+        "(De) Allah",
+        "Il m'a donné",
+        "l'Ecriture",
+        "et m'a fait",
+        "un prophète"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 31,
+      "arabicVerse" : "وَجَعَلَنِي مُبَارَكًا أَيْنَ مَا كُنْتُ وَأَوْصَانِي بِالصَّلَاةِ وَالزَّكَاةِ مَا دُمْتُ حَيًّا",
+      "simpleTranslate" : [
+        "Il a fait de moi un être béni où que je sois. Il m’a ordonné de pratiquer la",
+        "salât et la zakât, ma vie durant,"
+      ],
+      "tafsirTranslate" : [
+        "et Il m'a rendu béni où que je sois. Il m'a recommandé d'offrir Salat et",
+        "acquittent la Zakat tant que je vivrai."
+      ],
+      "tanslateWordByWord" : [
+        "Et Il (a) fait de moi",
+        "béni",
+        "partout où",
+        "partout où",
+        "je suis",
+        "et a enjoint (le) me",
+        "[De] la prière",
+        "et zakah",
+        "aussi longtemps que je suis",
+        "aussi longtemps que je suis",
+        "vivant"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 32,
+      "arabicVerse" : "وَبَرًّا بِوَالِدَتِي وَلَمْ يَجْعَلْنِي جَبَّارًا شَقِيًّا",
+      "simpleTranslate" : [
+        "ainsi que d’être bon envers ma mère, et Il n’a point fait de moi un être violent",
+        "ni méchant."
+      ],
+      "tafsirTranslate" : [
+        "Il m'a fait la bonté envers ma mère, 20a et il ne m'a fait oppressive et le cœur",
+        "dur."
+      ],
+      "tanslateWordByWord" : [
+        "Et obéissante",
+        "à ma mère",
+        "et pas",
+        "Il (a) fait de moi",
+        "insolent",
+        "unblessed"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 33,
+      "arabicVerse" : "وَالسَّلَامُ عَلَيَّ يَوْمَ وُلِدْتُ وَيَوْمَ أَمُوتُ وَيَوْمَ أُبْعَثُ حَيًّا",
+      "simpleTranslate" : [
+        "Que la paix soit sur moi le jour où je naquis, le jour où je mourrai et le jour",
+        "où je serai ressuscité !»"
+      ],
+      "tafsirTranslate" : [
+        "La paix soit sur moi le jour où je suis né et de paix sera sur moi le jour où je",
+        "mourrai, et le jour où je serai ressuscité vivant. \" <N:21>"
+      ],
+      "tanslateWordByWord" : [
+        "Et la paix (be)",
+        "sur moi",
+        "(le jour",
+        "je suis né",
+        "et la journée",
+        "je vais mourir",
+        "et la journée",
+        "Je serai élevé",
+        "vivant"
+      ],
+      "notes" : {
+        "21" : [
+          "Ce discours dans le berceau par Jésus était le `Sign 'à laquelle l'ange fait",
+          "référence dans v. 21. Comme Allah vise à punir les enfants d'Israël pour leurs",
+          "mauvaises voies continues et mauvaises actions, il a fait une il pieuse jeune",
+          "fille vierge de la famille du Prophète Aaron, qui s'était consacré au culte dans",
+          "le Temple sous le patronage de Zachariah, porter un enfant et l'amener devant son",
+          "peuple afin de concentrer toute l'attention des milliers de personnes assemblées",
+          "sur cette événement extraordinaire. Puis il a fait ce nouvel enfant né prononcent",
+          "même dans le berceau qu'il avait été nommé Prophète. Bien qu'ils avaient vu ce",
+          "merveilleux signe de Dieu, ils ont rejeté la Prophétie de Jésus et l'ont amené à",
+          "la cour pour la crucifixion, et donc encouru la colère d'Allah. [(Pour plus de",
+          "détails, s'il vous plaît voir d'Al-i-`Imran (III)]: de 44 E.N. et 53 et An-Nina",
+          "[(IV)]: E.N. de 212.213)."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 34,
+      "arabicVerse" : "ذَٰلِكَ عِيسَى ابْنُ مَرْيَمَ ۚ قَوْلَ الْحَقِّ الَّذِي فِيهِ يَمْتَرُونَ",
+      "simpleTranslate" : [
+        "Tel est, en toute vérité, Jésus, fils de Marie, qui fait encore l’objet de tant",
+        "de querelles."
+      ],
+      "tafsirTranslate" : [
+        "Ceci est Jésus, le fils de Marie, et ceci est la vérité sur lui au sujet de",
+        "laquelle ils sont dans le doute."
+      ],
+      "tanslateWordByWord" : [
+        "Cette",
+        "(A) Isa",
+        "(le fils",
+        "(De) Maryam",
+        "une déclaration",
+        "(De) la vérité",
+        "ce qui",
+        "à propos de ça",
+        "ils contestent"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 35,
+      "arabicVerse" : "مَا كَانَ لِلَّهِ أَنْ يَتَّخِذَ مِنْ وَلَدٍ ۖ سُبْحَانَهُ ۚ إِذَا قَضَىٰ أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُنْ فَيَكُونُ",
+      "simpleTranslate" : [
+        "Il est inconcevable que Dieu Se donne un fils. Sa gloire ne saurait y consentir !",
+        "En vérité, quand Il décide une chose, il Lui suffit de dire : «Sois !», et la",
+        "chose est."
+      ],
+      "tafsirTranslate" : [
+        "Il n'appartient pas Dieu d'engendrer un fils car il est bien au-dessus cela.",
+        "Quand Il décide d'une chose, Il dit seulement: \"Sois\", et il ne vient à",
+        "l'existence .. ' <N:22>"
+      ],
+      "tanslateWordByWord" : [
+        "ne pas",
+        "(c'est",
+        "pour Allah",
+        "cette",
+        "Il devrait prendre",
+        "tout fils",
+        "tout fils",
+        "Gloire à Lui",
+        "Quand",
+        "Il décrète",
+        "une matière",
+        "alors seulement",
+        "Il dit",
+        "à ce",
+        "Être",
+        "et c'est"
+      ],
+      "notes" : {
+        "22" : [
+          "Dans vv.1-35, il a été démontré que la [ «Doctrine du fils de Dieu»] en ce qui",
+          "concerne le Prophète Jésus est absolument faux. Car, comme la naissance",
+          "miraculeuse du prophète Jean ne lui le `fils de Dieu» faire, de sorte que la",
+          "naissance miraculeuse du Prophète Jésus ne pouvait pas le fils de Dieu faire.",
+          "Pour les naissances des deux étaient le résultat de la même sorte de miracle car",
+          "ils ont été mentionnés dans le même contexte dans l'évangile de Luc. Par",
+          "conséquent, il est simple de distorsion que les chrétiens devraient considérer",
+          "l'un comme le serviteur de Dieu, et l'autre en tant que fils de Dieu."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 36,
+      "arabicVerse" : "وَإِنَّ اللَّهَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ ۚ هَٰذَا صِرَاطٌ مُسْتَقِيمٌ",
+      "simpleTranslate" : [
+        "«En vérité, Dieu est mon Seigneur et le vôtre. Adorez-Le ! Telle est la voie de",
+        "la rectitude !»"
+      ],
+      "tafsirTranslate" : [
+        "(Et Jésus avait déclaré) «Allah est mon Seigneur et votre Seigneur, pour",
+        "l'adorer;. Cela est le droit chemin\" <N:23>"
+      ],
+      "tanslateWordByWord" : [
+        "Et en effet",
+        "Allah",
+        "(Est) mon Seigneur",
+        "et votre Seigneur",
+        "donc l'adorer",
+        "Ce",
+        "(Est) un chemin",
+        "tout droit"
+      ],
+      "notes" : {
+        "23" : [
+          "Cette déclaration de Jésus a été cité pour dire aux chrétiens que Jésus a aussi",
+          "enseigné la même doctrine de Monothéisme comme il a été enseigné par tous les",
+          "autres prophètes. Et ce sont eux qui avaient inventé la doctrine de shirk par lui",
+          "le fils de Dieu fait. [(S'il vous plaît voir aussi Al-i-`Imran (III)]: E.N. 68,",
+          "et Al-Maidah [(V)]: de E.N. 100, 101 et 130)."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 37,
+      "arabicVerse" : "فَاخْتَلَفَ الْأَحْزَابُ مِنْ بَيْنِهِمْ ۖ فَوَيْلٌ لِلَّذِينَ كَفَرُوا مِنْ مَشْهَدِ يَوْمٍ عَظِيمٍ",
+      "simpleTranslate" : [
+        "Par la suite, les factions divergèrent entre elles. Malheur donc aux négateurs,",
+        "lors de leur comparution en un jour terrifiant !"
+      ],
+      "tafsirTranslate" : [
+        "Mais en dépit de cela, les sectes ont commencé à avoir des différences entre eux.",
+        "<N:24> Ainsi, ceux qui ont adopté les moyens d'incrédulité souffriront un malheur",
+        "horrible, quand ils sont témoins du grand jour."
+      ],
+      "tanslateWordByWord" : [
+        "Mais différait",
+        "les sectes",
+        "parmi eux,",
+        "parmi eux,",
+        "malheur donc",
+        "à ceux qui",
+        "ne pas croire",
+        "de",
+        "(Le) témoignage",
+        "(De) un jour",
+        "génial"
+      ],
+      "notes" : {
+        "24" : [
+          "Autrement dit, les sectes des chrétiens."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 38,
+      "arabicVerse" : "أَسْمِعْ بِهِمْ وَأَبْصِرْ يَوْمَ يَأْتُونَنَا ۖ لَٰكِنِ الظَّالِمُونَ الْيَوْمَ فِي ضَلَالٍ مُبِينٍ",
+      "simpleTranslate" : [
+        "Comme ils entendront bien et comme ils seront clairvoyants le jour où ils se",
+        "présenteront devant Nous ! Mais, aujourd’hui, les injustes sont dans un égarement",
+        "évident."
+      ],
+      "tafsirTranslate" : [
+        "Ce jour-là quand ils se présenteront devant nous, leurs oreilles et leurs yeux",
+        "sont devenus très forte, mais aujourd'hui ces transgresseurs (ni entendre ni voir",
+        "la Vérité et) se sont égarés en écart manifeste."
+      ],
+      "tanslateWordByWord" : [
+        "Comment ils entendront",
+        "Comment ils entendront",
+        "et comment (ils) voir",
+        "(le jour",
+        "ils viendront à nous",
+        "mais",
+        "les malfaiteurs",
+        "aujourd'hui",
+        "(sont dans",
+        "Erreur",
+        "clair"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 39,
+      "arabicVerse" : "وَأَنْذِرْهُمْ يَوْمَ الْحَسْرَةِ إِذْ قُضِيَ الْأَمْرُ وَهُمْ فِي غَفْلَةٍ وَهُمْ لَا يُؤْمِنُونَ",
+      "simpleTranslate" : [
+        "Préviens-les du Jour des regrets quand on aura irrévocablement prononcé les",
+        "arrêts, alors qu’ils vivent encore dans l’insouciance et l’impiété."
+      ],
+      "tafsirTranslate" : [
+        "(O Muhammad), maintenant que ces gens ne paient pas attention et ne sont pas",
+        "croire, les avertir des horreurs du jour, quand le jugement est passé, et ils",
+        "auront rien pour eux, mais regret vain."
+      ],
+      "tanslateWordByWord" : [
+        "Et les avertir",
+        "(du jour",
+        "(Des) Regret",
+        "quand",
+        "a été décidé",
+        "la question",
+        "Et ils",
+        "(sont dans",
+        "étourderie",
+        "et ils",
+        "(ne pas",
+        "croyez"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 40,
+      "arabicVerse" : "إِنَّا نَحْنُ نَرِثُ الْأَرْضَ وَمَنْ عَلَيْهَا وَإِلَيْنَا يُرْجَعُونَ",
+      "simpleTranslate" : [
+        "C’est Nous qui hériterons de la Terre et de tout ce qu’elle porte, et c’est à",
+        "Nous qu’ils feront tous retour."
+      ],
+      "tafsirTranslate" : [
+        "En fin de compte, nous hériterons la terre et tout ce qui est sur elle, et tout",
+        "le monde doit être retourné à nous. <N:25>"
+      ],
+      "tanslateWordByWord" : [
+        "En effet, nous",
+        "[Nous]",
+        "[Nous] hériterons",
+        "La terre",
+        "et celui qui",
+        "(Is) sur elle",
+        "et nous",
+        "ils seront retournés"
+      ],
+      "notes" : {
+        "25" : [
+          "Voici l'adresse qui a été conçu pour être livré avant que le roi Négus et ses",
+          "courtisans se termine. Dans l'introduction de cette sourate, nous l'avons déjà",
+          "dit l'arrière-plan historique de cette adresse. Afin de se faire une idée de sa",
+          "grande importance, il faut garder à l'esprit que: \n [(A)] cette adresse a été",
+          "envoyé vers le bas au moment où les musulmans persécutés de la Mecque allaient",
+          "migrer vers un royaume chrétien afin qu'ils puissent présenter devant les",
+          "chrétiens la vraie foi islamique au sujet du Prophète Jésus. Cela montre que les",
+          "musulmans doivent en aucun cas cacher la vérité; [(B)], il montre un plus",
+          "merveilleux courage moral des migrants musulmans à Habash qu'ils récitaient cette",
+          "adresse dans la cour royale au moment critique, quand les courtisans qui avaient",
+          "été soudoyés étaient décidés à les remettre à leurs ennemis. En effet, ils ont",
+          "été confrontés à la menace réelle que cette critique islamique franche des",
+          "articles de base de la foi chrétienne peut transformer le roi contre eux et il",
+          "pourrait les remettre à l'Qouraysh. Mais en dépit de cela, ils ont présenté toute",
+          "la vérité devant le roi sans la moindre hésitation."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 41,
+      "arabicVerse" : "وَاذْكُرْ فِي الْكِتَابِ إِبْرَاهِيمَ ۚ إِنَّهُ كَانَ صِدِّيقًا نَبِيًّا",
+      "simpleTranslate" : [
+        "Et rappelle l’histoire d’Abraham, telle qu’elle se trouve dans le Coran. C’était",
+        "un homme véridique et un prophète,"
+      ],
+      "tafsirTranslate" : [
+        "Et raconte dans ce livre l'histoire d'Abraham; <N:26> en effet, il était un homme",
+        "juste et un prophète."
+      ],
+      "tanslateWordByWord" : [
+        "Et mentionne",
+        "dans",
+        "le livre",
+        "Ibrahim",
+        "En effet, il a",
+        "était",
+        "un homme de vérité",
+        "un prophète"
+      ],
+      "notes" : {
+        "26" : [
+          "De là, l'adresse est dirigée vers les gens de la Mecque, qui avaient forcé leurs",
+          "propres parents proches et chers à émigrer de leurs maisons, tout comme le",
+          "Prophète Abraham avait été exilé par son propre père et frères. L'histoire du",
+          "prophète Abraham a été sélectionné à cette fin parce que le Quraish professait à",
+          "l'accepter comme leur chef religieux et étaient fiers d'être ses descendants."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 42,
+      "arabicVerse" : "إِذْ قَالَ لِأَبِيهِ يَا أَبَتِ لِمَ تَعْبُدُ مَا لَا يَسْمَعُ وَلَا يُبْصِرُ وَلَا يُغْنِي عَنْكَ شَيْئًا",
+      "simpleTranslate" : [
+        "quand il dit à son père : «Cher père ! Pourquoi adores-tu ce qui ne peut ni",
+        "entendre, ni voir, ni t’être d’aucun secours?"
+      ],
+      "tafsirTranslate" : [
+        "(Rappelez-leur du temps,) quand il dit à son père: «Cher père, pourquoi adores-tu",
+        "ces choses, qui ne sont pas entendre ni voir ni vous prévaloir quoi que ce soit?"
+      ],
+      "tanslateWordByWord" : [
+        "Quand",
+        "il a dit",
+        "à son père",
+        "O mon père",
+        "Pourquoi",
+        "(Faites) vous adorez",
+        "ce qui",
+        "ne pas",
+        "Entend",
+        "et pas",
+        "voit",
+        "et pas",
+        "avantages",
+        "[à toi",
+        "(En) rien"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 43,
+      "arabicVerse" : "يَا أَبَتِ إِنِّي قَدْ جَاءَنِي مِنَ الْعِلْمِ مَا لَمْ يَأْتِكَ فَاتَّبِعْنِي أَهْدِكَ صِرَاطًا سَوِيًّا",
+      "simpleTranslate" : [
+        "Cher père ! J’ai reçu une part de science qui ne t’est point parvenue. Suis-moi !",
+        "Je te guiderai vers le droit chemin."
+      ],
+      "tafsirTranslate" : [
+        "Cher père! J'ai reçu que la connaissance que vous avez pas; de sorte que vous",
+        "devriez me suivre et je vais vous guider sur le droit chemin."
+      ],
+      "tanslateWordByWord" : [
+        "O mon père",
+        "En effet, [I]",
+        "en vérité",
+        "(A) venir à moi",
+        "de",
+        "la connaissance",
+        "quelle",
+        "ne pas",
+        "est venu à vous",
+        "donc me suivre",
+        "Je vous guiderai",
+        "(À) le chemin",
+        "pair"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 44,
+      "arabicVerse" : "يَا أَبَتِ لَا تَعْبُدِ الشَّيْطَانَ ۖ إِنَّ الشَّيْطَانَ كَانَ لِلرَّحْمَٰنِ عَصِيًّا",
+      "simpleTranslate" : [
+        "Cher père ! N’adore pas Satan, car Satan a toujours été rebelle au",
+        "Miséricordieux."
+      ],
+      "tafsirTranslate" : [
+        "Cher père! ne servent pas Satan, <N:27> pour Satan est désobéissant au",
+        "Miséricordieux."
+      ],
+      "tanslateWordByWord" : [
+        "O mon père",
+        "(Ne pas",
+        "culte",
+        "le Shaitaan",
+        "Effectivement",
+        "le Shaitaan",
+        "est",
+        "le Tout Miséricordieux",
+        "désobéissant"
+      ],
+      "notes" : {
+        "27" : [
+          "Il convient de noter que la traduction littérale du texte arabe est: [ «Ne pas",
+          "adorer Satan»], bien que le père d'Abraham et les autres personnes ne vénèrent",
+          "Satan dans le même sens comme ils adoraient des idoles. Mais comme ils ont suivi",
+          "et obéi à Satan, il les a accusés d'adorer Satan. Il est donc clair que si",
+          "quelqu'un suit et obéit, Satan, il l'adore virtuellement. Car Satan n'a jamais",
+          "été une divinité dans le sens que les gens ont fait de lui un objet de culte;",
+          "non, ils ont toujours été le maudissant et en le suivant dans le même temps.",
+          "[(Pour plus de détails, voir Sourate Al-Kahf (XVIII)] E.N. de 49-50)."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 45,
+      "arabicVerse" : "يَا أَبَتِ إِنِّي أَخَافُ أَنْ يَمَسَّكَ عَذَابٌ مِنَ الرَّحْمَٰنِ فَتَكُونَ لِلشَّيْطَانِ وَلِيًّا",
+      "simpleTranslate" : [
+        "Cher père ! Je crains qu’un châtiment du Tout-Clément ne vienne te frapper et que",
+        "tu ne deviennes un suppôt du démon.»"
+      ],
+      "tafsirTranslate" : [
+        "Cher père! Je crains de peur que vous encourez le fléau de Dieu et de devenir le",
+        "compagnon de Satan. \""
+      ],
+      "tanslateWordByWord" : [
+        "O mon père",
+        "En effet, je",
+        "[Je crains",
+        "cette",
+        "vous touchez",
+        "une punition",
+        "de",
+        "le Tout Miséricordieux",
+        "de sorte que vous seriez",
+        "au Shaitaan",
+        "un ami"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 46,
+      "arabicVerse" : "قَالَ أَرَاغِبٌ أَنْتَ عَنْ آلِهَتِي يَا إِبْرَاهِيمُ ۖ لَئِنْ لَمْ تَنْتَهِ لَأَرْجُمَنَّكَ ۖ وَاهْجُرْنِي مَلِيًّا",
+      "simpleTranslate" : [
+        "– «Serais-tu hostile à mes divinités?, rétorqua son père. Ô Abraham ! Si tu ne",
+        "cesses pas de les dénigrer, je te ferai lapider. Et maintenant disparais de ma",
+        "vue, et pour bien longtemps !»"
+      ],
+      "tafsirTranslate" : [
+        "Le père répondit: «!? O Abraham Avez-vous renoncé à mes divinités Si tu ne cesses",
+        "pas de cela, je vais te lapider à mort: alors soyez loin de moi pour toujours.\""
+      ],
+      "tanslateWordByWord" : [
+        "Il a dit",
+        "Détestez-vous",
+        "Détestez-vous",
+        "(de)",
+        "mes dieux",
+        "O Ibrahim",
+        "Assurément, si",
+        "ne pas",
+        "vous cesses",
+        "sûrement, je vous lapideront",
+        "alors laissez-moi",
+        "(Pour) une période prolongée"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 47,
+      "arabicVerse" : "قَالَ سَلَامٌ عَلَيْكَ ۖ سَأَسْتَغْفِرُ لَكَ رَبِّي ۖ إِنَّهُ كَانَ بِي حَفِيًّا",
+      "simpleTranslate" : [
+        "– «Adieu, répondit Abraham. J’implorerai en ta faveur le pardon de mon Seigneur,",
+        "car Il a toujours été Bienveillant à mon égard."
+      ],
+      "tafsirTranslate" : [
+        "Abraham dit: «Je dis adieu à vous, je vais prier mon Seigneur de pardonner you27a",
+        "car il est très gentil avec moi."
+      ],
+      "tanslateWordByWord" : [
+        "Il a dit",
+        "Paix (be)",
+        "sur toi",
+        "Je vais demander pardon",
+        "pour toi",
+        "(De) mon Seigneur",
+        "En effet, il",
+        "est",
+        "pour moi",
+        "jamais Gracious"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 48,
+      "arabicVerse" : "وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِنْ دُونِ اللَّهِ وَأَدْعُو رَبِّي عَسَىٰ أَلَّا أَكُونَ بِدُعَاءِ رَبِّي شَقِيًّا",
+      "simpleTranslate" : [
+        "Je me retire loin de vous et des divinités que vous invoquez en dehors de Dieu,",
+        "pour me consacrer à l’invocation de mon Seigneur. Il se peut que je ne sois pas",
+        "déçu dans mon appel !»"
+      ],
+      "tafsirTranslate" : [
+        "J'abandonne à vous tous, ainsi que ceux que vous invoquez en dehors d'Allah: Je",
+        "vais appeler mon Seigneur seul: Je n'espère que je ne manquerai pas de gagner mon",
+        "objet »en invoquant mon Seigneur\"."
+      ],
+      "tanslateWordByWord" : [
+        "Et je vais vous laisser",
+        "et quoi",
+        "vous appelez",
+        "outre",
+        "outre",
+        "Allah",
+        "et je vais appeler",
+        "mon Seigneur",
+        "Peut être",
+        "qui ne",
+        "je serai",
+        "en appel",
+        "(À) mon Seigneur",
+        "unblessed"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 49,
+      "arabicVerse" : "فَلَمَّا اعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِنْ دُونِ اللَّهِ وَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ ۖ وَكُلًّا جَعَلْنَا نَبِيًّا",
+      "simpleTranslate" : [
+        "Puis, quand il se fut séparé d’eux et de ce qu’ils adoraient en dehors de Dieu,",
+        "Nous lui fîmes don d’Isaac et de Jacob, et Nous élevâmes chacun d’eux au rang de",
+        "prophète."
+      ],
+      "tafsirTranslate" : [
+        "En conséquence, quand il a quitté ces gens et leurs divinités en dehors d'Allah,",
+        "Nous lui concédée descendants comme Isaac et Jacob, et Nous avons fait chacun",
+        "d'eux un prophète"
+      ],
+      "tanslateWordByWord" : [
+        "Donc quand",
+        "il les quitta",
+        "et quoi",
+        "ils adorèrent",
+        "en dehors d'Allah",
+        "en dehors d'Allah",
+        "en dehors d'Allah",
+        "[Et] Nous donnâmes",
+        "[à lui",
+        "Isaac",
+        "et Yaqub",
+        "et chacun (d'entre eux)",
+        "Nous avons fait",
+        "un prophète"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 50,
+      "arabicVerse" : "وَوَهَبْنَا لَهُمْ مِنْ رَحْمَتِنَا وَجَعَلْنَا لَهُمْ لِسَانَ صِدْقٍ عَلِيًّا",
+      "simpleTranslate" : [
+        "Nous les reçûmes en Notre grâce et Nous les dotâmes d’un franc et sublime parler."
+      ],
+      "tafsirTranslate" : [
+        "et Nous donnâmes sur eux Notre Miséricorde et Nous les bénis avec la vraie haute",
+        "renommée. \" <N:28>"
+      ],
+      "tanslateWordByWord" : [
+        "Et Nous donnâmes",
+        "pour eux",
+        "de",
+        "Notre miséricorde",
+        "et Nous avons fait",
+        "pour eux",
+        "une mention véridique",
+        "une mention véridique",
+        "haute"
+      ],
+      "notes" : {
+        "28" : [
+          "C'est de donner le confort aux migrants qui avaient été contraints de migrer de",
+          "leurs maisons. On leur a dit qu'ils seraient honorés et bénis avec une vraie",
+          "renommée comme prophète Abraham avait été béni avec une véritable renommée après",
+          "sa migration."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 51,
+      "arabicVerse" : "وَاذْكُرْ فِي الْكِتَابِ مُوسَىٰ ۚ إِنَّهُ كَانَ مُخْلَصًا وَكَانَ رَسُولًا نَبِيًّا",
+      "simpleTranslate" : [
+        "Rappelle également l’histoire de Moïse, telle qu’elle est citée dans le Coran.",
+        "C’était un véritable élu de Dieu, un messager et un prophète."
+      ],
+      "tafsirTranslate" : [
+        "Et mentionne dans ce Moïse Livre:. Il était une personne choisie, « <N:29> et il",
+        "était un prophète messager <N:30>"
+      ],
+      "tanslateWordByWord" : [
+        "Et mentionne",
+        "dans",
+        "le livre",
+        "Musa",
+        "En effet, il a",
+        "était",
+        "choisi",
+        "et était",
+        "un Messager",
+        "un prophète"
+      ],
+      "notes" : {
+        "29" : [
+          "Le mot utilisé est Mukhlas, ce qui signifie [ \"purifié\"]. En d'autres termes,",
+          "Allah avait spécialement choisi prophète Moïse pour la Mission de la Prophétie."
+        ],
+        "30" : [
+          "[ \"Rasul\"] signifie littéralement `celui qui est envoyé»; il est donc utilisé",
+          "pour un ambassadeur, envoyé, messager et représentatif. Le Coran a utilisé ce",
+          "titre pour les anges, qui sont envoyés par Allah en mission spéciale, ou pour les",
+          "êtres humains qui ont apporté son message à l'humanité. \n En ce qui concerne le",
+          "mot [ \"Nabi\"], cela signifie littéralement celui qui apporte des nouvelles, ou",
+          "celui qui est élevé en grade, ou celui qui montre le chemin. Ce titre est utilisé",
+          "pour les prophètes dans tous les trois sens. Ainsi Moïse était un Prophète",
+          "Messager parce qu'il était un messager de haut rang qui a donné des nouvelles de",
+          "Dieu et a montré le droit chemin au peuple. \n Le Coran ne différencie pas",
+          "nécessairement entre l'utilisation des deux titres, car parfois il utilise le",
+          "titre Rasul pour une personne à un endroit et le titre Nabi pour la même personne",
+          "à un autre endroit, et parfois utilise à la fois les titres ensemble pour une",
+          "seule et même personne. Cependant, à certains endroits, chaque titre a été",
+          "utilisé de manière à montrer qu'il existe une distinction technique entre les",
+          "deux, mais qui n'a pas été précisément tracée, sauf que chaque Rasul",
+          "[(Messenger)] est un Nabi [(Prophète )] aussi bien, mais chaque Nabi ne peut pas",
+          "être un Rasul, et qu'un Rasul a une mission spéciale et plus important",
+          "d'effectuer. Ceci est soutenu par une tradition du Saint Prophète, qui a été",
+          "rapporté par l'imam Ahmad Abou Umamah et par Hakim de Hadrat Abu Zarr. Lorsqu'on",
+          "a demandé au Saint Prophète combien [ \"Messagers\"] et [ \"Prophètes\"] avait été",
+          "envoyé dans le monde, il a dit que le nombre des Messagers était 313 ou 315 et",
+          "des Prophètes 1,24,000"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 52,
+      "arabicVerse" : "وَنَادَيْنَاهُ مِنْ جَانِبِ الطُّورِ الْأَيْمَنِ وَقَرَّبْنَاهُ نَجِيًّا",
+      "simpleTranslate" : [
+        "Nous l’appelâmes du versant droit du Sinaï et Nous en fîmes un confident."
+      ],
+      "tafsirTranslate" : [
+        "Nous l'avons appelé depuis le côté droit <N:31> de Tur, et l'honneur avec des",
+        "discours secret <N:32>"
+      ],
+      "tanslateWordByWord" : [
+        "Et Nous l'appelions",
+        "de",
+        "(le côté",
+        "(De) le Mont",
+        "la droite",
+        "et l'amena près de",
+        "(Pour) la conversation"
+      ],
+      "notes" : {
+        "32" : [
+          "Voir E.N. 206 de la sourate An-Nisa [(1V)]."
+        ],
+        "31" : [
+          "[ \"Le côté droit de Tur\"] signifie que le côté est de la montagne. Comme prophète",
+          "Moïse, sur son chemin de Madian en Egypte, qui se passait du côté sud du Mt. Tur,",
+          "du côté oriental mentirait à sa droite et l'ouest sur sa gauche s'il fait face à",
+          "la montagne, sinon une montagne par lui-même ne peut pas avoir un droit ou un",
+          "côté gauche."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 53,
+      "arabicVerse" : "وَوَهَبْنَا لَهُ مِنْ رَحْمَتِنَا أَخَاهُ هَارُونَ نَبِيًّا",
+      "simpleTranslate" : [
+        "Et par un effet de Notre grâce, Nous lui donnâmes son frère Aaron comme prophète."
+      ],
+      "tafsirTranslate" : [
+        "et Nous avons fait de son frère Aaron un prophète et a donné à lui (comme",
+        "assistant)."
+      ],
+      "tanslateWordByWord" : [
+        "Et Nous donnâmes",
+        "[à lui",
+        "de",
+        "Notre miséricorde",
+        "son frère",
+        "Harun",
+        "un prophète"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 54,
+      "arabicVerse" : "وَاذْكُرْ فِي الْكِتَابِ إِسْمَاعِيلَ ۚ إِنَّهُ كَانَ صَادِقَ الْوَعْدِ وَكَانَ رَسُولًا نَبِيًّا",
+      "simpleTranslate" : [
+        "Rappelle aussi l’histoire d’Ismaël, telle qu’elle est citée dans le Coran. Il",
+        "était fidèle à ses promesses et il était un messager et un prophète."
+      ],
+      "tafsirTranslate" : [
+        "Et faire une mention dans ce livre de Ismael: il était fidèle à sa promesse et a",
+        "été un prophète messager."
+      ],
+      "tanslateWordByWord" : [
+        "Et mentionne",
+        "dans",
+        "le livre",
+        "Ismaël",
+        "En effet, il a",
+        "était",
+        "vrai",
+        "(À son) promesse",
+        "et était",
+        "un Messager",
+        "un prophète"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 55,
+      "arabicVerse" : "وَكَانَ يَأْمُرُ أَهْلَهُ بِالصَّلَاةِ وَالزَّكَاةِ وَكَانَ عِنْدَ رَبِّهِ مَرْضِيًّا",
+      "simpleTranslate" : [
+        "Il recommandait à sa famille la prière et la zakât, et il était agréé auprès de",
+        "son Seigneur."
+      ],
+      "tafsirTranslate" : [
+        "Il enjoint son peuple à offrir et de donner Salat Zakat, et son Seigneur était",
+        "bien content de lui."
+      ],
+      "tanslateWordByWord" : [
+        "Et il a utilisé",
+        "(À) interdire",
+        "(E) son peuple",
+        "la prière",
+        "et zakah",
+        "et était",
+        "près",
+        "son Seigneur",
+        "plaisant"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 56,
+      "arabicVerse" : "وَاذْكُرْ فِي الْكِتَابِ إِدْرِيسَ ۚ إِنَّهُ كَانَ صِدِّيقًا نَبِيًّا",
+      "simpleTranslate" : [
+        "Rappelle aussi l’histoire d’Idrîs, telle qu’elle est citée dans le Coran. C’était",
+        "un homme véridique et un prophète"
+      ],
+      "tafsirTranslate" : [
+        "Et faire une mention dans ce livre de Idris: <N:33>, il était un homme juste, et",
+        "un prophète;"
+      ],
+      "tanslateWordByWord" : [
+        "Et mentionne",
+        "dans",
+        "le livre",
+        "Idris",
+        "En effet, il a",
+        "était",
+        "véridique",
+        "un prophète"
+      ],
+      "notes" : {
+        "33" : [
+          "Il y a une différence d'opinion quant à savoir qui était Prophète Idris. Certains",
+          "commentateurs opine qu'il était un prophète parmi les Israélites, mais la",
+          "majorité d'entre eux sont enclins à la vue qu'il était un prophète avant Noé. Il",
+          "n'y a pas de tradition authentique qui peut aider à déterminer son identité. Le",
+          "verset suivant [(58)], cependant, soutient le point de vue qu'il a comparu devant",
+          "le Prophète Noé. Pour de ALi les prophètes mentionnés, il était seul celui qui",
+          "peut être dit être [ \"des descendants d'Adam.\"] \n Les commentateurs sont d'avis",
+          "que Idris était Enoch de l'Ancien Testament, sur lequel il est dit: \n [ \"Hénoc,",
+          "âgé de soixante-cinq ans, engendra Metuschélah Et Hénoc marcha avec Dieu après",
+          "qu'il engendra Mathusalem trois cents ans .... et il était pas, car Dieu le",
+          "prit.\"] [(Genèse 5: 21-24)] \n Dans le Talmud, il y a plus de détails sur Enoch,",
+          "qui sont brièvement comme suit: [ \"Avant Noah quand les descendants d'Adam ont",
+          "commencé à dégénérer, l'ange de Dieu appela Enoch, qui a mené une vie pieuse loin",
+          "des gens, et dit: «O Enoch, lève-toi, sors de l'isolement, et aller sur le peuple",
+          "de la terre, en les guidant vers le chemin où ils doivent suivre et les moyens",
+          "dont ils devraient adopter. \n \"] Recevoir ce commandement divin, Enoch a quitté",
+          "son isolement et a rassemblé les gens et leur a prêché ce qu'il avait été",
+          "commandé, avec le résultat qu'ils écoutaient et ont adopté le culte de Dieu.",
+          "Enoch a régné sur l'humanité depuis 353 ans : sa règle était fondée sur la",
+          "justice et la vérité, et par conséquent Dieu a favorisé l'humanité avec toutes",
+          "sortes de bénédictions \". [(H. Polano:. Le Talmud Selections, pp 18-21)]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 57,
+      "arabicVerse" : "وَرَفَعْنَاهُ مَكَانًا عَلِيًّا",
+      "simpleTranslate" : [
+        "et Nous l’avons promu à un rang élevé."
+      ],
+      "tafsirTranslate" : [
+        "et Nous l'avions soulevé à une position haute. <N:34>"
+      ],
+      "tanslateWordByWord" : [
+        "Et Nous l'avons élevé",
+        "(À) une position",
+        "haute"
+      ],
+      "notes" : {
+        "34" : [
+          "Le sens ordinaire est que Dieu avait favorisé Idris avec un rang élevé, mais",
+          "selon les traditions israélites, Dieu a pris Idris [(Enoch)] vers les cieux. La",
+          "Bible dit: [ \"... et il était pas, car Dieu le prit\"], mais le Talmud a une",
+          "longue histoire à raconter, qui se termine par les mots: [ \"Enoch est monté au",
+          "ciel dans un tourbillon, avec char et chevaux de feu. \"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 58,
+      "arabicVerse" : "أُولَٰئِكَ الَّذِينَ أَنْعَمَ اللَّهُ عَلَيْهِمْ مِنَ النَّبِيِّينَ مِنْ ذُرِّيَّةِ آدَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍ وَمِنْ ذُرِّيَّةِ إِبْرَاهِيمَ وَإِسْرَائِيلَ وَمِمَّنْ هَدَيْنَا وَاجْتَبَيْنَا ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ آيَاتُ الرَّحْمَٰنِ خَرُّوا سُجَّدًا وَبُكِيًّا ۩",
+      "simpleTranslate" : [
+        "Tels sont ceux que Dieu a gratifiés de Ses bienfaits parmi les prophètes qui",
+        "descendent directement d’Adam, ou qui sont issus des rescapés de l’arche de Noé,",
+        "ou de la postérité d’Abraham et d’Israël, ou de ceux que Nous avons mis sur la",
+        "bonne voie et que Nous avons élus. Lorsque les enseignements du Miséricordieux",
+        "étaient récités à ces hommes, ils se prosternaient face au sol en pleurant."
+      ],
+      "tafsirTranslate" : [
+        "Ce sont les messagers à qui Allah a accordé ses faveurs: ils étaient des",
+        "descendants d'Adam, et à partir de la graine de ceux que Nous avons transportés",
+        "dans l'arche avec Noé, et à partir de la semence d'Abraham et de Israël. Ils",
+        "étaient parmi ceux que Nous avons bien guidés et ont rendu notre choisis. Ils",
+        "étaient si tendre que lorsque les révélations du Miséricordieux leur étaient",
+        "récités, ils tombaient prosternés dans un état de pleurs."
+      ],
+      "tanslateWordByWord" : [
+        "Ceux",
+        "(Étaient) celles qui",
+        "Allah a accordé faveur",
+        "Allah a accordé faveur",
+        "sur eux",
+        "parmi)",
+        "les prophètes",
+        "de",
+        "(la progéniture",
+        "(De) Adam",
+        "et de ceux",
+        "Nous avons effectué",
+        "avec",
+        "Nuh",
+        "et de",
+        "(la progéniture",
+        "(De) Ibrahim",
+        "et Israël",
+        "et (ceux-ci) qui",
+        "Nous avons guidés",
+        "et Nous avons choisi",
+        "Quand",
+        "ont été récitée",
+        "pour eux",
+        "(Le) Versets",
+        "(De) le Tout Miséricordieux",
+        "ils sont tombés",
+        "prosternant",
+        "et les pleurs"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 59,
+      "arabicVerse" : "فَخَلَفَ مِنْ بَعْدِهِمْ خَلْفٌ أَضَاعُوا الصَّلَاةَ وَاتَّبَعُوا الشَّهَوَاتِ ۖ فَسَوْفَ يَلْقَوْنَ غَيًّا",
+      "simpleTranslate" : [
+        "Vinrent à leur suite d’autres générations qui délaissèrent la prière et suivirent",
+        "leurs passions, se vouant ainsi au malheur et à la perdition,"
+      ],
+      "tafsirTranslate" : [
+        "Puis vint après eux ces gens dégénérés, qui ont perdu leur Salat <N:35> et ont",
+        "suivi leurs convoitises: <N:36> de sorte qu'ils doivent rencontrer bientôt les",
+        "conséquences de leur déviation."
+      ],
+      "tanslateWordByWord" : [
+        "Puis réussi",
+        "après eux",
+        "après eux",
+        "successeurs",
+        "qui négligé",
+        "la prière",
+        "et ils ont suivi",
+        "les convoitises",
+        "si tôt",
+        "ils rencontreront",
+        "mal"
+      ],
+      "notes" : {
+        "36" : [
+          "Ce fut le résultat inévitable de la perte de la connexion avec Allah. Comme ils",
+          "sont devenus de plus en plus négligents de leur Salat, leurs désirs se sont",
+          "emparés complète d'entre eux et ils sont tombés dans les profondeurs de la",
+          "dépravation morale et ont commencé à suivre leurs caprices à la place des",
+          "commandements divins."
+        ],
+        "35" : [
+          "Il semble que les gens dégénérés totalement éliminés Salat, ou ils étaient",
+          "devenus négligents et négligent dans son observance. Ceci est le premier mal qui",
+          "est commis par un peuple dégénéré; car, après cela, il ne reste aucun rapport",
+          "entre eux et Dieu. Ici, il a été établi comme un principe universel que la",
+          "dégénérescence des personnes de tous les anciens prophètes a commencé avec",
+          "l'abandon de la Salat par eux."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 60,
+      "arabicVerse" : "إِلَّا مَنْ تَابَ وَآمَنَ وَعَمِلَ صَالِحًا فَأُولَٰئِكَ يَدْخُلُونَ الْجَنَّةَ وَلَا يُظْلَمُونَ شَيْئًا",
+      "simpleTranslate" : [
+        "à l’exception de ceux qui se repentent, croient et font le bien. Ceux-là auront",
+        "accès au Paradis, sans être en rien lésés ;"
+      ],
+      "tafsirTranslate" : [
+        "Toutefois; ceux qui se repentent et croient et accomplissent les bonnes oeuvres,",
+        "entreront dans le jardin et ils ne seront pas lésés dans le moins."
+      ],
+      "tanslateWordByWord" : [
+        "Sauf",
+        "(un qui",
+        "repentie",
+        "et cru",
+        "et a fait",
+        "Bonnes actions)",
+        "Alors ceux",
+        "entrera",
+        "paradis",
+        "et pas",
+        "ils seront lésés",
+        "(En) rien"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 61,
+      "arabicVerse" : "جَنَّاتِ عَدْنٍ الَّتِي وَعَدَ الرَّحْمَٰنُ عِبَادَهُ بِالْغَيْبِ ۚ إِنَّهُ كَانَ وَعْدُهُ مَأْتِيًّا",
+      "simpleTranslate" : [
+        "ils seront admis aux jardins d’Éden que le Miséricordieux a promis à Ses",
+        "serviteurs qui croient au mystère, car Ses promesses sont toujours tenues."
+      ],
+      "tafsirTranslate" : [
+        "Ils auront les Jardins éternel, que le Miséricordieux a promis à Ses serviteurs,",
+        "alors que pourtant ils ne les ont pas vu, <N:37> et le plus sûrement cette",
+        "promesse doivent être remplies."
+      ],
+      "tanslateWordByWord" : [
+        "Jardins",
+        "(De) Eden",
+        "lequel",
+        "promis",
+        "le Tout Miséricordieux",
+        "(À) Ses esclaves",
+        "dans l'invisible",
+        "En effet, [elle]",
+        "est",
+        "Sa promesse",
+        "sûr de venir"
+      ],
+      "notes" : {
+        "37" : [
+          "Autrement dit, les jardins promis qui sont encore invisibles par Ses serviteurs."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 62,
+      "arabicVerse" : "لَا يَسْمَعُونَ فِيهَا لَغْوًا إِلَّا سَلَامًا ۖ وَلَهُمْ رِزْقُهُمْ فِيهَا بُكْرَةً وَعَشِيًّا",
+      "simpleTranslate" : [
+        "Là, ils n’entendront nulle parole frivole, mais entendront uniquement des",
+        "salutations et des paroles aimables. Quant à leur nourriture, elle leur sera",
+        "servie matin et soir."
+      ],
+      "tafsirTranslate" : [
+        "Là, ils ne seront pas entendre parler de repos mais seulement ce qui est bon et",
+        "sensible, <N:38> et ils vont obtenir leurs dispositions régulièrement dans le",
+        "matin et le soir."
+      ],
+      "tanslateWordByWord" : [
+        "ne pas",
+        "ils entendront",
+        "la bride",
+        "vains discours",
+        "mais",
+        "paix",
+        "Et pour eux",
+        "(Est) leur disposition",
+        "la bride",
+        "matin",
+        "et le soir"
+      ],
+      "notes" : {
+        "38" : [
+          "Le mot utilisé est salam, qui signifie «exempt de défaut et de défaut». Il",
+          "implique de dire que la plus grande bénédiction que l'homme va profiter au",
+          "Paradis sera que là, il entendra pas inactif, vil ou de parler à la pudeur; tous",
+          "les habitants du Paradis seront des personnes soignées et propres et pures et",
+          "chaque individu sera douce et bien-pensants de la nature; tout le monde sera",
+          "protégé contre la médisance, la calomnie et des chansons indécentes et autres",
+          "sons laid. Quels que soient les hommes entendront sera bon, sensible et juste. \n",
+          "Ceci est en effet une grande bénédiction que seulement que personne ne peut",
+          "apprécier pleinement, qui possède un goût propre et très bien, parce que seul un",
+          "tel homme peut sentir la misère de vivre au milieu d'une société sale, où ses",
+          "oreilles ne sont jamais à l'abri contre les mensonges, la médisance , la",
+          "calomnie, et parler espiègle et sensuelle."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 63,
+      "arabicVerse" : "تِلْكَ الْجَنَّةُ الَّتِي نُورِثُ مِنْ عِبَادِنَا مَنْ كَانَ تَقِيًّا",
+      "simpleTranslate" : [
+        "Tel est le Paradis que Nous donnerons en héritage à ceux de Nos serviteurs qui",
+        "auront été pieux."
+      ],
+      "tafsirTranslate" : [
+        "Voilà le jardin que Nous allons donner en héritage à ce que l'un de Nos",
+        "serviteurs, qui mène une vie pieuse."
+      ],
+      "tanslateWordByWord" : [
+        "Ce",
+        "(Est) Paradise",
+        "lequel",
+        "Nous donnons (comme) l'héritage",
+        "[De] (to)",
+        "Nos esclaves",
+        "(celui qui",
+        "est",
+        "vertueux"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 64,
+      "arabicVerse" : "وَمَا نَتَنَزَّلُ إِلَّا بِأَمْرِ رَبِّكَ ۖ لَهُ مَا بَيْنَ أَيْدِينَا وَمَا خَلْفَنَا وَمَا بَيْنَ ذَٰلِكَ ۚ وَمَا كَانَ رَبُّكَ نَسِيًّا",
+      "simpleTranslate" : [
+        "«Nous ne descendons disent les anges, que sur ordre de ton Seigneur qui est le",
+        "Maître de notre présent, de notre passé et de notre avenir. Ton Seigneur n’est",
+        "point oublieux,"
+      ],
+      "tafsirTranslate" : [
+        "(O Muhammad), <N:39> nous ne se résume pas enregistrer à l'appel d'offres de",
+        "votre Seigneur; Lui appartient tout ce qui est devant nous et tout ce qui est",
+        "derrière nous et tout ce qui se trouve entre les deux, et votre Seigneur est",
+        "jamais oublieux."
+      ],
+      "tanslateWordByWord" : [
+        "Et pas",
+        "nous descendons",
+        "sauf",
+        "par (la) Commande",
+        "(De) votre Seigneur",
+        "Pour Lui (appartient)",
+        "quelle",
+        "(Est) devant nous",
+        "(Est) devant nous",
+        "et quoi",
+        "(Est) derrière nous",
+        "et quoi",
+        "(est entre",
+        "cette",
+        "Et pas",
+        "est",
+        "votre Seigneur",
+        "oublieux"
+      ],
+      "notes" : {
+        "39" : [
+          "Ce paragraphe est une parenthèse, qui a été insérée à la fin d'un thème et avant",
+          "le commencement de l'autre. Il est évident à partir de ce que cette sourate fut",
+          "révélée après un long délai. A cette époque, le Saint Prophète et ses compagnons",
+          "passaient des moments très durs et ont été attendent toujours une révélation pour",
+          "guider et réconforter. Lorsque Gabriel [(paix soit sur lui)] est venu avec les",
+          "anges avec cette révélation, qu'il avait d'abord livré qu'une partie du message",
+          "qui a été immédiatement nécessaire. Puis, avant d'aller plus loin, il a dit ces",
+          "mots par la permission d'Allah comme explication pour le retard et de leur donner",
+          "le confort d'Allah et l'avocat de la force. Cette interprétation est non",
+          "seulement confirmée par le libellé du passage, mais aussi par des Traditions du",
+          "Saint Prophète, qui ont été cités par Ibn Jarir, Ibn Kathir, et l'auteur de Ruh",
+          "Ulma `ani dans leur commentaire sur ce passage."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 65,
+      "arabicVerse" : "رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا فَاعْبُدْهُ وَاصْطَبِرْ لِعِبَادَتِهِ ۚ هَلْ تَعْلَمُ لَهُ سَمِيًّا",
+      "simpleTranslate" : [
+        "car Il est le Seigneur des Cieux, de la Terre et des espaces interstellaires.",
+        "Adore-Le donc avec constance et patience ! Lui connais-tu un homonyme?»"
+      ],
+      "tafsirTranslate" : [
+        "Il est le Seigneur, des cieux et le Seigneur de la Terre et de tout ce qui est",
+        "entre eux; afin de le servir et d'être ferme dans son service. <N:40>",
+        "Connaissez-vous une autre étant de rang égal à Lui? <N:41>"
+      ],
+      "tanslateWordByWord" : [
+        "Seigneur",
+        "(De) les cieux",
+        "et la terre",
+        "et quelle que soit",
+        "(Est) entre les deux",
+        "donc l'adorer",
+        "et constants",
+        "dans son culte",
+        "Faire",
+        "tu sais",
+        "pour lui",
+        "toute similitude"
+      ],
+      "notes" : {
+        "40" : [
+          "Autrement dit, [ \"Vous ne devez pas seulement suivre strictement la voie de",
+          "service et de faire face à tous les obstacles et les afflictions avec patience,",
+          "mais ne devriez pas obtenir mal à l'aise, s'il y a un retard dans l'Apocalypse et",
+          "vous aider. Vous doit se contenter de son service comme un serviteur obéissant et",
+          "effectuer continuellement les devoirs et les responsabilités qui vous sont",
+          "confiées en tant que serviteur et messager. \"]"
+        ],
+        "41" : [
+          "Le mot signifie littéralement Sami `un souci de nom. Ici, il implique: [ \"Allah",
+          "est le seul Dieu: savez-vous de toute autre divinité en dehors de Lui S'il n'y a",
+          "personne, et vous savez qu'il n'y en a pas, alors vous n'avez pas d'autre choix",
+          "que de le servir et obéir à Ses commandements . »]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 66,
+      "arabicVerse" : "وَيَقُولُ الْإِنْسَانُ أَإِذَا مَا مِتُّ لَسَوْفَ أُخْرَجُ حَيًّا",
+      "simpleTranslate" : [
+        "L’homme interroge : «Lorsque je serai mort, me fera-t-on sortir vivant de ma",
+        "tombe?»"
+      ],
+      "tafsirTranslate" : [
+        "L'homme dit: «Quoi! Après que je suis une fois mort, je vais à nouveau être",
+        "ramené à la vie»?"
+      ],
+      "tanslateWordByWord" : [
+        "Et dit",
+        "[l'homme",
+        "Quelle! Quand",
+        "Quelle! Quand",
+        "Je suis mort",
+        "sera sûrement",
+        "Je être enfantée",
+        "vivant"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 67,
+      "arabicVerse" : "أَوَلَا يَذْكُرُ الْإِنْسَانُ أَنَّا خَلَقْنَاهُ مِنْ قَبْلُ وَلَمْ يَكُ شَيْئًا",
+      "simpleTranslate" : [
+        "Mais l’homme ne se rappelle-t-il pas qu’en le créant la première fois, Nous",
+        "l’avons bien tiré du néant?"
+      ],
+      "tafsirTranslate" : [
+        "Est-ce pas l'homme rappelez-vous que Nous lui avons fait tout d'abord quand il",
+        "était rien?"
+      ],
+      "tanslateWordByWord" : [
+        "Ne fait pas",
+        "rappelles toi",
+        "[l'homme",
+        "que nous",
+        "Nous l'avons créé",
+        "avant",
+        "avant",
+        "tout en ne",
+        "il était",
+        "n'importe quoi"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 68,
+      "arabicVerse" : "فَوَرَبِّكَ لَنَحْشُرَنَّهُمْ وَالشَّيَاطِينَ ثُمَّ لَنُحْضِرَنَّهُمْ حَوْلَ جَهَنَّمَ جِثِيًّا",
+      "simpleTranslate" : [
+        "Par ton Seigneur, Nous rassemblerons les humains et les démons et Nous les",
+        "mettrons à genoux autour de l’Enfer ;"
+      ],
+      "tafsirTranslate" : [
+        "Par ton Seigneur! Nous allons les rassembler et les Satans avec eux; <N:42>, puis",
+        "nous allons les rassembler autour de l'enfer et de les jeter à genoux:"
+      ],
+      "tanslateWordByWord" : [
+        "Donc, par votre Seigneur",
+        "sûrement, Nous les rassemblerons",
+        "et les diables",
+        "puis",
+        "sûrement, nous allons leur apporter",
+        "autour",
+        "enfer",
+        "courbées (sur) genoux"
+      ],
+      "notes" : {
+        "42" : [
+          "Les [ \"Satans\"] sont les dirigeants qui persuadent les méchants de se divertir",
+          "dans cette vie mondaine, car il n'y a pas de vie dans l'au-delà, où ils auront à",
+          "se présenter devant Allah et donner une compte de leurs actes."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 69,
+      "arabicVerse" : "ثُمَّ لَنَنْزِعَنَّ مِنْ كُلِّ شِيعَةٍ أَيُّهُمْ أَشَدُّ عَلَى الرَّحْمَٰنِ عِتِيًّا",
+      "simpleTranslate" : [
+        "puis Nous séparerons, de chaque groupe, ceux qui auront été les plus hostiles au",
+        "Miséricordieux,"
+      ],
+      "tafsirTranslate" : [
+        ", alors nous allons choisir de chaque groupe, chacun de ceux qui avaient été les",
+        "plus rebelles contre le Miséricordieux; <N:43>"
+      ],
+      "tanslateWordByWord" : [
+        "alors",
+        "sûrement, nous allons traîner",
+        "de",
+        "chaque",
+        "secte",
+        "ceux d'entre eux",
+        "(Qui étaient) pire",
+        "contre",
+        "le Tout Miséricordieux",
+        "(En) rébellion"
+      ],
+      "notes" : {
+        "43" : [
+          "Le chef de chaque groupe rebelle."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 70,
+      "arabicVerse" : "ثُمَّ لَنَحْنُ أَعْلَمُ بِالَّذِينَ هُمْ أَوْلَىٰ بِهَا صِلِيًّا",
+      "simpleTranslate" : [
+        "car Nous connaissons mieux que quiconque ceux qui méritent le plus d’y être",
+        "brûlés."
+      ],
+      "tafsirTranslate" : [
+        ", alors que nous savons très bien qui d'entre eux mérite plus d'être jeté dans",
+        "l'enfer?"
+      ],
+      "tanslateWordByWord" : [
+        "alors",
+        "sûrement, nous",
+        "connaissent le mieux",
+        "[De] ceux qui",
+        "[ils]",
+        "(Sont) plus digne",
+        "la bride",
+        "(Des) étant brûlé"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 71,
+      "arabicVerse" : "وَإِنْ مِنْكُمْ إِلَّا وَارِدُهَا ۚ كَانَ عَلَىٰ رَبِّكَ حَتْمًا مَقْضِيًّا",
+      "simpleTranslate" : [
+        "Et il n’est pas un seul de vous qui ne doive aborder l’Enfer. C’est là un arrêt",
+        "irrévocable de ton Seigneur."
+      ],
+      "tafsirTranslate" : [
+        "Et il n'y a personne d'entre vous qui ne sera pas présenté avant les limites de",
+        "l'enfer <N:44>, car ceci est une constante, décret, votre Seigneur apportera en",
+        "vigueur;"
+      ],
+      "tanslateWordByWord" : [
+        "Et (il n'y a) pas",
+        "(Any) de vous",
+        "mais",
+        "(Sera) en passant au-dessus",
+        "(C'est",
+        "sur",
+        "votre Seigneur",
+        "une fatalité",
+        "décrété"
+      ],
+      "notes" : {
+        "44" : [
+          "Selon certaines traditions, [ \"qui sera présenté avant les limites de l'enfer\"]",
+          "signifie `entrer Hell ', mais aucune de ces traditions est authentique. Ensuite,",
+          "cette interprétation va à l'encontre du Coran et un grand nombre de traditions",
+          "authentiques, qui énoncent clairement que les vrais croyants ne seront jamais",
+          "jeté dans l'enfer. Lexicalement aussi, vurud [(présenté vers)] est pas synonyme",
+          "de dukhul [(faisant entrer)]. Par conséquent, la signification correcte serait",
+          "que chaque être humain sera présenté avant l'enfer, mais alors, comme les",
+          "prochaines clarifie verset, les gens pieux sera sauvé et les transgresseurs y a",
+          "laissé à genoux."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 72,
+      "arabicVerse" : "ثُمَّ نُنَجِّي الَّذِينَ اتَّقَوْا وَنَذَرُ الظَّالِمِينَ فِيهَا جِثِيًّا",
+      "simpleTranslate" : [
+        "Nous sauverons ensuite ceux qui auront vécu dans la piété et y abandonnerons,",
+        "agenouillés, les injustes."
+      ],
+      "tafsirTranslate" : [
+        "puis nous allons livrer ceux qui étaient pieux (dans le monde), et laissera les",
+        "transgresseurs là sur leurs genoux."
+      ],
+      "tanslateWordByWord" : [
+        "alors",
+        "Nous livrerons",
+        "ceux qui",
+        "craint (Allah)",
+        "et Nous laisserons",
+        "les malfaiteurs",
+        "la bride",
+        "courbées (sur) genoux"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 73,
+      "arabicVerse" : "وَإِذَا تُتْلَىٰ عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ قَالَ الَّذِينَ كَفَرُوا لِلَّذِينَ آمَنُوا أَيُّ الْفَرِيقَيْنِ خَيْرٌ مَقَامًا وَأَحْسَنُ نَدِيًّا",
+      "simpleTranslate" : [
+        "Lorsqu’on leur récite Nos versets, comme preuves évidentes, les négateurs disent",
+        "aux croyants : «Qui de nous ou de vous mène la meilleure vie et a la situation la",
+        "plus confortable?»"
+      ],
+      "tafsirTranslate" : [
+        "Quand nos révélations simples sont récités, les mécréants disent les croyants,",
+        "\"Dites-nous, lequel des deux de nos partis est dans un meilleur état et a des",
+        "réunions grandioses\" <N:45>"
+      ],
+      "tanslateWordByWord" : [
+        "Et quand",
+        "sont récitée",
+        "pour eux",
+        "Nos versets",
+        "clair",
+        "dire",
+        "ceux qui",
+        "pas foi",
+        "à ceux qui",
+        "a cru",
+        "Lequel",
+        "(D ') les deux groupes",
+        "(est mieux",
+        "(en position",
+        "et le meilleur",
+        "(Dans) l'assemblage"
+      ],
+      "notes" : {
+        "45" : [
+          "En réponse au récit de l'Apocalypse claires, au lieu d'accepter leur message, les",
+          "incroyants ont mis des questions telles que celles-ci aux croyants pour montrer",
+          "qu'ils étaient dans le droit: Qui a des maisons grandioses pour y vivre? Qui a un",
+          "niveau de vie plus élevé? Qui bénéficie des réunions splendides? Si nous",
+          "profitons de toutes ces choses pendant que vous êtes privé d'entre eux, vous",
+          "pouvez décider pour vous-mêmes si nous, qui profitent de la vie du monde heureux,",
+          "êtes dans le mauvais, ou vous qui êtes misérable vie d'indigence vie sont dans la",
+          "bonne? [(Voir aussi Sourate AI-Kahf (XVIII)]: E.N. de 37-38)."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 74,
+      "arabicVerse" : "وَكَمْ أَهْلَكْنَا قَبْلَهُمْ مِنْ قَرْنٍ هُمْ أَحْسَنُ أَثَاثًا وَرِئْيًا",
+      "simpleTranslate" : [
+        "Or, combien de générations, avant eux, n’avons-Nous pas anéanties, qui pourtant",
+        "les surpassaient par leurs richesses et leur splendeur?"
+      ],
+      "tafsirTranslate" : [
+        "Et combien de générations ont Nous avons détruit devant eux, qui avait des",
+        "richesses plus abondantes qu'elles et nous étions dans la splendeur grandiose!"
+      ],
+      "tanslateWordByWord" : [
+        "Et combien",
+        "Nous avons détruit",
+        "Avant eux",
+        "de",
+        "une génération",
+        "ils",
+        "(Étaient) mieux",
+        "(En) possessions",
+        "et l'apparence"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 75,
+      "arabicVerse" : "قُلْ مَنْ كَانَ فِي الضَّلَالَةِ فَلْيَمْدُدْ لَهُ الرَّحْمَٰنُ مَدًّا ۚ حَتَّىٰ إِذَا رَأَوْا مَا يُوعَدُونَ إِمَّا الْعَذَابَ وَإِمَّا السَّاعَةَ فَسَيَعْلَمُونَ مَنْ هُوَ شَرٌّ مَكَانًا وَأَضْعَفُ جُنْدًا",
+      "simpleTranslate" : [
+        "Dis-leur : «Que le Miséricordieux prolonge suffisamment la vie de ceux qui vivent",
+        "dans l’égarement jusqu’à ce qu’ils voient ce dont ils sont menacés, soit le",
+        "châtiment de ce monde, soit l’Heure de la Résurrection ! Ils sauront alors qui",
+        "des croyants ou des impies occupe la plus mauvaise position et dispose des plus",
+        "faibles moyens.»"
+      ],
+      "tafsirTranslate" : [
+        "Dis-leur: «Le Miséricordieux donne un répit à celui qui tombe dans l'écart",
+        "jusqu'au moment où ces gens voient cette chose avec laquelle ils avaient été",
+        "menacés, le fléau de Dieu ou de l'heure de la Résurrection . Puis ils se rendent",
+        "compte qui était dans le pire sort et dont le parti a été plus faible."
+      ],
+      "tanslateWordByWord" : [
+        "Dire",
+        "Quiconque",
+        "est",
+        "dans",
+        "[l'erreur",
+        "puis va sûrement prolonger",
+        "pour lui",
+        "le Tout Miséricordieux",
+        "une extension",
+        "jusqu'à",
+        "quand",
+        "ils voient",
+        "quelle",
+        "ils ont été promis",
+        "non plus",
+        "la punition",
+        "ou",
+        "l'heure",
+        "puis ils vont savoir",
+        "qui",
+        "[il]",
+        "(Est) pire",
+        "(en position",
+        "et plus faible",
+        "(En) forces"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 76,
+      "arabicVerse" : "وَيَزِيدُ اللَّهُ الَّذِينَ اهْتَدَوْا هُدًى ۗ وَالْبَاقِيَاتُ الصَّالِحَاتُ خَيْرٌ عِنْدَ رَبِّكَ ثَوَابًا وَخَيْرٌ مَرَدًّا",
+      "simpleTranslate" : [
+        "Dieu guidera encore mieux ceux qui se trouvent déjà sur la bonne voie, et ce sont",
+        "les bonnes œuvres durables qui trouveront auprès de ton Seigneur la meilleure des",
+        "récompenses et les suites les plus heureuses."
+      ],
+      "tafsirTranslate" : [
+        "Contrairement à eux, augmente Allah dans l'orientation de ceux qui adoptent la",
+        "voie juste; <N:46> et les actes respectueux de la justice sont mieux à la vue de",
+        "ton Seigneur en ce qui concerne leur récompense et leur fin ."
+      ],
+      "tanslateWordByWord" : [
+        "Et Allah augmente",
+        "Et Allah augmente",
+        "ceux qui",
+        "accepter les conseils",
+        "(In) orientation",
+        "Et l'éternelle",
+        "Bonnes actions",
+        "(sont mieux",
+        "près",
+        "votre Seigneur",
+        "(Pour) récompense",
+        "et mieux",
+        "(Pour) retour"
+      ],
+      "notes" : {
+        "46" : [
+          "Autrement dit, [ \"A chaque occasion critique, Allah les guide pour prendre les",
+          "bonnes décisions et les aide à adopter la bonne façon, et les protège des choses",
+          "mauvaises et mauvaises; ainsi ils vont à rendre de plus en plus progrès sur la",
+          "bonne voie. \"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 77,
+      "arabicVerse" : "أَفَرَأَيْتَ الَّذِي كَفَرَ بِآيَاتِنَا وَقَالَ لَأُوتَيَنَّ مَالًا وَوَلَدًا",
+      "simpleTranslate" : [
+        "Que penses-tu de cet impie qui, après avoir renié Nos signes, continue à affirmer",
+        ": «J’aurai malgré tout richesses et enfants !»"
+      ],
+      "tafsirTranslate" : [
+        "Alors, avez-vous vu la personne qui nie nos révélations, et dispose, \"je",
+        "continuerai à être béni avec la richesse et les enfants»? <N:47>"
+      ],
+      "tanslateWordByWord" : [
+        "Alors, avez-vous vu",
+        "lui qui",
+        "pas foi",
+        "dans nos versets",
+        "et dit",
+        "Sûrement, je recevrai",
+        "richesse",
+        "et les enfants"
+      ],
+      "notes" : {
+        "47" : [
+          "La personne vantard était pas un homme en particulier, mais un chef typique des",
+          "mécréants de la Mecque. Chacun d'entre eux a affirmé: «Quelle qu'en soit vous",
+          "pouvez appeler la personne d'une erreur et non juste et me menacer avec le fléau",
+          "divin, le tact est que je suis plus prospère que vous aujourd'hui et continuerai",
+          "d'être béni avec des faveurs à l'avenir aussi bien. Lust jeter un oeil à mes",
+          "richesses, ma grandeur et à ma succession, et à mes fils bien connus, et dire",
+          "ensuite où vous voyez des signes de la colère de Dieu."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 78,
+      "arabicVerse" : "أَطَّلَعَ الْغَيْبَ أَمِ اتَّخَذَ عِنْدَ الرَّحْمَٰنِ عَهْدًا",
+      "simpleTranslate" : [
+        "A-t-il percé le mystère ou détient-il une promesse du Miséricordieux?"
+      ],
+      "tafsirTranslate" : [
+        "Quoi! a l'invisible été révélé à lui? Ou at-il pris un engagement du",
+        "Miséricordieux?"
+      ],
+      "tanslateWordByWord" : [
+        "At-il regardé",
+        "(Dans) l'invisible",
+        "ou",
+        "a t-il pris",
+        "de",
+        "le Tout Miséricordieux",
+        "une promesse"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 79,
+      "arabicVerse" : "كَلَّا ۚ سَنَكْتُبُ مَا يَقُولُ وَنَمُدُّ لَهُ مِنَ الْعَذَابِ مَدًّا",
+      "simpleTranslate" : [
+        "Bien au contraire ! Nous inscrirons ses propos et Nous prolongerons en durée son",
+        "châtiment."
+      ],
+      "tafsirTranslate" : [
+        "-Par aucun moyen! Nous allons abattre tout ce qu'il se vante de <N:48> et",
+        "augmenterons son châtiment d'autant plus"
+      ],
+      "tanslateWordByWord" : [
+        "Non",
+        "Nous enregistrerons",
+        "quelle",
+        "il dit",
+        "et Nous étendrons",
+        "pour lui",
+        "de",
+        "la punition",
+        "largement"
+      ],
+      "notes" : {
+        "48" : [
+          "Autrement dit, les mots vantards de son doivent également être inclus dans le",
+          "dossier de ses crimes et il doit avoir à supporter les conséquences de sa demande",
+          "arrogant."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 80,
+      "arabicVerse" : "وَنَرِثُهُ مَا يَقُولُ وَيَأْتِينَا فَرْدًا",
+      "simpleTranslate" : [
+        "C’est Nous qui hériterons des richesses et des enfants dont il parle. Quant à",
+        "lui, il comparaîtra devant Nous, tout seul."
+      ],
+      "tafsirTranslate" : [
+        "et nous allons hériter des richesses et les aides dont il vante, il doit",
+        "comparaître devant nous tout seul."
+      ],
+      "tanslateWordByWord" : [
+        "Et Nous hériterons (de) lui",
+        "quelle",
+        "il dit",
+        "et il viendra à nous",
+        "seul"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 81,
+      "arabicVerse" : "وَاتَّخَذُوا مِنْ دُونِ اللَّهِ آلِهَةً لِيَكُونُوا لَهُمْ عِزًّا",
+      "simpleTranslate" : [
+        "Les hommes adoptent des divinités en dehors de Dieu, dans l’espoir d’accroître",
+        "leur puissance."
+      ],
+      "tafsirTranslate" : [
+        "Ces personnes ont mis en place d'autres dieux que Allah afin qu'ils puissent",
+        "devenir leurs partisans. <N:49>"
+      ],
+      "tanslateWordByWord" : [
+        "Et ils ont pris",
+        "en dehors d'Allah",
+        "en dehors d'Allah",
+        "en dehors d'Allah",
+        "dieux",
+        "qu'ils peuvent être",
+        "pour eux",
+        "un honneur"
+      ],
+      "notes" : {
+        "49" : [
+          "Le mot arabe 'Izzan [(from' Izat)] implique une personne puissante et forte que",
+          "personne ne peut oser faire de mal; ici cela signifie avoir comme un fervent",
+          "partisan d'une personne qu'aucun ennemi ou un adversaire de son peut même",
+          "chérissent une intention mal contre lui."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 82,
+      "arabicVerse" : "كَلَّا ۚ سَيَكْفُرُونَ بِعِبَادَتِهِمْ وَيَكُونُونَ عَلَيْهِمْ ضِدًّا",
+      "simpleTranslate" : [
+        "Quelle erreur ! Ces divinités renieront un jour leurs adorateurs et seront pour",
+        "eux des adversaires."
+      ],
+      "tafsirTranslate" : [
+        "Mais ils devront pas supporter; chacun d'entre eux ne sera pas seulement renier",
+        "leur culte <N:50>, mais aussi devenir leurs adversaires."
+      ],
+      "tanslateWordByWord" : [
+        "Non",
+        "ils vont nier",
+        "leur culte (d'entre eux)",
+        "et ils seront",
+        "contre eux",
+        "adversaires"
+      ],
+      "notes" : {
+        "50" : [
+          "Autrement dit, ils vont dire, [ «Nous ne leur avons demandé de nous adorer, ni",
+          "étions-nous conscients que ces gens stupides nous ont adoraient.\"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 83,
+      "arabicVerse" : "أَلَمْ تَرَ أَنَّا أَرْسَلْنَا الشَّيَاطِينَ عَلَى الْكَافِرِينَ تَؤُزُّهُمْ أَزًّا",
+      "simpleTranslate" : [
+        "Ne vois-tu pas que Nous envoyons les démons à l’assaut des négateurs pour les",
+        "inciter à la révolte?"
+      ],
+      "tafsirTranslate" : [
+        "Ne voyez-vous pas que sur ces incroyants Nous avons nommé le Satans, qui les",
+        "incitent à toute urgence pour opposer à la vérité?"
+      ],
+      "tanslateWordByWord" : [
+        "Ne pas",
+        "tu vois",
+        "que nous",
+        "[Nous avons envoyé",
+        "les démons",
+        "sur",
+        "les incroyants",
+        "les incitant",
+        "(Avec) l'incitation"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 84,
+      "arabicVerse" : "فَلَا تَعْجَلْ عَلَيْهِمْ ۖ إِنَّمَا نَعُدُّ لَهُمْ عَدًّا",
+      "simpleTranslate" : [
+        "Ne sois donc pas trop pressé à leur sujet, car Nous tenons un compte précis de",
+        "tous leurs actes."
+      ],
+      "tafsirTranslate" : [
+        "Eh bien, vous ne devez pas devenir impatient pour la venue du fléau sur eux, car",
+        "nous sommes la numérotation de leurs jours. <N:51>"
+      ],
+      "tanslateWordByWord" : [
+        "Donc ne le fais pas",
+        "hâtez",
+        "contre eux",
+        "Seulement",
+        "Nous comptons",
+        "pour eux",
+        "un numéro"
+      ],
+      "notes" : {
+        "51" : [
+          "Voilà: [ \". Endure leurs persécutions patiemment un peu plus, pour le temps de",
+          "leur châtiment vient près, car nous leur avons donné de répit pour une durée",
+          "déterminée, et que ce terme expire\"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 85,
+      "arabicVerse" : "يَوْمَ نَحْشُرُ الْمُتَّقِينَ إِلَى الرَّحْمَٰنِ وَفْدًا",
+      "simpleTranslate" : [
+        "Le jour où Nous rassemblerons les hommes pieux devant le Miséricordieux, tels des",
+        "hôtes de marque,"
+      ],
+      "tafsirTranslate" : [
+        "Le jour viendra près, lorsque nous présenterons les justes comme invités",
+        "d'honneur devant le Miséricordieux,"
+      ],
+      "tanslateWordByWord" : [
+        "(Le jour",
+        "Nous rassemblerons",
+        "les justes",
+        "à",
+        "le Tout Miséricordieux",
+        "(Comme) une délégation"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 86,
+      "arabicVerse" : "وَنَسُوقُ الْمُجْرِمِينَ إِلَىٰ جَهَنَّمَ وِرْدًا",
+      "simpleTranslate" : [
+        "et où Nous pousserons les criminels vers l’Enfer, tel un troupeau qu’on conduit à",
+        "l’abreuvoir,"
+      ],
+      "tafsirTranslate" : [
+        "et chasser les criminels à l'Enfer comme troupeaux assoiffés."
+      ],
+      "tanslateWordByWord" : [
+        "Et Nous allons conduire",
+        "les criminels",
+        "à",
+        "enfer",
+        "assoiffé"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 87,
+      "arabicVerse" : "لَا يَمْلِكُونَ الشَّفَاعَةَ إِلَّا مَنِ اتَّخَذَ عِنْدَ الرَّحْمَٰنِ عَهْدًا",
+      "simpleTranslate" : [
+        "seul pourra intercéder auprès de Dieu celui qui aura conclu un pacte avec le",
+        "Miséricordieux."
+      ],
+      "tafsirTranslate" : [
+        "A cette époque, personne ne doit avoir la capacité d'intervenir, sauf celui qui",
+        "peut avoir reçu la permission du Miséricordieux. <N:52>"
+      ],
+      "tanslateWordByWord" : [
+        "ne pas",
+        "ils auront le pouvoir",
+        "(De) l'intercession",
+        "sauf",
+        "(lui qui",
+        "a pris",
+        "de",
+        "le Tout Miséricordieux",
+        "une alliance"
+      ],
+      "notes" : {
+        "52" : [
+          "Cela implique deux choses: [(1)] Intercession sera autorisé seulement pour celui",
+          "qui aurait reçu la permission pour elle de le Miséricordieux, qui est, celui qui",
+          "croit en Allah dans le monde et fait lui-même digne de son pardon. [(2)]",
+          "Seulement que l'on sera en mesure de plaider intercession qui aurait obtenu la",
+          "permission pour cela du Miséricordieux, et non pas ceux-là qui eux-mêmes avaient",
+          "fait leurs intercesseurs sans aucune raison."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 88,
+      "arabicVerse" : "وَقَالُوا اتَّخَذَ الرَّحْمَٰنُ وَلَدًا",
+      "simpleTranslate" : [
+        "Ils disent que le Miséricordieux S’est donné un enfant !"
+      ],
+      "tafsirTranslate" : [
+        "Ils disent que le Miséricordieux a adopté un fils."
+      ],
+      "tanslateWordByWord" : [
+        "Et ils disent",
+        "A pris",
+        "le Tout Miséricordieux",
+        "un fils"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 89,
+      "arabicVerse" : "لَقَدْ جِئْتُمْ شَيْئًا إِدًّا",
+      "simpleTranslate" : [
+        "Quel blasphème abominable proférez-vous là !"
+      ],
+      "tafsirTranslate" : [
+        "Quelle chose absurde que vous avez inventé!"
+      ],
+      "tanslateWordByWord" : [
+        "En vérité",
+        "vous avez mis en avant",
+        "Une chose",
+        "atroce"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 90,
+      "arabicVerse" : "تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْهُ وَتَنْشَقُّ الْأَرْضُ وَتَخِرُّ الْجِبَالُ هَدًّا",
+      "simpleTranslate" : [
+        "Car, à vous entendre, peu s’en faut que les Cieux ne se fendent, que la Terre ne",
+        "s’entrouvre et que les montagnes ne s’écroulent !"
+      ],
+      "tafsirTranslate" : [
+        "Il est bien près que les cieux pourraient se fissurer et la terre fende et les",
+        "montagnes écroulera à cette chose hideuse"
+      ],
+      "tanslateWordByWord" : [
+        "Presque",
+        "Le Paradis",
+        "se déchirer",
+        "de là",
+        "et divise en morceaux",
+        "La terre",
+        "et l'effondrement",
+        "la montagne",
+        "(En) dévastation"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 91,
+      "arabicVerse" : "أَنْ دَعَوْا لِلرَّحْمَٰنِ وَلَدًا",
+      "simpleTranslate" : [
+        "Ils attribuent au Miséricordieux un enfant,"
+      ],
+      "tafsirTranslate" : [
+        "qu'ils doivent attribuer un fils au Miséricordieux!"
+      ],
+      "tanslateWordByWord" : [
+        "Cette",
+        "ils invoquent",
+        "le Tout Miséricordieux",
+        "un fils"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 92,
+      "arabicVerse" : "وَمَا يَنْبَغِي لِلرَّحْمَٰنِ أَنْ يَتَّخِذَ وَلَدًا",
+      "simpleTranslate" : [
+        "alors qu’il ne sied nullement au Miséricordieux d’avoir un enfant !"
+      ],
+      "tafsirTranslate" : [
+        "Il n'appartient pas au Miséricordieux d'adopter un fils."
+      ],
+      "tanslateWordByWord" : [
+        "Et pas",
+        "est approprié",
+        "pour le Tout Miséricordieux",
+        "cette",
+        "Il devrait prendre",
+        "un fils"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 93,
+      "arabicVerse" : "إِنْ كُلُّ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ إِلَّا آتِي الرَّحْمَٰنِ عَبْدًا",
+      "simpleTranslate" : [
+        "En vérité, tous ceux qui sont dans les Cieux et sur la Terre devront comparaître",
+        "devant le Miséricordieux, en humbles serviteurs,"
+      ],
+      "tafsirTranslate" : [
+        "Tous ceux qui sont dans les cieux et la terre, vont être présentés devant lui",
+        "comme serviteurs,"
+      ],
+      "tanslateWordByWord" : [
+        "ne pas",
+        "tout",
+        "qui",
+        "(sont dans",
+        "Le Paradis",
+        "et la terre",
+        "mais",
+        "(viendra",
+        "(À) Très Gracieuse",
+        "(Comme) un esclave"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 94,
+      "arabicVerse" : "لَقَدْ أَحْصَاهُمْ وَعَدَّهُمْ عَدًّا",
+      "simpleTranslate" : [
+        "car Il les a tous recensés et dénombrés un à un."
+      ],
+      "tafsirTranslate" : [
+        "car il les a encerclé et a conservé un compte rigoureux d'entre eux;"
+      ],
+      "tanslateWordByWord" : [
+        "En vérité",
+        "Il leur a énuméré",
+        "et comptés",
+        "un comptage"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 95,
+      "arabicVerse" : "وَكُلُّهُمْ آتِيهِ يَوْمَ الْقِيَامَةِ فَرْدًا",
+      "simpleTranslate" : [
+        "Et au Jour du Jugement dernier, chacun d’eux se présentera seul devant Lui."
+      ],
+      "tafsirTranslate" : [
+        "tout le monde doit être présenté devant lui individuellement sur le Jour de la",
+        "Résurrection."
+      ],
+      "tanslateWordByWord" : [
+        "Et chacun d'entre eux",
+        "(Va) venir (à) lui",
+        "(au jour",
+        "(De) la Résurrection",
+        "seul"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 96,
+      "arabicVerse" : "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَيَجْعَلُ لَهُمُ الرَّحْمَٰنُ وُدًّا",
+      "simpleTranslate" : [
+        "Ceux qui auront cru et accompli de bonnes œuvres, le Miséricordieux sera pour eux",
+        "Plein de sollicitude."
+      ],
+      "tafsirTranslate" : [
+        "La plupart sûrement le temps est à venir près, lorsque le Miséricordieux remplira",
+        "les cœurs d'amour de ceux qui ont cru et font de bonnes oeuvres. <N:53>"
+      ],
+      "tanslateWordByWord" : [
+        "Effectivement",
+        "ceux qui",
+        "a cru",
+        "et a fait",
+        "Bonnes actions",
+        "conférera",
+        "pour eux",
+        "le Tout Miséricordieux",
+        "affection"
+      ],
+      "notes" : {
+        "53" : [
+          "Ceci est pour réconforter les justes qui ont été persécutés et insultés dans les",
+          "rues de La Mecque. Ils sont assurés que le temps est venu près quand les gens",
+          "vont honorer et aimer en raison de leurs bonnes oeuvres et de la bonne conduite.",
+          "Coeurs seront attirés vers eux et le monde les tenir en haute estime. Et cela se",
+          "produira selon un principe universel. Ceux qui sont méchants, orgueilleux et",
+          "hautain et essayer de régner sur le peuple avec le mensonge et l'hypocrisie ne",
+          "peut jamais captiver les cœurs du peuple; d'autre part, ceux qui invitent les",
+          "gens à la bonne manière avec la vérité, l'honnêteté, la sincérité et la bonne",
+          "conduite réussir à gagner leur cœur à la fin, même si au début, ils pourraient",
+          "avoir à faire face à l'indifférence et de l'opposition des gens malhonnêtes."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 97,
+      "arabicVerse" : "فَإِنَّمَا يَسَّرْنَاهُ بِلِسَانِكَ لِتُبَشِّرَ بِهِ الْمُتَّقِينَ وَتُنْذِرَ بِهِ قَوْمًا لُدًّا",
+      "simpleTranslate" : [
+        "Nous avons rendu le Coran facile en te le révélant dans ta propre langue, afin",
+        "que tu t’en serves pour annoncer la bonne nouvelle à ceux qui craignent le",
+        "Seigneur et adresser un avertissement aux esprits rebelles."
+      ],
+      "tafsirTranslate" : [
+        "Donc, (O Muhammad), nous avons fait ce Coran facile, et fait descendre dans votre",
+        "langue afin que vous devriez donner de bonnes nouvelles aux pieux et avertir les",
+        "gens obstinés."
+      ],
+      "tanslateWordByWord" : [
+        "Ainsi, seulement",
+        "Nous (avons) rendu facile",
+        "dans votre langue",
+        "que vous pouvez donner de bonnes nouvelles",
+        "Avec ça",
+        "(À) les justes",
+        "et avertir",
+        "Avec ça",
+        "un peuple",
+        "hostile"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 98,
+      "arabicVerse" : "وَكَمْ أَهْلَكْنَا قَبْلَهُمْ مِنْ قَرْنٍ هَلْ تُحِسُّ مِنْهُمْ مِنْ أَحَدٍ أَوْ تَسْمَعُ لَهُمْ رِكْزًا",
+      "simpleTranslate" : [
+        "Que de générations avant eux avons-Nous fait périr ! En aperçois-tu un seul",
+        "individu qui vive encore ou en entends-tu le moindre murmure?"
+      ],
+      "tafsirTranslate" : [
+        "Nous avons détruit beaucoup un peuple avant de les trouver: ne vous aucune trace",
+        "d'eux ou ne vous entendent tout murmure d'eux quelque part?"
+      ],
+      "tanslateWordByWord" : [
+        "Et combien",
+        "Nous (avons) détruit",
+        "Avant eux",
+        "de",
+        "une génération",
+        "Pouvez",
+        "vous percevez",
+        "d'eux",
+        "tout",
+        "un",
+        "ou",
+        "entendre",
+        "d'eux",
+        "un son"
+      ],
+      "notes" : { }
+    }
+  ],
+  "medinian" : false
+}

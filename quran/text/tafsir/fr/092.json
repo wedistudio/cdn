@@ -1,0 +1,590 @@
+{
+  "chapterNumber" : 92,
+  "nbVerses" : 21,
+  "name" : "La nuit",
+  "nameArabic" : "الليل",
+  "transName" : "al-layl",
+  "verses" : [
+    {
+      "verseNumber" : 1,
+      "arabicVerse" : "وَاللَّيْلِ إِذَا يَغْشَىٰ",
+      "simpleTranslate" : [
+        "Par la nuit quand elle étend son obscurité,"
+      ],
+      "tafsirTranslate" : [
+        "Par la nuit quand elle ensevelit,"
+      ],
+      "tanslateWordByWord" : [
+        "Par la nuit",
+        "quand",
+        "cela couvre"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 2,
+      "arabicVerse" : "وَالنَّهَارِ إِذَا تَجَلَّىٰ",
+      "simpleTranslate" : [
+        "par le jour quand il répand sa clarté"
+      ],
+      "tafsirTranslate" : [
+        "et par le jour où il se casse dans sa gloire,"
+      ],
+      "tanslateWordByWord" : [
+        "Et la journée",
+        "quand",
+        "il brille dans la luminosité"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 3,
+      "arabicVerse" : "وَمَا خَلَقَ الذَّكَرَ وَالْأُنْثَىٰ",
+      "simpleTranslate" : [
+        "et par ce qu’Il a créé comme mâle et comme femelle !"
+      ],
+      "tafsirTranslate" : [
+        "et par celui qui a créé le mâle et la femelle:"
+      ],
+      "tanslateWordByWord" : [
+        "Et celui qui",
+        "créé",
+        "le mâle",
+        "et femelle"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 4,
+      "arabicVerse" : "إِنَّ سَعْيَكُمْ لَشَتَّىٰ",
+      "simpleTranslate" : [
+        "En vérité, il y a de profondes divergences entre les buts que vous poursuivez !"
+      ],
+      "tafsirTranslate" : [
+        "sûrement vos aspirations divergent <N:1>."
+      ],
+      "tanslateWordByWord" : [
+        "Effectivement",
+        "Tes efforts",
+        "(Sont) sûrement diverses"
+      ],
+      "notes" : {
+        "1" : [
+          "C'est celle pour laquelle un serment a été prêté par la nuit et le jour, et la",
+          "création du mâle et de la femelle. Il veut dire: Tout comme la nuit et le jour,",
+          "et le mâle et la femelle, sont différents les uns des autres, et de leurs effets",
+          "et les résultats sont contradictoires, sont donc les objectifs et les objets pour",
+          "lesquels les hommes sont efforcent et aux prises; différents dans leur nature et",
+          "contradictoires en ce qui concerne leurs résultats. Dans les versets suivants, il",
+          "a été dit que tous ces efforts divisés sont divisés en deux types principaux."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 5,
+      "arabicVerse" : "فَأَمَّا مَنْ أَعْطَىٰ وَاتَّقَىٰ",
+      "simpleTranslate" : [
+        "À celui donc qui est charitable et pieux,"
+      ],
+      "tafsirTranslate" : [
+        "Quant à celui qui a donné sa richesse (pour l'amour d'Allah) et se sont abstenus",
+        "(de Lui désobéir),"
+      ],
+      "tanslateWordByWord" : [
+        "Ensuite, en ce qui concerne",
+        "(Lui) qui",
+        "donne",
+        "et les craintes"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 6,
+      "arabicVerse" : "وَصَدَّقَ بِالْحُسْنَىٰ",
+      "simpleTranslate" : [
+        "qui ajoute foi à la bonne Parole de Dieu,"
+      ],
+      "tafsirTranslate" : [
+        "et confirmé la vérité de la bonté: <N:2>"
+      ],
+      "tanslateWordByWord" : [
+        "Et croit",
+        "dans le meilleur"
+      ],
+      "notes" : {
+        "2" : [
+          "Ceci est le premier type d'efforts, qui comprend trois choses, et un peu de",
+          "considération montre qu'ils comprennent toutes les vertus: \n [(1)] Ce Tnan",
+          "devrait s'abstenir de richesse culte, mais devrait dépenser ce qu'Allah lui a",
+          "donné généreusement à rendre les droits d'Allah et pour ses serviteurs, pour les",
+          "bonnes œuvres et pour aider les autres; \n [(2)] qu'il doit craindre Dieu et de ne",
+          "pas les choses qui causent Son mécontentement dans ses rapports moraux, sociaux,",
+          "économiques et autres avec le peuple; \n [(3)] qu'il doit croire en la bonté. La",
+          "bonté est un mot complet, qui comprend bonté de croyance, de la morale et les",
+          "actes. Bonté de croyance signifie que l'on doit abandonner le polythéisme;",
+          "athéisme, et l'incrédulité, et affirmer la foi en Tauhid,. la . Au-delà et",
+          "Prophétie. Affirmant la croyance en la bonté de la morale et les actes est que",
+          "l'on ne devrait pas faire bon et juste simplement inconsciemment, en dehors d'un",
+          "système défini, mais il faut reconnaître que le droit et le son du système de la",
+          "bonté que Dieu a envoyé, qui combine toutes sortes de bonté dans toutes ses",
+          "formes et aspects dans un système globalement appelé le Divin Shari'ah."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 7,
+      "arabicVerse" : "فَسَنُيَسِّرُهُ لِلْيُسْرَىٰ",
+      "simpleTranslate" : [
+        "Nous faciliterons l’accès vers le bonheur ;"
+      ],
+      "tafsirTranslate" : [
+        "Nous allons faciliter pour lui la façon de Bliss <N:3>"
+      ],
+      "tanslateWordByWord" : [
+        "Ensuite, nous allons lui faciliter",
+        "vers [la] facilité"
+      ],
+      "notes" : {
+        "3" : [
+          "Ceci est le résultat de la première espèce de chercher et de lutter. Le moyen",
+          "facile implique la manière qui est conforme à la nature humaine, ce qui est",
+          "conforme à la volonté du Créateur, qui a créé l'homme et l'ensemble _ univers. Il",
+          "est un moyen par lequel l'homme n'a pas à lutter contre sa conscience, dans",
+          "laquelle il DCEs pas forcer ses facultés de l'esprit et l'énergie de corps en",
+          "faisant des travaux pour lesquels ils ne sont pas donnés, mais de faire des",
+          "choses pour lesquelles ils ont été effectivement donnés lui. Il est un moyen par",
+          "lequel l'homme n'a pas à connaître la guerre, la résistance et les conflits de",
+          "tous côtés, qu'il a de l'expérience dans une vie pleine de péché, mais une",
+          "société humaine dans laquelle à chaque étape il éprouve la paix et la concorde,",
+          "l'appréciation et l'honneur . De toute évidence, la personne qui passe sa",
+          "richesse pour le bien-être du public, traite toute autre personne aimable et",
+          "bien, dont la vie est exempte de crime, le péché et l'immoralité, qui est juste",
+          "et équitable dans ses relations, qui ne triche autres ni prouve faux dans ses",
+          "promesses , dont on ne saisit la malhonnêteté, l'injustice et l'excès, et dont le",
+          "caractère ne trouve aucune faute, sera dans tous les cas être honoré et respecté",
+          "dans toute société, cependant, corrompu et dépravé, il peut être. Coeurs seront",
+          "attirés vers lui dans l'estime et la considération; son cœur et consience seront",
+          "satisfaits, et il va atteindre à la dignité dans la société où personne ne",
+          "immoral peut jamais atteindre. Cette même chose a été exprimée dans la sourate",
+          "AnNahl, ainsi: [ «Quiconque DCES actions droites hommes ou femmes, à condition",
+          "qu'il soit croyant, Nous lui accorderons sûrement à vivre une vie pure dans ce",
+          "monde [(v 97).] \"], et dans la sourate Maryam, ainsi [\" le Miséricordieux,",
+          "remplira d'amour les cœurs de ceux qui croient et accomplissent les bonnes",
+          "oeuvres [(v. 86)]. C'est alors la façon dont il n'y a rien mais la joie et la",
+          "tranquillité pour l'homme, pour le monde jusqu'à l'au-delà. Son resultsare pas",
+          "transitoire et temporaire, mais éternelle et éternelle. \n En ce qui concerne ce",
+          "qu'Allah dit \"] Nous allons faciliter pour lui la voie facile. [\" Il veut dire \"]",
+          "Quand après avoir affirmé la bonté, il décide que cette façon seule lui convient,",
+          "et la façon dont le mal ne lui convient pas, et quand par faire des sacrifices et",
+          "de l'adoption de la vie de -tagva pratiquement il prouve qu'il est vrai dans son",
+          "affirmation, Allah fera facile pour lui de marcher de cette façon. Ensuite, pour",
+          "commettre le mal deviendra difficile pour lui, et de faire le bien facile. Quand",
+          "la richesse illégale vient devant lui, il ne sera pas le considérer comme une",
+          "bonne affaire, mais le considérer comme une pièce chaude de la combustion du",
+          "charbon, dont il ne peut pas tenir dans sa main. Lorsque des possibilités pour le",
+          "péché apparaissent devant lui, il ne se précipitera pas pour les saisir comme des",
+          "opportunités pour le plaisir et la jouissance, mais les considérer comme des",
+          "portes à l'enfer et les fuir. La prière ne sera pas difficile pour lui, et à la",
+          "base aura pas de paix intérieure jusqu'à ce qu'il ait accompli il au temps fixé.",
+          "Il ne se sentira pas mal quand payer la zakat, mais considérera sa richesse comme",
+          "impure jusqu'à ce qu'il ait payé la Zakat de lui. En bref, à chaque pas, Allah",
+          "lui la faveur de sa grâce et de l'aider à suivre cette voie; conditions seront",
+          "faits favorables à hisn et il sera aidé de toutes les difficultés. Maintenant, la",
+          "question se pose que dans la sourate Al-ahove cette façon ballot très a été",
+          "appelé une route en montée, et d'embaucher, il a été décrit comme un moyen facile",
+          "Comment les deux choses peuvent être conciliés? La réponse est que devant un",
+          "homme a adopté cette façon, il semble être, une route escarpée vers le haut, par",
+          "ordre croissant qu'il doit combattre ses désirs, ses membres matérialistes de la",
+          "famille, ses proches, ses amis et ceux avec lesquels il a les relations sociales",
+          "et autres, et surtout Satan, pour chacun d'entre eux obstrue son chemin, et fait",
+          "paraître terrible. . Mais après Tnan a affirmé la bonté et résolu à suivre cette",
+          "voie, et loin de donner sa richesse dans la cause de Dieu et en adoptant le mode",
+          "de Taqva, a pratiquement renforcé sa détermination, en remontant la route",
+          "escarpée devient facile et glisser dans l'abîme de dépravations morales devient",
+          "difficile pour lui."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 8,
+      "arabicVerse" : "وَأَمَّا مَنْ بَخِلَ وَاسْتَغْنَىٰ",
+      "simpleTranslate" : [
+        "mais à celui qui est avare et plein de suffisance,"
+      ],
+      "tafsirTranslate" : [
+        "Quant à celui qui était avare et comporté avec l'aversion (à Allah),"
+      ],
+      "tanslateWordByWord" : [
+        "Mais, comme pour",
+        "(Lui) qui",
+        "des retenues",
+        "et se considère sans nécessité"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 9,
+      "arabicVerse" : "وَكَذَّبَ بِالْحُسْنَىٰ",
+      "simpleTranslate" : [
+        "qui traite de mensonge la bonne Parole du Seigneur,"
+      ],
+      "tafsirTranslate" : [
+        "et a nié la vérité de la bonté: <N:4>"
+      ],
+      "tanslateWordByWord" : [
+        "Et nie",
+        "le meilleur"
+      ],
+      "notes" : {
+        "4" : [
+          "Ceci est le deuxième type de chercher humaine, qui, dans chaque partie de",
+          "celui-ci est différente de la partie correspondante de la première espèce.",
+          "Ladrerie [(bukhl)] est non seulement l'avarice en raison de laquelle les gens",
+          "considèrent généralement une personne mesquine s'il amasse de l'argent: ni",
+          "dépense sur lui-même, ni sur ses enfants, mais bukhl ici implique de ne pas",
+          "dépenser dans la cause d'Allah et le bien-être public. Selon cette étude,",
+          "mesquine est toute personne qui dépense généreusement, dilapide plutôt l'argent,",
+          "sur son auto, pour sa propre facilité et le confort, les intérêts et les",
+          "jouissances, mais, comme. pour une bonne cause, passe rien, ou, le cas échéant,",
+          "il passe quoi que ce soit, ii est pour l'affichage, ou de gagner une réputation",
+          "et un nom, ou d'avoir accès à des officiers, ou pour obtenir un certain avantage",
+          "et le gain. Indépendance de Dieu implique que l'on doit faire de ce monde, des",
+          "avantages matériels que l'objet des endeavourings et aspirations de tous les un",
+          "et étant indépendant de Dieu devrait moins soin de voir ce qui Lui plaît et ce",
+          "qui lui déplaît. Quant à la bonté démentait, il est en contraste frappant avec la",
+          "foi en Dieu dans les moindres détails, par conséquent, il n'a pas besoin d'être",
+          "expliqué ici comme il a déjà été expliqué ci-dessus."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 10,
+      "arabicVerse" : "فَسَنُيَسِّرُهُ لِلْعُسْرَىٰ",
+      "simpleTranslate" : [
+        "Nous faciliterons l’accès vers le malheur,"
+      ],
+      "tafsirTranslate" : [
+        "Nous allons faciliter pour lui le moyen de détresse, <N:5>"
+      ],
+      "tanslateWordByWord" : [
+        "Ensuite, nous allons lui faciliter",
+        "vers [la] difficulté"
+      ],
+      "notes" : {
+        "5" : [
+          "De cette façon, a été appelé à la dure, car, bien que celui qui le suit, le fait",
+          "pour le bien des avantages matériels, anjoyments mondaines et les succès",
+          "superficiels, mais en suivant ce qu'il est toujours en guerre avec sa nature de",
+          "son conscience, les lois faites par le Créateur de l'univers et la société dans",
+          "laquelle il vit. Quand il transgresse tous Ies limites morales de la vérité,",
+          "l'honnêteté, la noblesse, la pureté et la chasteté et cherche à satisfaire ses",
+          "intérêts et désirs dans tous les sens, quand les gens se sentent lésés par lui",
+          "plutôt que de profiter de lui, et quand il empiète sur les droits des autres et",
+          "viole l'honneur des gens, il se sent déshonoré à ses propres yeux et doit se",
+          "heurter à chaque pas avec la société dans laquelle il vit. S'il est faible, il",
+          "doit souffrir toute sorte de punition à cause de sa conduite, et s'il est riche,",
+          "forte et influente, le monde peut mentir bas devant lui, mais personne ne chérit",
+          "pas de bons voeux, aucun sentiment d'honneur et l'amour pour lui; si bien que",
+          "même ses associés et compagnons le considèrent comme un homme méchant. Et cette",
+          "chose est non seulement limitée aux individus, même quand une nation forte et",
+          "puissante transgresse les limites de la morale et adopte une conduite immorale,",
+          "dans l'arrogance de l'orgueil et de la richesse, il gagne d'une part, l'hostilité",
+          "du monde extérieur: le l'autre, sa propre société tombe victime de toutes sortes",
+          "de crimes, la prévalence du suicide, l'intoxication, les maladies vénériennes, la",
+          "destruction de la vie familiale, waywardness de l'injustice nouvelle génération,",
+          "les conflits de classe et sans cesse croissante et de la tyrannie. Tant et si",
+          "bien que quand il tombe de sa position de prestige, il ne laisse rien derrière,",
+          "sauf les malédictions et la condamnation pour lui-même dans l'histoire du monde.",
+          "\n Quant à dire que [ «Nous allons faciliter pour lui les façons dures»], cela",
+          "signifie: Il sera privé de la grâce de suivre la voie du bien, les portes du mal",
+          "seront ouvertes pour lui, des moyens et des ressources pour le même seront",
+          "fournis pour lui, faire le mal deviendra facile, et faire le bien deviendra",
+          "pénible et risqué pour lui. Ce même thème a été exprimé à un autre endroit dans",
+          "le Coran, ainsi: [ \"Alors quiconque Allah veut pour guider, Il rend sa poitrine",
+          "grande ouverte à l'Islam, et qui Il veut se laisser aller égarer, il rend sa",
+          "poitrine étroite et il serre si fort que [(à l'idée même de l'islam)], il",
+          "commence à se sentir comme si son âme se montait vers le ciel \"] [. (Al-An`am:",
+          "125)]. A un autre endroit, il a été dit: [ «Sans doute, salat est une tâche",
+          "difficile, mais pas pour les serviteurs obéissants.\"] [(AlBaqarah: 46 <V:2:46>)].",
+          "Et au sujet des hypocrites il a été dit: [ \". Quand ils viennent d'offrir la",
+          "salat, ils viennent à contrecoeur et ils dépensent dans le chemin d'Allah avec un",
+          "cœur qui ne veulent pas\"] [(At-Tawbah: 54 <V:9:54>)], et que: [ \". Il y a",
+          "notamment parmi eux, qui considèrent ce qu'ils dépensent en the.way d'Allah comme",
+          "une sanction\"] [(At-Tawbah: 98 <V:9:98>)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 11,
+      "arabicVerse" : "وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَدَّىٰ",
+      "simpleTranslate" : [
+        "et ses richesses ne lui auront à rien servi quand il sera dans l’abîme précipité",
+        "!"
+      ],
+      "tafsirTranslate" : [
+        "et sa richesse ne sera d'aucune utilité pour lui quand il périt. <N:6>"
+      ],
+      "tanslateWordByWord" : [
+        "Et pas",
+        "se prévaloir",
+        "lui",
+        "sa richesse",
+        "quand",
+        "il tombe"
+      ],
+      "notes" : {
+        "6" : [
+          "En d'autres termes, cela signifie qu'il doit mourir un jour et de laisser",
+          "derrière dans le monde tout ce qu'il avait amassé pour sa facilité et de plaisir.",
+          "S'il n'a pas gagné et envoyer en avant quelque chose pour l'au-delà, ce serait",
+          "cette richesse lui servira? Il ne prendra pas sa somptueuse résidence, son",
+          "transport majestueux, sa propriété et de la richesse dans la tombe."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 12,
+      "arabicVerse" : "إِنَّ عَلَيْنَا لَلْهُدَىٰ",
+      "simpleTranslate" : [
+        "Certes, c’est à Nous d’indiquer la bonne voie."
+      ],
+      "tafsirTranslate" : [
+        "Assurément, il est pour nous de montrer le droit chemin, <N:7>"
+      ],
+      "tanslateWordByWord" : [
+        "Effectivement",
+        "sur nous",
+        "(Est) la direction"
+      ],
+      "notes" : {
+        "7" : [
+          "Autrement dit, Allah comme le Créateur de l'homme a sur la base de sa sagesse, sa",
+          "justice et sa miséricorde, pris de lui-même la responsabilité de ne pas le",
+          "laisser mal informés dans le monde, mais pour lui dire ce qui est la bonne façon",
+          "et quelles sont les mauvaises façons, ce qui est bon et ce qui est mal, ce qui",
+          "est licite et ce qui est illégal, quelle attitude et la conduite fera de lui un",
+          "serviteur obéissant et ce que l'attitude et la conduite sera lui un serviteur",
+          "désobéissant faire. Cette même chose a été exprimée dans la sourate An-Nahl;",
+          "ainsi: [ \"Allah a pris sur lui-même pour montrer la bonne façon, quand il y a",
+          "aussi des chemins tortueux.\"] [(v.9)] [(Pour plus d'explications, voir E.N. 9 de",
+          "AnNahl)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 13,
+      "arabicVerse" : "وَإِنَّ لَنَا لَلْآخِرَةَ وَالْأُولَىٰ",
+      "simpleTranslate" : [
+        "Certes, c’est à Nous qu’appartiennent la vie future et la vie d’ici-bas."
+      ],
+      "tafsirTranslate" : [
+        "et nous appartiennent la prochaine vie et le présent. <N:8>"
+      ],
+      "tanslateWordByWord" : [
+        "Et en effet",
+        "pour nous",
+        "(Est) l'au-delà",
+        "et la première (la vie)"
+      ],
+      "notes" : {
+        "8" : [
+          "Cette déclaration a plusieurs significations et tous sont correctes: [(1)] '[",
+          "\"Que du monde jusqu'à l'au-delà, vous êtes nulle part au-delà de notre portée,",
+          "pour les nôtres sont à la fois ceci et l'autre monde; ».] [(2)] [\" que ce monde",
+          "et l'au-delà sont en tout cas sous Notre souveraineté, si vous suivez le chemin",
+          "indiqué par nous ou non Si vous adoptez erreur, vous ne serez pas nous nuire,",
+          "mais seulement vous-mêmes; et si vous adoptez la bonne façon, vous ne ferez rien",
+          "de bon pour nous, mais ferez bien que pour vous votre désobéissance ne peut pas",
+          "causer toute diminution de notre souveraineté et de votre obéissance ne peut pas",
+          "provoquer une augmentation en elle; \".] [(3)] [ \". que nous seuls sommes Maître",
+          "des deux mondes Si vous cherchez le monde, Nous seuls pouvons lui accorder, et si",
+          "vous cherchez le bien-être de l'au-delà, nous avons seul le pouvoir de l'accorder",
+          "trop,\"] Ce thème très a été exprimé en Al-`Imran: 145: [ «quiconque fait des",
+          "efforts avec l'intention de la récompense de ce monde, nous le récompensera dans",
+          "ce monde, et celui qui fait l'effort avec l'intention de la récompense de",
+          "l'au-delà, nous lui accorder son \"], et la même chose a été exprimée dans",
+          "Ash-Shu`ara: 20, ainsi: [« celui qui cherche la récolte de l'au-delà, nous",
+          "faisons augmenter sa récolte; et celui qui cherche la récolte de ce monde, il ne",
+          "lui de lui donner ici, mais dans l'au-delà, il aura aucune part du tout. \"]",
+          "[(Pour plus d'explications, voir EN 105 de Al`Imran, EN 37 de Ash-Shura )]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 14,
+      "arabicVerse" : "فَأَنْذَرْتُكُمْ نَارًا تَلَظَّىٰ",
+      "simpleTranslate" : [
+        "Et Je vous ai déjà mis en garde contre le Feu qui flamboie,"
+      ],
+      "tafsirTranslate" : [
+        "Je vous ai maintenant mis en garde contre un feu ardent,"
+      ],
+      "tanslateWordByWord" : [
+        "Alors je vous préviens",
+        "(De) un incendie",
+        "brûlant"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 15,
+      "arabicVerse" : "لَا يَصْلَاهَا إِلَّا الْأَشْقَى",
+      "simpleTranslate" : [
+        "que seul aura à affronter le plus misérable des hommes,"
+      ],
+      "tafsirTranslate" : [
+        "où il ne brûlera sauf le plus méchant,"
+      ],
+      "tanslateWordByWord" : [
+        "ne pas",
+        "brûlera (en), il",
+        "sauf",
+        "le plus misérable"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 16,
+      "arabicVerse" : "الَّذِي كَذَّبَ وَتَوَلَّىٰ",
+      "simpleTranslate" : [
+        "qui aura rejeté la Révélation et tourné le dos à la foi."
+      ],
+      "tafsirTranslate" : [
+        ", qui a rejeté la vérité, en l'appelant le mensonge et tourna le dos."
+      ],
+      "tanslateWordByWord" : [
+        "Celui qui",
+        "dénié",
+        "et se détourna"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 17,
+      "arabicVerse" : "وَسَيُجَنَّبُهَا الْأَتْقَى",
+      "simpleTranslate" : [
+        "Cependant, de ce Feu sera épargné le croyant plein de piété,"
+      ],
+      "tafsirTranslate" : [
+        "Mais la crainte de Dieu doit être tenu à l'écart de celui-ci,"
+      ],
+      "tanslateWordByWord" : [
+        "Mais sera retiré de ce",
+        "les justes"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 18,
+      "arabicVerse" : "الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّىٰ",
+      "simpleTranslate" : [
+        "qui fait l’aumône de ses biens pour se purifier"
+      ],
+      "tafsirTranslate" : [
+        "les pieux qui passe sa richesse pour se purifier; <N:9>"
+      ],
+      "tanslateWordByWord" : [
+        "Celui qui",
+        "donne",
+        "sa richesse",
+        "(À) se purifier"
+      ],
+      "notes" : {
+        "9" : [
+          "Ce ETCD ne signifie pas que personne ne va entrer dans le feu, sauf la plus",
+          "misérable de la, et personne ne sera sauvé de lui, sauf le plus pieux, mais",
+          "l'objet est de décrire le sort extrêmement contradictoire des deux extrêmement",
+          "caractères contradictoires ». L'un d'eux est la personne qui dément les",
+          "enseignements d'Allah et Son messager, et se détourne de l'obéissance; l'autre",
+          "est la personne, qui ne croit pas seulement, mais passe aussi sa richesse dans la",
+          "cause d'Allah sincèrement, sans aucun désir pour l'affichage et la réputation,",
+          "que pour être considéré comme un homme pur à ses yeux. Ces deux types de",
+          "caractère étaient présents dans la société Makkah de ce jour-là. . Par",
+          "conséquent, sans mentionner aucun nom, les gens ont été informés que l'homme du",
+          "premier type de personnage ne va brûler dans le feu de l'enfer et non l'homme du",
+          "second type de caractère; l'homme du second type de personnage ne sera tenu à",
+          "l'écart de celui-ci et non pas l'homme du premier type de caractère."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 19,
+      "arabicVerse" : "وَمَا لِأَحَدٍ عِنْدَهُ مِنْ نِعْمَةٍ تُجْزَىٰ",
+      "simpleTranslate" : [
+        "et non en échange d’un bienfait dont il aurait bénéficié ;"
+      ],
+      "tafsirTranslate" : [
+        "non pas comme le paiement pour toutes les faveurs qu'il a reçues,"
+      ],
+      "tanslateWordByWord" : [
+        "Et pas",
+        "pour tout le monde",
+        "avec lui",
+        "tout",
+        "faveur",
+        "être dédommagé"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 20,
+      "arabicVerse" : "إِلَّا ابْتِغَاءَ وَجْهِ رَبِّهِ الْأَعْلَىٰ",
+      "simpleTranslate" : [
+        "mais uniquement pour plaire à son Seigneur, le Très-Haut."
+      ],
+      "tafsirTranslate" : [
+        ", mais seulement de chercher le bon plaisir de son Seigneur le Très-Haut. <N:10>"
+      ],
+      "tanslateWordByWord" : [
+        "Sauf",
+        "recherche",
+        "(La) Countenance",
+        "(De) son Seigneur",
+        "le Très-Haut"
+      ],
+      "notes" : {
+        "10" : [
+          "Ceci est une explication supplémentaire de la sincérité de l'homme pieux. Il n'a",
+          "pas été redevable d'aucune façon aux personnes sur lesquelles il passe sa",
+          "richesse afin qu'il puisse être le faire dans le but de rembourser des faveurs",
+          "reçues, ou peut être de donner des cadeaux et la tenue banguets à eux afin de",
+          "mieux tirer parti d'eux, mais il aide ces personnes uniquement dans le but de",
+          "chercher la bonne volonté de son Seigneur, le suprême. Il n'a été ni redevable à",
+          "eux avant, ni qu'il attend des faveurs d'eux à l'avenir. Sa meilleure",
+          "illustration est l'acte de Abû Bakr Siddiq [(qu'Allah blesshim)], il serait",
+          "acheter et mettre en libérer les pauvres esclaves et les esclaves-filles qui ont",
+          "accepté l'islam à La Mecque et ont été cruellement traités par leurs maîtres sur",
+          "ce compte. Ibn Jarir Ibn 'Asakir ont porté, sur l'autorité de Hadrat' Amir bin",
+          "Abdullah bin Zubair, que lorsque le père de Abû Bakr l'a vu dépenser de l'argent",
+          "pour acheter la liberté des pauvres esclaves et servantes, il lui dit: [ \". Fils,",
+          "je vois que vous avez trouvé les gens faibles libre, si vous aviez dépensé cet",
+          "argent sur la liberté de fortes, les jeunes hommes, ils seraient devenus vos",
+          "aides et sympathisants\"] Abû Bakr répondit: [ «Cher père, Je cherche seulement la",
+          "récompense qui est auprès d'Allah. \"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 21,
+      "arabicVerse" : "وَلَسَوْفَ يَرْضَىٰ",
+      "simpleTranslate" : [
+        "Celui-là sera assurément satisfait de la récompense qui lui sera attribuée."
+      ],
+      "tafsirTranslate" : [
+        "Il sera sûrement bien heureux (avec lui). <N:11>"
+      ],
+      "tanslateWordByWord" : [
+        "Et bientôt, sûrement",
+        "il se fera un plaisir"
+      ],
+      "notes" : {
+        "11" : [
+          "Ce verset peut avoir deux significations et les deux sont correctes: [(1)] [ «Ce",
+          "Allah sera certainement content de lui\"] et [(2)] [ \"que Dieu va bientôt bénir",
+          "cet homme avec tant qu'il sera heureux. \"]"
+        ]
+      }
+    }
+  ],
+  "medinian" : false
+}

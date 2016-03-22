@@ -1,0 +1,418 @@
+{
+  "chapterNumber" : 86,
+  "nbVerses" : 17,
+  "name" : "L’astre nocturne, L’arrivant du soir",
+  "nameArabic" : "الطارق",
+  "transName" : "aṭ-ṭāriq",
+  "verses" : [
+    {
+      "verseNumber" : 1,
+      "arabicVerse" : "وَالسَّمَاءِ وَالطَّارِقِ",
+      "simpleTranslate" : [
+        "Par le ciel et l’astre nocturne !"
+      ],
+      "tafsirTranslate" : [
+        "Par le ciel, et la nuit-visiteur,"
+      ],
+      "tanslateWordByWord" : [
+        "Le ciel",
+        "et l'angle de nuit"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 2,
+      "arabicVerse" : "وَمَا أَدْرَاكَ مَا الطَّارِقُ",
+      "simpleTranslate" : [
+        "Et quel objet étonnant que cet astre nocturne"
+      ],
+      "tafsirTranslate" : [
+        "ce que vous savez ce que la nuit-visiteur est?"
+      ],
+      "tanslateWordByWord" : [
+        "Et quoi",
+        "peut vous faire connaître",
+        "quelle",
+        "le coin nuit (est)"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 3,
+      "arabicVerse" : "النَّجْمُ الثَّاقِبُ",
+      "simpleTranslate" : [
+        "qui transperce les ténèbres !"
+      ],
+      "tafsirTranslate" : [
+        "Il est l'étoile du piercing."
+      ],
+      "tanslateWordByWord" : [
+        "(Il est) l'étoile",
+        "le piercing"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 4,
+      "arabicVerse" : "إِنْ كُلُّ نَفْسٍ لَمَّا عَلَيْهَا حَافِظٌ",
+      "simpleTranslate" : [
+        "En vérité, il n’est point d’âme qui ne soit sous la surveillance d’un ange",
+        "gardien !"
+      ],
+      "tafsirTranslate" : [
+        "Il n'y a pas être vivant, mais il est un protecteur au-dessus <N:1>."
+      ],
+      "tanslateWordByWord" : [
+        "ne pas",
+        "(Est) tous les",
+        "âme",
+        "mais",
+        "par-dessus",
+        "(Est) un protecteur"
+      ],
+      "notes" : {
+        "1" : [
+          "[ \"A Guardian\"]: Allah Tout-Puissant Lui-même, qui est à la recherche après et de",
+          "veiller sur toutes les créatures, grandes ou petites, dans la terre et les cieux.",
+          "C'est Lui qui a apporté tout à l'existence, qui est le maintien et le maintien de",
+          "tout à sa place et la position, et qui a pris la responsabilité de fournir pour",
+          "chaque créature et de le protéger des calamités jusqu'à un air nommé. Sur ce, un",
+          "serment a été prêté par le ciel et par chaque étoile et de la planète qui",
+          "apparaît dans l'obscurité de la nuit. [(Bien que lexicalement, un-najm ath-thaqib",
+          "est singulier, cela ne signifie pas une étoile, mais l'étoile dans le sens",
+          "générique)]. Le serment signifie que l'existence de chacun des innombrables",
+          "étoiles et des planètes qui brille dans le ciel à «la nuit, témoigne du fait",
+          "qu'il ya un être qui l'a créé, illuminée, suspendue dans l'espace, et est donc de",
+          "veiller sur d'une manière que ni elle tombe de sa place, ni entre en collision",
+          "avec un autre des innombrables étoiles dans leurs mouvements, ni ne importe",
+          "quelle autre étoile en collision avec elle."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 5,
+      "arabicVerse" : "فَلْيَنْظُرِ الْإِنْسَانُ مِمَّ خُلِقَ",
+      "simpleTranslate" : [
+        "Que l’homme considère ce dont il a été créé !"
+      ],
+      "tafsirTranslate" : [
+        ". Que l'homme considère de ce qu'il a été créé <N:2>"
+      ],
+      "tanslateWordByWord" : [
+        "Alors laissez voir",
+        "homme",
+        "de ce que",
+        "il est créé"
+      ],
+      "notes" : {
+        "2" : [
+          "Après avoir fait l'homme méditer sur le ciel, il est maintenant invité à examiner",
+          "son ownself et de voir comment il a été créé, Qui est-ce qui sélectionne un",
+          "spermatozoïde parmi des milliards de spermatozoïdes émis par le père et les",
+          "moissonneuses-batteuses à un certain moment avec un ovule à partir d'un grand",
+          "nombre d'ovules produits par la mère, et provoque ainsi un être humain en",
+          "particulier à concevoir? Alors, qui est-ce qui après la conception développe",
+          "progressivement dans le ventre de la mère Jusqu'à ce qu'il est livré sous la",
+          "forme d'un enfant vivant? Alors, qui est-ce qui dans l'utérus de la mère",
+          "elle-même provoque une certaine proportion et l'harmonie entre sa structure",
+          "physique et ses capacités physiques et mentales? Alors, qui est-ce qui surveille",
+          "en permanence depuis la naissance jusqu'à ce mort protège contre les maladies,",
+          "les accidents et les catastrophes et lui fournit d'innombrables moyens de vie et",
+          "les possibilités de survie dans le monde dont il est même pas conscient, sans",
+          "parler de ayant le pouvoir de fournir ceux-ci pour lui-même. Est-ce tout cela se",
+          "passe sans la planification et la supervision d'un Dieu?"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 6,
+      "arabicVerse" : "خُلِقَ مِنْ مَاءٍ دَافِقٍ",
+      "simpleTranslate" : [
+        "N’a-t-il pas été créé d’un liquide éjaculé,"
+      ],
+      "tafsirTranslate" : [
+        "Il a été créé d'un fluide jaillissant,"
+      ],
+      "tanslateWordByWord" : [
+        "Il est créé",
+        "de",
+        "de l'eau",
+        "éjecté"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 7,
+      "arabicVerse" : "يَخْرُجُ مِنْ بَيْنِ الصُّلْبِ وَالتَّرَائِبِ",
+      "simpleTranslate" : [
+        "jaillissant d’entre les lombes et les iliaques?"
+      ],
+      "tafsirTranslate" : [
+        "provenant d'entre les reins et les nervures <N:3>."
+      ],
+      "tanslateWordByWord" : [
+        "Sorti",
+        "de",
+        "entre",
+        "l'épine dorsale",
+        "et les nervures"
+      ],
+      "notes" : {
+        "3" : [
+          "[ \"Sulb\"] est la colonne vertébrale et [ \"tara'ib\"] les os maternel, à savoir les",
+          "côtes. Comme le fluide procréateur chez l'homme et la femme est déchargé de cette",
+          "partie du corps qui est entre le dos et la poitrine, il est dit que Tnan a été",
+          "créé à partir du fluide sortant à la mousse entre le dos et la poitrine. Ce",
+          "fiuide est produit même dans le cas où les mains et les pieds sont coupés. Par",
+          "conséquent, il est inexact de dire qu'elle émet à partir de tout le corps de",
+          "l'homme. En fait, les principaux organes de l'organisme sont sa source et tous",
+          "ceux-ci se trouvent dans le coffre. Le cerveau n'a pas été mentionné séparément,",
+          "car l'épine dorsale est la partie du cerveau à travers lequel la connexion entre",
+          "le corps et le cerveau est établi. [(Voir aussi l'annexe I)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 8,
+      "arabicVerse" : "إِنَّهُ عَلَىٰ رَجْعِهِ لَقَادِرٌ",
+      "simpleTranslate" : [
+        "Et c’est assez dire que Dieu a tout pouvoir de le ressusciter,"
+      ],
+      "tafsirTranslate" : [
+        "Sûrement Il (le Créateur) a le pouvoir de le ramener (à la vie) <N:4>."
+      ],
+      "tanslateWordByWord" : [
+        "En effet, il",
+        "à",
+        "le retour",
+        "(est capable"
+      ],
+      "notes" : {
+        "4" : [
+          "Voilà, Son apportant Tnan à l'existence et de veiller sur lui à partir de la",
+          "conception de la dîme a lieu jusqu'à la mort, est une preuve évidente qu'il peut",
+          "lui créer une nouvelle fois après la mort. S'il avait le pouvoir de le créer en",
+          "premier lieu et l'homme reste en vie dans le monde par sa seule puissance, quels",
+          "arguments rationnels peuvent être présentés pour la conjecture qu'il DCEs pas le",
+          "pouvoir de faire la même chose une seconde fois? Nier cet homme de puissance aura",
+          "même de nier que Dieu l'a amené à l'existence, et celui qui nie cela pourrait",
+          "bien sortir un jour avec l'affirmation selon laquelle les livres AII dans le",
+          "monde ont été imprimés par hasard, toutes les villes du monde ont été construit",
+          "accidentellement, et il y a eu lieu sur la terre une explosion par hasard qui a",
+          "fait toutes Ies usines commencent à fonctionner automatiquement. Le fait est que",
+          "la création de l'homme, la structure de son corps, l'existence des pouvoirs et",
+          "des capacités de travail en lui, et sa survie comme un être vivant 'tout cela est",
+          "un processus beaucoup plus complexe que tous les travaux qui sont venus à être",
+          "accompli par l'homme, ou sont encore en train d'être accompli. Si un tel travail",
+          "complexe avec une telle sagesse, la proportion et l'ordre pourrait être accompli",
+          "seulement par un accident de la chance, quoi d'autre pourrait ne pas être",
+          "considérée comme accidentelle par une personne mentalement dérangée?"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 9,
+      "arabicVerse" : "يَوْمَ تُبْلَى السَّرَائِرُ",
+      "simpleTranslate" : [
+        "le jour où les secrets seront divulgués"
+      ],
+      "tafsirTranslate" : [
+        "Le jour où les plus profonds secrets de l'homme doivent être mis à l'épreuve",
+        "<N:5>"
+      ],
+      "tanslateWordByWord" : [
+        "(Le jour",
+        "seront testés",
+        "les secrets"
+      ],
+      "notes" : {
+        "5" : [
+          "[ \"Les secrets cachés»]: les actes de chaque personne qui est restée un secret",
+          "pour le monde, ainsi que les affaires qui ont comparu devant le monde que dans",
+          "leur forme apparente, mais les intentions, les objectifs et le secret motifs de",
+          "travail derrière eux sont restés cachés du peuple. Sur la Résurrection Day aII ce",
+          "sera mis à nu et non seulement les faits et gestes de chaque personne soit",
+          "examinée, mais il sera également vu ce qui était son motif et de l'intention et",
+          "de l'objet de tant d'agir. De même, il est également resté caché du monde, même",
+          "de l'auteur de l'acte lui-même, quels sont les effets et les influences de son",
+          "acte sont apparus dans le monde, dans quelle mesure ils se propagent et pour",
+          "combien de temps ils ont continué à travailler. Ce secret trop sera révélé sur le",
+          "Jour de la Résurrection, et il sera entièrement examiné à quelles ont été les",
+          "conséquences de la semence qu'une personne a semé dans le monde, quel fruit il",
+          "portait et pour combien de temps cela a affecté les générations futures pour une",
+          "meilleure ou de loin pire."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 10,
+      "arabicVerse" : "فَمَا لَهُ مِنْ قُوَّةٍ وَلَا نَاصِرٍ",
+      "simpleTranslate" : [
+        "et où l’homme n’aura plus ni force ni soutien."
+      ],
+      "tafsirTranslate" : [
+        ", il n'a pas le pouvoir, et aucune aide."
+      ],
+      "tanslateWordByWord" : [
+        "Alors pas",
+        "(Est) pour lui",
+        "tout",
+        "Puissance",
+        "et pas",
+        "toute aide"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 11,
+      "arabicVerse" : "وَالسَّمَاءِ ذَاتِ الرَّجْعِ",
+      "simpleTranslate" : [
+        "Par le ciel animé d’une continuelle rotation !"
+      ],
+      "tafsirTranslate" : [
+        "Par le ciel avec son cycle récurrent de la pluie, <N:6>"
+      ],
+      "tanslateWordByWord" : [
+        "Le ciel",
+        "lequel",
+        "résultats"
+      ],
+      "notes" : {
+        "6" : [
+          "Les mots Dhat ar-raj`e ont été utilisés pour le ciel. Littéralement raj`e",
+          "signifie revenir, mais métaphoriquement ce mot est utilisé pour la pluie en",
+          "arabe, pour la pluie ne tombe pas seulement une fois, mais retourne encore et",
+          "encore dans la saison et de la saison ainsi. Une autre raison pour appeler la",
+          "pluie raj `e est que la vapeur dans les océans de la terre, puis retombe sous",
+          "forme de pluie sur le parfois hors de l'eau augmente à mesure que la même terre."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 12,
+      "arabicVerse" : "وَالْأَرْضِ ذَاتِ الصَّدْعِ",
+      "simpleTranslate" : [
+        "Par la Terre qui porte en elle le germe de sa dislocation !"
+      ],
+      "tafsirTranslate" : [
+        "et par la terre jamais débordant de verdure,"
+      ],
+      "tanslateWordByWord" : [
+        "Et la terre",
+        "lequel",
+        "fissures ouvertes"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 13,
+      "arabicVerse" : "إِنَّهُ لَقَوْلٌ فَصْلٌ",
+      "simpleTranslate" : [
+        "En vérité, ce Coran est un discours de décision"
+      ],
+      "tafsirTranslate" : [
+        "ce (le Coran) est certainement une parole décisive,"
+      ],
+      "tanslateWordByWord" : [
+        "En effet, il",
+        "(Est) sûrement un mot",
+        "décisif"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 14,
+      "arabicVerse" : "وَمَا هُوَ بِالْهَزْلِ",
+      "simpleTranslate" : [
+        "et non point une parole de dérision !"
+      ],
+      "tafsirTranslate" : [
+        "pas une plaisanterie désinvolte. <N:7>"
+      ],
+      "tanslateWordByWord" : [
+        "Et pas",
+        "il",
+        "(Est) pour l'amusement"
+      ],
+      "notes" : {
+        "7" : [
+          "Autrement dit, tout comme la baisse de la pluie écume le ciel et la division de",
+          "la terre pour éteindre les pousses sont pas une plaisanterie, mais une réalité",
+          "sérieuse, donc aussi les nouvelles que le Coran donne que ntan a pour revenir à",
+          "son Dieu est pas une plaisanterie, mais une réalité définitive et décisive et une",
+          "vérité immuable, qui doit être remplie."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 15,
+      "arabicVerse" : "إِنَّهُمْ يَكِيدُونَ كَيْدًا",
+      "simpleTranslate" : [
+        "Certes, les négateurs mettent en œuvre leurs stratagèmes,"
+      ],
+      "tafsirTranslate" : [
+        "Ils mettent au point une ruse, <N:8>"
+      ],
+      "tanslateWordByWord" : [
+        "En effet, ils",
+        "complotent",
+        "un terrain"
+      ],
+      "notes" : {
+        "8" : [
+          "Autrement dit, ces mécréants conçoivent chaque type de plan pour vaincre",
+          "l'invitation du Coran; ils souhaitent souffler cette bougie; ils créent sortes",
+          "tous Ies de doutes Dans l'esprit des gens: ils inventent de fausses accusations",
+          "contre le Prophète qui l'a intenté, de manière à contrecarrer sa mission dans le",
+          "monde et de perpétuer l'obscurité de l'ignorance et de l'incroyance qui hr est en",
+          "difficulté si difficile à enlever ."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 16,
+      "arabicVerse" : "وَأَكِيدُ كَيْدًا",
+      "simpleTranslate" : [
+        "auxquels feront face les Miens."
+      ],
+      "tafsirTranslate" : [
+        "et moi aussi je suis la conception d'un point de fraude. <N:9>"
+      ],
+      "tanslateWordByWord" : [
+        "Mais je prévois",
+        "un plan"
+      ],
+      "notes" : {
+        "9" : [
+          "Autrement dit, «Je prévois qu'aucun de leurs appareils devrait réussir afin",
+          "qu'ils soient totalement vaincus dans leurs conceptions, et la lumière qu'ils",
+          "essaient de leur mieux pour éteindre, se propage au loin."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 17,
+      "arabicVerse" : "فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا",
+      "simpleTranslate" : [
+        "Accorde donc un délai à ces impies ! Accorde-leur encore un court répit !"
+      ],
+      "tafsirTranslate" : [
+        "Alors, laissez les infidèles à eux; répit entre eux un certain temps. <N:10>"
+      ],
+      "tanslateWordByWord" : [
+        "Alors, donnez un répit",
+        "(À) les incroyants",
+        "Donner un répit pour les",
+        "peu"
+      ],
+      "notes" : {
+        "10" : [
+          "Autrement dit, \"Laissez-les pendant un certain temps pour avoir leur volonté.",
+          "Avant longtemps, le résultat sera devant eux et ils vont se rendre compte dans",
+          "quelle mesure leur intrigante est devenu avec succès contre mon plan."
+        ]
+      }
+    }
+  ],
+  "medinian" : false
+}

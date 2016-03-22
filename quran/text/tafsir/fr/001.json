@@ -1,0 +1,268 @@
+{
+  "chapterNumber" : 1,
+  "nbVerses" : 7,
+  "name" : "Fatiha, Liminaire",
+  "nameArabic" : "الفاتحة",
+  "transName" : "al-fātiḥa",
+  "verses" : [
+    {
+      "verseNumber" : 1,
+      "arabicVerse" : "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "simpleTranslate" : [
+        "Au nom de Dieu, le Clément, le Miséricordieux."
+      ],
+      "tafsirTranslate" : [
+        "Au nom d'Allah, le Clément, le Miséricordieux <N:1>"
+      ],
+      "tanslateWordByWord" : [
+        "Dans le nom",
+        "(De) Allah",
+        "le Tout Miséricordieux",
+        "le Très Miséricordieux"
+      ],
+      "notes" : {
+        "1" : [
+          "Une des nombreuses pratiques enseignées par l'islam est que ses adeptes devraient",
+          "commencer leurs activités au nom de Dieu. Ce principe, si elle est suivie",
+          "consciemment et sérieusement, va nécessairement produire trois résultats",
+          "bénéfiques. Tout d'abord, on sera en mesure de se retenir de nombreux méfaits,",
+          "car l'habitude de prononcer le nom de Dieu est tenu de faire une merveille quand",
+          "sur le point de commettre une infraction comment un tel acte peut être conciliée",
+          "avec la parole du saint nom de Dieu. Deuxièmement, si un homme prononce le nom de",
+          "Dieu avant de commencer les tâches bonnes et légitimes, cet acte s'ensuivra que",
+          "tant son point de départ et son orientation mentale sont solides. Troisièmement -",
+          "et ceci est l'avantage le plus important - quand un homme commence quelque chose",
+          "en prononçant le nom de Dieu, il bénéficiera de l'appui et du secours de Dieu;",
+          "Dieu bénisse ses efforts et le protéger contre les machinations et la tentation",
+          "de Satan. Car chaque fois l'homme se tourne vers Dieu, Dieu se tourne vers lui",
+          "aussi."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 2,
+      "arabicVerse" : "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "simpleTranslate" : [
+        "Louange à Dieu, le Maître de l’Univers,"
+      ],
+      "tafsirTranslate" : [
+        "Praise <N:2> à Allah, le Seigneur <N:3> de l'univers entier."
+      ],
+      "tanslateWordByWord" : [
+        "Louange",
+        "(Be) à Allah",
+        "le Seigneur",
+        "de l'univers"
+      ],
+      "notes" : {
+        "2" : [
+          "Comme nous l'avons déjà expliqué, le caractère de cette sourate est celle d'une",
+          "prière. La prière commence par la louange de Celui à qui notre prière est",
+          "adressée. Cela indique que chaque fois que l'on prie l'on doit prier d'une",
+          "manière digne. Il ne devient pas une personne cultivée à laisser échapper sa",
+          "pétition. Raffinement exige que nos demandes doivent être précédées d'une",
+          "reconnaissance sans réserve de la position unique, infinie bienveillance et de",
+          "l'excellence inégalée de celui à qui nous prions. Chaque fois que nous louons",
+          "quelqu'un, nous le faisons pour deux raisons. D'abord parce que l'excellence",
+          "appelle à la louange, indépendamment du fait que l'excellence a tout intérêt",
+          "direct pour nous ou pas. Deuxièmement, nous louons qui, nous considérons comme",
+          "notre bienfaiteur; lorsque tel est le cas, notre louange naît d'un profond",
+          "sentiment de gratitude. Dieu est digne de louange sur les deux comptes. Il nous",
+          "incombe de le louer non seulement dans la reconnaissance de son excellence",
+          "infinie, mais aussi à cause de notre sentiment de gratitude envers Lui, découlant",
+          "de notre prise de conscience des bénédictions qu'il nous a offertes. Il est",
+          "important de noter que ce qui est dit ici est non seulement que Dieu soit loué,",
+          "mais que tous les éloges à Dieu seul. Chaque fois qu'il ya toute beauté, toute",
+          "l'excellence, toute perfection en quelque chose ou en quelque forme que ce peut",
+          "itself- manifester sa source ultime est nul autre que Dieu lui-même. Pas les",
+          "êtres humains, les anges, Demigods, les corps célestes en bref, les êtres ne",
+          "sont-créés possédaient d'une excellence innée; où l'excellence existe, il est un",
+          "don de Dieu. Ainsi, s'il y a quelqu'un à tous ceux que nous devons adorer et de",
+          "culte, à qui nous doit se sentir redevable et reconnaissant envers qui nous",
+          "devons rester humble et obéissant, il est le créateur de l'excellence, plutôt que",
+          "son possesseur."
+        ],
+        "3" : [
+          "En arabe, le mot Rabb a trois significations: [(i)] Seigneur et Maître; [(Ii)]",
+          "Pourvoyeur, fournisseur, Supporter, Nourricier et Guardian, et [(iii)] Souverain,",
+          "souverain, celui qui contrôle et dirige. Dieu est le Rabb de l'univers dans les",
+          "trois sens du terme."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 3,
+      "arabicVerse" : "الرَّحْمَٰنِ الرَّحِيمِ",
+      "simpleTranslate" : [
+        "le Clément, le Miséricordieux,"
+      ],
+      "tafsirTranslate" : [
+        "Le Miséricordieux, le Compatissant <N:4>"
+      ],
+      "tanslateWordByWord" : [
+        "Le Tout Miséricordieux",
+        "le Très Miséricordieux"
+      ],
+      "notes" : {
+        "4" : [
+          "Chaque fois que nous sommes profondément impressionnés par la grandeur de quelque",
+          "chose que nous essayons d'exprimer nos sentiments en utilisant les superlatifs.",
+          "Si l'utilisation d'un superlatif ne rend pas justice à nos sentiments, nous avons",
+          "tendance à remettre l'accent sur l'excellence extraordinaire de l'objet de notre",
+          "admiration en ajoutant un second superlatif de sens à peu près équivalente. *",
+          "Cela semble expliquer l'utilisation du mot Rahim suivant Rahman. La forme du mot",
+          "Rahman connote intensité. Pourtant, la miséricorde et de bienfaisance de Dieu",
+          "envers ses créatures est si grand, si vaste et d'une telle nature infinie que nul",
+          "mot, si fort sa connotation, peut le faire pleinement justice. L'épithète Rahim a",
+          "donc été ajouté à celui de Rahman."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 4,
+      "arabicVerse" : "مَالِكِ يَوْمِ الدِّينِ",
+      "simpleTranslate" : [
+        "le Souverain du Jour du Jugement dernier !"
+      ],
+      "tafsirTranslate" : [
+        "Le Maître du Jour de la Rétribution <N:5>."
+      ],
+      "tanslateWordByWord" : [
+        "(Le maître",
+        "(du jour",
+        "(Du) Arrêt"
+      ],
+      "notes" : {
+        "5" : [
+          "Dieu sera le Seigneur du jour où toutes les générations de l'humanité se",
+          "rassemblent sur afin de rendre compte de leur conduite, et quand chaque personne",
+          "sera finalement récompensé ou puni pour ses actes. La description de Dieu comme",
+          "Seigneur du Jour du Jugement après la mention de sa bienveillance et de",
+          "compassion indique que nous devons nous rappeler un autre aspect de Dieu aussi",
+          "bien, à savoir qu'il nous jugera tous, qu'il est si absolument puissant, que le",
+          "le jour du Jugement n'aura le pouvoir soit de résister à l'exécution des peines",
+          "qu'il décrète ou pour empêcher quiconque de recevoir les récompenses qu'il décide",
+          "de conférer. Par conséquent, nous devons non seulement à l'aimer pour nourrir et",
+          "nous soutenir et pour sa compassion et de miséricorde envers nous, mais devons",
+          "aussi le retenir dans la crainte à cause de sa justice, et ne devons pas oublier",
+          "que notre bonheur ultime ou la misère repose entièrement avec lui."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 5,
+      "arabicVerse" : "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+      "simpleTranslate" : [
+        "C’est Toi que nous adorons ! C’est Toi dont nous implorons le secours !"
+      ],
+      "tafsirTranslate" : [
+        "Vous seul que nous adorons <N:6>, et vous seul que nous nous tournons pour l'aide",
+        "<N:7>"
+      ],
+      "tanslateWordByWord" : [
+        "Tu es seul",
+        "nous adorons",
+        "et You Alone",
+        "nous demandons de l'aide"
+      ],
+      "notes" : {
+        "6" : [
+          "Le terme ibadah est utilisé dans trois sens: [(i)] culte et d'adoration; [(Ii)]",
+          "obéissance et la soumission; et [(iii)] service et la soumission. Dans ce",
+          "contexte particulier, le terme porte toutes ces significations simultanément. En",
+          "d'autres termes, nous disons à Dieu que nous adorons et adorons Lui, que nous",
+          "sommes obéissants à Lui et suivre sa volonté, et que nous sommes ses serviteurs.",
+          "De plus l'homme est si lié à nul autre Dieu, qu'il n'y a que Lui, peut faire",
+          "l'objet de l'adoration de l'homme et la dévotion totale, de l'obéissance sans",
+          "réserve de l'homme, de sujétion et de servitude absolue de l'homme."
+        ],
+        "7" : [
+          "Non seulement nous adorons Dieu, mais notre relation avec Lui est telle que nous",
+          "nous tournons vers Lui seul pour l'aide et le secours. Nous savons qu'il est le",
+          "Seigneur de l'univers entier et que Lui seul est le maître de toutes les",
+          "bénédictions et bienfaits. Par conséquent, dans la recherche de la satisfaction",
+          "de nos besoins nous nous tournons vers Lui seul. Il est à lui seul que nous",
+          "étendons nos mains quand nous prions et supplions. Il est en Lui que nous",
+          "reposons notre confiance. Il est donc à Lui seul que nous adressons notre demande",
+          "d'orientation vrai."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 6,
+      "arabicVerse" : "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+      "simpleTranslate" : [
+        "Guide-nous dans la Voie droite ;"
+      ],
+      "tafsirTranslate" : [
+        "Dirigez-nous sur le droit chemin <N:8>,"
+      ],
+      "tanslateWordByWord" : [
+        "Guide nous",
+        "(À) le chemin",
+        "la ligne droite"
+      ],
+      "notes" : {
+        "8" : [
+          "Nous prions Dieu de nous guider dans tous les domaines de la vie à une manière",
+          "qui est absolument vrai, ce qui nous donne un des principes de comportement",
+          "perspectives et sonores basées correctement, d'une manière qui empêchera notre",
+          "succomber à de fausses doctrines et l'adoption de principes malsaines de conduite",
+          ", d'une manière qui nous mènera à notre vrai salut et le bonheur. Ceci est la",
+          "prière de l'homme à Dieu comme il commence l'étude du Coran. Il est, en bref,",
+          "pour éclairer la vérité qu'il a souvent tendance à perdre dans un labyrinthe de",
+          "la spéculation philosophique; pour l'éclairer sur laquelle des nombreuses",
+          "doctrines éthiques assure un cours de son comportement; pour montrer lequel des",
+          "multiples façons et par des moyens est la ligne droite, route claire, ouverte de",
+          "croyance et son bon comportement."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 7,
+      "arabicVerse" : "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+      "simpleTranslate" : [
+        "la voie de ceux que Tu as comblés de bienfaits, non celle de ceux qui ont mérité",
+        "Ta colère ni celle des égarés !"
+      ],
+      "tafsirTranslate" : [
+        "Le chemin de ceux que Tu as favorisé <N:9>, qui n'a pas encouru Ta colère, qui ne",
+        "sont pas égarés <N:10>."
+      ],
+      "tanslateWordByWord" : [
+        "(Le chemin",
+        "(de celles",
+        "Vous avez donné (Vos) Favors",
+        "sur eux",
+        "pas (de)",
+        "ceux qui gagnaient (Votre) colère",
+        "sur elles-mêmes",
+        "et pas",
+        "(De) ceux qui se égarent"
+      ],
+      "notes" : {
+        "9" : [
+          "Ceci définit le «droit chemin» que nous demandons à Dieu de nous ouvrir. Il est",
+          "le moyen qui a toujours été suivie par ceux qui ont bénéficié des faveurs et des",
+          "bénédictions de Dieu. Ceci est le chemin qui a été parcouru depuis le début du",
+          "temps par tous les individus et les communautés qui ont immanquablement bénéficié",
+          "des faveurs et des bénédictions de Dieu."
+        ],
+        "10" : [
+          "Cela montre clairement que les bénéficiaires de la faveur de Dieu ne sont pas",
+          "ceux qui apparaissent, brièvement, pour profiter de la prospérité du monde et de",
+          "la réussite; trop souvent, ces personnes sont parmi ceux que Dieu a condamné",
+          "parce qu'ils ont perdu de vue le vrai chemin du salut et de bonheur. Cette",
+          "explication négative rend tout à fait clair que In'am [(faveur)] désigne toutes",
+          "les faveurs et les bénédictions réelles et respectueux des lois que l'on reçoit",
+          "en récompense pour la conduite juste à travers l'approbation et le plaisir de",
+          "Dieu, plutôt que ces faveurs apparentes et fugaces que les pharaons, Nemrod et",
+          "Korahs [(Qaruns)] utilisé pour recevoir dans le passé, et qui sont appréciés",
+          "encore aujourd'hui par des gens connus pour l'oppression, le mal et la",
+          "corruption."
+        ]
+      }
+    }
+  ],
+  "medinian" : false
+}

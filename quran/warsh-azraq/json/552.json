@@ -1,0 +1,277 @@
+{
+  "page" : 0,
+  "fullPageSize" : {
+    "start" : {
+      "x" : 0,
+      "y" : 0
+    },
+    "end" : {
+      "x" : 1059,
+      "y" : 1884
+    }
+  },
+  "pageSize" : null,
+  "ayatPos" : [
+    {
+      "position" : {
+        "center" : {
+          "x" : 844,
+          "y" : 523
+        },
+        "radius" : 26
+      },
+      "verseRef" : {
+        "chapterNumber" : 62,
+        "verseNumber" : 1
+      }
+    },
+    {
+      "position" : {
+        "center" : {
+          "x" : 581,
+          "y" : 734
+        },
+        "radius" : 26
+      },
+      "verseRef" : {
+        "chapterNumber" : 62,
+        "verseNumber" : 2
+      }
+    },
+    {
+      "position" : {
+        "center" : {
+          "x" : 669,
+          "y" : 839
+        },
+        "radius" : 26
+      },
+      "verseRef" : {
+        "chapterNumber" : 62,
+        "verseNumber" : 3
+      }
+    },
+    {
+      "position" : {
+        "center" : {
+          "x" : 645,
+          "y" : 945
+        },
+        "radius" : 26
+      },
+      "verseRef" : {
+        "chapterNumber" : 62,
+        "verseNumber" : 4
+      }
+    },
+    {
+      "position" : {
+        "center" : {
+          "x" : 74,
+          "y" : 1154
+        },
+        "radius" : 26
+      },
+      "verseRef" : {
+        "chapterNumber" : 62,
+        "verseNumber" : 5
+      }
+    },
+    {
+      "position" : {
+        "center" : {
+          "x" : 268,
+          "y" : 1367
+        },
+        "radius" : 26
+      },
+      "verseRef" : {
+        "chapterNumber" : 62,
+        "verseNumber" : 6
+      }
+    },
+    {
+      "position" : {
+        "center" : {
+          "x" : 189,
+          "y" : 1472
+        },
+        "radius" : 26
+      },
+      "verseRef" : {
+        "chapterNumber" : 62,
+        "verseNumber" : 7
+      }
+    },
+    {
+      "position" : {
+        "center" : {
+          "x" : 73,
+          "y" : 1682
+        },
+        "radius" : 26
+      },
+      "verseRef" : {
+        "chapterNumber" : 62,
+        "verseNumber" : 8
+      }
+    }
+  ],
+  "lines" : [
+    {
+      "start" : {
+        "x" : 33,
+        "y" : 270
+      },
+      "end" : {
+        "x" : 1020,
+        "y" : 365
+      }
+    },
+    {
+      "start" : {
+        "x" : 33,
+        "y" : 365
+      },
+      "end" : {
+        "x" : 1020,
+        "y" : 477
+      }
+    },
+    {
+      "start" : {
+        "x" : 33,
+        "y" : 477
+      },
+      "end" : {
+        "x" : 1020,
+        "y" : 589
+      }
+    },
+    {
+      "start" : {
+        "x" : 33,
+        "y" : 589
+      },
+      "end" : {
+        "x" : 1020,
+        "y" : 701
+      }
+    },
+    {
+      "start" : {
+        "x" : 33,
+        "y" : 701
+      },
+      "end" : {
+        "x" : 1020,
+        "y" : 813
+      }
+    },
+    {
+      "start" : {
+        "x" : 33,
+        "y" : 813
+      },
+      "end" : {
+        "x" : 1020,
+        "y" : 887
+      }
+    },
+    {
+      "start" : {
+        "x" : 33,
+        "y" : 887
+      },
+      "end" : {
+        "x" : 1020,
+        "y" : 999
+      }
+    },
+    {
+      "start" : {
+        "x" : 33,
+        "y" : 999
+      },
+      "end" : {
+        "x" : 1020,
+        "y" : 1111
+      }
+    },
+    {
+      "start" : {
+        "x" : 33,
+        "y" : 1111
+      },
+      "end" : {
+        "x" : 1020,
+        "y" : 1223
+      }
+    },
+    {
+      "start" : {
+        "x" : 33,
+        "y" : 1223
+      },
+      "end" : {
+        "x" : 1020,
+        "y" : 1335
+      }
+    },
+    {
+      "start" : {
+        "x" : 33,
+        "y" : 1335
+      },
+      "end" : {
+        "x" : 1020,
+        "y" : 1410
+      }
+    },
+    {
+      "start" : {
+        "x" : 33,
+        "y" : 1410
+      },
+      "end" : {
+        "x" : 1020,
+        "y" : 1522
+      }
+    },
+    {
+      "start" : {
+        "x" : 33,
+        "y" : 1522
+      },
+      "end" : {
+        "x" : 1020,
+        "y" : 1634
+      }
+    },
+    {
+      "start" : {
+        "x" : 33,
+        "y" : 1634
+      },
+      "end" : {
+        "x" : 1020,
+        "y" : 1726
+      }
+    }
+  ],
+  "headers" : [
+    {
+      "start" : {
+        "x" : 25,
+        "y" : 159
+      },
+      "end" : {
+        "x" : 1015,
+        "y" : 270
+      }
+    }
+  ],
+  "basmallah" : [
+    0
+  ]
+}

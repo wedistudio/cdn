@@ -1,0 +1,853 @@
+{
+  "chapterNumber" : 89,
+  "nbVerses" : 30,
+  "name" : "L’aube",
+  "nameArabic" : "الفجر",
+  "transName" : "al-fajr",
+  "verses" : [
+    {
+      "verseNumber" : 1,
+      "arabicVerse" : "وَالْفَجْرِ",
+      "simpleTranslate" : [
+        "Par l’aube !"
+      ],
+      "tafsirTranslate" : [
+        "À l'aube,"
+      ],
+      "tanslateWordByWord" : [
+        "À l'aube"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 2,
+      "arabicVerse" : "وَلَيَالٍ عَشْرٍ",
+      "simpleTranslate" : [
+        "Par les dix nuits !"
+      ],
+      "tafsirTranslate" : [
+        "et les dix jours,"
+      ],
+      "tanslateWordByWord" : [
+        "Et les nuits",
+        "Dix"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 3,
+      "arabicVerse" : "وَالشَّفْعِ وَالْوَتْرِ",
+      "simpleTranslate" : [
+        "Par le pair et l’impair !"
+      ],
+      "tafsirTranslate" : [
+        "et le même et l'étrange,"
+      ],
+      "tanslateWordByWord" : [
+        "Et le même",
+        "et l'étrange"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 4,
+      "arabicVerse" : "وَاللَّيْلِ إِذَا يَسْرِ",
+      "simpleTranslate" : [
+        "Par la nuit qui s’écoule !"
+      ],
+      "tafsirTranslate" : [
+        "et par la nuit quand elle."
+      ],
+      "tanslateWordByWord" : [
+        "Et la nuit",
+        "quand",
+        "ça passe"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 5,
+      "arabicVerse" : "هَلْ فِي ذَٰلِكَ قَسَمٌ لِذِي حِجْرٍ",
+      "simpleTranslate" : [
+        "N’est-ce pas là un serment suffisant pour un homme doué d’intelligence?"
+      ],
+      "tafsirTranslate" : [
+        "Y at-il dans ce serment pour un doué de compréhension <N:1>?"
+      ],
+      "tanslateWordByWord" : [
+        "Est",
+        "dans",
+        "cette",
+        "(Non) un serment",
+        "pour ceux",
+        "qui comprennent"
+      ],
+      "notes" : {
+        "1" : [
+          "Une grande différence d'opinion a été exprimée par les commentateurs dans le",
+          "commentaire de ces versets, si bien qu'en ce qui concerne [ \"le même et",
+          "l'étrange\"] il y a autant que 36 points de vue différents. Dans certaines",
+          "traditions, le commentaire de ces versets a également été attribué au Saint",
+          "Prophète Lupon que la paix soit), mais le fait est qu'aucun commentaire est",
+          "confirmé de lui, sinon il n'a pas été possible que quiconque parmi les",
+          "Compagnons, leurs successeurs immédiats, et conunentators ultérieures auraient",
+          "osé déterminer le sens de ces versets par lui-même après la conmentary par le",
+          "Saint Prophète. \n Après une étude du style on sent clairement qu'il y avait un",
+          "argument alredly en cours dans lequel le Saint Prophète [(sur lui la paix)]",
+          "présentait quelque chose et les mécréants ont été le nier. A cela, affirmant que",
+          "le Saint Prophète a présenté, il a été dit: Par une telle ou telle chose [ \", de",
+          "manière à dire:\"] Par ces choses, ce que Muhammad [(sur lui la paix et",
+          "bénédictions d'Allah)] dit est tout à fait sur la base de la vérité »Ensuite,",
+          "l'argument est conclu avec la question suivante: [\" y at-il un serment pour un",
+          "homme de compréhension? \"] Autrement dit, [\" est-il nécessaire pour un autre",
+          "serment pour témoigner de la vérité de cette question '' \"] est-ce serment ne",
+          "suffit pas à convaincre un homme sensé d'accepter ce qui Muhammad [(sur lui la",
+          "paix et bénédictions d'Allah)] est la présentation? [\" \n Maintenant, la question",
+          "se pose: quel était l'argument pour l'amour de laquelle un serment a été",
+          "assermenté par ces quatre choses »? Pour cela, nous devrons examiner le thème",
+          "entier qui, dans les versets suivants, commence par: \"] Avez-vous pas vu comment",
+          "ton Seigneur a agi avec le 'Ad [\" et se poursuit jusqu'à la fin de la sourate. Il",
+          "montre que l'argument concerne les récompenses et les punitions de l'au-delà, que",
+          "les gens de la Mecque refusaient de reconnaître et le Saint Messenger [(sur lui",
+          "la paix)] a essayé de les convaincre de ce par la prédication et l'enseignement",
+          "constant. A ce serment ont été assermentés par l'aube, les dix nuits, le même et",
+          "l'étrange, et la nuit au départ d'affirmer: Ces quatre choses pas assez pour",
+          "convaincre un homme raisonnable de la vérité de cette question afin qu'il puisse",
+          "avoir besoin encore une autre preuves pour cela? \n Après avoir déterminé",
+          "l'importance de ces serments dans le contexte, nous aurions inévitablement à",
+          "prendre chacun de ces sens pertinent pour le thème suivant. Tout d'abord, il est",
+          "dit: \"] Par Fajr [.\" Fajr est la rupture du jour, à savoir le moment où les",
+          "premiers rayons de la lumière du jour apparaissent au milieu de l'obscurité de la",
+          "nuit comme une traînée blanche de l'est . Ensuite, il est dit: \"] Par les dix",
+          "nuits [.\" Si le contexte est maintenu en vue, il deviendra évident que cela",
+          "implique chaque groupe de dix nuits parmi les trente nuits du mois, les dix",
+          "premières nuits étant celles au cours de laquelle le croissant de lune de départ",
+          "comme un clou mince. va sur l'épilation tous les soirs jusqu'à ce que sa majeure",
+          "partie devient brillante; le deuxième groupe de dix nuits étant ceux au cours de",
+          "laquelle la plus grande partie de la nuit reste illuminée par la lune, et les dix",
+          "dernières nuits étant celles au cours de laquelle la lune continue décroissante",
+          "et les nuits deviennent de plus en plus sombre jusqu'à la fin de le mois toute la",
+          "nuit devient absolument sombre. Ensuite, il est dit: \".] Par la même et l'étrange",
+          "[\" Même est le nombre qui est divisible en deux parties égales, comme 2, 4, 6, 8,",
+          "et l'étrange le nombre qui est pas divisible, comme l, 3, 5, 7. en général, il",
+          "peut impliquer tout dans l'univers, pour les choses dans l'univers soit exister",
+          "en paires ou en tant que célibataires. Mais puisque le contexte ici concerne le",
+          "jour et la nuit, le même et l'étrange signifie l'alternance du jour et de la nuit",
+          "dans le sens que les dates du mois continuent à changer de la première à la",
+          "seconde, et de la deuxième à la troisième, et chaque changement apporte avec elle",
+          "un nouvel état. Enfin, il est dit: \"] Par la nuit quand elle est au départ\", i.e.",
+          "quand l'obscurité qui avait couvert le monde depuis le coucher du soleil peut",
+          "être au bord de la disparition et le jour être naissant. \n Considérons maintenant",
+          "l'ensemble des quatre choses un serment par lequel a été juré d'affirmer que les",
+          "nouvelles qui Muhammad [(sur lui la paix et bénédictions d'Allah)] est de donner",
+          "de l'Meting sur les récompenses et les punitions repose entièrement sur la",
+          "vérité. Toutes ces choses font à la réalité qu'un Pourvoyeur tout-puissant est au",
+          "pouvoir sur cet univers, et rien de ce qu'il fait est absurde, sans but, ou",
+          "manque de sagesse; au contraire, un plan sage sous-tend clairement tout ce qu'il",
+          "fait. Dans son monde, on ne verra jamais que bien qu'il soit la nuit, le soleil",
+          "de midi devrait apparaître soudainement en tête, ou que la lune devrait",
+          "apparaître un soir dans la forme du croissant et être suivie le soir prochain par",
+          "la pleine lune, ou que la nuit, quand il tombe, ne devrait jamais arriver à une",
+          "fin, mais devrait devenir perpétuel, ou qu'il n'y ait pas de système dans",
+          "l'alternance du jour et de la nuit pour que l'on pouvait tenir un registre des",
+          "dates et de savoir quel mois se passait, ce qui était la date, à quelle date un",
+          "travail particulier est de commencer, et quand il est à la fin, ce sont les dates",
+          "de la saison estivale et ce de la saison des pluies ou en hiver. Outre",
+          "d'innombrables autres choses de l'univers, si l'homme ne considère que cette",
+          "régularité de la journée et la nuit avec intelligence et sérieux, il trouvera la",
+          "preuve de la vérité que cette discipline et l'ordre implacable a été créé par un",
+          "Dieu Omnipotent souverain; avec elle sont reliés innombrables des avantages des",
+          "créatures qu'Il a créés sur la terre. Maintenant, si une personne vivant dans le",
+          "monde d'un tel Créateur Sage, Omnipotent et Tout-Puissant nie les récompenses et",
+          "les punitions de l'au-delà, il commet inévitablement l'une des deux erreurs: soit",
+          "il est un denier de ses pouvoirs et pense que si il a le pouvoir de créer",
+          "l'univers à cet ordre et à la discipline incomparable, il est impuissant à",
+          "recréer l'homme mesurerai récompenses et de punitions pour lui ou il nie sa",
+          "sagesse et de la connaissance et pense que, même si il a créé l'homme",
+          "d'intelligence et de compétences dans le monde, vétérinaire il ne sera ni jamais",
+          "lui demander des comptes sur la façon dont il a utilisé son intelligence et ses",
+          "pouvoirs, ni ne le récompenser de ses bonnes actions, ni de le punir pour ses",
+          "mauvaises actions. . Celui qui croit en soit, est stupide à l'extrême."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 6,
+      "arabicVerse" : "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+      "simpleTranslate" : [
+        "N’as-tu pas vu comment ton Seigneur a traité les `Âd,"
+      ],
+      "tafsirTranslate" : [
+        "Avez-vous <N:2> pas vu comment ton Seigneur a agi avec Ad"
+      ],
+      "tanslateWordByWord" : [
+        "N'a pas",
+        "tu vois",
+        "Comment",
+        "traité",
+        "votre Seigneur",
+        "avec Aad"
+      ],
+      "notes" : {
+        "2" : [
+          "Après le raisonnement sur l'arrêt du système de jour et de nuit, maintenant un",
+          "argument est BERG donné de la propre histoire de l'homme pour son être une",
+          "certitude La mention de la conduite de quelques tribus bien connues de l'histoire",
+          "et de leur fin ultime vise à souligner que l'univers ne fonctionne pas sous une",
+          "loi aveugle et sourd de la nature, mais un Dieu Sage est au pouvoir sur elle, et",
+          "dans le royaume de Dieu qu'une seule loi, que l'homme décrit comme la loi de la",
+          "nature ne fonctionne pas, mais une loi morale est également opérationnel, qui",
+          "appelle nécessairement la rétribution et récompenses et de punitions. Les",
+          "résultats du travail de la loi ont fait leur apparition, encore et encore, même",
+          "dans ce monde, qui poinnt aux gens de comprendre que ce qui est la nature du",
+          "Royaume de l'Univers. Toute nation qui taillé un système de vie pour lui-même",
+          "inattentif au-delà et des récompenses et des punitions de Dieu, a finalement été",
+          "corrompu et dépravé, et quelle que soit la nation suivie de cette façon, a",
+          "finalement été visité avec le fléau de la peine par le Seigneur des univers.",
+          "Cette expérience continue de sa propre histoire de l'homme témoigne de deux",
+          "choses clairement: [(1)] Ce déni de l'au-delà a contribué à corrompre chaque",
+          "nation et l'envoyer finalement à sa perte; par conséquent, l'au-delà est en effet",
+          "une réalité des affrontements avec qui conduit, comme il l'a toujours conduit aux",
+          "mêmes résultats inévitables; et [(2)] que le châtiment pour les actes seront à un",
+          "moment donné à l'avenir avoir lieu dans sa forme pleine et entière aussi, pour",
+          "les personnes qui ont touché les limites extrêmes de la corruption et la",
+          "dépravation et ont été visités avec la punition avait été précédée de nombreuses",
+          "autres qui avait semé les graines de la corruption pendant des siècles et à",
+          "gauche du monde sans être visité par un fléau. La justice de Dieu exige que",
+          "toutes ces personnes devraient aussi être appelés à rendre compte à un moment",
+          "donné et ils devraient aussi souffrir pour leurs méfaits. [(Argument de",
+          "l'histoire et de morale pour l'au-delà a été donné à de nombreux endroits dans le",
+          "Coran et nous avons expliqué partout en conséquence. Par exemple, voir de E.N. 5,",
+          "6 de AI-Araf, E.N. . 12 de Yunus ,, de 57, 105 E.N., 115 de Hud, E.N. 9",
+          "d'Ibrahim, de E.N. 66, 86 An-Naml, E.N. 8 de Ar-Rum E.N. 25 de Saba, E.N. de 29.",
+          "30 de Suad, E.N. 80 d'Al-Mu'min, E.N. de 33, 34 de Ad-Dukhan, E.N. de 27, 28 de",
+          "Al-Jathiah, E.N. 17 de Qaf, E.N. 21 de Ad-Dariyat)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 7,
+      "arabicVerse" : "إِرَمَ ذَاتِ الْعِمَادِ",
+      "simpleTranslate" : [
+        "et la cité d’Iram aux colonnes prestigieuses,"
+      ],
+      "tafsirTranslate" : [
+        "de Iram, <N:3> connus pour leurs hautes colonnes,"
+      ],
+      "tanslateWordByWord" : [
+        "Iram",
+        "possesseurs (de)",
+        "hauts piliers"
+      ],
+      "notes" : {
+        "3" : [
+          "`Ad Iram implique l'ancienne tribu des` Ad, qui ont été appelés «Ad Ula dans le",
+          "Coran et l'histoire arabe. Dans la sourate An-Najm, il a été dit: [ \"Et Nous",
+          "avons détruit l'ancien peuple de` Ad \"] [(v 50).], À savoir la` Ad à qui le",
+          "Prophète Hud avait été envoyé, et qui ont été punis avec un fléau. Par contre",
+          "thetas les gens de `Ad, qui recyclés sans danger et ont prospéré après sont les",
+          "mémoires comme Ad Ukhra dans l'histoire arabe. L'ancienne `Ad sont appelés LRAM",
+          "d'annonce pour la raison qu'ils appartenaient à cette branche de la race",
+          "sémitique qui est descendu du Iram fils de Shem, fils de Noé [(paix soit sur",
+          "lui)]. Plusieurs autres sous-branches de cette branche principale sont bien",
+          "connus dans l'histoire dont l'un était le Thamud, qui ont été mentionnés dans le",
+          "Coran; une autre sont les Araméens, qui au début habitaient les régions du nord",
+          "de la Syrie et dont la langue araméenne occupe une place importante parmi les",
+          "langues sémitiques. Les mots dhât-ul-`imad [(des hauts piliers)] ont été. utilisé",
+          "pour la 'Ad parce qu'ils ont construit des bâtiments élevés et le modèle de",
+          "l'architecture d'ériger des édifices sur des piliers nobles a été introduit par",
+          "eux dans le monde. A un autre endroit dans le Coran cette caractéristique a été",
+          "mentionné dans le cadre du Prophète Hud, qui leur dit: [ \"Qu'est-ce que vous",
+          "érigez pour le simple plaisir d'un monument sur chaque haut lieu, et de",
+          "construire d'énormes châteaux comme si vous étiez immortel ! \"] [(Ash-Shu`ara ':",
+          "128-129 <V:26:128-129>)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 8,
+      "arabicVerse" : "الَّتِي لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ",
+      "simpleTranslate" : [
+        "qui n’avait d’égale dans aucun pays du monde?"
+      ],
+      "tafsirTranslate" : [
+        "? Etc. dont aucune nation n'a jamais été créé dans les terres du monde <N:4>"
+      ],
+      "tanslateWordByWord" : [
+        "Lequel",
+        "ne pas",
+        "avait été créé",
+        "comme eux",
+        "dans",
+        "les villes"
+      ],
+      "notes" : {
+        "4" : [
+          "Autrement dit, ils étaient un peuple inégalables de leur temps; aucune autre",
+          "nation dans le monde comparer avec eux dans la force, la gloire et la grandeur. À",
+          "d'autres endroits dans le Coran, il a été dit à leur sujet: [ \"Votre Seigneur",
+          "vous a fait très robuste.\"] [(Al-A`raf: 69 <V:7:69>)] [ \"Quant à la` Ad, ils sont",
+          "devenus arrogants avec fierté de la terre, sans aucun droit, et dit: `Qui est",
+          "plus fort que nous en puissance\"]? [(Ha Mim As-Sajda: 15 <V:32:15>)]. [ «Quand",
+          "vous avez saisi quelqu'un, vous l'avez saisi comme un tyran.»] [(Ash-Shu`ara",
+          "'130)]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 9,
+      "arabicVerse" : "وَثَمُودَ الَّذِينَ جَابُوا الصَّخْرَ بِالْوَادِ",
+      "simpleTranslate" : [
+        "Connais-tu le sort que le Seigneur a réservé aux Thamûd qui avaient taillé dans",
+        "le roc de la vallée leurs demeures,"
+      ],
+      "tafsirTranslate" : [
+        "Et comment at-il traiter avec Thamud qui tailla roches dans la vallée <N:5>?"
+      ],
+      "tanslateWordByWord" : [
+        "Et Thamud",
+        "qui",
+        "taillé",
+        "les rochers",
+        "dans la vallée"
+      ],
+      "notes" : {
+        "5" : [
+          "[ \"La vallée\"]: Wad-il-Qura, où le Thamud sculpté logements dans les montagnes,",
+          "et probablement dans l'histoire, ils ont été les premiers qui ont commencé à",
+          "découper ces bâtiments dans les rochers. [(Pour plus de détails, voir de E.N. 57,",
+          "59 de AlA'raf, E.N. 45 de Al-Hijr, E.N. de 95, 99 de Ash-Shu`ara 'ainsi que les",
+          "photographies)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 10,
+      "arabicVerse" : "وَفِرْعَوْنَ ذِي الْأَوْتَادِ",
+      "simpleTranslate" : [
+        "et comment Il a agi avec Pharaon, le maître des monuments altiers?"
+      ],
+      "tafsirTranslate" : [
+        "Et avec Pharaon des piquets de tente <N:6>"
+      ],
+      "tanslateWordByWord" : [
+        "Et Firaun",
+        "Propriétaire de",
+        "enjeux"
+      ],
+      "notes" : {
+        "6" : [
+          "Les mots Dhul-autad [(des enjeux)] pour Pharaon ont également été utilisés dans",
+          "la sourate Suad: 12 ci-dessus. Cela peut avoir plusieurs significations.",
+          "Peut-être ses forces ont été comparées aux enjeux, et [ \"des enjeux\"] signifie [",
+          "\"des grandes forces\"], car il était par leur puissance et la force qu'il a jugé",
+          "un royaume solidement établi; il pourrait aussi impliquer la multiplicité des",
+          "forces et la signification soit que partout où ses grandes armées campent,",
+          "piquets des tentes ont été vus enfoncés dans le sol de chaque côté; il peut aussi",
+          "impliquer les enjeux au cours de laquelle il a puni le peuple, et il est",
+          "également possible que les pyramides d'Egypte ont été comparés aux enjeux, car",
+          "ils sont les restes de la grandeur et la gloire des Pharaons, et semblent avoir",
+          "été chassés dans le sol comme des piquets depuis des siècles."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 11,
+      "arabicVerse" : "الَّذِينَ طَغَوْا فِي الْبِلَادِ",
+      "simpleTranslate" : [
+        "Tous ont commis des exactions sur Terre"
+      ],
+      "tafsirTranslate" : [
+        "qui transgresse dans les pays du monde"
+      ],
+      "tanslateWordByWord" : [
+        "Qui",
+        "transgressée",
+        "dans",
+        "les terres"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 12,
+      "arabicVerse" : "فَأَكْثَرُوا فِيهَا الْفَسَادَ",
+      "simpleTranslate" : [
+        "et y ont semé la corruption sans mesure."
+      ],
+      "tafsirTranslate" : [
+        "répandre en eux beaucoup de corruption?"
+      ],
+      "tanslateWordByWord" : [
+        "Et (fait) beaucoup",
+        "la bride",
+        "la corruption"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 13,
+      "arabicVerse" : "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
+      "simpleTranslate" : [
+        "Aussi ton Seigneur leur a-t-Il infligé le fouet du châtiment,"
+      ],
+      "tafsirTranslate" : [
+        "Alors leur Seigneur délie sur eux le fouet du châtiment."
+      ],
+      "tanslateWordByWord" : [
+        "Ainsi versé",
+        "sur eux",
+        "votre Seigneur",
+        "fléau",
+        "(De) la peine"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 14,
+      "arabicVerse" : "إِنَّ رَبَّكَ لَبِالْمِرْصَادِ",
+      "simpleTranslate" : [
+        "car rien n’échappe à Sa vigilance."
+      ],
+      "tafsirTranslate" : [
+        "En vérité ton Seigneur est toujours vigilant. <N:7>"
+      ],
+      "tanslateWordByWord" : [
+        "Effectivement",
+        "votre Seigneur",
+        "(Est) sûrement jamais Watchful"
+      ],
+      "notes" : {
+        "7" : [
+          "Les mots [ «toujours en embuscade\"] ont été utilisées métaphoriquement de la",
+          "garde sur les mouvements et les activités des gens méchants et malfaisants. Une",
+          "embuscade est un endroit où une personne se trouve caché dans l'attente",
+          "d'attaquer quelqu'un par surprise. La victime, étourdie de son sort, vient et",
+          "devient la proie. La même chose est le cas contre AIlah de ces gens méchants qui",
+          "répandent le mal dans le monde et qui ont aucun sens et à la déchirure qu'il est",
+          "Dieu-dessus d'eux, qui regarde ALi leurs méfaits. Par conséquent, ils vont à",
+          "commettre tous les jours de plus en plus de maux sans crainte jusqu'à ce qu'ils",
+          "atteignent la limite qui DCEs Allah leur permettent pas de transgresser. A ce",
+          "moment même, son fléau descend subitement sur eux."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 15,
+      "arabicVerse" : "فَأَمَّا الْإِنْسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ",
+      "simpleTranslate" : [
+        "Lorsque ton Seigneur, pour éprouver l’homme, l’honore et le comble de bienfaits,",
+        "celui-ci dit : «Mon Seigneur m’a honoré !»"
+      ],
+      "tafsirTranslate" : [
+        "En ce qui concerne l'homme, <N:8> lorsque son Seigneur l'éprouve en lui exaltant",
+        "et accordant Ses bienfaits sur lui, il dit: «Mon Seigneur m'a exalté."
+      ],
+      "tanslateWordByWord" : [
+        "Et comme pour",
+        "homme",
+        "quand",
+        "Est-ce que",
+        "essayez de lui",
+        "son Seigneur",
+        "et est généreux pour lui",
+        "et lui favorise",
+        "il dit",
+        "Mon Seigneur",
+        "m'a honoré"
+      ],
+      "notes" : {
+        "8" : [
+          "Maintenant, critiquant l'état moral général du peuple, il est dit: [ «Après tout,",
+          "pourquoi ne pas les hommes qui ont adopté une telle attitude dans la vie du",
+          "monde, être jamais appelé pour tenir compte, et comment peut-elle être considérée",
+          "comme une exigence de la raison et de la justice que lorsque l'homme a quitté le",
+          "monde, après avoir fait ALi qu'il pouvait, il ne devrait jamais recevoir aucune",
+          "récompense ou subir aucune punition pour ses actes? \"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 16,
+      "arabicVerse" : "وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ",
+      "simpleTranslate" : [
+        "Mais lorsqu’Il l’éprouve en lui mesurant Ses faveurs, l’homme s’écrie : «Mon",
+        "Seigneur m’a humilié !»"
+      ],
+      "tafsirTranslate" : [
+        "Mais quand il le teste par opprimer sa subsistance, il dit: «. Mon Seigneur m'a",
+        "humilié ' <N:9>"
+      ],
+      "tanslateWordByWord" : [
+        "Mais",
+        "quand",
+        "Est-ce que",
+        "Il l'essayer",
+        "et restreint",
+        "pour lui",
+        "sa provision",
+        "puis il dit",
+        "Mon Seigneur",
+        "(A) m'a humilié"
+      ],
+      "notes" : {
+        "9" : [
+          "C'est alors vue matérialiste de l'homme de la vie. Il considère la richesse et la",
+          "position et la puissance de ce monde seul comme tout. Quand il a, il est rempli",
+          "de fierté et dit que Dieu m'a honoré; et quand il ne parvient pas à l'obtenir, il",
+          "dit: Dieu m'a humilié. Ainsi, le critère de l'honneur et l'humiliation à ses yeux",
+          "est la possession de la richesse et de la position et de la puissance, ou",
+          "l'absence de celui-ci, alors que la vérité réelle qu'il ne comprend pas est que",
+          "ce qu'Allah a donné quiconque dans le monde a été donné pour l'intérêt d'un",
+          "procès. S'il lui a donné la richesse et le pouvoir, il a été donné pour un essai",
+          "pour voir s'il devient reconnaissant pour cela, ou commet l'ingratitude. S'il l'a",
+          "fait pauvre, dans ce trop il y a un procès pour lui de voir s'il reste contenu et",
+          "patient dans la volonté de Dieu et fait face à ses difficultés avec courage dans",
+          "des limites admissibles, ou devient prêt à transgresser toutes les limites de la",
+          "morale et de l'honnêteté et commence à maudire son Dieu."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 17,
+      "arabicVerse" : "كَلَّا ۖ بَلْ لَا تُكْرِمُونَ الْيَتِيمَ",
+      "simpleTranslate" : [
+        "Eh bien non ! C’est plutôt vous qui n’êtes pas généreux avec l’orphelin ;"
+      ],
+      "tafsirTranslate" : [
+        "Mais non, <N:10> vous ne traitez pas l'orphelin honorablement, <N:11>"
+      ],
+      "tanslateWordByWord" : [
+        "Non",
+        "Mais",
+        "ne pas",
+        "vous honorez",
+        "l'orphelin"
+      ],
+      "notes" : {
+        "10" : [
+          "Autrement dit, ce ne sont pas tous les critères d'honneur et de honte, pour le",
+          "véritable critère est le bien et le mal moral."
+        ],
+        "11" : [
+          "Autrement dit, [ \"Tant que son père est vivant, votre traitement lui est attentif",
+          "et quand son meurt plutôt, même le paternel et oncles maternels et les frères",
+          "aînés, sans parler des voisins disent et parents éloignés, lui négligent. \"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 18,
+      "arabicVerse" : "وَلَا تَحَاضُّونَ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+      "simpleTranslate" : [
+        "c’est plutôt vous qui n’encouragez pas à nourrir l’homme dans le besoin ;"
+      ],
+      "tafsirTranslate" : [
+        "et ne pas pousser les uns les autres pour nourrir les pauvres, <N:12>"
+      ],
+      "tanslateWordByWord" : [
+        "Et pas",
+        "vous vous sentez l'envie",
+        "à",
+        "alimentation",
+        "les pauvres"
+      ],
+      "notes" : {
+        "12" : [
+          "Autrement dit, [ «Personne dans votre société se sent toute envie de nourrir les",
+          "pauvres. Ni un Tnan se sent enclin à nourrir une personne affamée, ni est là",
+          "parmi les gens toute envie de faire quelque chose pour satisfaire la la faim de",
+          "la faim, ils n'exhortent les uns les autres à le faire \"]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 19,
+      "arabicVerse" : "وَتَأْكُلُونَ التُّرَاثَ أَكْلًا لَمًّا",
+      "simpleTranslate" : [
+        "c’est plutôt vous qui spoliez les héritiers de leurs biens"
+      ],
+      "tafsirTranslate" : [
+        "et goulûment dévorer l'héritage entier, <N:13>"
+      ],
+      "tanslateWordByWord" : [
+        "Et vous consommez",
+        "l'héritage",
+        "dévorant",
+        "tout à fait"
+      ],
+      "notes" : {
+        "13" : [
+          "En Arabie, les femmes et les enfants étaient en règle privés de l'héritage et",
+          "l'idée de la population à cet égard était que le droit à l'héritage appartenait",
+          "seulement aux membres masculins qui étaient aptes à combattre et à sauvegarder la",
+          "famille. D'ailleurs, celui qui est plus puissant et influent parmi les héritiers",
+          "du défunt, serait annexer tout l'héritage sans scrupule, et usurper les actions",
+          "de tous ceux qui n'ont pas le pouvoir de sécuriser leurs actions. Ils ne donnent",
+          "aucune importance au droit et le devoir de sorte qu'ils devraient honnêtement",
+          "rendre le droit à qui elle était due comme un devoir s'il avait le pouvoir de",
+          "fixer ou non."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 20,
+      "arabicVerse" : "وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا",
+      "simpleTranslate" : [
+        "et qui vouez à la richesse un amour sans fin !"
+      ],
+      "tafsirTranslate" : [
+        "et l'amour des richesses, de les aimer ardemment. <N:14>"
+      ],
+      "tanslateWordByWord" : [
+        "Et tu aimes",
+        "richesse",
+        "(avec amour",
+        "immense"
+      ],
+      "notes" : {
+        "14" : [
+          "Autrement dit, [ \"Vous avez sans aucun égard pour ce qui est permis ou interdit,",
+          "le licite ou l'illicite. Vous vous sentez aucun scrupule à acquérir la richesse",
+          "de quelque façon ou par quelque moyen, passable ou mauvais, et votre la cupidité",
+          "est jamais satisfait cependant beaucoup que vous avez acquises et amassé. \"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 21,
+      "arabicVerse" : "كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا",
+      "simpleTranslate" : [
+        "Prenez garde ! Lorsque la Terre sera réduite en poussière ;"
+      ],
+      "tafsirTranslate" : [
+        "Mais non, <N:15> quand la terre est broyé en poudre,"
+      ],
+      "tanslateWordByWord" : [
+        "Non",
+        "Quand",
+        "est nivelé",
+        "La terre",
+        "pilé",
+        "(Et) écrasé"
+      ],
+      "notes" : {
+        "15" : [
+          "Autrement dit, [ «Vous avez tort de penser que vous pouvez faire ce que vous",
+          "aimez dans votre vie du monde, mais vous ne serez jamais appelés à rendre compte.",
+          "Le Meting de récompenses et des punitions niant que vous avez adopté ce mode de",
+          "vie, ne sont pas quelque chose d'impossible et fictive, mais il doit arriver et",
+          "il va certainement arriver au moment d'être mentionné ci-dessous. \"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 22,
+      "arabicVerse" : "وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا",
+      "simpleTranslate" : [
+        "lorsque ton Seigneur Se manifestera, que les anges se présenteront en rangs"
+      ],
+      "tafsirTranslate" : [
+        "et quand votre Seigneur apparaît <N:16> avec des rangées d'anges,"
+      ],
+      "tanslateWordByWord" : [
+        "Et vient",
+        "votre Seigneur",
+        "et les anges",
+        "rang",
+        "(Sur) rang"
+      ],
+      "notes" : {
+        "16" : [
+          "Bien que littéralement mots jaa Rabbuka signifie [ \"votre Seigneur viendra\"], de",
+          "toute évidence, il ne peut pas être question d'Allah Tout-Puissant de se déplacer",
+          "d'un endroit à l'autre; donc, cela va inévitablement être comprise comme au",
+          "expression allégorique, qui vise à donner une idée que, à cette époque, les",
+          "manifestations de la puissance d'Allah Tout-Puissant et Sa Majesté et de la",
+          "souveraineté apparaît pleinement, comme, par exemple, dans le monde l'arrivée",
+          "d'un roi en personne à la cour est plus impressionnante que la simple gamme de",
+          "ses forces et les chefs et les nobles."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 23,
+      "arabicVerse" : "وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ الْإِنْسَانُ وَأَنَّىٰ لَهُ الذِّكْرَىٰ",
+      "simpleTranslate" : [
+        "et que la Géhenne se montrera, l’homme, ce jour-là, se souviendra ! Mais à quoi",
+        "lui servira de se souvenir?"
+      ],
+      "tafsirTranslate" : [
+        "et quand l'enfer est amené près de ce jour-là. Ce jour-là sera l'homme à",
+        "comprendre, mais de quelle utilité sera que la compréhension soit? <N:17>"
+      ],
+      "tanslateWordByWord" : [
+        "Et est amené",
+        "Ce jour là",
+        "enfer",
+        "Ce jour là",
+        "se souviendront",
+        "homme",
+        "mais comment",
+        "(Sera) pour lui",
+        "le souvenir"
+      ],
+      "notes" : {
+        "17" : [
+          "Les mots de l'original peuvent avoir deux significations: \n [(1)] Ce sur cet",
+          "homme de jour se souviendront tout ce qu'il avait fait dans le monde et va",
+          "regretter, mais qu'est-ce que le souvenir et regrettant lui prévaloir alors? \n",
+          "[(2)] Ce que l'homme sur Day va tenir compte et accepter avertissement: il se",
+          "rendra compte que tout ce qu'il avait dit par les prophètes était vrai et il a",
+          "commis une folie quand il ne les écoute pas; mais ce qui va prendre garde et",
+          "d'accepter l'avertissement et la réalisation de ses erreurs profitent d'un alors?"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 24,
+      "arabicVerse" : "يَقُولُ يَا لَيْتَنِي قَدَّمْتُ لِحَيَاتِي",
+      "simpleTranslate" : [
+        "«Malheur à moi !, s’écriera-t-il. Si seulement j’avais accompli quelques œuvres",
+        "méritoires pour ma vie future !»"
+      ],
+      "tafsirTranslate" : [
+        "Il dira: '! Que je fusse envoyé avant ce qui serait de succès pour cette vie de",
+        "la mine'"
+      ],
+      "tanslateWordByWord" : [
+        "Il dira",
+        "O Je souhaite",
+        "Ai-je fait",
+        "pour ma vie"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 25,
+      "arabicVerse" : "فَيَوْمَئِذٍ لَا يُعَذِّبُ عَذَابَهُ أَحَدٌ",
+      "simpleTranslate" : [
+        "Ce jour-là, nul ne châtiera aussi sévèrement que le Seigneur"
+      ],
+      "tafsirTranslate" : [
+        "Alors, ce jour-Allah va châtier comme aucun autre ne peut châtier;"
+      ],
+      "tanslateWordByWord" : [
+        "Donc, ce jour-là",
+        "ne pas",
+        "punira",
+        "(As) Sa punition",
+        "n'importe qui"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 26,
+      "arabicVerse" : "وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ",
+      "simpleTranslate" : [
+        "et nul n’enchaînera aussi solidement que Lui."
+      ],
+      "tafsirTranslate" : [
+        "et Allah se lie comme nul autre peut se lier."
+      ],
+      "tanslateWordByWord" : [
+        "Et pas",
+        "lieront",
+        "(As) Sa liaison",
+        "n'importe qui"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 27,
+      "arabicVerse" : "يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ",
+      "simpleTranslate" : [
+        "Quant à toi, ô âme, désormais apaisée !"
+      ],
+      "tafsirTranslate" : [
+        "(D'autre part, il sera dit): 'O âme sereine <N:18>"
+      ],
+      "tanslateWordByWord" : [
+        "O",
+        "âme",
+        "qui est satisfait"
+      ],
+      "notes" : {
+        "18" : [
+          "[ \"Peaceful .. âme satisfait»]: l'homme qui a cru en Allah, l'Unique, comme son",
+          "Seigneur et le Pourvoyeur, et a adopté le mode de vie apporté par les prophètes",
+          "comme son mode de vie, avec pleine satisfaction du cœur, et sans le moindre doute",
+          "à ce sujet, qui a reconnu comme une vérité absolue quelle que soit la croyance et",
+          "de commandement, il a reçu d'Allah et à Son messager, qui se retenu de tout ce",
+          "qu'il a été interdit par la religion d'Allah, pas à contrecoeur mais avec",
+          "conviction parfaite qui il était vraiment une mauvaise chose, qui a offert sans",
+          "sacrifice quel que soit le sacrifice était nécessaire pour être offert pour",
+          "l'amour de la vérité. qui a enduré en toute tranquillité d'esprit peu importe les",
+          "difficultés, les problèmes et les difficultés qu'il a rencontré sur cette façon",
+          "et qui se sentaient pas de remords sur la privation des gains et des avantages et",
+          "des plaisirs du monde qui semblaient courir à ceux qui ont suivi d'autres moyens,",
+          "mais sont restés pleinement satisfaits que l'adhésion à la vraie foi l'avait",
+          "protégés contre ces erreurs. Cet état très a été décrite à un autre endroit dans",
+          "le Coran comme sharh Badr. [(Al-Anam 125)]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 28,
+      "arabicVerse" : "ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَرْضِيَّةً",
+      "simpleTranslate" : [
+        "Retourne auprès de ton Seigneur, satisfaite et agréée !"
+      ],
+      "tafsirTranslate" : [
+        "Retour à votre Seigneur <N:19> bien heureux (avec votre destination",
+        "bienheureuse), bien agréable (à votre Seigneur)."
+      ],
+      "tanslateWordByWord" : [
+        "Retour",
+        "à",
+        "votre Seigneur",
+        "content",
+        "et agréable"
+      ],
+      "notes" : {
+        "19" : [
+          "Ce qu'il sera dit au moment de sa mort, ainsi que sur le Jour de la Résurrection",
+          "quand il passera de morts et de progresser vers la plaine de l'Assemblée et aussi",
+          "à l'occasion, quand il sera présenté à la Cour Divine; à chaque étape, il sera",
+          "assuré qu'il se dirige vers la miséricorde d'Allah Tout-Puissant."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 29,
+      "arabicVerse" : "فَادْخُلِي فِي عِبَادِي",
+      "simpleTranslate" : [
+        "Sois désormais du nombre de Mes serviteurs,"
+      ],
+      "tafsirTranslate" : [
+        "Entrez donc parmi Mes serviteurs (justes)"
+      ],
+      "tanslateWordByWord" : [
+        "entrez donc",
+        "parmi",
+        "Mes esclaves"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 30,
+      "arabicVerse" : "وَادْخُلِي جَنَّتِي",
+      "simpleTranslate" : [
+        "et sois la bienvenue dans Mon Paradis !"
+      ],
+      "tafsirTranslate" : [
+        "et entrez Mon Paradis. '"
+      ],
+      "tanslateWordByWord" : [
+        "Et entrez",
+        "Mon paradis"
+      ],
+      "notes" : { }
+    }
+  ],
+  "medinian" : false
+}

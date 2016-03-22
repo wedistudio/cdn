@@ -1,0 +1,982 @@
+{
+  "chapterNumber" : 80,
+  "nbVerses" : 42,
+  "name" : "Il s’est renfrogné, L’Air sévère",
+  "nameArabic" : "عبس",
+  "transName" : "ʿabasa",
+  "verses" : [
+    {
+      "verseNumber" : 1,
+      "arabicVerse" : "عَبَسَ وَتَوَلَّىٰ",
+      "simpleTranslate" : [
+        "Le Prophète s’est renfrogné et s’est détourné"
+      ],
+      "tafsirTranslate" : [
+        "Il fronça les sourcils et se détourna"
+      ],
+      "tanslateWordByWord" : [
+        "Il fronça les sourcils",
+        "et se détourna"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 2,
+      "arabicVerse" : "أَنْ جَاءَهُ الْأَعْمَىٰ",
+      "simpleTranslate" : [
+        "lorsque l’aveugle vint à lui."
+      ],
+      "tafsirTranslate" : [
+        "que l'aveugle est venu à lui <N:1>."
+      ],
+      "tanslateWordByWord" : [
+        "Car",
+        "vint à lui",
+        "l'aveugle"
+      ],
+      "notes" : {
+        "1" : [
+          "Le style de cette première phrase est élégante et subtile. Bien que dans les",
+          "phrases suivantes du Saint Prophète [(sur lesquels la paix)] a été directement",
+          "adressée, qui par lui-même montre que l'acte de froncer les sourcils et se",
+          "détourner avait émis en avant de lui, le discours a été ouvert d'une manière",
+          "comme si elle était pas lui, mais quelqu'un d'autre qui avait agi ainsi. Par ce",
+          "style, le Saint Prophète [(sur lui la paix)], par une méthode subtile, a été fait",
+          "pour se rendre compte qu'il était un acte inconvenant pour lui. Avait quelqu'un",
+          "familier avec ses hautes valeurs morales ont été témoins, il aurait pensé que ce",
+          "ne fut pas lui, mais une autre personne qui avait agi de cette manière. L'homme",
+          "aveugle appelé ici implique, comme nous l'avons expliqué dans l'introduction, du",
+          "compagnon bien connu, Hadrat Ibn Umm Maktum. Hafiz Ibn 'Abdul Barr Al-Isti'ab et",
+          "Hafiz Ibn Hajar dans AI-Isbah ont déclaré qu'il était un cousin germain de",
+          "l'épouse du Saint Prophète, Hadrat Khadijah. Sa mère, Umm Maktum, et le père de",
+          "Hadrat Khadijah, Khuwailid, étaient sœur et le frère de l'autre. Après on connaît",
+          "sa relation avec le Saint Prophète, il ne reste aucune place pour le doute qu'il",
+          "avait détourné de lui le considérer comme un pauvre homme ayant une station",
+          "faible dans la vie, et ont assisté aux gens haut placés, car il était le le",
+          "frère-frère du Saint Prophète et un homme de noble naissance. La raison pour",
+          "laquelle le Saint Prophète avait montré le mépris pour lui est indiqué par le mot",
+          "un ma [(homme aveugle)], qu'Allah lui-même a utilisé comme la cause de",
+          "l'inattention du Saint Prophète. Autrement dit, le Saint Prophète a pensé que,",
+          "même si un seul homme parmi les gens qu'il cherchait à mettre sur le droit",
+          "chemin, l'écoutait et a été à juste titre guidé, être pourrait devenir un",
+          "puissant moyen de renforcer l'Islam. Au contraire, Ibn Umm Maktum était un homme",
+          "aveugle, qui ne pouvait pas prouver à être si utile pour l'Islam en raison de son",
+          "handicap comme pourrait l'un des anciens Quraish pour devenir un musulman. Par",
+          "conséquent, il ne devrait pas interrompre la conversation à ce moment; tout ce",
+          "qu'il voulait demander ou d'apprendre, il pourrait demander ou d'apprendre à un",
+          "moment plus tard."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 3,
+      "arabicVerse" : "وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّىٰ",
+      "simpleTranslate" : [
+        "Que sais-tu de lui? Peut-être cherche-t-il à se purifier"
+      ],
+      "tafsirTranslate" : [
+        "Comment pourriez-vous savoir? Peut-être qu'il se purifier,"
+      ],
+      "tanslateWordByWord" : [
+        "Mais quoi",
+        "serait vous faire connaître",
+        "qu'il pourrait",
+        "se purifier"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 4,
+      "arabicVerse" : "أَوْ يَذَّكَّرُ فَتَنْفَعَهُ الذِّكْرَىٰ",
+      "simpleTranslate" : [
+        "ou à écouter tes exhortations pour en tirer profit?"
+      ],
+      "tafsirTranslate" : [
+        "ou il pourrait être attentif et de bon conseil pourrait lui profiter."
+      ],
+      "tanslateWordByWord" : [
+        "Ou",
+        "être rappelé",
+        "donc lui profiterait",
+        "le rappel"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 5,
+      "arabicVerse" : "أَمَّا مَنِ اسْتَغْنَىٰ",
+      "simpleTranslate" : [
+        "Comment donc ! À celui qui est plein de suffisance"
+      ],
+      "tafsirTranslate" : [
+        "Celui qui cires indifférent,"
+      ],
+      "tanslateWordByWord" : [
+        "Comme pour",
+        "(Lui) qui",
+        "se considère libre de nécessité"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 6,
+      "arabicVerse" : "فَأَنْتَ لَهُ تَصَدَّىٰ",
+      "simpleTranslate" : [
+        "tu portes un intérêt tout particulier,"
+      ],
+      "tafsirTranslate" : [
+        "vous assistez à lui,"
+      ],
+      "tanslateWordByWord" : [
+        "Tellement toi",
+        "à lui",
+        "donner de l'attention"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 7,
+      "arabicVerse" : "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ",
+      "simpleTranslate" : [
+        "alors qu’il t’importe peu s’il va ou non se purifier ;"
+      ],
+      "tafsirTranslate" : [
+        "si vous n'êtes pas à blâmer s'il ne se purifier."
+      ],
+      "tanslateWordByWord" : [
+        "Et pas",
+        "sur vous",
+        "qui ne",
+        "il se purifie"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 8,
+      "arabicVerse" : "وَأَمَّا مَنْ جَاءَكَ يَسْعَىٰ",
+      "simpleTranslate" : [
+        "tandis que celui qui vient vers toi, avec empressement,"
+      ],
+      "tafsirTranslate" : [
+        "Mais celui qui vient à vous en cours d'exécution,"
+      ],
+      "tanslateWordByWord" : [
+        "Mais, comme pour",
+        "(lui qui",
+        "est venu à vous",
+        "combattant"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 9,
+      "arabicVerse" : "وَهُوَ يَخْشَىٰ",
+      "simpleTranslate" : [
+        "mû par la crainte de Dieu,"
+      ],
+      "tafsirTranslate" : [
+        "et craintes (Allah),"
+      ],
+      "tanslateWordByWord" : [
+        "Alors qu'il",
+        "craintes"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 10,
+      "arabicVerse" : "فَأَنْتَ عَنْهُ تَلَهَّىٰ",
+      "simpleTranslate" : [
+        "tu ne t’en soucies même pas !"
+      ],
+      "tafsirTranslate" : [
+        "vous ne payez pas attention à lui. <N:2>"
+      ],
+      "tanslateWordByWord" : [
+        "Mais toi",
+        "de lui",
+        "(Sont) distrait"
+      ],
+      "notes" : {
+        "2" : [
+          "Ceci est le véritable point que le Saint Prophète [(sur lui la paix)] avaient",
+          "négligé dans la prédication de l'Islam, à cette occasion, et pour lui enseigner",
+          "le même Allah premier lui reprocha sur son traitement de Ibn Umm Maktum , puis",
+          "'lui a dit ce qui est vraiment mérité d'occuper son attention en tant que",
+          "prédicateur de la vérité et ce qui n'a pas. Il y a un homme dont l'état apparent",
+          "montre clairement qu'il est un chercheur de vérité: il craint de peur qu'il",
+          "devrait suivre le mensonge et inviter la colère d'Allah; par conséquent, il vient",
+          "tout le chemin à la recherche de la connaissance de la vraie foi. Il y a un autre",
+          "homme, dont l'attitude reflète clairement qu'il n'a aucun désir de la vérité;",
+          "bien au contraire, il se considère comme auto-suffisante, ne pas avoir envie",
+          "d'être guidé vers le droit chemin. Entre ces deux types d'hommes il ne faut pas",
+          "voir à qui devenir musulman serait plus utile pour l'islam et dont devenir un",
+          "croyant ne pouvait pas être d'une quelconque utilité dans sa propagation. Mais il",
+          "faut voir à qui a été enclin à accepter la direction et de réformer lui-même, et",
+          "qui était moins intéressé par ce marché précieux. Le premier type de l'homme,",
+          "qu'il soit aveugle, boiteux, estropié. ou un mendiant indigent, qui pourrait",
+          "apparemment sembler incapable de rendre un service utile dans la propagation de",
+          "l'Islam, est en tout cas un homme .valuable pour le prédicateur à la Vérité. Pour",
+          "lui, par conséquent, il devrait y assister, pour l'objet réel de cette invitation",
+          "est de réformer le peuple, et l'état apparent de la personne montre que s'il a",
+          "été chargé il accepterait des conseils. Quant à l'autre genre d'homme, le",
+          "prédicateur n'a pas besoin de le poursuivre, peu importe comment il est influente",
+          "dans la société. Pour son attitude et de mener ouvertement proclamer qu'il n'a",
+          "aucun désir de réforme; par conséquent, aucun effort pour réformer lui serait",
+          "pure perte de temps. S'il n'a pas envie de se réformer, il peut, ni la perte",
+          "serait son, le prédicateur ne serait pas du tout être responsable."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 11,
+      "arabicVerse" : "كَلَّا إِنَّهَا تَذْكِرَةٌ",
+      "simpleTranslate" : [
+        "Eh bien non ! Le Coran est un rappel"
+      ],
+      "tafsirTranslate" : [
+        "Non, certes;. <N:3> ceci est seulement un rappel <N:4>"
+      ],
+      "tanslateWordByWord" : [
+        "Non",
+        "En effet, il",
+        "(Est) un rappel"
+      ],
+      "notes" : {
+        "4" : [
+          "L'allusion est le Coran."
+        ],
+        "3" : [
+          "Autrement dit, [ \"Vous ne devriez jamais le faire:. Ne pas donner trop",
+          "d'importance à ceux qui ont oublié Dieu et devenir fiers de leur position",
+          "mondaine élevée L'enseignement de l'islam est pas telle qu'elle devrait être",
+          "présentée solicitously devant celui qui dédaigne, ni si un homme comme vous",
+          "essayez d'inviter ces gens arrogants à l'islam d'une manière que peut leur causer",
+          "le malentendu que vous avez un motif égoïste connecté avec eux, et que votre",
+          "mission ne réussira que si elles croyaient , sinon pas, alors que le fait est que",
+          "la vérité est que l'auto-suffisant d'eux car ils sont de la Vérité. \"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 12,
+      "arabicVerse" : "فَمَنْ شَاءَ ذَكَرَهُ",
+      "simpleTranslate" : [
+        "qui s’adresse à tout homme qui veut en méditer le sens !"
+      ],
+      "tafsirTranslate" : [
+        "Donc quiconque testaments peuvent prêter attention à elle."
+      ],
+      "tanslateWordByWord" : [
+        "Ainsi quiconque",
+        "testaments",
+        "peut le rappeler"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 13,
+      "arabicVerse" : "فِي صُحُفٍ مُكَرَّمَةٍ",
+      "simpleTranslate" : [
+        "Il est gravé sur des tables vénérées,"
+      ],
+      "tafsirTranslate" : [
+        "Il est contenu dans des parchemins très honorés,"
+      ],
+      "tanslateWordByWord" : [
+        "Dans",
+        "feuilles",
+        "honoré"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 14,
+      "arabicVerse" : "مَرْفُوعَةٍ مُطَهَّرَةٍ",
+      "simpleTranslate" : [
+        "sublimes et purifiées."
+      ],
+      "tafsirTranslate" : [
+        "le plus élevé et purifié, <N:5>"
+      ],
+      "tanslateWordByWord" : [
+        "Exalté",
+        "purifiée"
+      ],
+      "notes" : {
+        "5" : [
+          "[ \"purifiées\"]: libre de toutes sortes de mélanges de fausses idées et de",
+          "pensées, et présentant rien que la vérité pure. Il n'y a aucune teinte que ce",
+          "soit dans ces parchemins des impuretés avec lesquelles les autres rustres",
+          "religieuses du -ld nous ont boon pollué. Ils ont été maintenus pur et à l'abri de",
+          "toutes sortes de spéculations humaines et suggestions du mal."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 15,
+      "arabicVerse" : "بِأَيْدِي سَفَرَةٍ",
+      "simpleTranslate" : [
+        "Il est gardé par des anges"
+      ],
+      "tafsirTranslate" : [
+        "porté par les mains des scribes,"
+      ],
+      "tanslateWordByWord" : [
+        "Dans (les) mains",
+        "(de) scribes"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 16,
+      "arabicVerse" : "كِرَامٍ بَرَرَةٍ",
+      "simpleTranslate" : [
+        "nobles et de toute pureté."
+      ],
+      "tafsirTranslate" : [
+        "noble <N:6> et purifié. <N:7>"
+      ],
+      "tanslateWordByWord" : [
+        "noble",
+        "respectueux"
+      ],
+      "notes" : {
+        "6" : [
+          "Cela fait référence aux anges qui écrivent les manuscrits du Coran sous la",
+          "direction directe d'Allah, ont été les garder et transmettre intacts au Saint",
+          "Prophète [(sur lesquels la paix)]. Deux mots ont été utilisés pour les qualifier:",
+          "karim, à savoir noble et barr, à savoir vertueux. Le premier mot est destiné à",
+          "dire qu'ils sont. ainsi honoré et noble qu'il ne soit pas possible que ces êtres",
+          "exaltés commettraient la moindre malhonnêteté dans la confiance placée en eux. Le",
+          "deuxième mot a été utilisé pour dire qu'ils exercent la responsabilité qui leur",
+          "est confiée d'écrire les rouleaux, les garder et de les transmettre au Messager",
+          "avec honnêteté et intégrité parfaite."
+        ],
+        "7" : [
+          "Si le contexte dans lequel ces versets se produisent, est considéré comme",
+          "profondément, il devient évident que ici la. Coran n'a pas été loué pour l'amour",
+          "de sa grandeur et de la gloire, mais de dire aux gens arrogants, qui répudie son",
+          "message avec mépris, clairement: «Le glorieux Coran est trop saint et exalté un",
+          "livre qui sera présenté avant humblement avec la demande que vous pouvez bien",
+          "vouloir l'accepter si vous s'il vous plaît. Car il ETCD ne supportent pas besoin",
+          "de vous que vous vous tenez dans le besoin de celui-ci. Si vous cherchez vraiment",
+          "votre bien-être, vous devez effacer votre tête des mauvaises pensées et de",
+          "soumettre à son message humblement, sinon vous n'êtes pas si autosuffisante de ce",
+          "livre que ce livre est auto-suffisant de vous votre traitant avec mépris et le",
+          "mépris ne sera pas affecter sa gloire et de la grandeur du tout, plutôt votre",
+          "propre fierté et. l'arrogance sera ruinée à cause de cela."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 17,
+      "arabicVerse" : "قُتِلَ الْإِنْسَانُ مَا أَكْفَرَهُ",
+      "simpleTranslate" : [
+        "Périsse l’homme ! Comme il est ingrat !"
+      ],
+      "tafsirTranslate" : [
+        "Maudite <N:8> être homme! <N:9> <N:10> Comment obstinément il nie la Vérité."
+      ],
+      "tanslateWordByWord" : [
+        "est détruit",
+        "[l'homme",
+        "Comment",
+        "ingrat est-il"
+      ],
+      "notes" : {
+        "8" : [
+          "De là, le reproche se tourne directement contre les mécréants, qui traitent le",
+          "message de la Vérité avec peu d'attention. Avant cela, dès le début de la sourate",
+          "au verset 16, l'adresse mais apparemment dirigé vers le Saint Prophète [(sur",
+          "lesquels la paix)], a été effectivement destiné à réprimander les mécréants,",
+          "comme pour dire: [ \"O Prophète, pourquoi vous ignorez un chercheur de vérité et",
+          "de payer toute votre attention à ceux qui sont sans valeur du point de vue de",
+          "votre mission? ils ne méritent pas qu'un grand prophète comme toi devrait",
+          "présenter une chose sublime comme le Coran devant eux. \"]"
+        ],
+        "9" : [
+          "À tous ces endroits dans le Coran, [ «l'homme»] ne signifie pas tous les",
+          "individus de la race humaine, mais les personnes dont le mal traits de caractère",
+          "sont destinés à être censuré. A certains endroits, le mot [ \"Tnan\"] est utilisé",
+          "parce que les mauvais traits se retrouvent dans la plupart des êtres humains, et",
+          "d'autres pour la raison que si les personnes en particulier sont pin-a la",
+          "censure, elle engendre l'entêtement. Par conséquent, avertissement est donné en",
+          "termes généraux de manière à être plus efficace. [(Pour de plus amples",
+          "explications, voir E.N. 65 Ha Mim As-Sajda, E.N. 75 de Ash-Shura)]."
+        ],
+        "10" : [
+          "Un autre sens peut aussi être: [ \"Que fit enclin à Kufr?\"] Ou, en d'autres",
+          "termes: [ \"Sur quelle force il DCEs commettre kufr? Kufr? \"] Poule signifie la",
+          "négation de la vérité ainsi que l'ingratitude pour les faveurs de l'un de",
+          "bienfaiteur et l'attitude aussi rebelle contre son Créateur, Providence et",
+          "Maître."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 18,
+      "arabicVerse" : "مِنْ أَيِّ شَيْءٍ خَلَقَهُ",
+      "simpleTranslate" : [
+        "Oublie-t-il d’où son Seigneur l’a tiré?"
+      ],
+      "tafsirTranslate" : [
+        "Sur ce que Allah a crée lui?"
+      ],
+      "tanslateWordByWord" : [
+        "De",
+        "quelle",
+        "chose",
+        "Il l'a créé"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 19,
+      "arabicVerse" : "مِنْ نُطْفَةٍ خَلَقَهُ فَقَدَّرَهُ",
+      "simpleTranslate" : [
+        "C’est d’une goutte de sperme qu’Il le crée et fixe sa destinée ;"
+      ],
+      "tafsirTranslate" : [
+        "Sur un goutte de sperme <N:11> Il ne crée lui et détermine ensuite une mesure",
+        "pour lui, <N:12>"
+      ],
+      "tanslateWordByWord" : [
+        "De",
+        "une goutte de sperme",
+        "Il l'a créé",
+        "puis Il lui proportionné"
+      ],
+      "notes" : {
+        "12" : [
+          "C'est, il était encore en développement et de prendre forme dans le ventre de sa",
+          "mère quand son destin a été créé pour lui. Il a été déterminé quel serait son",
+          "sexe, sa couleur, sa taille; l'étendue et le volume de son corps, la mesure dans",
+          "laquelle ses membres seraient son ou malsaine, son apparence et de la voix, le",
+          "degré de force physique et de facultés intellectuelles, ce qui serait la terre,",
+          "la famille, les conditions et les environnements dans lesquels il prendrait",
+          "naissance, développer et être moulé en une personne en particulier, quelles",
+          "seraient les influences héréditaires et les effets de l'environnement et le rôle",
+          "et l'impact de son propre moi dans le maquillage de sa personnalité, le rôle",
+          "qu'il pourrait jouer dans sa vie du monde, et combien de temps il serait autorisé",
+          "à fonctionner sur la terre. Il ne peut pas dévier un cheveu-largeur de son",
+          "destin, ne peut effectuer la moindre altération en elle. Alors, comment étrange",
+          "est son audace et l'entêtement! Il engage l'incrédulité du Créateur avant dont le",
+          "destin il est si impuissant et impuissant!"
+        ],
+        "11" : [
+          "Autrement dit, nous allons le considérer d'abord sur ce qu'il a été créé, où il a",
+          "été nourri et développé, par quoi il est venu dans le monde, et à partir de quel",
+          "état d'impuissance, il a commencé sa vie dans le monde. Pourquoi ETCD qu'il",
+          "oublie son tel début et est impliqué dans la vanité et l'orgueil et pourquoi se",
+          "sent-il alors gonflé pour résister à son Créateur et se tenir devant Lui comme un",
+          "adversaire? [(Le même thème a été exprimé dans Ya Sin 77-78 ci-dessus)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 20,
+      "arabicVerse" : "ثُمَّ السَّبِيلَ يَسَّرَهُ",
+      "simpleTranslate" : [
+        "après quoi, Il lui trace la voie à suivre"
+      ],
+      "tafsirTranslate" : [
+        ", puis fait le cours de la vie facile pour lui, <N:13>"
+      ],
+      "tanslateWordByWord" : [
+        "alors",
+        "le chemin",
+        "Il a fait facile pour lui"
+      ],
+      "notes" : {
+        "13" : [
+          "Autrement dit, il a créé tous ces moyens et dispositions dans le monde, qu'il",
+          "pourrait utiliser, sinon toutes les capacités de son corps et de l'esprit serait",
+          "resté inutile, n'a pas le Créateur à condition que le. des moyens et créé les",
+          "possibilités sur la terre pour les employer. En outre, le Créateur lui a donné",
+          "aussi la possibilité de choisir et d'adopter pour lui-même selon des façons,",
+          "bonnes ou mauvaises, de reconnaissance ou de l'ingratitude, de l'obéissance ou de",
+          "désobéissance, qui lui plaisait. Il a ouvert les deux voies devant lui et fait",
+          "dans chaque sens lisse et facile afin qu'il puisse suivre une façon qui lui",
+          "plaisait."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 21,
+      "arabicVerse" : "ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ",
+      "simpleTranslate" : [
+        "pour le faire ensuite mourir et inhumer ;"
+      ],
+      "tafsirTranslate" : [
+        ", puis il le fit mourir et l'amena à la tombe, <N:14>"
+      ],
+      "tanslateWordByWord" : [
+        "alors",
+        "Il lui a fait mourir",
+        "et fournit une tombe pour lui"
+      ],
+      "notes" : {
+        "14" : [
+          "Autrement dit, non seulement en matière de naissance et le destin, mais dans",
+          "l'affaire de la mort aussi, il est absolument impuissant devant son Créateur. Ni",
+          "lui, peut prendre naissance par son choix ni mourir par son choix, ne peut",
+          "reporter sa mort même par un moment. Il meurt précisément au temps fixé, à",
+          "l'endroit désigné, dans les circonstances nommées qui ont été décrétées pour sa",
+          "mort, et il est déposé dans le type de grave destiné à lui que ce soit le ventre",
+          "de la terre, les profondeurs de la mer, un feu de joie. ou l'estomac d'une bête.",
+          "Rien à dire de l'homme, même le monde entier ensemble ne peut pas changer le",
+          "décret du Créateur à l'égard de toute personne."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 22,
+      "arabicVerse" : "ثُمَّ إِذَا شَاءَ أَنْشَرَهُ",
+      "simpleTranslate" : [
+        "puis, quand Il voudra, Il le ressuscitera."
+      ],
+      "tafsirTranslate" : [
+        ", puis, quand il le veut, il le ressusciterai à la vie. <N:15>"
+      ],
+      "tanslateWordByWord" : [
+        "alors",
+        "quand",
+        "Il veut",
+        "Il le ressusciter"
+      ],
+      "notes" : {
+        "15" : [
+          "Autrement dit, il n'a pas non plus le pouvoir de refuser de se lever lorsque le",
+          "Créateur peut vouloir pour le ressusciter après la mort. Quand il a été créé, il",
+          "n'a pas été consulté: il n'a pas été demandé s'il voulait être créé ou non. Même",
+          "s'il avait refusé, il aurait été créé. De même, sa résurrection est aussi ne",
+          "dépend pas de sa volonté et de la sanction qu'il peut passer de la mort si elle",
+          "le veut, ou refuser d'augmenter s'il n'aime pas. Dans cette affaire aussi, il est",
+          "absolument impuissant devant la volonté du Créateur. Chaque fois qu'il veut, il",
+          "va le ressusciter, et il devra augmenter, qu'il le veuille ou non."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 23,
+      "arabicVerse" : "كَلَّا لَمَّا يَقْضِ مَا أَمَرَهُ",
+      "simpleTranslate" : [
+        "Eh bien ! Que cet homme qui n’a pas encore accompli ce que Dieu lui a prescrit"
+      ],
+      "tafsirTranslate" : [
+        "Non, mais l'homme ne remplissait pas ce qu'Allah lui avait ordonné. <N:16>"
+      ],
+      "tanslateWordByWord" : [
+        "Non",
+        "ne pas",
+        "il a accompli",
+        "quelle",
+        "Il lui avait commandé"
+      ],
+      "notes" : {
+        "16" : [
+          "[ «Devoir»] implique le devoir que Dieu a enjoint à tous les hommes sous la forme",
+          "d'orientation naturelle, ainsi que le devoir auquel propre existence de l'homme",
+          "et de toutes les particules de l'univers, de la terre à la cieux, et toute",
+          "manifestation de la puissance divine pointent, et ce devoir aussi qu'Allah a",
+          "transmis à tous les âges à travers Ses prophètes et Livres et diffusées par les",
+          "personnes justes de chaque période. [(Pour plus d'explications, voir E.N. 5 de la",
+          "sourate Ad-Dahr)]. Dans le présent contexte, le but est d'exprimer le sens que",
+          "sur la base des vérités énoncées dans les versets ci-dessus, il était du devoir",
+          "de l'homme d'avoir obéi à son Créateur, mais, contrairement à cela, il a adopté",
+          "la voie de la désobéissance et ne remplissait pas la demande de son être sa",
+          "créature."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 24,
+      "arabicVerse" : "فَلْيَنْظُرِ الْإِنْسَانُ إِلَىٰ طَعَامِهِ",
+      "simpleTranslate" : [
+        "considère aussi sa nour-riture !"
+      ],
+      "tafsirTranslate" : [
+        "Que l'homme il suffit de considérer sa nourriture: <N:17>"
+      ],
+      "tanslateWordByWord" : [
+        "Ensuite, laissez l'air",
+        "l'homme",
+        "à",
+        "sa nourriture"
+      ],
+      "notes" : {
+        "17" : [
+          "Autrement dit, qu'il considère la nourriture, qu'il considère comme une chose",
+          "ordinaire, comment il est créé. Si Dieu avait pas fourni les moyens pour cela, il",
+          "n'a pas été dans le pouvoir de l'homme lui-même d'avoir créé la nourriture sur la",
+          "terre en aucune façon."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 25,
+      "arabicVerse" : "أَنَّا صَبَبْنَا الْمَاءَ صَبًّا",
+      "simpleTranslate" : [
+        "Nous faisons pleuvoir en abondance,"
+      ],
+      "tafsirTranslate" : [
+        "Nous avons versé l'eau, verser en grande abondance, <N:18>"
+      ],
+      "tanslateWordByWord" : [
+        "Que nous]",
+        "[Nous] versé",
+        "l'eau",
+        "(en quantité"
+      ],
+      "notes" : {
+        "18" : [
+          "Ceci se rapporte à l'eau de pluie: les vapeurs d'eau sont élevés dans de grandes",
+          "quantités dans les océans par la chaleur du soleil: ils sont transformés en",
+          "nuages ​​épais; puis les vents soufflent et les répartir sur différentes parties",
+          "de la terre; ensuite à cause de la fraîcheur dans la haute atmosphère des vapeurs",
+          "tournent le dos à l'eau et tombent sous forme de pluie dans tous les domaines",
+          "dans une mesure particulière. L'eau non seulement tombe sous forme de pluie",
+          "directement sur la terre, mais recueille également sous terre dans la forme des",
+          "puits et des fontaines, des flux sous forme de rivières et de ruisseaux, gèle sur",
+          "les montagnes que la neige et fond et coule dans les rivières dans d'autres",
+          "saisons, ainsi que la saison des pluies. L'homme a fait lui-même tous ces",
+          "arrangements? Si son Créateur n'arrangé cela pour sa subsistance, l'homme",
+          "pourrait survivre sur la terre?"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 26,
+      "arabicVerse" : "ثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا",
+      "simpleTranslate" : [
+        "puis Nous fendons profondément la terre"
+      ],
+      "tafsirTranslate" : [
+        "et clivé la terre, le clivant sépare; <N:19>"
+      ],
+      "tanslateWordByWord" : [
+        "alors",
+        "Nous clivé",
+        "La terre",
+        "scission"
+      ],
+      "notes" : {
+        "19" : [
+          "[ \"cliver le sépare de la terre\"] implique cliver d'une manière que les graines",
+          "ou semences-pierres, ou des plants de légumes que les truies de l'homme ou de",
+          "plantes à elle ou qui sont déposés en elle par les vents ou oiseaux, ou par",
+          "d'autres moyens, devraient germer. L'homme ne peut rien faire de plus que de",
+          "creuser le sol, ou la charrue, et enterrer en elle les graines que Dieu a déjà",
+          "créé. Au-delà de ce que tout est fait par Dieu. Il est Celui qui a créé les",
+          "germes d'innombrables espèces de légumes; il est celui qui a doté ces graines",
+          "avec la qualité que quand elles sont semées dans le sol, ils devraient germer et",
+          "à partir de tous les légumes de graines de ses propres espèces particulières",
+          "devraient croître. Encore une fois, il est celui qui a créé la terre la capacité",
+          "qui, en combinaison avec de l'eau, il devrait casser les graines et de développer",
+          "et de nourrir toutes les espèces de légumes avec le genre de nourriture",
+          "appropriée pour cela. Si Dieu avait pas créé les graines avec ces qualités et les",
+          "couches supérieures de la terre avec ces capacités, l'homme ne pouvait pas",
+          "lui-même ont arrangé tout type de nourriture sur la terre."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 27,
+      "arabicVerse" : "فَأَنْبَتْنَا فِيهَا حَبًّا",
+      "simpleTranslate" : [
+        "et Nous y faisons pousser des grains,"
+      ],
+      "tafsirTranslate" : [
+        ", puis a provoqué le grain de se développer hors de lui,"
+      ],
+      "tanslateWordByWord" : [
+        "Ensuite, Nous fîmes pousser",
+        "la bride",
+        "grain"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 28,
+      "arabicVerse" : "وَعِنَبًا وَقَضْبًا",
+      "simpleTranslate" : [
+        "des vignes et des légumes,"
+      ],
+      "tafsirTranslate" : [
+        ", ainsi que les raisins et les légumes,"
+      ],
+      "tanslateWordByWord" : [
+        "et raisins",
+        "et de fourrage vert"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 29,
+      "arabicVerse" : "وَزَيْتُونًا وَنَخْلًا",
+      "simpleTranslate" : [
+        "des oliviers et des palmiers,"
+      ],
+      "tafsirTranslate" : [
+        "et les olives et les palmiers,"
+      ],
+      "tanslateWordByWord" : [
+        "Et d'olive",
+        "et palmiers"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 30,
+      "arabicVerse" : "وَحَدَائِقَ غُلْبًا",
+      "simpleTranslate" : [
+        "des jardins touffus,"
+      ],
+      "tafsirTranslate" : [
+        "et les vergers denses,"
+      ],
+      "tanslateWordByWord" : [
+        "et les jardins",
+        "(De) feuillage épais"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 31,
+      "arabicVerse" : "وَفَاكِهَةً وَأَبًّا",
+      "simpleTranslate" : [
+        "des fruits et des pâturages,"
+      ],
+      "tafsirTranslate" : [
+        "et les fruits et les pâturages '"
+      ],
+      "tanslateWordByWord" : [
+        "et les fruits",
+        "et l'herbe"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 32,
+      "arabicVerse" : "مَتَاعًا لَكُمْ وَلِأَنْعَامِكُمْ",
+      "simpleTranslate" : [
+        "pour vous en faire jouir, vous et vos troupeaux."
+      ],
+      "tafsirTranslate" : [
+        "tout cela comme une disposition pour vous et votre bétail. <N:20>"
+      ],
+      "tanslateWordByWord" : [
+        "(As) une disposition",
+        "pour toi",
+        "et pour votre bétail"
+      ],
+      "notes" : {
+        "20" : [
+          "Autrement dit, [ \"Un moyen de subsistance non seulement pour vous mais aussi pour",
+          "les animaux dont vous obtenez les articles de nourriture comme la viande, la",
+          "graisse, le lait, le beurre, etc., et qui effectuent d'innombrables autres",
+          "services également pour votre vie. vous bénéficiez de tout cela, et pourtant vous",
+          "ne croyez pas en Dieu dont les dispositions vous soutenir. \"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 33,
+      "arabicVerse" : "فَإِذَا جَاءَتِ الصَّاخَّةُ",
+      "simpleTranslate" : [
+        "Mais lorsque surviendra le Fracas,"
+      ],
+      "tafsirTranslate" : [
+        "Mais quand le cri assourdissant doit se déclencher <N:21>"
+      ],
+      "tanslateWordByWord" : [
+        "Mais quand",
+        "vient",
+        "Blast Deafening"
+      ],
+      "notes" : {
+        "21" : [
+          "Le son horrible finale de la trompette à laquelle tous les hommes morts sont",
+          "ressurected à la vie."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 34,
+      "arabicVerse" : "يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ",
+      "simpleTranslate" : [
+        "le jour où l’homme fuira son frère,"
+      ],
+      "tafsirTranslate" : [
+        "le jour où chaque homme doit fuir son frère,"
+      ],
+      "tanslateWordByWord" : [
+        "(Le jour",
+        "fuiront",
+        "un homme",
+        "de",
+        "son frère"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 35,
+      "arabicVerse" : "وَأُمِّهِ وَأَبِيهِ",
+      "simpleTranslate" : [
+        "sa mère, son père,"
+      ],
+      "tafsirTranslate" : [
+        "et sa mère et son père;"
+      ],
+      "tanslateWordByWord" : [
+        "Et sa mère",
+        "et son père"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 36,
+      "arabicVerse" : "وَصَاحِبَتِهِ وَبَنِيهِ",
+      "simpleTranslate" : [
+        "sa compagne et ses enfants,"
+      ],
+      "tafsirTranslate" : [
+        "et de son épouse et de ses enfants; <N:22>"
+      ],
+      "tanslateWordByWord" : [
+        "Et sa femme",
+        "et ses enfants"
+      ],
+      "notes" : {
+        "22" : [
+          "Un thème closeay ressemblant à ce qui a déjà eu lieu dans AI-Ma'arij: 10-14",
+          "ci-dessus. [ \"Fuir\"] peut également signifier que quand il voit ceux le plus",
+          "proche et le plus cher à lui dans le .World, impliqué dans la détresse, au lieu",
+          "de se précipiter en avant pour les aider, il va les fuir de peur qu'ils ne lui",
+          "crier à l'aide ; et il peut également signifier que quand ils voient les",
+          "mauvaises conséquences de commettre le péché pour l'amour de l'autre et induire",
+          "en erreur les uns les autres, sans peur de Dieu et inattentif l'au-delà, dans le",
+          "monde, chacun fuirait l'autre de peur que l'autre devrait le tenir responsable",
+          "pour son écart et le péché. Brother craindre frère, les enfants de leurs parents,",
+          "le mari de sa femme, et les parents de leurs enfants de peur qu'ils ne deviennent",
+          "des témoins dans l'affaire contre eux."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 37,
+      "arabicVerse" : "لِكُلِّ امْرِئٍ مِنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ",
+      "simpleTranslate" : [
+        "chacun ayant assez, ce jour-là, de s’occuper de son propre sort ;"
+      ],
+      "tafsirTranslate" : [
+        "le jour chacun sera occupé avec sa propre entreprise, faisant de lui inconscients",
+        "de tous se sauver. <N:23>"
+      ],
+      "tanslateWordByWord" : [
+        "Pour chaque",
+        "homme",
+        "parmi eux",
+        "Ce jour là",
+        "(Sera) une question",
+        "l'occupant"
+      ],
+      "notes" : {
+        "23" : [
+          "Une tradition a été rapporté dans le. Hadith par des méthodes différentes et à",
+          "travers différents canaux, en disant que le Saint Prophète [(sur lui la paix)]",
+          "dit: [ \"Le Jour de la Résurrection que tous les hommes se lèveront nu.\"] Une de",
+          "ses épouses [(selon certains journalistes , Hadrat `A'ishah, selon les autres,",
+          "Hadrat Saudah, ou une femme)] a demandé avec étonnement:« ô Messager d'Allah,",
+          "nous allons [(femmes)] apparaissent nus sur ce jour-là devant le peuple »? Le",
+          "Saint Prophète récita ce verset et a expliqué que ce jour chacun aura assez de",
+          "ses propres problèmes pour l'occuper, et sera totalement oublieux des autres.",
+          "[(Nasa'i, Tirmidhi, Ibn Abi Hatim Ibn Jarir, Tabarani Ibn Marduyah, Baihaqi,",
+          "Hakim)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 38,
+      "arabicVerse" : "وُجُوهٌ يَوْمَئِذٍ مُسْفِرَةٌ",
+      "simpleTranslate" : [
+        "ce jour-là, il y aura des visages rayonnants,"
+      ],
+      "tafsirTranslate" : [
+        "Quelques visages sur ce jour-là seront rayonnaient de bonheur,"
+      ],
+      "tanslateWordByWord" : [
+        "Visages",
+        "Ce jour là",
+        "(Sera) brillant"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 39,
+      "arabicVerse" : "ضَاحِكَةٌ مُسْتَبْشِرَةٌ",
+      "simpleTranslate" : [
+        "souriants et joyeux ;"
+      ],
+      "tafsirTranslate" : [
+        "et être gai et joyeux."
+      ],
+      "tanslateWordByWord" : [
+        "En riant",
+        "se réjouir de bonnes nouvelles"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 40,
+      "arabicVerse" : "وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ",
+      "simpleTranslate" : [
+        "mais il y aura aussi, ce jour-là, des visages terreux"
+      ],
+      "tafsirTranslate" : [
+        "Quelques visages sur ce jour-là sont la poussière monté,"
+      ],
+      "tanslateWordByWord" : [
+        "et les visages",
+        "Ce jour là",
+        "sur eux",
+        "(Sera) la poussière"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 41,
+      "arabicVerse" : "تَرْهَقُهَا قَتَرَةٌ",
+      "simpleTranslate" : [
+        "et tout enveloppés de ténèbres."
+      ],
+      "tafsirTranslate" : [
+        "enveloppé par les ténèbres."
+      ],
+      "tanslateWordByWord" : [
+        "Est-ce que les couvrir",
+        "obscurité"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 42,
+      "arabicVerse" : "أُولَٰئِكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ",
+      "simpleTranslate" : [
+        "Ces visages-là seront ceux des impies et des corrompus."
+      ],
+      "tafsirTranslate" : [
+        "Ceux-ci seront les mécréants, les méchants."
+      ],
+      "tanslateWordByWord" : [
+        "Ceux",
+        "[ils]",
+        "(Sont) les incroyants",
+        "les méchants"
+      ],
+      "notes" : { }
+    }
+  ],
+  "medinian" : false
+}

@@ -1,0 +1,1645 @@
+{
+  "chapterNumber" : 45,
+  "nbVerses" : 37,
+  "name" : "Celle qui est agenouillée, Assise sur les talons",
+  "nameArabic" : "الجاثية",
+  "transName" : "al-jāṯiya",
+  "verses" : [
+    {
+      "verseNumber" : 1,
+      "arabicVerse" : "حم",
+      "simpleTranslate" : [
+        "Hâ - Mîm."
+      ],
+      "tafsirTranslate" : [
+        "Ha '. Mim."
+      ],
+      "tanslateWordByWord" : [
+        "Ha Meem"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 2,
+      "arabicVerse" : "تَنْزِيلُ الْكِتَابِ مِنَ اللَّهِ الْعَزِيزِ الْحَكِيمِ",
+      "simpleTranslate" : [
+        "La révélation du Livre émane de Dieu, le Tout-Puissant, le Sage."
+      ],
+      "tafsirTranslate" : [
+        "Ce livre est une révélation du Très Puissant, le Sage <N:1>."
+      ],
+      "tanslateWordByWord" : [
+        "(La révélation",
+        "(du livre",
+        "(est de",
+        "Allah",
+        "Tout-Puissant",
+        "le Sage"
+      ],
+      "notes" : {
+        "1" : [
+          "Dans cette brève introduction à la Surah, les auditeurs ont été avertis de deux",
+          "choses: [(1)] que ce livre est pas la composition de Muhammad [(sur qui être la",
+          "paix d'Allah)] lui-même, mais il est envoyé vers lui par Allah; et [(2)] qu'il",
+          "est envoyé par Allah Qui est Tout-Puissant ainsi que Sage. Son être le",
+          "Tout-Puissant exige que l'homme ne doit pas oser désobéir à ses commandements,",
+          "car s'il lui désobéit, il ne peut pas échapper à son châtiment; et son être les",
+          "exigences All-Wise que l'homme doit obéir et suivre ses conseils et ses commandes",
+          "avec pleine satisfaction et la volonté du cœur, car il ne peut y avoir aucune",
+          "possibilité de ses enseignements se tromper ou inadéquat ou nuisible d'une",
+          "quelconque façon."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 3,
+      "arabicVerse" : "إِنَّ فِي السَّمَاوَاتِ وَالْأَرْضِ لَآيَاتٍ لِلْمُؤْمِنِينَ",
+      "simpleTranslate" : [
+        "En vérité, il y a dans les Cieux et la Terre des signes pour ceux qui ont la foi."
+      ],
+      "tafsirTranslate" : [
+        "Voici, pour ceux qui croient <N:2> il y a des signes (innombrables) dans les",
+        "cieux et la terre"
+      ],
+      "tanslateWordByWord" : [
+        "Effectivement",
+        "dans",
+        "Le Paradis",
+        "et la terre",
+        "sûrement (sont) Signes",
+        "pour les croyants"
+      ],
+      "notes" : {
+        "2" : [
+          "Pour commencer le discours comme celui-ci, après l'introduction, indique que,",
+          "dans l'arrière-plan, il y a les objections des gens de la Mecque, qu'ils",
+          "soulevaient contre les enseignements du Saint Prophète. Ils ont dit: «Après ALi,",
+          "comment pouvons-nous croire un homme quand il dit que tous ces grands êtres à qui",
+          "sanctuaires nous ont été consacrés et consacrées à ce jour, ne sont rien et que",
+          "la Divinité appartient à un seul Dieu [\" A propos de ce bien cela? est dit que le",
+          "monde est rempli avec les signes de la réalité à laquelle ils sont invités. Si",
+          "on] y ils virent avec Eves ouverts, ils trouveraient ces signes en eux-mêmes et à",
+          "l'extérieur les partout, ce qui témoigne que tout cet univers est la création",
+          "d'un et un seul Dieu, et Lui seul est son maître et souverain et contrôleur. Il",
+          "n'a pas besoin d'être signalé quelle était la nature des signes dans la terre et",
+          "les cieux, pour le différend à cette époque centrée autour au point que les",
+          "polythéistes insistaient pour croire en d'autres dieux et divinités aussi en",
+          "dehors d'Allah et le Coran a donné le message qu'il n'y avait ni un dieu, ni une",
+          "divinité à côté un seul Dieu. par conséquent, il était évident par lui-même à",
+          "partir du contenu que le signes étaient de la vérité de Monothéisme et de la",
+          "réfutation du polythéisme. Quant à la phrase: \"] Les signes sont pour ceux qui",
+          "croient,\" cela signifie que, bien que l'arc de signes destiné à tous les êtres",
+          "humains, que ces personnes peuvent atteindre la bonne conclusion de leur",
+          "observation, qui sont enclins à croire; comme pour les personnes insouciantes,",
+          "qui vivent comme des animaux et les gens tenaces qui sont résolus à ne pas",
+          "croire, l'existence et la non-existence des signes est égal. La splendeur et la",
+          "beauté du jardin est pour ceux qui peuvent s; un homme aveugle ne peut pas",
+          "percevoir toute la splendeur et la beauté; pour lui l'existence même du jardin",
+          "n'a pas de sens."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 4,
+      "arabicVerse" : "وَفِي خَلْقِكُمْ وَمَا يَبُثُّ مِنْ دَابَّةٍ آيَاتٌ لِقَوْمٍ يُوقِنُونَ",
+      "simpleTranslate" : [
+        "Votre propre création et la multiplicité des espèces animales constituent aussi",
+        "des signes pour ceux qui croient avec certitude."
+      ],
+      "tafsirTranslate" : [
+        "et dans votre propre création; et chez les animaux dont il se répand sur la terre",
+        "aussi, il y a des signes pour les doués d'assurer la foi; <N:3>"
+      ],
+      "tanslateWordByWord" : [
+        "Et en",
+        "votre création",
+        "et quoi",
+        "Il se disperse",
+        "de",
+        "(les) créatures mobiles",
+        "(Sont) Signes",
+        "pour un peuple",
+        "qui sont certains"
+      ],
+      "notes" : {
+        "3" : [
+          "Autrement dit, «Le cas de ceux qui ont pris leur décision de ne pas croire, ou de",
+          "ceux qui ont choisi pour eux-mêmes de rester perdu dans les impasses de doute,",
+          "est différent, mais quand ceux qui ont pas enfermé le cœur contre la croyance et",
+          "la conviction, examinera sérieusement leur propre création, la structure de leur",
+          "propre corps, et la variété des animaux trouvés sur la terre, ils verront un",
+          "nombre incalculable de tels signes que laissera sans aucun doute dans leur esprit",
+          "que . tout cela n'a pas vu le jour sans Dieu, ou qu'il avait besoin de plus d'un",
+          "Cod pour sa création [(pour plus d'explications, voir A1 An`am: 37-38, An-Nahl:",
+          "5.8 <V:16:5.8>, AI-Hajj : 57 <V:22:57>, AI-Mu'minun: 12-14 <V:23:12-14>,",
+          "AI-Furqan: 54 <V:25:54>, Ash-Shu'ara: 78-81 <V:26:78-81>, An-Naml: 64 <V:27:64>,",
+          "Ar-Rum: 20-21 <V:30:20-21>, 54, FR de 14 à 18 As-Sajda, Ya Sin: 71-73",
+          "<V:36:71-73>, Az-Zumar: 6 <V:39:6>, et eN de 97, 98.110 d'Al-Mu'min)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 5,
+      "arabicVerse" : "وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ وَمَا أَنْزَلَ اللَّهُ مِنَ السَّمَاءِ مِنْ رِزْقٍ فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا وَتَصْرِيفِ الرِّيَاحِ آيَاتٌ لِقَوْمٍ يَعْقِلُونَ",
+      "simpleTranslate" : [
+        "L’alternance de la nuit et du jour, les pluies bienfaisantes que Dieu fait",
+        "descendre du ciel pour faire revivre la terre après sa mort, ainsi que la",
+        "variation des vents sont autant de preuves pour des gens qui raisonnent."
+      ],
+      "tafsirTranslate" : [
+        "et dans la succession de la nuit et le jour, <N:4> et dans la fourniture <N:5>",
+        "qu'Allah fait descendre du ciel avec lequel il donne la vie à la terre après",
+        "avoir été sans vie, <N:6> et dans le changement des vents: <N:7> (dans tous ces)",
+        "il y a des signes pour des gens qui raisonnent."
+      ],
+      "tanslateWordByWord" : [
+        "Et (en) l'alternance",
+        "(de la nuit",
+        "et la journée",
+        "et quoi",
+        "Allah fait descendre",
+        "Allah fait descendre",
+        "de",
+        "Le ciel",
+        "de",
+        "(la fourniture",
+        "et donne la vie",
+        "ainsi",
+        "(à la terre",
+        "après",
+        "sa mort",
+        "et (dans) la direction",
+        "(les) vents",
+        "(Sont) Signes",
+        "pour un peuple",
+        "qui raisonnent"
+      ],
+      "notes" : {
+        "4" : [
+          "La différence de la nuit et le jour est un signe parce que l'on suit l'autre avec",
+          "la pleine régularité, parce qu'on est brillante et l'autre sombre, parce que sur",
+          "une certaine période de la journée se passe sur le raccourcissement et la nuit",
+          "allongeant progressivement jusqu'à la deux deviennent de même durée, puis de",
+          "nouveau le jour va sur l'allongement et le raccourcissement de la nuit jusqu'à",
+          "deux à nouveau deviennent égaux en durée. Ces différents types de variantes",
+          "trouvées dans la nuit et le jour et les grands aspects de la sagesse qui",
+          "découlent de ceux-ci, à l'arc un pointeur clair sur le fait que le Créateur du",
+          "soleil et de la terre et de tout ce qui sur la terre est une et que un",
+          "AII-puissant Etre maintient ces deux sphères sous son contrôle; que cet être est",
+          "pas sourd et aveugle et imprudente, mais All-Wise, qui a mis en place ce système",
+          "inaltérables et fait sa terre un endroit approprié pour les innombrables espèces",
+          "de la vie, qu'il a créé ici sous la forme de légumes, les animaux et les hommes.",
+          "[(Pour plus d'explications, voir Yunus: 67 <V:10:67>, Naml: 86, Al-Qasas: 71-73",
+          "<V:28:71-73>, Luqman: 29 et E.N. S0 <V:31:29etE.N.S0>, Ya Sin: 37 et E.N. 32",
+          "<V:36:37etE.N.32>)]"
+        ],
+        "5" : [
+          "[ \"Provisions\"]: précipitations que devient évidente à partir de la phrase",
+          "suivante."
+        ],
+        "6" : [
+          "Pour une explication, voir Al-Mu'minun: 18-20, Al-Furqan: 48-49, AshShu'ara ': 7,",
+          "An-Naml: 61, Ar-Ruth: 24, 48, Ya Sin : de 26 à 31, FR."
+        ],
+        "7" : [
+          "La circulation des vents implique la circulation des différents types de vents à",
+          "différents moments, sur différentes parties de la terre et à des hauteurs",
+          "différentes, qui provoquent le changement des saisons. Ce qui mérite l'attention",
+          "est non seulement au-dessus de la surface de la terre il y a une atmosphère",
+          "épaisse, qui contient tous les éléments nécessaires par les êtres vivants pour la",
+          "respiration, et cette couverture épaisse a gardé la population de la terre à",
+          "l'abri de la plupart des calamités célestes. Par ailleurs, une autre chose à",
+          "noter est que l'air est non seulement remplie de manière inerte dans",
+          "l'atmosphère, mais il souffle de temps à autre de différentes manières. Parfois,",
+          "un vent frais souffle et parfois un vent chaud; parfois, il cesse de souffler et",
+          "parfois, il commence à souffler; parfois, il souffle doux et parfois forte, et",
+          "parfois, il prend les proportions d'une tempête, parfois un endroit sec coups de",
+          "vent et parfois un vent humide; parfois, il apporte la pluie et parfois, il",
+          "chasse les nuages. Ces différents types de vents ne soufflent pas sans but, mais",
+          "en vertu d'une loi et d'un système, ce qui témoigne que cet arrangement est basé",
+          "sur la sagesse parfaite, et il est de servir de grands objectifs. Ensuite, il est",
+          "profondément lié avec sang-froid et de la chaleur, qui vont sur l'augmentation et",
+          "la diminution en fonction des conditions et l'évolution des relations entre la",
+          "terre et le soleil. En outre, il a une relation profonde avec les changements",
+          "saisonniers et la répartition de la pluie. Tous ces faits proclamer que ces",
+          "dispositions ne sont pas faits au hasard par une nature aveugle, ni avoir le",
+          "soleil et la terre et l'air et de l'eau et de la végétation et les animaux",
+          "contrôleurs séparés, mais inévitablement Un seul Dieu est le Créateur de les AII",
+          "et est sa sagesse qui a établi ce système pour un grand objectif, et il est sa",
+          "puissance qu'il fonctionne régulièrement selon une loi préétablie."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 6,
+      "arabicVerse" : "تِلْكَ آيَاتُ اللَّهِ نَتْلُوهَا عَلَيْكَ بِالْحَقِّ ۖ فَبِأَيِّ حَدِيثٍ بَعْدَ اللَّهِ وَآيَاتِهِ يُؤْمِنُونَ",
+      "simpleTranslate" : [
+        "Ce sont là des versets de Dieu que Nous te récitons en toute vérité. En quel",
+        "autre discours croiront-ils s’ils restent insensibles à la Parole de Dieu et à",
+        "Ses preuves?"
+      ],
+      "tafsirTranslate" : [
+        "Ce sont les signes d'Allah que nous répétons à vous dans la Vérité. Dans quel",
+        "genre de discours après Allah et Ses signes seront-ils donc croire? <N:8>"
+      ],
+      "tanslateWordByWord" : [
+        "Ces",
+        "(Les) Versets",
+        "(De) Allah",
+        "Nous les récitons",
+        "à toi",
+        "en vérité",
+        "Puis, en ce que",
+        "déclaration",
+        "après",
+        "Allah",
+        "et Ses Versets",
+        "seront-ils croient"
+      ],
+      "notes" : {
+        "8" : [
+          "Autrement dit, [ «Quand ces gens ont pas cru, même après propres arguments",
+          "d'Allah ont été présentés pour son existence et son unité, que peuvent-être là où",
+          "ils gagneront la foi? Pour la Parole de Dieu est la dernière chose par laquelle",
+          "une personne peut atteindre cette bénédiction, et le maximum des arguments",
+          "rationnels qui pourraient être donnés à convaincre quelqu'un d'une réalité",
+          "invisible ont été présentés dans cette Parole divine. en dépit de cela, si une",
+          "personne est pliée sur refus, il peut persister dans son refus, pour son refus ne",
+          "peut pas changer la réalité. \"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 7,
+      "arabicVerse" : "وَيْلٌ لِكُلِّ أَفَّاكٍ أَثِيمٍ",
+      "simpleTranslate" : [
+        "Malheur à tout fieffé pécheur"
+      ],
+      "tafsirTranslate" : [
+        "Malheur à tout imposteur coupable"
+      ],
+      "tanslateWordByWord" : [
+        "Malheur",
+        "à chaque",
+        "menteur",
+        "coupable"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 8,
+      "arabicVerse" : "يَسْمَعُ آيَاتِ اللَّهِ تُتْلَىٰ عَلَيْهِ ثُمَّ يُصِرُّ مُسْتَكْبِرًا كَأَنْ لَمْ يَسْمَعْهَا ۖ فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ",
+      "simpleTranslate" : [
+        "qui, lorsqu’il entend réciter les versets de Dieu, s’enferme dans son dédain,",
+        "comme s’il ne les avait pas entendus. Annonce-lui un châtiment douloureux !"
+      ],
+      "tafsirTranslate" : [
+        "qui entend les signes d'Allah étant répété à lui, et pourtant persiste dans son",
+        "orgueil, comme si il avait pas entendu <N:9> Annoncer à lui, puis, la bonne",
+        "nouvelle d'un châtiment douloureux.."
+      ],
+      "tanslateWordByWord" : [
+        "Qui entend",
+        "(Le) Versets",
+        "(De) Allah",
+        "récitée",
+        "à lui",
+        "puis",
+        "persiste",
+        "arrogamment",
+        "comme si",
+        "ne pas",
+        "il les a entendu",
+        "Donc, lui donner nouvelles",
+        "(De) une punition",
+        "douloureux"
+      ],
+      "notes" : {
+        "9" : [
+          "En d'autres termes, il y a une différence marquée entre la personne qui écoute",
+          "les révélations d'Allah sincèrement avec un esprit ouvert et réfléchit sur eux au",
+          "sérieux et la personne qui les écoute résolus qu'il les nier, puis persiste dans",
+          "la détermination déjà fait sans aucune réflexion sérieuse. Si les premiers DCEs",
+          "personne ne croient pas dans les révélations immédiatement, cela ne signifie pas",
+          "qu'il veut rester un incroyant, mais parce qu'il veut avoir une plus grande",
+          "satisfaction. Par conséquent, même s'il prend le temps de croire, il est tout à",
+          "fait possible qu'une autre révélation pourrait entrer dans son cœur et il",
+          "pourrait le croire sincèrement avec pleine satisfaction. Quant à l'autre",
+          "personne, il ne serait jamais croire en toute révélation que ce soit, car il a",
+          "déjà verrouillé son cœur à chaque révélation d'Allah. Dans cet état, ces",
+          "personnes arc généralement impliqué comme arc caractérisé par les trois qualités",
+          "suivantes: [(1)] Ils arc menteurs; par conséquent, la vérité ne fait pas appel à",
+          "eux; [(2)], ils sont injustes; par conséquent, il est très difficile pour eux de",
+          "croire à un enseignement ou d'orientation qui peuvent imposer des restrictions",
+          "morales sur eux; et [(3)], ils l'arc impliqué dans la vanité qu'ils savent tout,",
+          "et que personne ne peut leur enseigner quoi que ce soit; par conséquent, ils ne",
+          "considèrent pas comme digne des révélations de l'attention et de considération",
+          "Allah qui leur sont récités, et il est tout de même pour eux s'ils écoutent ou",
+          "non."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 9,
+      "arabicVerse" : "وَإِذَا عَلِمَ مِنْ آيَاتِنَا شَيْئًا اتَّخَذَهَا هُزُوًا ۚ أُولَٰئِكَ لَهُمْ عَذَابٌ مُهِينٌ",
+      "simpleTranslate" : [
+        "Retient-il quelques-uns de Nos versets, il s’emploie à les tourner en dérision. À",
+        "ceux-là est réservé un châtiment avilissant,"
+      ],
+      "tafsirTranslate" : [
+        "Chaque fois qu'il vient de connaître quoi que ce soit de nos signes, il les un",
+        "objet de plaisanterie fait <N:10> Ceux-là attend un châtiment humiliant.."
+      ],
+      "tanslateWordByWord" : [
+        "Et quand",
+        "il sait",
+        "de",
+        "Nos versets",
+        "n'importe quoi",
+        "il les prend",
+        "(En) ridicule",
+        "Ceux",
+        "pour eux",
+        "(Est) une punition",
+        "humiliant"
+      ],
+      "notes" : {
+        "10" : [
+          "Autrement dit, [ «Il met pas se contenter de se moquer une révélation",
+          "particulière, mais se moque de toutes les révélations. Par exemple, quand il",
+          "entend qu'une chose en particulier a été mentionné dans le Coran, il ne prend pas",
+          "dans son sens straight-forward, mais met d'abord un sens tordu sur lui dans le",
+          "but d'en faire un objet de ridicule et de moquerie, puis après avoir fait",
+          "plaisir, dit: \"] Ces arc choses étranges: on entend tous les jours l'une ou",
+          "l'autre chose drôle d'eux. \""
+        ]
+      }
+    },
+    {
+      "verseNumber" : 10,
+      "arabicVerse" : "مِنْ وَرَائِهِمْ جَهَنَّمُ ۖ وَلَا يُغْنِي عَنْهُمْ مَا كَسَبُوا شَيْئًا وَلَا مَا اتَّخَذُوا مِنْ دُونِ اللَّهِ أَوْلِيَاءَ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+      "simpleTranslate" : [
+        "car la Géhenne est à leurs trousses, et ni les richesses qu’ils ont amassées ni",
+        "les maîtres qu’ils se sont donnés, en dehors de Dieu, ne leur porteront secours.",
+        "Un terrible châtiment les attend."
+      ],
+      "tafsirTranslate" : [
+        "L'enfer est derrière eux. <N:11> Leurs gains mondains ne leur servira, ni ceux",
+        "qu'ils ont pris comme protecteurs au lieu d'Allah. <N:12> Un châtiment",
+        "impressionnant se trouve en magasin pour eux."
+      ],
+      "tanslateWordByWord" : [
+        "Avant eux",
+        "Avant eux",
+        "(Est) Enfer",
+        "et pas",
+        "se prévaloir",
+        "leur",
+        "quelle",
+        "ils avaient gagné",
+        "n'importe quoi",
+        "et pas",
+        "quelle",
+        "ils avaient pris",
+        "outre",
+        "outre",
+        "Allah",
+        "(As) protecteurs",
+        "Et pour eux",
+        "(Est) une punition",
+        "génial"
+      ],
+      "notes" : {
+        "12" : [
+          "Ici, le mot wali [(tuteur)] a été utilisé dans deux sens; [(1)] Pour les dieux et",
+          "les déesses et les guides vivants et morts au sujet desquels les polythéistes",
+          "pensaient que toute personne qui a été consacrée à eux, serait échapper à la",
+          "punition d'Allah, tout ce qu'il aurait pu le faire dans le monde, pour leur",
+          "intercession les sauvera d'Allah colère; et [(2)] pour les chefs et les",
+          "dirigeants et les dirigeants que le peuple a pris comme leurs guides et mécènes",
+          "indépendants de Dieu et les suivaient aveuglément et tenté de leur plaire, même",
+          "si elles ont dû déplaire à Dieu. Ce verset met en garde tous ces gens que quand",
+          "ils feront face à l'enfer à cause de cette façon de ascenseur, aucun des deux",
+          "types de gardiens viendront en avant pour les sauver de lui. [(Pour de plus",
+          "amples explications, voir E.. N 6 de Surah Ash- Shura)]."
+        ],
+        "11" : [
+          "Le mot wara 'est utilisé pour chaque chose telle est caché de l'homme, que ce",
+          "soit avant. lui ou derrière lui. Par conséquent, une autre traduction peut être:",
+          "[ \". Ils ont l'enfer derrière eux\"] Dans le premier cas, le sens serait: [ \"Ils",
+          "sont inconsciemment en cours d'exécution sur cette voie et ont aucune idée qu'il",
+          "ya l'enfer en face d'eux, dans lequel ils tomberaient; \"] dans le second cas,",
+          "cela signifierait: [\" ils sont engagés dans ce méfait de leur, irréfléchie de",
+          "l'au-delà, et ils ne savent pas que l'enfer est à leur poursuite \"]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 11,
+      "arabicVerse" : "هَٰذَا هُدًى ۖ وَالَّذِينَ كَفَرُوا بِآيَاتِ رَبِّهِمْ لَهُمْ عَذَابٌ مِنْ رِجْزٍ أَلِيمٌ",
+      "simpleTranslate" : [
+        "Ce Coran est une bonne direction, et ceux qui récusent les versets de leur",
+        "Seigneur subiront le supplice d’un châtiment douloureux."
+      ],
+      "tafsirTranslate" : [
+        "Ce (Coran) est la vraie guidance. Ceux qui nient les signes de leur Seigneur doit",
+        "subir le châtiment d'un fléau déplorable."
+      ],
+      "tanslateWordByWord" : [
+        "Ce",
+        "(Est) l'orientation",
+        "Et ceux qui",
+        "ne pas croire",
+        "dans (la) Versets",
+        "(De) leur Seigneur",
+        "pour eux",
+        "(Est) une punition",
+        "de",
+        "saleté",
+        "douloureux"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 12,
+      "arabicVerse" : "اللَّهُ الَّذِي سَخَّرَ لَكُمُ الْبَحْرَ لِتَجْرِيَ الْفُلْكُ فِيهِ بِأَمْرِهِ وَلِتَبْتَغُوا مِنْ فَضْلِهِ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "simpleTranslate" : [
+        "C’est Dieu qui vous a soumis la mer pour permettre aux vaisseaux de voguer sur",
+        "ses flots, par Son ordre, et afin que vous alliez en quête de Ses faveurs.",
+        "Peut-être Lui en serez-vous reconnaissants."
+      ],
+      "tafsirTranslate" : [
+        "Allah est qui nous a soumis la mer à vous afin que les navires peuvent naviguer",
+        "sur elle sur son ordre <N:13> et vous pouvez chercher de Sa grâce <N:14> et",
+        "rendre grâce à Lui."
+      ],
+      "tanslateWordByWord" : [
+        "Allah",
+        "(Est) Celui qui",
+        "soumis",
+        "à toi",
+        "la mer",
+        "qui peut naviguer",
+        "les navires",
+        "la bride",
+        "par Son ordre",
+        "et que vous pouvez demander",
+        "de",
+        "Son Bounty",
+        "et que vous pouvez",
+        "rendre grâce"
+      ],
+      "notes" : {
+        "13" : [
+          "Pour une explication, voir Bani Isra'il: 66-67, Ar-Rum: 46 et les E.N. de",
+          "correspondants, et E.N. 55 de Luqman, E.N. 110 de Al Mu'min et E.N. 54 de",
+          "Ash-Shura."
+        ],
+        "14" : [
+          "[ «Cherchez Sa grâce\"]: Seek dispositions légales par le commerce, la pêche, la",
+          "plongée, la navigation et d'autres moyens à la mer."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 13,
+      "arabicVerse" : "وَسَخَّرَ لَكُمْ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ جَمِيعًا مِنْهُ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ",
+      "simpleTranslate" : [
+        "Et Il vous a soumis tout ce qui est dans les Cieux et tout ce qui est dans la",
+        "Terre, car tout procède de Lui. N’y a-t-il pas en cela des signes pour des gens",
+        "qui réfléchissent?"
+      ],
+      "tafsirTranslate" : [
+        "Il vous a assujetti tout ce qui est dans les cieux et la terre, <N:15> étant tous",
+        "de lui. <N:16> En vérité, il y a des signes pour ceux qui réfléchissent. <N:17>"
+      ],
+      "tanslateWordByWord" : [
+        "Et Il a soumis",
+        "à toi",
+        "peu importe",
+        "(est dans",
+        "Le Paradis",
+        "et quelle que soit",
+        "(est dans",
+        "La terre",
+        "tout",
+        "de lui",
+        "Effectivement",
+        "dans",
+        "cette",
+        "sont certainement des signes",
+        "pour un peuple",
+        "qui donnent la pensée"
+      ],
+      "notes" : {
+        "16" : [
+          "Cette phrase a deux significations: [(1)] `Ce don et la faveur de AIlah est pas",
+          "comme le don des rois du monde, qui favorisent leurs favoris avec la richesse",
+          "qu'ils ont recueilli du peuple eux-mêmes , mais, au contraire, aII les bonnes",
+          "choses, dans l'univers ont été créés par Allah Lui-même, et il a accordé ces à",
+          "l'homme de lui-même; [ \"Et [(2)]` n'est quelqu'un un partenaire d'Allah dans la",
+          "création de ces bonnes choses, et personne n'a rien à voir dans ce qui les rend",
+          "inféodée à l'homme. Dieu seul est leur Créateur et Lui seul a accordé ces à",
+          "l'homme de lui-même. \"]"
+        ],
+        "17" : [
+          "Autrement dit, `Dans leur soumission et à les rendre bénéfique pour Tnan il y a",
+          "beaucoup de signes pour ceux qui pensent et réfléchissent. Ces signes indiquent",
+          "clairement la vérité que le Créateur et Maître et administrateur de tout et de",
+          "tout pouvoir dans l'univers, de la terre vers le ciel, est un Dieu seul qui les a",
+          "soumis à une loi; et que Dieu seul est le Seigneur de l'homme qui a fait aII ces",
+          "choses et les pouvoirs favorables et utiles pour la vie de l'homme sa nourriture,",
+          "sa convenance, son développement et sa civilisation et de la vie sociale par sa",
+          "puissance et de la sagesse et de miséricorde, et que Dieu seul est digne du",
+          "service et de la reconnaissance et le dévouement de l'homme et non pas d'autres",
+          "êtres, qui n'ont ni aucune part dans la création des choses et des pouvoirs, ni",
+          "quoi que ce soit à voir avec les soumettant à l'homme et ce qui les rend",
+          "bénéfique pour lui. \""
+        ],
+        "15" : [
+          "Pour une explication, voir Ibrahim: 32 et E.N. 44 sur elle, et E.N. 35 de Luqman."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 14,
+      "arabicVerse" : "قُلْ لِلَّذِينَ آمَنُوا يَغْفِرُوا لِلَّذِينَ لَا يَرْجُونَ أَيَّامَ اللَّهِ لِيَجْزِيَ قَوْمًا بِمَا كَانُوا يَكْسِبُونَ",
+      "simpleTranslate" : [
+        "Dis à ceux qui croient de pardonner à ceux qui n’espèrent rien des journées de",
+        "Dieu. C’est Dieu Lui-même qui les rétribuera selon leurs œuvres,"
+      ],
+      "tafsirTranslate" : [
+        "(O Prophète), dire aux croyants de se livrer à ceux qui ne craignent pas de tous",
+        "les mauvais jours à venir sur eux d'Allah <N:18> afin qu'Allah lui-même les",
+        "rétribue pour leurs actes. <N:19>"
+      ],
+      "tanslateWordByWord" : [
+        "Dire",
+        "à ceux qui",
+        "croyez",
+        "(pardonner",
+        "ceux qui",
+        "(ne pas",
+        "espérer",
+        "(Pour le) jours",
+        "(De) Allah",
+        "qu'il peut récompenser",
+        "un peuple",
+        "pour quoi",
+        "ils avaient l'habitude",
+        "gagner"
+      ],
+      "notes" : {
+        "18" : [
+          "Littéralement: `Qui n'excepter pas les jours d'Allah [\" Mais dans l'usage arabe",
+          "sur ces occasions Ayyam ne jours pas seulement moyenne, mais ces jours mémorables",
+          "dans lequel les événements historiques importants ont peut-être eu lieu, par",
+          "exemple.. , le mot ayyam-ul 'arabe est utilisé pour les événements importants de",
+          "l'histoire des arabes et les grandes batailles des tribus arabes, qui les",
+          "générations futures se souviennent pendant des siècles. ici, ayyam-AIlah implique",
+          "les mauvais jours d'une nation quand la colère d'Allah peut descendre sur elle et",
+          "la ruine en conséquence de ses méfaits Voilà qui nous avons traduit: \".] ceux qui",
+          "ne craignent pas la venue du mauvais jours d'Allah, [\" dire ceux qui ne craignent",
+          "pas qu'une Un jour viendra où ils seront appelés à rendre compte de leurs actions",
+          "et leurs actions, et ce même courage leur a fait audacieux et obstiné dans des",
+          "actes de méchanceté."
+        ],
+        "19" : [
+          "Les commentateurs ont donné deux significations de ce verset et les mots du",
+          "verset admettre à la fois: [(I)] \"] Que les croyants doivent pardonner les excès",
+          "de ce groupe méchants afin que AIlah peut les récompenser pour leur patience et",
+          "la tolérance et de la noblesse de lui-même et de les récompenser pour les",
+          "persécutions qu'ils ont subies à cause de lui. [ \"[(2)]\"] que les croyants",
+          "doivent pardonner ces gens afin qu'Allah lui-même les punir pour leurs",
+          "persécutions de leur . [ \" \n D'autres commentateurs ont considéré ce verset comme",
+          "abrogé. Ils disent que cette commande était applicable que jusqu'à ce que les",
+          "Musulmans avaient pas été autorisés à se battre. Puis, quand ils ont été",
+          "autorisés à se battre, cette commande est devenu abrogée. Mais une étude",
+          "attentive des paroles du verset montre que la demande à propos de l'abrogation",
+          "est pas correct. Le mot \"] pardon [\" est jamais utilisé dans le sens que,",
+          "lorsqu'une personne ne peut pas se venger sur un autre pour les excès du Tatter,",
+          "il devrait lui pardonner, mais à cette occasion les mots habituels sont la",
+          "patience et la tolérance. Au lieu d'eux, quand le mot \"] pardon\" a été utilisé",
+          "ici, par lui-même donne le sens que les croyants, en dépit de leur capacité de",
+          "représailles, devraient éviter d'exercer des représailles sur les gens pour leurs",
+          "excès, que l'intrépidité de Dieu a fait de transgresser toutes les limites de la",
+          "morale et de l'humanité. Cette commande ne contredit pas ces versets dans",
+          "lesquels les musulmans ont été autorisés à se battre. L'autorisation de combattre",
+          "se rapporte à la condition que le gouvernement musulman a un motif raisonnable de",
+          "prendre une action militaire contre un peuple mécréant, et le commandement",
+          "concernant le pardon et le pardon se rapporte aux conditions communes dans",
+          "lesquelles les croyants doivent vivre en contact avec les personnes qui sont",
+          "intrépide de Dieu et ont à subir des persécutions par de différentes façons.",
+          "L'objet de cette commande est que les musulmans devraient garder leur supériorité",
+          "morale et ne devrait pas abaisser au niveau du peuple moralement inférieurs en se",
+          "livrant à des conflits et des querelles avec eux et le recours à des représailles",
+          "pour chaque frivolité. . Tant qu'il est possible de répondre à une accusation ou",
+          "une objection en douceur et de façon rationnelle, ou de se défendre contre un",
+          "excès, on ne devrait pas s'abstenir de cela, mais quand les choses semblent",
+          "traverser ces limites, on devrait tenir sa paix et de confier la importance à",
+          "Allah. Si les musulmans eux-mêmes deviennent impliqués dans un combat ou d'une",
+          "querelle avec eux, Allah les laisser seuls à traiter avec eux; mais si elles",
+          "pardonnent et abstiens, Allah lui-même traiter les gens méchants et récompenser",
+          "ceux opprimés pour leur patience."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 15,
+      "arabicVerse" : "مَنْ عَمِلَ صَالِحًا فَلِنَفْسِهِ ۖ وَمَنْ أَسَاءَ فَعَلَيْهَا ۖ ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ",
+      "simpleTranslate" : [
+        "car quiconque accomplit de bonnes actions le fait dans son propre intérêt ; et",
+        "quiconque fait le mal en subira les conséquences. Et c’est à votre Seigneur que",
+        "vous serez tous ramenés."
+      ],
+      "tafsirTranslate" : [
+        "Celui qui agit avec droiture, le fait pour son propre bien; et quiconque commet",
+        "un mal subira la conséquence. Chacun d'entre vous seront ensuite envoyés vers",
+        "votre Seigneur."
+      ],
+      "tanslateWordByWord" : [
+        "Quiconque",
+        "Est-ce que",
+        "un acte juste",
+        "alors il est pour son âme",
+        "et celui qui",
+        "fait le mal",
+        "alors il (est) contre elle",
+        "alors",
+        "à",
+        "votre Seigneur",
+        "vous retournerez"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 16,
+      "arabicVerse" : "وَلَقَدْ آتَيْنَا بَنِي إِسْرَائِيلَ الْكِتَابَ وَالْحُكْمَ وَالنُّبُوَّةَ وَرَزَقْنَاهُمْ مِنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ عَلَى الْعَالَمِينَ",
+      "simpleTranslate" : [
+        "Nous avons donné aux fils d’Israël l’Écriture, la sagesse et la prophétie. Nous",
+        "les avons pourvus d’une nourriture agréable et Nous en avons fait un peuple élu",
+        "entre tous."
+      ],
+      "tafsirTranslate" : [
+        "En effet, nous doué les enfants d'Israël avec le Livre et la Sagesse <N:20> et la",
+        "Prophétie, et leur a fourni de bonnes choses <N:21> comme moyens de subsistance,",
+        "et les exalté au-dessus des peuples du monde entier ."
+      ],
+      "tanslateWordByWord" : [
+        "Et certainement",
+        "Nous avons donné",
+        "(La) Les enfants d'Israël",
+        "(La) Les enfants d'Israël",
+        "le livre",
+        "et la sagesse",
+        "et la Prophétie",
+        "et Nous leur avons fourni",
+        "de",
+        "les bonnes choses",
+        "Nous les avons préféré",
+        "plus de",
+        "au monde"
+      ],
+      "notes" : {
+        "20" : [
+          "Hukm [(arrêt)] implique trois choses: [(1)] Connaissance et compréhension du",
+          "Livre et de la religion; [(2)] la sagesse d'agir conformément à l'intention du",
+          "livre; et [(3)] capacité à donner de bonnes décisions dans les différends."
+        ],
+        "21" : [
+          "Cela ne signifie pas qu'ils ont reçu la préférence sur tous les peuples du monde",
+          "pour toujours, cela signifie plutôt: Allah avait choisi les enfants d'Israël",
+          "parmi toutes les nations contemporaines du monde pour le service que ils",
+          "devraient tenir fermement au livre Divin et devrait augmenter à mesure que les",
+          "porte-étendards de Dieu culte dans le monde."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 17,
+      "arabicVerse" : "وَآتَيْنَاهُمْ بَيِّنَاتٍ مِنَ الْأَمْرِ ۖ فَمَا اخْتَلَفُوا إِلَّا مِنْ بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ ۚ إِنَّ رَبَّكَ يَقْضِي بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ",
+      "simpleTranslate" : [
+        "Nous leur avons apporté des preuves évidentes concernant Notre Ordre. Et ce ne",
+        "fut qu’après avoir reçu la science qu’ils se sont divisés par esprit de rivalité.",
+        "Ton Seigneur tranchera leur différend au Jour du Jugement dernier."
+      ],
+      "tafsirTranslate" : [
+        "Nous leur avons donné des indications claires sur les questions relatives à la",
+        "religion. Pourtant, ils différaient entre eux (pas de l'ignorance, mais) après la",
+        "connaissance était venu pour eux; et ils l'ont fait de la volonté de commettre",
+        "des excès contre l'autre. <N:22> Sur le Jour de la Résurrection, Allah jugera",
+        "parmi eux sur ce qu'ils avaient différé."
+      ],
+      "tanslateWordByWord" : [
+        "Et Nous leur avons donné",
+        "preuves claires",
+        "de",
+        "la question",
+        "Et pas",
+        "ils différaient",
+        "sauf",
+        "après",
+        "après",
+        "[quelle]",
+        "est venu à eux",
+        "la connaissance",
+        "(Sur) l'envie",
+        "entre eux,",
+        "Effectivement",
+        "votre Seigneur",
+        "jugera",
+        "entre eux",
+        "(au jour",
+        "(De) la Résurrection",
+        "sur quoi",
+        "ils avaient l'habitude",
+        "la bride",
+        "différer"
+      ],
+      "notes" : {
+        "22" : [
+          "Pour une explication, voir AI-Baqarah: 213, AI-Imran: 19 et E.N. de 22, 23 de",
+          "Ash-Shura."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 18,
+      "arabicVerse" : "ثُمَّ جَعَلْنَاكَ عَلَىٰ شَرِيعَةٍ مِنَ الْأَمْرِ فَاتَّبِعْهَا وَلَا تَتَّبِعْ أَهْوَاءَ الَّذِينَ لَا يَعْلَمُونَ",
+      "simpleTranslate" : [
+        "Nous t’avons ensuite placé sur la Voie légale qui procède de Notre Ordre.",
+        "Applique-toi à la suivre ! Ne suis pas les passions de ceux qui ne savent pas,"
+      ],
+      "tafsirTranslate" : [
+        "Et puis Nous vous fixons, (O Prophète), sur une grande route claire en matière",
+        "religieuse. <N:23> Alors suivez cela et ne pas suivre les désirs de ceux qui ne",
+        "savent pas."
+      ],
+      "tanslateWordByWord" : [
+        "alors",
+        "Nous vous mettons",
+        "sur",
+        "d'une manière ordonnée",
+        "de",
+        "la question",
+        "donc suivre",
+        "et (faire) pas",
+        "suivre",
+        "(les) désirs",
+        "(De) ceux qui",
+        "(ne pas",
+        "connaître"
+      ],
+      "notes" : {
+        "23" : [
+          "Cela signifie:. [ \"La mission qui avait été confiée aux enfants d'Israël avant de",
+          "vous a été confiée à vous Ils, en dépit de recevoir la connaissance, créé de",
+          "telles différences dans la religion pour des motifs égoïstes et suscité de telles",
+          "divisions entre eux qu'ils sont devenus disqualifiés pour appeler le peuple à la",
+          "manière de Dieu. maintenant, vous avez été mis sur la route claire de la religion",
+          "pour que vous puissiez effectuer le service que les enfants d'Israël ont échoué à",
+          "réaliser et devenir disqualifié pour effectuer . it \"] [(Pour plus",
+          "d'explications, voir Ash-Shura: 13-15 et EN de 20-26)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 19,
+      "arabicVerse" : "إِنَّهُمْ لَنْ يُغْنُوا عَنْكَ مِنَ اللَّهِ شَيْئًا ۚ وَإِنَّ الظَّالِمِينَ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ ۖ وَاللَّهُ وَلِيُّ الْمُتَّقِينَ",
+      "simpleTranslate" : [
+        "et qui ne peuvent t’être d’aucun secours contre Dieu. Certes, les injustes sont",
+        "solidaires les uns des autres ; mais Dieu est le Protecteur des croyants."
+      ],
+      "tafsirTranslate" : [
+        "Certes, ils seront d'aucune utilité pour vous contre Allah. <N:24> En effet, les",
+        "injustes sont des amis de l'autre, alors que Dieu est l'ami de ceux qui craignent",
+        "Dieu."
+      ],
+      "tanslateWordByWord" : [
+        "En effet, ils",
+        "jamais",
+        "se prévaloir",
+        "toi",
+        "contre",
+        "Allah",
+        "(En) rien",
+        "Et en effet",
+        "les malfaiteurs",
+        "certains d'entre eux",
+        "(Sont) alliés",
+        "(d'autres",
+        "et Allah",
+        "(Est) Protector",
+        "(De) les justes"
+      ],
+      "notes" : {
+        "24" : [
+          "Autrement dit, [ \"Si vous faites des changements dans d'Allah Religion seulement",
+          "pour leur plaire, ils ne seront pas en mesure de vous sauver de la responsabilité",
+          "et à la punition d'Allah.\"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 20,
+      "arabicVerse" : "هَٰذَا بَصَائِرُ لِلنَّاسِ وَهُدًى وَرَحْمَةٌ لِقَوْمٍ يُوقِنُونَ",
+      "simpleTranslate" : [
+        "Ce Coran est une source de lumière pour les hommes, un guide et une miséricorde",
+        "pour les gens qui croient avec certitude."
+      ],
+      "tafsirTranslate" : [
+        "Ce sont les lumières de discernement pour les personnes et l'orientation et la",
+        "miséricorde pour ceux qui sont doués d'assurer la foi. <N:25>"
+      ],
+      "tanslateWordByWord" : [
+        "Ce",
+        "(Est) l'illumination",
+        "pour l'humanité",
+        "et d'orientation",
+        "et de la miséricorde",
+        "pour un peuple",
+        "qui sont certains"
+      ],
+      "notes" : {
+        "25" : [
+          "Autrement dit, [ «Ce livre et ce Shari`ah présentent une telle lumière pour tous",
+          "les peuples du monde, qui distingue la vérité du mensonge, mais seulement ces",
+          "gens reçoivent aucune indication de celui-ci qui croient en sa vérité; pour eux,",
+          "il n'est une miséricorde \"]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 21,
+      "arabicVerse" : "أَمْ حَسِبَ الَّذِينَ اجْتَرَحُوا السَّيِّئَاتِ أَنْ نَجْعَلَهُمْ كَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَوَاءً مَحْيَاهُمْ وَمَمَاتُهُمْ ۚ سَاءَ مَا يَحْكُمُونَ",
+      "simpleTranslate" : [
+        "Ceux qui commettent de mauvaises actions pensent-ils que Nous allons les traiter,",
+        "dans leur vie et dans leur mort, comme ceux qui croient et font le bien? Comme",
+        "ils jugent mal !"
+      ],
+      "tafsirTranslate" : [
+        "Est-ce <N:26> les méchants imaginer que nous allons les rendre égaux à ceux qui",
+        "croient et accomplissent les bonnes, ce qui rend leur vie et décès semblables?",
+        "Comment vil est leur jugement! <N:27>"
+      ],
+      "tanslateWordByWord" : [
+        "Faire",
+        "penser",
+        "ceux qui",
+        "commettre",
+        "actes diaboliques",
+        "cette",
+        "Nous allons les",
+        "comme ceux qui",
+        "a cru",
+        "et a fait",
+        "bonnes oeuvres",
+        "égal",
+        "(En) leur vie",
+        "et leur mort",
+        "Le mal est",
+        "quelle",
+        "ils jugent"
+      ],
+      "notes" : {
+        "26" : [
+          "Après l'invitation à Tauhid, le discours se tourne maintenant vers le thème de",
+          "l'au-delà."
+        ],
+        "27" : [
+          "Tel est le raisonnement moral pour la vérité de l'au-delà. La différence du bien",
+          "et du mal dans la morale et de la bonté et de la méchanceté dans les actes exige",
+          "nécessairement que les bonnes et les mauvaises personnes ne devraient pas",
+          "rencontrer un seul et même but, mais le bien doit être récompensé pour leur bien",
+          "et les méchants punis pour leur mauvais actes. Sinon, si le bien et le mal",
+          "finissent même, la distinction de la vertu et le vice dans la morale devient vide",
+          "de sens et de Dieu devient injuste. Les gens qui suivent mauvaises voies dans le",
+          "monde ne veulent qu'il n'y ait pas de responsabilité et pas de récompenses et de",
+          "punitions, ce concept va à l'encontre de leur jouissance de la vie, mais il est",
+          "contraire à la justice et la sagesse du Seigneur des mondes qu'il devrait traiter",
+          "le bien et le mal aussi bien, et ne devrait pas prendre soin de voir comment le",
+          "croyant juste a vécu sa vie dans le monde et comment le mécréant pécheur a",
+          "bénéficié d'elle. L'un d'eux se tenait soumis à des restrictions morales AII sa",
+          "vie, a rendu les droits des personnes à verticille elles étaient dues, se contint",
+          "des avantages et des plaisirs illicites, et ont continué à subir des pertes pour",
+          "l'amour de la vérité; l'autre accomplit ses désirs dans tous les méfier possible:",
+          "ni reconnu les droits de Dieu, ni la mousse hésitèrent violer les droits du",
+          "peuple, mais non watts des prestations et bonnes choses de la vie dans toutes les",
+          "manières possibles. Peut-on attendre de Dieu qu'il négligez la différence entre",
+          "la vie des deux sortes d'hommes? Si la fin des deux soit le même, une plus grande",
+          "injustice pourrait être conçu. [(Pour plus d'explications, sec Yunus: 4 <V:10:4>,",
+          "Hud: 106 An-Nahl: 38 39 <V:11:106An-Nahl:3839>, AI-Hajj: E N. 9 <V:22:EN.9>,",
+          "An-Naml:. E <V:27:.E>, N 86, Ar-Rum: 7-8 <V:30:7-8>, Suad: 28 et EN 30 dessus)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 22,
+      "arabicVerse" : "وَخَلَقَ اللَّهُ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ وَلِتُجْزَىٰ كُلُّ نَفْسٍ بِمَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+      "simpleTranslate" : [
+        "Dieu a créé, en toute vérité, les Cieux et la Terre, afin que chaque âme soit",
+        "rétribuée selon ses acquis, sans que personne soit lésé."
+      ],
+      "tafsirTranslate" : [
+        "Allah a créé les cieux et la terre en vérité <N:28> que chaque personne peut être",
+        "rétribué pour ses actes. Ils ne seront pas lésés. <N:29>"
+      ],
+      "tanslateWordByWord" : [
+        "Et Allah a créé",
+        "Et Allah a créé",
+        "Le Paradis",
+        "et la terre",
+        "en vérité",
+        "et qui peut être rétribué",
+        "chaque",
+        "âme",
+        "pour quoi",
+        "il a gagné",
+        "et ils",
+        "ne seront pas lésés",
+        "ne seront pas lésés"
+      ],
+      "notes" : {
+        "28" : [
+          "Autrement dit, 'Allah n'a pas créé la terre et les cieux pour simple sport, mais",
+          "il est un système sage avec un but. Dans ce système, il est absolument",
+          "inimaginable que les personnes susceptibles d'avoir accompli de bonnes actions",
+          "par le bon usage des pouvoirs et des moyens et resouces accordés par AIlah et les",
+          "personnes qui auraient pu se propager le mal et la méchanceté par leur mauvaise",
+          "utilisation, devraient finir par en fin de compte la poussière après la mort, et",
+          "il devrait y avoir aucune vie ci-après dans laquelle leurs bonnes et mauvaises",
+          "actions devraient conduire à de bons ou de mauvais résultats selon la justice. Si",
+          "tel était le cas, cet univers serait le jouet d'un être irréfléchi, et non pas un",
+          "système intentionnel conçu par un Sage Etre [ \"[(Pour plus d'explications, sec",
+          "AIAn'am:. 73, Yunus: 5-6 <V:10:5-6>, Ibrahim: 19 <V:14:19>, An-Nahl: 3 <V:16:3>,",
+          "AI-Ankabut: 44 et EN de 75 <V:29:44etENde75>, 76; Ar-Rum: 8 et FR 6 sur elle)]."
+        ],
+        "29" : [
+          "Dans ce contexte, la phrase signifie clairement: «Si les bonnes personnes ne sont",
+          "pas récompensés pour leur bonté, et les méchants ne sont pas punis pour leur",
+          "méchanceté, et les griefs des opprimés ne sont pas redressées, il serait",
+          "injustice. Il ne peut y avoir une telle injustice dans le Royaume de Dieu. De",
+          "même, il ne peut pas être aussi l'autre sorte d'injustice qu'un homme bien être",
+          "donné une récompense moindre Matt ce qui lui est dû, ou un mauvais homme donné",
+          "une peine plus sévère que ce qu'il mérite. \"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 23,
+      "arabicVerse" : "أَفَرَأَيْتَ مَنِ اتَّخَذَ إِلَٰهَهُ هَوَاهُ وَأَضَلَّهُ اللَّهُ عَلَىٰ عِلْمٍ وَخَتَمَ عَلَىٰ سَمْعِهِ وَقَلْبِهِ وَجَعَلَ عَلَىٰ بَصَرِهِ غِشَاوَةً فَمَنْ يَهْدِيهِ مِنْ بَعْدِ اللَّهِ ۚ أَفَلَا تَذَكَّرُونَ",
+      "simpleTranslate" : [
+        "Que penses-tu de celui qui prend sa passion pour sa propre divinité, et que Dieu",
+        "égare malgré la science qu’il a reçue, en scellant son ouïe et son cœur et en lui",
+        "mettant un bandeau sur les yeux? Qui pourra donc, en dehors de Dieu, guider cet",
+        "égaré? Y avez-vous réfléchi?"
+      ],
+      "tafsirTranslate" : [
+        "Avez-vous déjà envisagé le cas de celui qui a pris son désir que son dieu,",
+        "<N:30>, puis Allah lui a causé égarés malgré la connaissance, <N:31> et scelle",
+        "son ouïe et son cœur , et jette un voile sur sa vue? <N:32> Qui, après Allah,",
+        "peut le diriger vers le droit chemin? Voulez-vous pas tenir compte? <N:33>"
+      ],
+      "tanslateWordByWord" : [
+        "As-tu vu",
+        "(lui qui",
+        "prend",
+        "(As) son dieu",
+        "son désir",
+        "et Allah lui permet de se égarer",
+        "et Allah lui permet de se égarer",
+        "sciemment",
+        "sciemment",
+        "et il établit un joint",
+        "sur",
+        "son audition",
+        "et son cœur",
+        "et met",
+        "plus de",
+        "sa vision",
+        "un voile",
+        "Alors qui",
+        "le guidera",
+        "après",
+        "après",
+        "Allah",
+        "Ensuite, ne sera pas",
+        "vous recevez admonition"
+      ],
+      "notes" : {
+        "32" : [
+          "Pour le commentaire de laisser une personne se égarer et de fixer un sceau sur",
+          "son cœur et les oreilles et un convoitant ses yeux, scc AI-Baqarah: 7, 18,",
+          "AIAn'am: 25 et E.N. 28, Al-Araf, 100, At-Tawbah: 87, 93, Yunus: 74 et E.N. 73,",
+          "Ar-Raad: 27, Ibrahim: 4, 27, An-Nahl: 108, Bani Isra'il: 46, Ar-Rum; 59, Fatir: 8",
+          "et E.N. de 16, 17 et E.N. 54 d'Al-Mu'minun)."
+        ],
+        "33" : [
+          "Dans le contexte dans lequel ce verset se produit, il devient évident que seules",
+          "les personnes nient l'au-delà, qui veulent servir leurs convoitises et qui",
+          "considèrent la croyance dans l'au-delà comme un obstacle à leur liberté. Puis,",
+          "une fois qu'ils. ont nié l'au-delà, leur servitude de soi va en augmentant et ils",
+          "vont à errer plus loin dans la déviation. Ils commettent toutes sortes de maux",
+          "sans ressentir aucun scrupule; ils ne hésitent pas à usurper les droits des",
+          "autres; ils ne peuvent pas être tenus de se retenir quand il y a une occasion",
+          "pour eux de commettre un excès ou d'injustice à cause d'un égard pour la justice",
+          "et la vérité dans leurs cœurs. Les événements et les incidents qui peuvent servir",
+          "comme un avertissement pour un homme, sont témoins par eux aussi, mais ils tirent",
+          "la conclusion erronée que tout ce qu'ils font est juste et ils devraient faire la",
+          "même chose. Aucun mot de conseils les déplace; aucun argument, qui peut arrêter",
+          "un homme du mal, fait appel à eux; mais ils vont sur la conception et",
+          "l'ameublement de plus en plus d'arguments pour justifier leur liberté débridée,",
+          "et leurs esprits restent jour et nuit engagés seulement dans l'élaboration de",
+          "moyens de remplir leurs propres intérêts et désirs de toutes les manières",
+          "possibles au lieu de se livrer à une bonne pensée. Ceci est une preuve explicite",
+          "du fait que le refus de l'au-delà est destructeur pour la morale humaine. La",
+          "seule chose qui peut empêcher l'homme dans les limites de l'humanité est le",
+          "sentiment que Tnan est irresponsable, mais doit rendre compte de ses actes devant",
+          "Dieu. Être dépourvu de ce sentiment, même si une personne est fortement Iearned,",
+          "il ne peut pas aider à adopter une attitude et un comportement pire que celui des",
+          "animaux."
+        ],
+        "30" : [
+          "[ «Pour faire sa convoitise son dieu»] implique que l'on doit devenir un esclave",
+          "de de l'un des désirs et des désirs: il faut faire ce que l'on aime si Dieu a",
+          "interdit, et ne devrait pas faire ce que l'on aime pas, si Dieu a rendu",
+          "obligatoire. Quand un homme commence obéir à quelqu'un comme cela, cela signifie",
+          "que sa divinité est pas Dieu, mais celui qu'il obéit sans poser de questions, peu",
+          "importe s'il l'appelle son Iord [(avec la langue)] ou non, et sculpte une image",
+          "de lui et de culte: lui ou non. Car, quand il l'a adoré directement, sans",
+          "question, il suffit de lui faire une divinité et après cette shirk pratique on ne",
+          "peut pas être absous de la culpabilité du shirk seulement parce que l'on n'a pas",
+          "appelé l'objet de la divinité de son d'un culte avec la langue, ni se prosterna",
+          "devant lui. Les autres commentateurs principaux ont également donné le même",
+          "commentaire de ce verset. Ibn Jarir dit: les choses interdites par Allah comme",
+          "interdit, ni considéré les choses rendues licites par lui comme licite [ \"Abu",
+          "Bakr al-Jassas donne ce sens:\"].. Il obéit à ses désirs comme on doit obéir à son",
+          "Dieu [ \"Zamakhshari il explique ainsi: \"] il est obéissant aux désirs de son",
+          "auto: il suit son moi partout où il lui fait signe, comme s'il le sert comme on",
+          "doit servir son Dieu. [ \"[(Pour plus d'explications, E.N. scc 56 de AIFurqan,",
+          "E.N. 63 de Saba, E N. 53 de Ya Sin, et E.N. 38 de Ash-Shura)]."
+        ],
+        "31" : [
+          "Les mots Adalla hulla-hu 'ala' ilm-in peut signifier soit: \"] La personne en",
+          "dépit d'être bien informé a été conduit en erreur par Allah, car il était devenu",
+          "un esclave de ses convoitises; [\" ou \" ] Allah, en vertu de sa connaissance qu'il",
+          "avait fait ses convoitises, son dieu, l'a conduit en erreur. \""
+        ]
+      }
+    },
+    {
+      "verseNumber" : 24,
+      "arabicVerse" : "وَقَالُوا مَا هِيَ إِلَّا حَيَاتُنَا الدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا يُهْلِكُنَا إِلَّا الدَّهْرُ ۚ وَمَا لَهُمْ بِذَٰلِكَ مِنْ عِلْمٍ ۖ إِنْ هُمْ إِلَّا يَظُنُّونَ",
+      "simpleTranslate" : [
+        "Ils disent : «Il n’y a d’autre vie pour nous que celle d’ici-bas. Nous mourons et",
+        "nous vivons, et seul le temps nous fait périr.» Mais ils ne possèdent aucune",
+        "preuve pour étayer ce qu’ils avancent, se contentant d’émettre de simples",
+        "conjectures."
+      ],
+      "tafsirTranslate" : [
+        "Ils disent: «Il n'y a pas de vie autre que notre vie dans le monde présent: ici",
+        "nous vivons et nous mourons, et il est seulement (le passage de) temps qui nous",
+        "détruit. Pourtant, le fait est qu'ils ne savent rien à ce sujet et ne sont",
+        "conjecturer. <N:34>"
+      ],
+      "tanslateWordByWord" : [
+        "Et ils disent",
+        "ne pas",
+        "il",
+        "(Est), mais",
+        "notre vie",
+        "(du monde",
+        "nous mourons",
+        "et nous vivons",
+        "et pas",
+        "nous détruit",
+        "sauf",
+        "le temps",
+        "Et pas",
+        "pour eux",
+        "de ça",
+        "tout",
+        "connaissance",
+        "ne pas",
+        "ils",
+        "(Faire), mais",
+        "deviner"
+      ],
+      "notes" : {
+        "34" : [
+          "Ceci est, [ \"Il n'y a pas moyen de connaissance par lequel ils auraient connu",
+          "avec certitude qu'après cette vie il n'y a pas d'autre vie pour Tnan, et l'âme de",
+          "cet homme n'a pas saisi par le commandement de Dieu , mais il meurt et périt",
+          "seulement dans le cours du temps les deniers de l'au-delà disent ces choses non",
+          "pas sur la base de toute connaissance, mais sur de simples conjectures le maximum",
+          "qu'ils pouvaient dire scientifiquement est:.. \"] Nous ne savons pas s'il est",
+          "toute la vie après la mort ou non; [ \", mais ils ne peuvent pas dire:\"] Nous",
+          "savons qu'il n'y a pas d'autre vie après cette vie [ \"de même, ils ne peuvent pas",
+          "faire la demande de connaître scientifiquement l'âme que l'homme ne saisit par le",
+          "commandement de Dieu. . mais il périt après la mort comme une montre qui cesse",
+          "soudainement de fonctionner plus ils peuvent dire est juste ceci: \"] Nous ne",
+          "savons pas ce qui se passe exactement dans les deux cast [.\" maintenant, la",
+          "question est: Quand la mesure des moyens de la connaissance humaine il y a une",
+          "possibilité égale de l'existence d'une vie après la mort ou qu'il y ait pas de",
+          "vie après la mort, et l'âme du être saisi par le commandement d'Allah, ou en",
+          "train de mourir de l'homme de lui-même dans le cours du temps, ce qui est la",
+          "raison pour laquelle ces personnes abandonnent la probabilité de la possibilité",
+          "de l'au-delà et de donner leur jugement en faveur de son refus? Ont-ils une autre",
+          "raison que ce qu'ils, en effet, décider de cette question sur la base de leur",
+          "désir et non par aucun argument? Comme ils n'aiment pas qu'il devrait y avoir",
+          "aucune vie après la mort et la mort devrait signifier l'anéantissement total et",
+          "non la saisie de l'âme par le commandement d'Allah, ils font le désir de leur",
+          "cœur leur credo et de nier l'autre probabilité. \"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 25,
+      "arabicVerse" : "وَإِذَا تُتْلَىٰ عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ مَا كَانَ حُجَّتَهُمْ إِلَّا أَنْ قَالُوا ائْتُوا بِآبَائِنَا إِنْ كُنْتُمْ صَادِقِينَ",
+      "simpleTranslate" : [
+        "Lorsque Nos versets leur sont clairement exposés, ils ne trouvent d’autre",
+        "argument que celui-ci : «Ramenez-nous donc nos ancêtres, si ce que vous dites est",
+        "vrai !»"
+      ],
+      "tafsirTranslate" : [
+        "Et quand Nos versets clairs sont récités eux, <N:35> leur seul argument est: '.",
+        "Ramener à nous nos pères si vous êtes véridiques » <N:36>"
+      ],
+      "tanslateWordByWord" : [
+        "Et quand",
+        "sont récitée",
+        "pour eux",
+        "Nos versets",
+        "clair",
+        "ne pas",
+        "est",
+        "leur argumentation",
+        "sauf",
+        "cette",
+        "ils disent",
+        "Apporter",
+        "nos ancêtres",
+        "si",
+        "tu es",
+        "véridique"
+      ],
+      "notes" : {
+        "36" : [
+          "En d'autres mots, ce qu'ils voulaient dire était: Quand quelqu'un leur dit qu'il",
+          "ya une vie après la mort, il doit élever une personne morte de la tombe et de",
+          "présenter lui devant eux. Et si cela ne se fait pas, ils ne peuvent pas croire",
+          "que les morts ne serait jamais portée à la vie une fois de plus au même moment",
+          "dans le futur, alors que personne ne leur a dit que les morts serait porté à la",
+          "vie dans ce monde en cas de besoin séparément, mais ce qui a été dit était: le",
+          "jour de la Résurrection, Allah va augmenter. les êtres humains à la vie tous Ies",
+          "simultanément et seront les soumettre à la responsabilité et à punir et à les",
+          "récompenser en conséquence."
+        ],
+        "35" : [
+          "[ \"Nos révélations claires\"]: les révélations dans lesquelles des arguments",
+          "solides ont été donnés pour la possibilité de l'au-delà et dans lequel il a été",
+          "déclaré que son apparition est la demande de la sagesse et la justice, et sa",
+          "non-occurrence rend l'ensemble du système de l'univers de sens et absurde."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 26,
+      "arabicVerse" : "قُلِ اللَّهُ يُحْيِيكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يَجْمَعُكُمْ إِلَىٰ يَوْمِ الْقِيَامَةِ لَا رَيْبَ فِيهِ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+      "simpleTranslate" : [
+        "Réponds-leur : «Dieu vous donne la vie, puis vous fera mourir, puis vous réunira",
+        "le Jour de la Résurrection dont l’arrivée ne fait pas l’ombre d’un doute.» Mais",
+        "la plupart des hommes n’en ont pas connaissance."
+      ],
+      "tafsirTranslate" : [
+        "Dites-leur, (O Prophète): «Il est Allah qui vous donne la vie et vous fera mourir",
+        "puis, <N:37> et c'est Lui qui va alors apporter vous tous ensemble le jour de la",
+        "Résurrection, un jour au sujet de laquelle il ne peut y avoir aucun doute. <N:38>",
+        "Pourtant, la plupart des gens ne savent pas. <N:39>"
+      ],
+      "tanslateWordByWord" : [
+        "Dire",
+        "Allah",
+        "vous donne la vie",
+        "puis",
+        "vous fait mourir",
+        "puis",
+        "Il te rassemblera",
+        "à",
+        "(le jour",
+        "(De) la Résurrection",
+        "non",
+        "doute",
+        "à propos de ça",
+        "Mais",
+        "les plus",
+        "(des gens",
+        "(ne pas",
+        "connaître"
+      ],
+      "notes" : {
+        "37" : [
+          "Ceci est la réponse à leur dire que la mort vient à l'homme automatiquement dans",
+          "le cours du temps. Cela signifie: [ \"Ni vous obtenez la vie accidentellement ni",
+          "votre décès survient automatiquement Il est Dieu qui vous donne la vie et il est",
+          "celui qui l'enlève.\".]"
+        ],
+        "38" : [
+          "Ceci est la réponse à leur demande: [ \"Ramenez nos ancêtres si vous êtes",
+          "véridiques».] Pour cela, il a été dit: [ \"Cela ne va pas se passer maintenant",
+          "séparément pour les individus, mais un jour a été fixé pour la collecte de tous",
+          "les hommes ensemble. \"]"
+        ],
+        "39" : [
+          "Autrement dit, [ «Il est le manque de connaissances et de compréhension droit qui",
+          "est la cause réelle du peuple de nier l'au-delà;. Sinon il est pas sa venue mais",
+          "son pas à venir qui est contre la raison Si une personne reflète à juste titre",
+          "sur le système de l'univers et sur son propre, il va se rendre compte qu'il ne",
+          "peut y avoir aucun doute sur la venue de l'au-delà. \"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 27,
+      "arabicVerse" : "وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَيَوْمَ تَقُومُ السَّاعَةُ يَوْمَئِذٍ يَخْسَرُ الْمُبْطِلُونَ",
+      "simpleTranslate" : [
+        "Le Royaume des Cieux et de la Terre appartient au Seigneur. Le jour où l’Heure du",
+        "Jugement sonnera, ce jour-là sera celui de la perte des négateurs."
+      ],
+      "tafsirTranslate" : [
+        "Allah est le royaume des cieux et de la terre, <N:40> et le jour où l'Heure (de",
+        "la Résurrection) arrivera, les adeptes du mensonge sont une perte totale."
+      ],
+      "tanslateWordByWord" : [
+        "Et pour Allah",
+        "(Est la) domination",
+        "(De) les cieux",
+        "et la terre",
+        "et la journée",
+        "est établi",
+        "l'heure",
+        "Ce jour là",
+        "va perdre",
+        "falsificateurs"
+      ],
+      "notes" : {
+        "40" : [
+          "Compte tenu du contexte, cette phrase par lui-même donne le sens qu'il n'y a pas",
+          "du tout au-delà de la puissance de Dieu qui gouverne sur ce grand et merveilleux",
+          "univers qu'il devrait amener les êtres humains dont il a créé une nouvelle fois",
+          "en première instance de retour dans l'existence."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 28,
+      "arabicVerse" : "وَتَرَىٰ كُلَّ أُمَّةٍ جَاثِيَةً ۚ كُلُّ أُمَّةٍ تُدْعَىٰ إِلَىٰ كِتَابِهَا الْيَوْمَ تُجْزَوْنَ مَا كُنْتُمْ تَعْمَلُونَ",
+      "simpleTranslate" : [
+        "On verra alors chaque communauté agenouillée . Et chaque communauté sera invitée",
+        "à se rendre devant son bilan, car, ce jour-là, vous serez rétribués selon vos",
+        "œuvres."
+      ],
+      "tafsirTranslate" : [
+        "Ce jour-là vous verrez tous les gens tombés à genoux <N:41> Tous les gens seront",
+        "appelés à sortir et voir sa fiche et sera dit:. «Aujourd'hui, vous sera rétribué",
+        "pour votre actes."
+      ],
+      "tanslateWordByWord" : [
+        "Et vous verrez",
+        "chaque",
+        "nation",
+        "a genou",
+        "Chaque",
+        "nation",
+        "sera appelée",
+        "à",
+        "son record",
+        "Aujourd'hui",
+        "vous rétribuera",
+        "(pour quoi",
+        "vous avez utilisé pour",
+        "faire"
+      ],
+      "notes" : {
+        "41" : [
+          "Autrement dit, la crainte et la terreur de la plaine de la Résurrection et de la",
+          "crainte de la Cour Divine sera etch qu'il brisera la stubbornnese des personnes",
+          "les plus arrogants et vantards, et tout le monde sera trouvé tombé sur ses genoux",
+          "humblement."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 29,
+      "arabicVerse" : "هَٰذَا كِتَابُنَا يَنْطِقُ عَلَيْكُمْ بِالْحَقِّ ۚ إِنَّا كُنَّا نَسْتَنْسِخُ مَا كُنْتُمْ تَعْمَلُونَ",
+      "simpleTranslate" : [
+        "Voici notre livre ! Il témoigne contre vous en toute justice, car Nous",
+        "enregistrions toutes vos actions."
+      ],
+      "tafsirTranslate" : [
+        "Ceci est notre registre qui porte témoignage contre vous avec la vérité; Nous",
+        "avons utilisé pour enregistrer tout ce que vous avez fait. » <N:42>"
+      ],
+      "tanslateWordByWord" : [
+        "Ce",
+        "Notre fiche",
+        "parle",
+        "au propos de vous",
+        "en vérité",
+        "En effet, nous",
+        "[Nous avions l'habitude de",
+        "transcrire",
+        "quelle",
+        "vous avez utilisé pour",
+        "faire"
+      ],
+      "notes" : {
+        "42" : [
+          "La seule façon possible d'obtenir une chose enregistrée est pas au moyen du stylo",
+          "et du papier seulement. L'homme lui a découvert dans ce monde plusieurs autres",
+          "formes d'enregistrement des mots et des actions humaines et les reproduire",
+          "exactement et avec précision; et nous ne pouvons même pas imaginer ce que",
+          "d'autres possibilités de celui-ci se trouvent encore à découvrir, où l'homme se",
+          "découvrira et exploiter à l'avenir. Maintenant, qui peut savoir comment et par",
+          "quels moyens est Allah obtenir de l'homme enregistré chaque mot, son mouvement et",
+          "de l'action chaque, même ses intentions et les motivations cachées et des désirs",
+          "et des idées, et comment il va placer devant chaque homme et chaque groupe et",
+          "chaque nation son ou toute sa lifework précisément et exactement?"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 30,
+      "arabicVerse" : "فَأَمَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَيُدْخِلُهُمْ رَبُّهُمْ فِي رَحْمَتِهِ ۚ ذَٰلِكَ هُوَ الْفَوْزُ الْمُبِينُ",
+      "simpleTranslate" : [
+        "Ceux qui auront cru et pratiqué le bien, leur Seigneur les recevra au sein de Sa",
+        "miséricorde. Et ce sera pour eux le comble de la félicité."
+      ],
+      "tafsirTranslate" : [
+        "Quant à ceux qui croient et agissent avec droiture, leur Seigneur doit les",
+        "admettre dans Sa miséricorde. Tel est bien le triomphe manifeste."
+      ],
+      "tanslateWordByWord" : [
+        "Ensuite, en ce qui concerne",
+        "ceux qui",
+        "a cru",
+        "et a fait",
+        "[Les] actions droites",
+        "seront les admettre",
+        "leur Seigneur",
+        "dans)",
+        "Sa miséricorde",
+        "Cette",
+        "[il]",
+        "(Est) le succès",
+        "clair"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 31,
+      "arabicVerse" : "وَأَمَّا الَّذِينَ كَفَرُوا أَفَلَمْ تَكُنْ آيَاتِي تُتْلَىٰ عَلَيْكُمْ فَاسْتَكْبَرْتُمْ وَكُنْتُمْ قَوْمًا مُجْرِمِينَ",
+      "simpleTranslate" : [
+        "Quant aux impies, Dieu leur dira : «Ne vous a-t-on pas récité Nos versets? Mais",
+        "vous les avez traités avec dédain, pour être du nombre des criminels."
+      ],
+      "tafsirTranslate" : [
+        "Mais ceux qui niaient la vérité, ils sont dit: «Mes signes ont-ils été pas répété",
+        "pour vous? Mais vous ciré fier <N:43> et est devenu un peuple coupable."
+      ],
+      "tanslateWordByWord" : [
+        "Mais, comme pour",
+        "ceux qui",
+        "pas foi",
+        "Puis étaient pas",
+        "Puis étaient pas",
+        "Mes versets",
+        "récitée",
+        "à toi",
+        "mais vous étiez fiers",
+        "et vous êtes devenu",
+        "un peuple",
+        "les criminels"
+      ],
+      "notes" : {
+        "43" : [
+          "Autrement dit, [ \"Vous pensiez qu'il était en dessous de votre dignité à croire",
+          "aux révélations d'Allah et de se soumettre à eux, et vous considéré comme",
+          "au-dessus de la soumission et de la servitude.\"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 32,
+      "arabicVerse" : "وَإِذَا قِيلَ إِنَّ وَعْدَ اللَّهِ حَقٌّ وَالسَّاعَةُ لَا رَيْبَ فِيهَا قُلْتُمْ مَا نَدْرِي مَا السَّاعَةُ إِنْ نَظُنُّ إِلَّا ظَنًّا وَمَا نَحْنُ بِمُسْتَيْقِنِينَ",
+      "simpleTranslate" : [
+        "Et lorsqu’on vous disait : “La promesse de Dieu doit s’accomplir, et l’Heure du",
+        "Jugement ne fait pas l’ombre d’un doute”, vous répliquiez : “Nous ne savons pas",
+        "ce qu’est l’Heure. Tout au plus, nous n’en avons qu’une idée assez vague, sans",
+        "aucune certitude.”«"
+      ],
+      "tafsirTranslate" : [
+        "Et quand il leur a été dit: «Certes, la promesse d'Allah est vrai, et il n'y a",
+        "pas de doute quant à l'heure de la Résurrection,« vous aviez coutume de dire:",
+        "«Nous ne savons pas ce que l'Heure ( de la Résurrection) est. Nous sommes",
+        "simplement en conjecturant et ne sont pas du tout certain. <N:44>"
+      ],
+      "tanslateWordByWord" : [
+        "Et quand",
+        "il a été dit",
+        "Effectivement",
+        "(la promesse",
+        "(De) Allah",
+        "(est vrai",
+        "et l'Heure",
+        "(Il n'y a pas",
+        "doute",
+        "à propos de ça",
+        "tu as dit",
+        "ne pas",
+        "nous savons",
+        "quelle",
+        "l'Heure (est)",
+        "ne pas",
+        "nous pensons",
+        "sauf",
+        "une hypothèse",
+        "et pas",
+        "nous",
+        "(Sont) convaincus"
+      ],
+      "notes" : {
+        "44" : [
+          "Les personnes mentionnées dans le verset 24 ci-dessus étaient ceux qui niaient",
+          "l'au-delà ouvertement et absolument, ici ceux qui ne sont pas sûr, bien qu'ils ne",
+          "nient pas la possibilité en raison de la conjecture. Apparemment, il y a une",
+          "grande différence entre les deux groupes en ce que l'un d'eux nie absolument",
+          "l'au-delà et les autres égards comme possible sur la base de la conjecture. Mais",
+          "comme pour le résultat et la fin ultime, il n'y a pas de différence entre eux,",
+          "car les conséquences morales de la négation de l'au-delà et du manque de foi en",
+          "elle sont les mêmes. Une personne s'il ne croit pas en l'au-delà ou manque la foi",
+          "en elle, va dans les deux cas inévitablement dépourvus du sentiment de",
+          "responsabilité devant Dieu, et ce manque de sentiment va nécessairement",
+          "l'impliquer dans l'erreur et de la déviation de la pensée et de l'action. Seule",
+          "la foi et la croyance en l'au-delà peuvent garder un homme sur la bonne voie dans",
+          "le monde. En l'absence de celui-ci, à la fois le doute et la négation de lui",
+          "donner une attitude similaire de l'irresponsabilité, et depuis cette même",
+          "attitude d'irresponsabilité est la cause réelle de l'homme ne soit condamné",
+          "l'au-delà, donc ni le denier de celui-ci ne peut échapper que je Loll ni celui",
+          "qui manque de foi en elle."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 33,
+      "arabicVerse" : "وَبَدَا لَهُمْ سَيِّئَاتُ مَا عَمِلُوا وَحَاقَ بِهِمْ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+      "simpleTranslate" : [
+        "C’est alors que leurs mauvaises actions leur apparaîtront dans toute leur",
+        "laideur, et que les châtiments qu’ils tournaient en dérision les cerneront de",
+        "toutes parts."
+      ],
+      "tafsirTranslate" : [
+        "(Ce jour-là) le mal de leurs actions apparaîtront pour les <N:45> et ce qu'ils",
+        "avaient raillé leur englober,"
+      ],
+      "tanslateWordByWord" : [
+        "Et (se) apparaissent",
+        "pour eux",
+        "(Le) mal",
+        "(de quoi",
+        "ils ont fait",
+        "et (volonté) enveloppe",
+        "leur",
+        "quelle",
+        "Ils ont utilisé",
+        "[À elle]",
+        "(se moquer"
+      ],
+      "notes" : {
+        "45" : [
+          "Autrement dit, [ \"Là, ils viendront de savoir que leurs modes de comportement,",
+          "leurs pratiques et leurs mœurs et leurs actions et leurs passe-temps, qu'ils",
+          "considéraient comme très bonne dans le monde étaient, en fait, très mauvais: ils",
+          "avaient commis une erreur fondamentale en pensant qu'ils ne sont pas à rendre à",
+          "personne, ce qui avait rendu leur lifework baleine stérile et vain \"]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 34,
+      "arabicVerse" : "وَقِيلَ الْيَوْمَ نَنْسَاكُمْ كَمَا نَسِيتُمْ لِقَاءَ يَوْمِكُمْ هَٰذَا وَمَأْوَاكُمُ النَّارُ وَمَا لَكُمْ مِنْ نَاصِرِينَ",
+      "simpleTranslate" : [
+        "«Aujourd’hui, leur sera-t-il dit, vous serez rejetés dans l’oubli, comme vous",
+        "avez oublié le jour de votre comparution devant Nous. Aussi votre asile sera-t-il",
+        "l’Enfer, sans que vous puissiez bénéficier d’aucun secours !"
+      ],
+      "tafsirTranslate" : [
+        "et il sera dit: «Nous vous oublions aujourd'hui que vous avez oublié la rencontre",
+        "de ce jour de la vôtre. Le Feu maintenant votre demeure, et vous aurez pas à",
+        "venir à votre aide."
+      ],
+      "tanslateWordByWord" : [
+        "Et il sera dit",
+        "Aujourd'hui",
+        "Nous vous oublions",
+        "comme",
+        "tu as oublié",
+        "(la réunion",
+        "(De) ce jour de la vôtre",
+        "(De) ce jour de la vôtre",
+        "et votre séjour",
+        "(Est) le Feu",
+        "et pas",
+        "pour toi",
+        "tout",
+        "aides"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 35,
+      "arabicVerse" : "ذَٰلِكُمْ بِأَنَّكُمُ اتَّخَذْتُمْ آيَاتِ اللَّهِ هُزُوًا وَغَرَّتْكُمُ الْحَيَاةُ الدُّنْيَا ۚ فَالْيَوْمَ لَا يُخْرَجُونَ مِنْهَا وَلَا هُمْ يُسْتَعْتَبُونَ",
+      "simpleTranslate" : [
+        "Cela, pour avoir tourné en dérision les versets de Dieu et pour vous être laissés",
+        "séduire par les plaisirs de ce monde.» Dorénavant, rien ne viendra les arracher à",
+        "l’Enfer ni aucune de leurs excuses ne sera plus acceptée."
+      ],
+      "tafsirTranslate" : [
+        "Vous avez atteint cette fin parce que vous avez fait des signes d'Allah un objet",
+        "de plaisanterie et la vie du monde que vous trompé. Donc, ils ne doivent pas être",
+        "prises sur le feu ni être invités à faire amende honorable (et donc plaire à leur",
+        "Seigneur). <N:46>"
+      ],
+      "tanslateWordByWord" : [
+        "Cette",
+        "(Est) parce que vous",
+        "a pris",
+        "(Le) Versets",
+        "(De) Allah",
+        "(En) ridicule",
+        "et vous trompé",
+        "la vie",
+        "(du monde",
+        "Donc, ce jour",
+        "ne pas",
+        "ils seront amenés suite",
+        "à partir de cela",
+        "et pas",
+        "ils",
+        "seront invités à apaiser"
+      ],
+      "notes" : {
+        "46" : [
+          "Cette dernière phrase illustre la manière d'un maître qui, après réprimandant",
+          "certains de ses serviteurs se tourne vers les autres et dit: [ \"! Eh bien, ces",
+          "pauvres gens méritent maintenant telle ou telle punition»]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 36,
+      "arabicVerse" : "فَلِلَّهِ الْحَمْدُ رَبِّ السَّمَاوَاتِ وَرَبِّ الْأَرْضِ رَبِّ الْعَالَمِينَ",
+      "simpleTranslate" : [
+        "Louange à Dieu, Seigneur des Cieux, Seigneur de la Terre, Seigneur de l’Univers !"
+      ],
+      "tafsirTranslate" : [
+        "Donc, toutes les louanges à Allah, le Seigneur des cieux, le Seigneur de la",
+        "terre, le Seigneur de l'Univers entier."
+      ],
+      "tanslateWordByWord" : [
+        "Puis Allah",
+        "(Est) tous les éloges",
+        "(le Seigneur",
+        "(De) les cieux",
+        "et (le) Lord",
+        "(de la terre",
+        "(le Seigneur",
+        "(De) les mondes"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 37,
+      "arabicVerse" : "وَلَهُ الْكِبْرِيَاءُ فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+      "simpleTranslate" : [
+        "À Lui la grandeur dans les Cieux et sur la Terre. Il est le Tout-Puissant, Il est",
+        "le Sage."
+      ],
+      "tafsirTranslate" : [
+        "Il est la gloire dans les cieux et la terre. Il est le Très Puissant, le Sage."
+      ],
+      "tanslateWordByWord" : [
+        "Et pour Lui",
+        "(Est) la grandeur",
+        "dans",
+        "Le Paradis",
+        "et la terre",
+        "et il",
+        "(Est) le Tout-Puissant",
+        "le Sage"
+      ],
+      "notes" : { }
+    }
+  ],
+  "medinian" : false
+}

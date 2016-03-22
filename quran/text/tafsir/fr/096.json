@@ -1,0 +1,489 @@
+{
+  "chapterNumber" : 96,
+  "nbVerses" : 19,
+  "name" : "Le caillot de sang, L’accrochement",
+  "nameArabic" : "العلق",
+  "transName" : "al-ʿalaq",
+  "verses" : [
+    {
+      "verseNumber" : 1,
+      "arabicVerse" : "اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ",
+      "simpleTranslate" : [
+        "Lis au nom de ton Seigneur qui a tout créé,"
+      ],
+      "tafsirTranslate" : [
+        "Récitez <N:1> au nom de ton Seigneur <N:2> Qui a créé, <N:3>"
+      ],
+      "tanslateWordByWord" : [
+        "lire",
+        "dans le nom",
+        "(De) votre Seigneur",
+        "celui qui",
+        "créé"
+      ],
+      "notes" : {
+        "1" : [
+          "Comme nous l'avons expliqué dans l'introduction, lorsque l'ange dit au Saint",
+          "Prophète, [ \"Read\"], ce dernier a répondu: [ \"Je ne peux pas lire!\"] [ \"Cela",
+          "indique que l'Ange avait présenté ces paroles de l'Apocalypse devant lui sous la",
+          "forme écrite et lui avait demandé de les lire. Car si l'ange avait signifié qu'il",
+          "devrait répéter ce qu'il récitait, il ne devrait pas avoir répondu, en disant \"]",
+          "Je ne peux pas lire! [\""
+        ],
+        "2" : [
+          "\"] Lis au nom de ton Seigneur [\": Bismillah et lire. Cela montre que le Saint",
+          "Prophète [(sur lui la paix)] avant même la descente de cette révélation",
+          "considérée et reconnu Allah seul comme son Seigneur. Voilà pourquoi il n'y avait",
+          "pas besoin de demander qui est son Seigneur était, mais il a été dit: \".] Lire au",
+          "nom de ton Seigneur [\""
+        ],
+        "3" : [
+          "Seul le mot khalaqa [(créé)] 'a été utilisé absolument, et l'objet de la création",
+          "n'a pas été mentionné, ce qui donne automatiquement le sens: \"] Lire dans le nom",
+          "du Seigneur, qui est le Créateur, qui a créé tout l'univers et tout ce qu'il \"."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 2,
+      "arabicVerse" : "خَلَقَ الْإِنْسَانَ مِنْ عَلَقٍ",
+      "simpleTranslate" : [
+        "qui a créé l’homme d’une adhérence !"
+      ],
+      "tafsirTranslate" : [
+        "a créé l'homme d'un caillot de sang coagulé <N:4>."
+      ],
+      "tanslateWordByWord" : [
+        "Il a créé",
+        "homme",
+        "de",
+        "une substance collante"
+      ],
+      "notes" : {
+        "4" : [
+          "Après avoir fait mention généralement de la création de l'univers, a été fait",
+          "mention de l'homme en particulier, en disant comment Allah lui un Tnan parfait à",
+          "partir de sa création d'un état insignifiant et humble fait. 'Alaq est le pluriel",
+          "de «alaqah, ce qui signifie sang coagulé. Ceci est l'état primaire de l'embryon",
+          "qui apparaît quelques jours après la conception. Ensuite, il prend la forme d'un",
+          "morceau de chair, puis après, il prend progressivement forme humaine. [(Pour plus",
+          "de détails, voir AI-Hajj: 5 et de l'E.N. correspondant 5 à 7)]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 3,
+      "arabicVerse" : "اقْرَأْ وَرَبُّكَ الْأَكْرَمُ",
+      "simpleTranslate" : [
+        "Lis, car la bonté de ton Seigneur est infinie !"
+      ],
+      "tafsirTranslate" : [
+        "Récite: Et ton Seigneur est plus généreux,"
+      ],
+      "tanslateWordByWord" : [
+        "lire",
+        "et votre Seigneur",
+        "(Est) le plus généreux"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 4,
+      "arabicVerse" : "الَّذِي عَلَّمَ بِالْقَلَمِ",
+      "simpleTranslate" : [
+        "C’est Lui qui a fait de la plume un moyen du savoir"
+      ],
+      "tafsirTranslate" : [
+        "Qui a enseigné par la plume, <N:5>"
+      ],
+      "tanslateWordByWord" : [
+        "Celui qui",
+        "a enseigné",
+        "par le stylo"
+      ],
+      "notes" : {
+        "5" : [
+          "Autrement dit, «Il est une grande faveur d'Allah que le démarrage de la création",
+          "de l'homme à partir d'un état le plus insignifiant Il le possesseur de la",
+          "connaissance qui est le plus noble attribut de la création faite, et Il l'a fait",
+          "non seulement le possesseur de la connaissance mais aussi lui a enseigné l'art de",
+          "l'écriture par l'utilisation du stylo, qui est devenu le moyen de propagation, le",
+          "progrès, la diffusion et la préservation des connaissances sur une grande",
+          "échelle. Avait-il pas donné Tnan la connaissance de l'art de la plume et de",
+          "l'écriture [(par inspiration)] sa faculté intellectuelle aurait stagné, et il",
+          "aurait pas eu l'occasion de développer, d'élargir et de devenir un moyen de",
+          "transmission des connaissances d'une génération à l'autre et de faire des progrès",
+          "futurs."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 5,
+      "arabicVerse" : "عَلَّمَ الْإِنْسَانَ مَا لَمْ يَعْلَمْ",
+      "simpleTranslate" : [
+        "et qui a enseigné à l’homme ce qu’il ignorait."
+      ],
+      "tafsirTranslate" : [
+        "l'homme a enseigné ce qu'il ne savait pas <N:6>."
+      ],
+      "tanslateWordByWord" : [
+        "A enseigné",
+        "homme",
+        "quelle",
+        "ne pas",
+        "il savait"
+      ],
+      "notes" : {
+        "6" : [
+          "Autrement dit, l'homme était à l'origine absolument illettrés. Quelle que soit la",
+          "connaissance qu'il a obtenu, il a obtenu comme un don d'Allah. Quelles que soient",
+          "les portes de la connaissance à tout moment fait Allah d'ouvrir pour l'homme, ils",
+          "sont allés sur opinant devant lui. Cette même chose a été exprimée dans le verset",
+          "du Trône, ainsi: [ \". Et les gens ne peuvent pas comprendre quoi que ce soit, de",
+          "Sa science ce que lui-même peut plaire à révéler\"] [(Al-Baqarah: 255 <V:2:255>)].",
+          "Quel que soit l'homme considère comme sa propre découverte scientifique était, en",
+          "fait, à son insu avant. Allah lui a donné sa connaissance chaque fois qu'il a",
+          "voulu à son insu que Dieu par Sa grâce l'avait béni avec la connaissance de",
+          "celui-ci. \n Ces versets ont été les premiers à être révélé au Saint Prophète",
+          "[(sur lesquels la paix)], comme il est dit dans le hadith rapporté par Hadrat",
+          "`A'ishah. Cette première expérience a été si intense et extraordinaire que le",
+          "Saint Prophète ne pouvait pas le supporter plus. Par conséquent, à ce moment-là,",
+          "il n'a été informé que l'Être qu'il connaissait déjà et reconnu comme son",
+          "Seigneur et Pourvoyeur était en communion directe avec lui, avait commencé à",
+          "envoyer vers le bas Revelations à lui, et l'avait désigné comme son prophète.",
+          "Puis, après un entracte les premiers versets de la sourate al-Muddaththir ont été",
+          "révélés dans lequel il a été dit que la mission qu'il devait accomplir après sa",
+          "nomination à la Prophétie. [(Pour plus d'explications, voir Introduction à",
+          "Al-Muddaththir)]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 6,
+      "arabicVerse" : "كَلَّا إِنَّ الْإِنْسَانَ لَيَطْغَىٰ",
+      "simpleTranslate" : [
+        "Et pourtant c’est cet homme-là qui devient rebelle,"
+      ],
+      "tafsirTranslate" : [
+        "Non, <N:7> sûrement l'homme transgresse;"
+      ],
+      "tanslateWordByWord" : [
+        "Non",
+        "Effectivement",
+        "homme",
+        "transgresse sûrement"
+      ],
+      "notes" : {
+        "7" : [
+          "Autrement dit, l'homme ne doit jamais adopter une attitude d'ignorance et de",
+          "rébellion contre le Bountiful Dieu qui a été si généreux pour lui"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 7,
+      "arabicVerse" : "أَنْ رَآهُ اسْتَغْنَىٰ",
+      "simpleTranslate" : [
+        "dès qu’il se sent en mesure de se suffire à lui-même,"
+      ],
+      "tafsirTranslate" : [
+        "car il croit être auto-suffisante <N:8>."
+      ],
+      "tanslateWordByWord" : [
+        "Cette",
+        "il se voit",
+        "autosuffisant"
+      ],
+      "notes" : {
+        "8" : [
+          "Autrement dit, lorsque l'homme a atteint la richesse, l'honneur et le rang et",
+          "tout ce qu'il voulait atteindre dans le monde, il devient rebelle au lieu d'être",
+          "reconnaissants et transgresse les limites de la servitude à Allah."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 8,
+      "arabicVerse" : "إِنَّ إِلَىٰ رَبِّكَ الرُّجْعَىٰ",
+      "simpleTranslate" : [
+        "comme si tout n’était pas destiné à faire retour à ton Seigneur !"
+      ],
+      "tafsirTranslate" : [
+        "Sûrement votre Seigneur est votre retour <N:9>."
+      ],
+      "tanslateWordByWord" : [
+        "Effectivement",
+        "à",
+        "votre Seigneur",
+        "(Est) le retour"
+      ],
+      "notes" : {
+        "9" : [
+          "Autrement dit, [ \"Quoi qu'il aurait atteint dans le monde, ce qui en fait, se",
+          "comporter avec arrogance et rebelliously, à la fin il doit retourner à ton",
+          "Seigneur. Puis il se rendra compte que le destin l'attend dans conséquence de son",
+          "attitude et de comportement. \"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 9,
+      "arabicVerse" : "أَرَأَيْتَ الَّذِي يَنْهَىٰ",
+      "simpleTranslate" : [
+        "Que dire alors de celui qui s’emploie à empêcher"
+      ],
+      "tafsirTranslate" : [
+        "Avez-vous vu qui interdit"
+      ],
+      "tanslateWordByWord" : [
+        "As-tu vu",
+        "celui qui",
+        "défend"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 10,
+      "arabicVerse" : "عَبْدًا إِذَا صَلَّىٰ",
+      "simpleTranslate" : [
+        "un fidèle d’accomplir sa prière salât?"
+      ],
+      "tafsirTranslate" : [
+        "un serviteur (d'Allah) quand il prie? <N:10>"
+      ],
+      "tanslateWordByWord" : [
+        "Un esclave",
+        "quand",
+        "il prie"
+      ],
+      "notes" : {
+        "10" : [
+          "[ \"A Servant\"]: le Saint Messager d'Allah lui-même. Le Saint Prophète a été",
+          "mentionné par cette épithète à plusieurs endroits dans le Coran. Par exemple, [",
+          "«Gloire à Celui qui a transporté son serviteur une nuit de la mosquée Masjid",
+          "Alharam au Temple éloigné.\"] [(Bani Isra'il: 1 <V:17:1>)]; [ \"La louange est à",
+          "Allah qui a fait descendre ce livre à son serviteur.\"] [(AI-Kahf: 1 <V:18:1>)]; [",
+          "\"Et que lorsque le serviteur d'Allah se leva pour prier, les gens se préparaient",
+          "à l'assaut de lui.\"] [(Al-Jinn: 19 <V:72:19>)]. Cela montre qu'il est un style",
+          "particulier de l'amour par lequel Dieu fait mention de Son Messager Muhammad",
+          "[(sur qui sera sa paix et les bénédictions)] dans Son Livre. En outre, elle",
+          "montre aussi que AIiah après la nomination de Son messager à Prophétie lui avait",
+          "appris la méthode d'exécution la Prière. Il n'y a aucune mention de cette méthode",
+          "partout dans le Coran, en disant: [ \". O Prophète, accomplir la prière dans ce",
+          "domaine et de cette façon\"] Par conséquent, ceci est une autre preuve que",
+          "l'Apocalypse fait descendre au Saint Prophète n'a pas seulement se composent de",
+          "ce qui a été enregistré dans le Coran, mais à part cela, d'autres choses aussi",
+          "ont appris à lui par la révélation, qui ne sont pas enregistrés dans le Coran."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 11,
+      "arabicVerse" : "أَرَأَيْتَ إِنْ كَانَ عَلَى الْهُدَىٰ",
+      "simpleTranslate" : [
+        "Penses-tu qu’en agissant ainsi il suit la bonne voie"
+      ],
+      "tafsirTranslate" : [
+        "Est-ce que vous considérez: s'il est sur la bonne voie,"
+      ],
+      "tanslateWordByWord" : [
+        "As-tu vu",
+        "si",
+        "il est",
+        "sur",
+        "[l'orientation"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 12,
+      "arabicVerse" : "أَوْ أَمَرَ بِالتَّقْوَىٰ",
+      "simpleTranslate" : [
+        "ou qu’il ordonne la pratique de la piété?"
+      ],
+      "tafsirTranslate" : [
+        "et enjoint la piété?"
+      ],
+      "tanslateWordByWord" : [
+        "Ou",
+        "il enjoint",
+        "[De la] justice"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 13,
+      "arabicVerse" : "أَرَأَيْتَ إِنْ كَذَّبَ وَتَوَلَّىٰ",
+      "simpleTranslate" : [
+        "Et que dire si, de plus, il crie à l’imposture et tourne le dos à la foi?"
+      ],
+      "tafsirTranslate" : [
+        "Est-ce que vous considérez: s'il donne le mensonge (à la vérité) et se détourne",
+        "(de lui)?"
+      ],
+      "tanslateWordByWord" : [
+        "As-tu vu",
+        "si",
+        "il nie",
+        "et se détourne"
+      ],
+      "notes" : { }
+    },
+    {
+      "verseNumber" : 14,
+      "arabicVerse" : "أَلَمْ يَعْلَمْ بِأَنَّ اللَّهَ يَرَىٰ",
+      "simpleTranslate" : [
+        "Ne sait-il pas que Dieu le voit?"
+      ],
+      "tafsirTranslate" : [
+        "Ne sait-il pas que Dieu voit tout? <N:11>"
+      ],
+      "tanslateWordByWord" : [
+        "Ne fait pas",
+        "il sait",
+        "cette",
+        "Allah",
+        "voit"
+      ],
+      "notes" : {
+        "11" : [
+          "Le public ici est apparemment tout homme juste, qui est demandé: Avez-vous",
+          "regardé l'acte de la personne qui empêche un serviteur du culte de Dieu? Que",
+          "pensez-vous: si le Serviteur être bien dirigés, ou avertir les gens à craindre",
+          "Dieu et de ne pas le mal, ce qui interdit soit nier la vérité et de se détourner",
+          "de lui, quel sera son acte ressembler? cet homme pourrait adopter une telle",
+          "attitude il avait su que Dieu regarde l'homme qui exhorte les autres à la piété,",
+          "ainsi que celui qui nie la vérité et de se détourner de lui? Allah regarder",
+          "l'oppresseur et ses méfaits et les opprimés et sa misère elle-même implique qu'il",
+          "va punir l'oppresseur et redresser les griefs de la personne lésée et opprimée."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 15,
+      "arabicVerse" : "كَلَّا لَئِنْ لَمْ يَنْتَهِ لَنَسْفَعًا بِالنَّاصِيَةِ",
+      "simpleTranslate" : [
+        "Gare à lui ! S’il ne met pas fin à ses agissements, Nous le traînerons à l’Enfer",
+        "par le toupet,"
+      ],
+      "tafsirTranslate" : [
+        "Non en effet, <N:12> si elle ne cesse pas, nous allons le traîner par les",
+        "cheveux;"
+      ],
+      "tanslateWordByWord" : [
+        "Non",
+        "Si",
+        "ne pas",
+        "il se désiste",
+        "Nous allons sûrement le traîner",
+        "par les cheveux"
+      ],
+      "notes" : {
+        "12" : [
+          "Autrement dit, la personne qui menace qu'il piétiner le cou de Muhammad [(sur lui",
+          "la paix et bénédictions d'Allah)] vers le bas quand il a effectué la prière, ne",
+          "serait jamais en mesure de le faire."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 16,
+      "arabicVerse" : "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ",
+      "simpleTranslate" : [
+        "ce toupet de menteur et de pécheur !"
+      ],
+      "tafsirTranslate" : [
+        "par le toupet couché ancré dans le péché. <N:13>"
+      ],
+      "tanslateWordByWord" : [
+        "Un toupet",
+        "mensonge",
+        "coupable"
+      ],
+      "notes" : {
+        "13" : [
+          "[ \"Le toupet\"] ici implique la personne avec le toupet."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 17,
+      "arabicVerse" : "فَلْيَدْعُ نَادِيَهُ",
+      "simpleTranslate" : [
+        "Et qu’il appelle alors les siens à son secours !"
+      ],
+      "tafsirTranslate" : [
+        "Alors laissez-le convoquer ses compagnes; <N:14>"
+      ],
+      "tanslateWordByWord" : [
+        "Alors qu'il appelle",
+        "ses associés"
+      ],
+      "notes" : {
+        "14" : [
+          "Comme nous l'avons expliqué dans l'introduction, lorsque le Saint Prophète [(sur",
+          "lui la paix)] menaça Abu Jahl sur son comportement stupide, il avait rétorqué: [",
+          "\"O Muhammad, sur quelle force avez-vous menacez ? me Par Dieu, mes partisans dans",
+          "cette vallée dépassent de loin le vôtre en nombre \"] a cela, il est dit: [\".",
+          "qu'il appelle son groupe de partisans \"]."
+        ]
+      }
+    },
+    {
+      "verseNumber" : 18,
+      "arabicVerse" : "سَنَدْعُ الزَّبَانِيَةَ",
+      "simpleTranslate" : [
+        "Nous ferons appel, à Notre tour, aux gardiens de l’Enfer."
+      ],
+      "tafsirTranslate" : [
+        "Nous allons aussi appeler les gardiens de l'enfer. <N:15>"
+      ],
+      "tanslateWordByWord" : [
+        "Nous appellerons",
+        "les Anges de l'Enfer"
+      ],
+      "notes" : {
+        "15" : [
+          "Selon l'explication donnée par Qatadah, le mot zabaniyah dans l'original, est",
+          "utilisé pour la police dans l'idiome arabe, et zaban signifie réellement à",
+          "repousser. Les rois trop tenus agents armés qui pousseraient sur celui avec",
+          "lequel le roi était agacé et en colère. Par conséquent, ce que Dieu veut dire: [",
+          "\"Qu'il appelle ses partisans; Nous aussi allons appeler notre police, à savoir",
+          "les anges de tourments, de traiter avec lui et ses partisans.\"]"
+        ]
+      }
+    },
+    {
+      "verseNumber" : 19,
+      "arabicVerse" : "كَلَّا لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ ۩",
+      "simpleTranslate" : [
+        "Prends donc garde ! N’écoute pas cet impie ! Mais prosterne-toi devant ton",
+        "Seigneur et rapproche-toi de Lui !"
+      ],
+      "tafsirTranslate" : [
+        "Non, pas du tout. Ne jamais lui obéir. Mais prosterne-toi et devenir presque (à",
+        "ton Seigneur). <N:16>"
+      ],
+      "tanslateWordByWord" : [
+        "Non",
+        "(Ne pas",
+        "lui obéir",
+        "Mais prosterner",
+        "et se rapprocher (d'Allah)"
+      ],
+      "notes" : {
+        "16" : [
+          "[ \"Sajdah\"] [(prosternation)] implique ici la prière, de manière à dire: [ \"O",
+          "Prophète, continuer à exercer votre prière sans crainte que vous avez été dans le",
+          "passé, et de chercher votre Seigneur présence à travers elle \"] dans le Sahih de",
+          "Muslim et d'autres livres de Hadith il y a une tradition de Hadrat Abu Huraira à",
+          "l'effet: [\". le serviteur est le plus proche de son Seigneur quand il est dans",
+          "l'état de prostration \"], et musulman il y a aussi une tradition de Abû Hurayrah",
+          "que lorsque le Saint Prophète récita ce verset, il a effectué une prosternation",
+          "du considérant."
+        ]
+      }
+    }
+  ],
+  "medinian" : false
+}
